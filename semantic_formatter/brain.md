@@ -2,7 +2,7 @@
 
 ## Goal
 
-Convert markdown files to a semantic format that can be used to generate a website.
+Modify markdown files to a semantic format that can be used to generate a website with semantic html tags and a clear structure.
 
 ## How it works
 
@@ -17,12 +17,14 @@ For each markdown with a row block of text:
 
 * Do not add any extra text or explanation nor remove or modify existing text.
 * Have in mind that the text is going to be rendered in a website with css styles using 11ty.
+* Ommit the file if it has a clear structure and does not need any modification.
+* Do not add h1 or # elements as they are already present in the website by "title: <title>".
 
 ## Contents
 
-The markdown files are located in the `site/src/content/authors/` directory that consist of subdirectories for each author. Each author directory contains the markdown files for the works of that author. Please ommit the `site/src/content/authors/acs` directory, as it has already been processed (you can use it as an example of what you can do but not limited to what you can do).
+The markdown files are located in the `site/src/content/authors/` directory that consist of subdirectories for each author. Each author directory contains the markdown files for the works of that author.
 
 
 ## Output
 
-For each markdown file, you should create a new markdown file with the same name but with the semantic format. The new markdown file should be located in the same directory as the original markdown file. Or simply modify the content of the original markdown file.
+For each markdown file, you should modify the content of the original markdown file changing it's structure to a semantic format that can be used to generate a website with semantic html tags and a clear structure.

@@ -16,87 +16,164 @@ tags:
 *(Nueva York: Jonathan Cape & Harrison Smith, 1931, 358 págs.);*
 *Collected Stories*
 *(Nueva York: Random House, 1950, 900 págs.)*
-*I*
-
-Apenas quedaba ni gota del brandy milanés. Bebí un trago y le pasé la botella a Don, que elevó la petaca hasta que el licor cayó inclinado y amarillento por la ranura abierta en la funda de cuero, y así la tenía sujeta en alto cuando llegó el soldado por el camino, la guerrera abierta del todo, empujando la bicicleta. Era un hombre aún joven, con un rostro magro y osado. Nos dio los buenos días malhumorado y echó un vistazo a la petaca al pasar. Lo vimos desaparecer pasado un repecho; seguía empujando la bicicleta cuando lo perdimos de vista.
-Don se echó un buche al coleto y vertió el resto. Golpearon las gotas en la tierra reseca, levantando salpicaduras durante un efímero instante. Sacudió la botella hasta que cayó la última gota.
-—Salut —dijo, y me devolvió la petaca—. Gracias, dioses. Señor mío, sólo de pensar que tendría que irme a la cama con un poco más de eso en el estómago…
-—Tal como hay que bebérselo, no puede ser peor —dije—. Pero basta con que te lo bebas —guardé la petaca en su sitio y seguimos camino para subir el repecho. Al cabo, el sendero trazaba el descenso aún en sombras. El aire era vivo, iluminado como estaba por una luz solar que iba más allá de la mera calidad de la luz y del calor; se oyó repicar la esquila de una cabra en un lugar impreciso, pasado el siguiente recodo del camino, lejana, sin impedimento.
-—No sabes cómo me fastidia verte cargar con eso un día tras otro —dijo Don—. Por eso lo hago. No eres capaz de echártelo al coleto, pero tampoco eres capaz de tirarlo.
-—¿Por qué iba a tirarlo? Ha costado diez liras. ¿Para qué crees que lo he comprado?
-—Sabe Dios —dijo Don. Recortados contra el valle que inundaba la luz del sol, los árboles eran como los barrotes de una reja, el sendero una brecha entre uno y otro, el valle azulado, soleado. La esquila de la cabra se oía más adelante. Un camino más tenue trazaba ángulos rectos, más empinado que la ancha senda por la que caminábamos—. Se ha ido por allá —dijo Don.
-—¿Quién se ha ido por allá? —le dije. Don señalaba la huella tenue de unas ruedas de bicicleta, hacia el punto por el que había tomado el camino más tenue.
-—Ya lo ves.
-—Ésta no debía de ser una pendiente demasiado empinada para él —dije.
-—Pues eso es que iba con prisas.
-—Seguro que sí, con el giro que dio…
-—Puede que haya un henar al fondo.
-—Pero también pudo atravesar el valle y subir por el otro monte y luego volver a bajar a todo correr por ése y subir por éste hasta que se le acabase el fuelle.
-—O hasta que se muriese de hambre —dijo Don.
-—Ésa sí que es buena —le dije—. ¿Tú has oído alguna vez que alguien se haya muerto de hambre montado en una bicicleta?
-—No —dijo Don—. ¿Y tú?
-—No —dije. Descendimos. Dobló el camino y allí estaba la esquila de la cabra. La llevaba puesta una mula cargada que pacía con movimientos delicados, dando tirones que sacudían la esquila, pegada al otro lado del camino, cerca de una ermita de piedra. Junto a la ermita estaba sentado un hombre con traje de pana y una mujer con un echarpe de colores intensos, con una cesta cubierta a su lado. Nos observaron acercarnos.
-—Buen día, signor —dijo Don—. ¿Queda mucho?
-—Buen día, signori —dijo la mujer. El hombre nos miró. Tenía unos ojos azules con el iris medio disuelto, como si los hubiera tenido mucho tiempo en remojo. La mujer le tocó en el brazo, e hizo enseguida un veloz movimiento con los dedos delante de su cara.
-—Buen día, signori —dijo el hombre con una voz seca y metálica, como el canto de la cigarra.
-—Es que ya no oye nada —dijo la mujer—. No, no queda mucho. Desde poco más allá se ven los tejados.
-—Bien —dijo Don—. Estamos fatigados. ¿Es posible que uno descanse un rato aquí, signora?
-—Descansen, signori —dijo la mujer.
-Dejamos caer las mochilas y nos sentamos. El sol caía al sesgo sobre la ermita, sobre la serena y desgastada figura del nicho, sobre dos manojos de ásteres de montaña, ya resecos, que alguien había depositado allí. La mujer volvió a juguetear con los dedos delante del rostro del hombre. La otra mano, que reposaba sobre la cesta, a su lado, la tenía áspera y nudosa. Inmóvil, tenía esa rigidez de la desocupación desacostumbrada, no tanto en reposo cuanto, más bien, extenuada, yerta. Parecía una mano artificial y adherida al borde del echarpe, como si se la hubiese puesto con el echarpe a modo de oportuno complemento. La otra mano, la mano que empleaba para hablar con el hombre, era ágil, flexible, veloz, como la de un prestidigitador.
-El hombre nos miró.
-—Van ustedes a pie, signori —dijo con voz liviana, sin cadencias.
-—Sí —dijimos. Don sacó el tabaco. El hombre levantó la mano en un gesto de desdén apenas perceptible. Don insistió. El hombre hizo una inclinación de cabeza sin haberse levantado, e introdujo los dedos en el paquete de tabaco. La mujer fue quien sacó el cigarrillo del paquete y se lo puso en la mano al hombre. Éste volvió a hacer una inclinación al aceptar la lumbre.
-—A pie desde Milán —dijo Don—. Eso sí está lejos.
-—Está lejos, sí —dijo la mujer. Ondeó brevemente los dedos—. Él ha estado allí —añadió.
-—Estuve allí, signori —dijo el hombre. Sostenía el cigarrillo con gran cuidado entre el índice y el pulgar—. Hay que poner mucho cuidado para que no lo atropellen a uno los carruajes.
-—Sí —dijo Don—. Los que no tienen tiro de caballos.
-—Los que no tienen caballos —dijo la mujer—. Hay muchísimos. Los hay incluso aquí, en las montañas, según tenemos entendido.
-—Muchísimos —dijo Don—. Y siempre a toda pastilla.
-—Sí —dijo la mujer—. Incluso aquí. Yo lo he visto —ondeaba la mano a la luz del sol. El hombre nos miraba fumando en silencio—. Pero las cosas no eran así cuando él estuvo allí, claro —añadió.
-—Yo estuve allí hace mucho tiempo, signori —dijo—. Está lejos.
-Hablaba en el mismo tono que había empleado ella, el mismo tono de aplicada aclaración, serio y cortés.
-—Está lejos —dijo Don. Fumamos. La mula seguía paciendo y dando delicadas sacudidas a la esquila—. Pero se puede descansar un poco más allá —dijo Don, extendiendo la mano hacia el valle, que se disolvía en una soleada tonalidad azul más allá del precipicio en donde daba la vuelta el camino—. ¿Se puede tomar un plato de sopa, algo de vino? ¿Hay donde dormir?
-La mujer nos miraba desde el sereno bastión del sordo, sin almenas, que seguía fumando el cigarrillo y lo sujetaba entre el índice y el pulgar. La mano de la mujer aleteaba delante de su cara.
-—Sí —dijo—; sí. Con el cura, ¿por qué no? El cura los acogerá —dijo algo más, algo que no capté. La mujer retiró el mantel a cuadros que cubría la cesta y sacó una bota de vino. Don y yo dimos gracias con una inclinación y bebimos, primero uno, luego el otro, y el hombre nos devolvió los respetuosos saludos.
-—¿Y vive muy lejos el cura? —preguntó Don.
-La mano de la mujer aleteó con una rapidez difícil de creer. La otra mano, posada sobre la cesta, da la impresión de que perteneciera a otro cuerpo.
-—Pues que lo esperen allí —dijo el hombre. Nos miró—. Es que hoy hay un funeral. Lo encontrarán en la iglesia. Beban, signori.
-Bebimos decorosamente, por turnos, los tres. El vino era áspero, pugnaz, poderoso. La mula seguía paciendo, con una esquila que tintineaba rítmicamente, la sombra alargada con el sol al sesgo, del otro lado del camino.
-—¿Y quién es el muerto, signora? —dijo Don.
-—Tenía que haberse casado con la mujer que cuida del cura en cuanto estuviese recogida la cosecha —dijo la mujer—. Ya se habían leído las amonestaciones y todo. Un hombre rico, y no muy mayor. Hace dos días se murió.
-El hombre le miró a los labios.
-—Bah. Era dueño de unas tierras, de una casa: yo también. Eso no es nada.
-—Era rico —dijo la mujer—. Como era joven y afortunado, mi marido tiene celos de él.
-—Pero ahora ya no —dijo el hombre—. ¿Eh, signori?
-—Vivir es bueno —dijo Don. Dijo: è bello.
-—Es bueno —dijo el hombre, pero también dijo è bello.
-—Así que se iba a casar con la sobrina del cura, dice usted —dijo Don.
-—No, no son parientes —dijo la mujer—. El cura sólo la crió. Seis años tenía cuando él se hizo cargo de ella, que no tenía familia ni cercana ni lejana. La madre se había criado en un orfanato. Vivía en una choza en la montaña, allá mismo. No se supo quién era el padre, y eso que el cura durante mucho tiempo intentó convencer a alguno para que se casara con ella, más que nada por la niña.
-—¿Alguno? ¿De cuáles? —dijo Don.
-—Alguno de los que podrían haber sido el padre, signor. Pero nunca se supo cuál podía ser, no se supo hasta 1916. Era joven, un jornalero; al día siguiente nos enteramos de que la madre también se había marchado, y también a la guerra, porque nunca más se la volvió a ver, no la vieron más los que la conocían, hasta que uno de los nuestros, jovencito aún, volvió después de lo de Caporetto,[1] donde resultó muerto el padre, y nos contó que a la madre la mandaron a una casa de Milán, una casa no por cierto de las buenas. Así que el cura fue a recoger a la niña y hacerse cargo de ella. Seis años tenía entonces, morena y magra como una lagartija. Se había escondido en la montaña cuando el cura fue a recogerla; en la casa no había nadie. El cura la tuvo que perseguir entre las piedras y la capturó como si fuera un animal: iba medio desnuda, y descalza en pleno invierno.
-—Así que el cura se quedó con ella —dijo Don—. Qué valiente.
-—Ella no tenía a nadie, no tenía techo, no tenía pan que llevarse a la boca. Pero nadie lo diría, porque siempre aparecía con un vestido rojo o verde los domingos y festivos, incluso a los catorce años, y a los quince, cuando una muchacha tendría que estar aprendiendo las virtudes de la modestia, y a ser industriosa, para ser, como dice el proverbio, corona de su esposo. El cura había dicho que la chica había de ser para la Iglesia, así que nos preguntábamos cuándo la obligaría a dejarse de esas cosas a mayor gloria de Dios. Pero a los catorce y a los quince ya era la más luminosa, la más vistosa, la más incansable en los bailes, y los jóvenes ya empezaban a ir tras ella, incluso después de que se arreglase lo de la boda entre ella y él, el que se ha muerto allá mismo.
-—El cura cambió de idea con lo de la Iglesia y en cambio le buscó marido… —dijo Don.
-—Para ella encontró el mejor partido que había en toda la parroquia, signor. Joven, rico, con un traje nuevo que estrenaba cada año, comprado en una sastrería de Milán. Llegó entonces la época de la cosecha y… ¿a que no se lo creen, signori? Ella ya no se quiso casar con él.
-—Creí haber entendido que la boda no se había de celebrar hasta después de la cosecha —dijo Don—. ¿Quiere decir que la boda ya se había suspendido un año antes de esta cosecha?
-—Se fue posponiendo durante tres años. Hace tres años se decidió que había de ser después de la cosecha. El compromiso se anunció en la misma semana en que Giulio Farinzale fue llamado a filas. Recuerdo que a todos nos sorprendió mucho, porque ninguno creía que su número fuese a salir tan pronto, por más que fuera soltero y no tuviera más lazos de familia que un tío y una tía.
-—¿De veras? —dijo Don—. Los gobiernos a todos nos sorprenden de vez en cuando con sus decisiones. ¿Y cómo salió del mal paso?
-—No llegó a salir del mal paso.
-—Ah. Por eso se pospuso la boda, ¿no es así?
-La mujer miró a Don durante un minuto.
-—El novio de la muchacha no se llamaba Giulio.
-—Ah, entiendo. ¿Y quién era el tal Giulio?
-La mujer no le respondió de inmediato. Permaneció sentada, cabizbaja. El hombre había estado pendiente de los labios de ambos mientras conversaban.
-—Adelante —dijo—; adelante, cuéntaselo. Son hombres los dos, podrán escuchar la cháchara de las mujeres sólo con los oídos. No hacen más que parlotear, signori; si uno les da un respiro, se ponen a parlotear como los gansos. Beban, beban ustedes.
-—Era uno con el que tenía ella por costumbre reunirse al atardecer a la orilla del río; aún era joven, por eso nos sorprendió que su número saliera tan pronto. Antes de haber tenido tiempo de pensar que tenía ella edad para esas cosas, ya se veía con él a diario. Y se lo ocultaba al cura con más destreza que cualquier mujer hecha y derecha —por un momento, los ojos desleídos del hombre nos miraron con un punto de socarronería.
-—¿Se reunía con ese tal Giulio mientras estaba comprometida con el otro? —dijo Don.
-—No, no. El compromiso se anunció más adelante. Nunca pensamos que tuviera edad suficiente para esas cosas. Cuando nos enteramos, se dijo eso de que una niña sin apellido es como una carta en la oficina de correos: el sobre a lo mejor es como todos los demás, pero cuando uno lo abre… Y los santos se dejan engañar por el pecado más deprisa aún que ustedes y que yo mismo, signori. Más deprisa aún, justo porque son santos.
-—¿Y se llegó a enterar? —dijo Don.
-—Sí. No pasó mucho tiempo. Ella se escapaba de la casa con la caída de la tarde; una vez la vieron, y vieron al cura escondido en el jardín, pendiente de la casa: un siervo del Santísimo jugando al gato y al ratón delante de todo el mundo. Nada bueno, signori.
-—¿Y entonces al joven de pronto lo llamaron a filas? —dijo Don—. ¿Es así?
-—Fue muy repentino, a todos nos sorprendió. En su día todos pensamos que había sido la mano de Dios, y que el cura entonces la mandaría a ella al convento, con las monjas. Y en esa misma semana nos enteramos de que había un compromiso matrimonial entre la chica y ese que se ha muerto allá mismo, para casarse después de la cosecha, y todos dijimos que había sido la mano de Dios la que le había conferido un esposo muy por encima de sus merecimientos, porque el Señor deseaba proteger a Su siervo. Y es que los santos son susceptibles de caer en el mal, lo son igual que ustedes y yo, signori; también ellos están desvalidos ante el pecado si no tienen la ayuda de Dios.
-—Bah, bah —dijo el hombre—. Eso no fue nada. El cura también la miraba con ojos golosos —dijo—. Y es que un hombre es un hombre, por más que vista una casulla. ¿Eh, signori?
-—Y tú que lo digas —dijo la mujer—. Tú que no tienes la gracia del Señor.
+*> I
+> 
+> Apenas quedaba ni gota del brandy milanés. Bebí un trago y le pasé la botella a Don, que elevó la petaca hasta que el licor cayó inclinado y amarillento por la ranura abierta en la funda de cuero, y así la tenía sujeta en alto cuando llegó el soldado por el camino, la guerrera abierta del todo, empujando la bicicleta. Era un hombre aún joven, con un rostro magro y osado. Nos dio los buenos días malhumorado y echó un vistazo a la petaca al pasar. Lo vimos desaparecer pasado un repecho; seguía empujando la bicicleta cuando lo perdimos de vista.
+> 
+> Don se echó un buche al coleto y vertió el resto. Golpearon las gotas en la tierra reseca, levantando salpicaduras durante un efímero instante. Sacudió la botella hasta que cayó la última gota.
+> 
+> —Salut —dijo, y me devolvió la petaca—. Gracias, dioses. Señor mío, sólo de pensar que tendría que irme a la cama con un poco más de eso en el estómago…
+> 
+> —Tal como hay que bebérselo, no puede ser peor —dije—. Pero basta con que te lo bebas —guardé la petaca en su sitio y seguimos camino para subir el repecho. Al cabo, el sendero trazaba el descenso aún en sombras. El aire era vivo, iluminado como estaba por una luz solar que iba más allá de la mera calidad de la luz y del calor; se oyó repicar la esquila de una cabra en un lugar impreciso, pasado el siguiente recodo del camino, lejana, sin impedimento.
+> 
+> —No sabes cómo me fastidia verte cargar con eso un día tras otro —dijo Don—. Por eso lo hago. No eres capaz de echártelo al coleto, pero tampoco eres capaz de tirarlo.
+> 
+> —¿Por qué iba a tirarlo? Ha costado diez liras. ¿Para qué crees que lo he comprado?
+> 
+> —Sabe Dios —dijo Don. Recortados contra el valle que inundaba la luz del sol, los árboles eran como los barrotes de una reja, el sendero una brecha entre uno y otro, el valle azulado, soleado. La esquila de la cabra se oía más adelante. Un camino más tenue trazaba ángulos rectos, más empinado que la ancha senda por la que caminábamos—. Se ha ido por allá —dijo Don.
+> 
+> —¿Quién se ha ido por allá? —le dije. Don señalaba la huella tenue de unas ruedas de bicicleta, hacia el punto por el que había tomado el camino más tenue.
+> 
+> —Ya lo ves.
+> 
+> —Ésta no debía de ser una pendiente demasiado empinada para él —dije.
+> 
+> —Pues eso es que iba con prisas.
+> 
+> —Seguro que sí, con el giro que dio…
+> 
+> —Puede que haya un henar al fondo.
+> 
+> —Pero también pudo atravesar el valle y subir por el otro monte y luego volver a bajar a todo correr por ése y subir por éste hasta que se le acabase el fuelle.
+> 
+> —O hasta que se muriese de hambre —dijo Don.
+> 
+> —Ésa sí que es buena —le dije—. ¿Tú has oído alguna vez que alguien se haya muerto de hambre montado en una bicicleta?
+> 
+> —No —dijo Don—. ¿Y tú?
+> 
+> —No —dije. Descendimos. Dobló el camino y allí estaba la esquila de la cabra. La llevaba puesta una mula cargada que pacía con movimientos delicados, dando tirones que sacudían la esquila, pegada al otro lado del camino, cerca de una ermita de piedra. Junto a la ermita estaba sentado un hombre con traje de pana y una mujer con un echarpe de colores intensos, con una cesta cubierta a su lado. Nos observaron acercarnos.
+> 
+> —Buen día, signor —dijo Don—. ¿Queda mucho?
+> 
+> —Buen día, signori —dijo la mujer. El hombre nos miró. Tenía unos ojos azules con el iris medio disuelto, como si los hubiera tenido mucho tiempo en remojo. La mujer le tocó en el brazo, e hizo enseguida un veloz movimiento con los dedos delante de su cara.
+> 
+> —Buen día, signori —dijo el hombre con una voz seca y metálica, como el canto de la cigarra.
+> 
+> —Es que ya no oye nada —dijo la mujer—. No, no queda mucho. Desde poco más allá se ven los tejados.
+> 
+> —Bien —dijo Don—. Estamos fatigados. ¿Es posible que uno descanse un rato aquí, signora?
+> 
+> —Descansen, signori —dijo la mujer.
+> 
+> Dejamos caer las mochilas y nos sentamos. El sol caía al sesgo sobre la ermita, sobre la serena y desgastada figura del nicho, sobre dos manojos de ásteres de montaña, ya resecos, que alguien había depositado allí. La mujer volvió a juguetear con los dedos delante del rostro del hombre. La otra mano, que reposaba sobre la cesta, a su lado, la tenía áspera y nudosa. Inmóvil, tenía esa rigidez de la desocupación desacostumbrada, no tanto en reposo cuanto, más bien, extenuada, yerta. Parecía una mano artificial y adherida al borde del echarpe, como si se la hubiese puesto con el echarpe a modo de oportuno complemento. La otra mano, la mano que empleaba para hablar con el hombre, era ágil, flexible, veloz, como la de un prestidigitador.
+> 
+> El hombre nos miró.
+> 
+> —Van ustedes a pie, signori —dijo con voz liviana, sin cadencias.
+> 
+> —Sí —dijimos. Don sacó el tabaco. El hombre levantó la mano en un gesto de desdén apenas perceptible. Don insistió. El hombre hizo una inclinación de cabeza sin haberse levantado, e introdujo los dedos en el paquete de tabaco. La mujer fue quien sacó el cigarrillo del paquete y se lo puso en la mano al hombre. Éste volvió a hacer una inclinación al aceptar la lumbre.
+> 
+> —A pie desde Milán —dijo Don—. Eso sí está lejos.
+> 
+> —Está lejos, sí —dijo la mujer. Ondeó brevemente los dedos—. Él ha estado allí —añadió.
+> —Estuve allí, signori —dijo el hombre. Sostenía el cigarrillo con gran cuidado entre el índice y el pulgar—. Hay que poner mucho cuidado para que no lo atropellen a uno los carruajes.
+> 
+> —Sí —dijo Don—. Los que no tienen tiro de caballos.
+> 
+> —Los que no tienen caballos —dijo la mujer—. Hay muchísimos. Los hay incluso aquí, en las montañas, según tenemos entendido.
+> 
+> —Muchísimos —dijo Don—. Y siempre a toda pastilla.
+> 
+> —Sí —dijo la mujer—. Incluso aquí. Yo lo he visto —ondeaba la mano a la luz del sol. El hombre nos miraba fumando en silencio—. Pero las cosas no eran así cuando él estuvo allí, claro —añadió.
+> 
+> —Yo estuve allí hace mucho tiempo, signori —dijo—. Está lejos.
+> 
+> Hablaba en el mismo tono que había empleado ella, el mismo tono de aplicada aclaración, serio y cortés.
+> 
+> —Está lejos —dijo Don. Fumamos. La mula seguía paciendo y dando delicadas sacudidas a la esquila—. Pero se puede descansar un poco más allá —dijo Don, extendiendo la mano hacia el valle, que se disolvía en una soleada tonalidad azul más allá del precipicio en donde daba la vuelta el camino—. ¿Se puede tomar un plato de sopa, algo de vino? ¿Hay donde dormir?
+> 
+> La mujer nos miraba desde el sereno bastión del sordo, sin almenas, que seguía fumando el cigarrillo y lo sujetaba entre el índice y el pulgar. La mano de la mujer aleteaba delante de su cara.
+> 
+> —Sí —dijo—; sí. Con el cura, ¿por qué no? El cura los acogerá —dijo algo más, algo que no capté. La mujer retiró el mantel a cuadros que cubría la cesta y sacó una bota de vino. Don y yo dimos gracias con una inclinación y bebimos, primero uno, luego el otro, y el hombre nos devolvió los respetuosos saludos.
+> 
+> —¿Y vive muy lejos el cura? —preguntó Don.
+> 
+> La mano de la mujer aleteó con una rapidez difícil de creer. La otra mano, posada sobre la cesta, da la impresión de que perteneciera a otro cuerpo.
+> 
+> —Pues que lo esperen allí —dijo el hombre. Nos miró—. Es que hoy hay un funeral. Lo encontrarán en la iglesia. Beban, signori.
+> 
+> Bebimos decorosamente, por turnos, los tres. El vino era áspero, pugnaz, poderoso. La mula seguía paciendo, con una esquila que tintineaba rítmicamente, la sombra alargada con el sol al sesgo, del otro lado del camino.
+> 
+> —¿Y quién es el muerto, signora? —dijo Don.
+> 
+> —Tenía que haberse casado con la mujer que cuida del cura en cuanto estuviese recogida la cosecha —dijo la mujer—. Ya se habían leído las amonestaciones y todo. Un hombre rico, y no muy mayor. Hace dos días se murió.
+> 
+> El hombre le miró a los labios.
+> 
+> —Bah. Era dueño de unas tierras, de una casa: yo también. Eso no es nada.
+> 
+> —Era rico —dijo la mujer—. Como era joven y afortunado, mi marido tiene celos de él.
+> 
+> —Pero ahora ya no —dijo el hombre—. ¿Eh, signori?
+> 
+> —Vivir es bueno —dijo Don. Dijo: è bello.
+> 
+> —Es bueno —dijo el hombre, pero también dijo è bello.
+> 
+> —Así que se iba a casar con la sobrina del cura, dice usted —dijo Don.
+> 
+> —No, no son parientes —dijo la mujer—. El cura sólo la crió. Seis años tenía cuando él se hizo cargo de ella, que no tenía familia ni cercana ni lejana. La madre se había criado en un orfanato. Vivía en una choza en la montaña, allá mismo. No se supo quién era el padre, y eso que el cura durante mucho tiempo intentó convencer a alguno para que se casara con ella, más que nada por la niña.
+> 
+> —¿Alguno? ¿De cuáles? —dijo Don.
+> 
+> —Alguno de los que podrían haber sido el padre, signor. Pero nunca se supo cuál podría ser, no se supo hasta 1916. Era joven, un jornalero; al día siguiente nos enteramos de que la madre también se había marchado, y también a la guerra, porque nunca más se la volvió a ver, no la vieron más los que la conocían, hasta que uno de los nuestros, jovencito aún, volvió después de lo de Caporetto,[1] donde resultó muerto el padre, y nos contó que a la madre la mandaron a una casa de Milán, una casa no por cierto de las buenas. Así que el cura fue a recoger a la niña y hacerse cargo de ella. Seis años tenía entonces, morena y magra como una lagartija. Se había escondido en la montaña cuando el cura fue a recogerla; en la casa no había nadie. El cura la tuvo que perseguir entre las piedras y la capturó como si fuera un animal: iba medio desnuda, y descalza en pleno invierno.
+> 
+> —Así que el cura se quedó con ella —dijo Don—. Qué valiente.
+> 
+> —Ella no tenía a nadie, no tenía techo, no tenía pan que llevarse a la boca. Pero nadie lo diría, porque siempre aparecía con un vestido rojo o verde los domingos y festivos, incluso a los catorce años, y a los quince, cuando una muchacha tendría que estar aprendiendo las virtudes de la modestia, y a ser industriosa, para ser, como dice el proverbio, corona de su esposo. El cura había dicho que la chica había de ser para la Iglesia, así que nos preguntábamos cuándo la obligaría a dejarse de esas cosas a mayor gloria de Dios. Pero a los catorce y a los quince ya era la más luminosa, la más vistosa, la más incansable en los bailes, y los jóvenes ya empezaban a ir tras ella, incluso después de que se arreglase lo de la boda entre ella y él, el que se ha muerto allá mismo.
+> 
+> —El cura cambió de idea con lo de la Iglesia y en cambio le buscó marido… —dijo Don.
+> 
+> —Para ella encontró el mejor partido que había en toda la parroquia, signor. Joven, rico, con un traje nuevo que estrenaba cada año, comprado en una sastrería de Milán. Llegó entonces la época de la cosecha y… ¿a que no se lo creen, signori? Ella ya no se quiso casar con él.
+> 
+> —Creí haber entendido que la boda no se había de celebrar hasta después de la cosecha —dijo Don—. ¿Quiere decir que la boda ya se había suspendido un año antes de esta cosecha?
+> 
+> —Se fue posponiendo durante tres años. Hace tres años se decidió que había de ser después de la cosecha. El compromiso se anunció en la misma semana en que Giulio Farinzale fue llamado a filas. Recuerdo que a todos nos sorprendió mucho, porque ninguno creía que su número fuese a salir tan pronto, por más que fuera soltero y no tuviera más lazos de familia que un tío y una tía.
+> 
+> —¿De veras? —dijo Don—. Los gobiernos a todos nos sorprenden de vez en cuando con sus decisiones. ¿Y cómo salió del mal paso?
+> 
+> —No llegó a salir del mal paso.
+> 
+> —Ah. Por eso se pospuso la boda, ¿no es así?
+> 
+> La mujer miró a Don durante un minuto.
+> 
+> —El novio de la muchacha no se llamaba Giulio.
+> 
+> —Ah, entiendo. ¿Y quién era el tal Giulio?
+> 
+> La mujer no le respondió de inmediato. Permaneció sentada, cabizbaja. El hombre había estado pendiente de los labios de ambos mientras conversaban.
+> 
+> —Adelante —dijo—; adelante, cuéntaselo. Son hombres los dos, podrán escuchar la cháchara de las mujeres sólo con los oídos. No hacen más que parlotear, signori; si uno les da un respiro, se ponen a parlotear como los gansos. Beban, beban ustedes.
+> 
+> —Era uno con el que tenía ella por costumbre reunirse al atardecer a la orilla del río; aún era joven, por eso nos sorprendió que su número saliera tan pronto. Antes de haber tenido tiempo de pensar que tenía ella edad para esas cosas, ya se veía con él a diario. Y se lo ocultaba al cura con más destreza que cualquier mujer hecha y derecha —por un momento, los ojos desleídos del hombre nos miraron con un punto de socarronería.
+> 
+> —¿Se reunía con ese tal Giulio mientras estaba comprometida con el otro? —dijo Don.
+> 
+> —No, no. El compromiso se anunció más adelante. Nunca pensamos que tuviera edad suficiente para esas cosas. Cuando nos enteramos, se dijo eso de que una niña sin apellido es como una carta en la oficina de correos: el sobre a lo mejor es como todos los demás, pero cuando uno lo abre… Y los santos se dejan engañar por el pecado más deprisa aún que ustedes y que yo mismo, signori. Más deprisa aún, justo porque son santos.
+> 
+> —¿Y se llegó a enterar? —dijo Don.
+> 
+> —Sí. No pasó mucho tiempo. Ella se escapaba de la casa con la caída de la tarde; una vez la vieron, y vieron al cura escondido en el jardín, pendiente de la casa: un siervo del Santísimo jugando al gato y al ratón delante de todo el mundo. Nada bueno, signori.
+> 
+> —¿Y entonces al joven de pronto lo llamaron a filas? —dijo Don—. ¿Es así?
+> 
+> —Fue muy repentino, a todos nos sorprendió. En su día todos pensamos que había sido la mano de Dios, y que el cura entonces la mandaría a ella al convento, con las monjas. Y en esa misma semana nos enteramos de que había un compromiso matrimonial entre la chica y ese que se ha muerto allá mismo, para casarse después de la cosecha, y todos dijimos que había sido la mano de Dios la que le había conferido un esposo muy por encima de sus merecimientos, porque el Señor deseaba proteger a Su siervo. Y es que los santos son susceptibles de caer en el mal, lo son igual que ustedes y yo, signori; también ellos están desvalidos ante el pecado si no tienen la ayuda de Dios.
+> 
+> —Bah, bah —dijo el hombre—. Eso no fue nada. El cura también la miraba con ojos golosos —dijo—. Y es que un hombre es un hombre, por más que vista una casulla. ¿Eh, signori?
+> 
+> —Y tú que lo digas —dijo la mujer—. Tú que no tienes la gracia del Señor.
 —Y el cura también la miraba con ojos golosos —dijo Don.
 —Ésa fue su prueba de fuego, su castigo por haberle consentido demasiado. Y el castigo no había terminado: llegó el tiempo de la cosecha y nos enteramos de que la boda se había aplazado un año: ¿qué les parece, signori? Una chica llegada de donde llegó ella encontró la oportunidad que le dio el cura para salvarse de sus bajos instintos, de la sangre que le corría por las venas… Nos enteramos de que habían tenido una pelea la chica y el cura, de que ella lo desafió, de que se escapaba de la casa cuando ya se había puesto el sol, de que se iba a los bailes, en donde podría su prometido verla o saber de ella en cualquier momento.
 —¿Y el cura la seguía mirando…? —dijo Don.

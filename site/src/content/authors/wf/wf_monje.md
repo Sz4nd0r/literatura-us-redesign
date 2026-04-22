@@ -16,42 +16,256 @@ tags:
 *Knight’s Gambit*
 *(Nueva York: Random House, 1949, 246 págs.)*
 
-Trataré de contarles algo acerca de Monje. Repito que trataré de hacerlo, es decir,
-que intentaré salvar las inconsistencias de esta breve, sórdida y poco original historia,
-tornándola comprensible no solamente por medio de los nebulosos instrumentos de la
-hipótesis, la inferencia y la inventiva, sino también mediante la aplicación de esos
-nebulosos instrumentos al material, también nebuloso e inexplicable, que Monje dejó
-tras sí. Porque es sólo en la literatura donde las anécdotas paradójicas y a menudo
-mutuamente excluyentes de un alma humana pueden yuxtaponerse y amalgamarse,
-por medio del arte, en un todo de verosimilitud y plausibilidad.
-Era un retardado, quizás un cretino; nunca debieron enviarlo a la penitenciaría.
-Pero en la época de su juicio teníamos un joven fiscal de distrito que tenía puestas las
-miras en el Congreso, y Monje no tenía parientes ni dinero, ni siquiera un abogado,
-porque no creo que nunca haya comprendido por qué habría de necesitar un abogado
-y ni siquiera qué era un abogado; por ello la Corte le designó uno, un joven recién
-egresado, que probablemente sabía poco más que el mismo Monje acerca del
-mecanismo de la ley criminal en la práctica, y quien, quizás, invocó la culpabilidad
-de Monje por indicación de la Corte, o tal vez olvidó que podría haber invocado
-incapacidad mental, puesto que ni por un instante negó Monje haber matado a la
-víctima. En realidad, no pudieron impedirle afirmar y aun reiterar su culpabilidad. No
-era ni confesión ni jactancia. Era como si estuviese tratando de echar un discurso a
-las personas que estaban cerca del cadáver hasta que llegó el sheriff; luego a éste y a
-sus empleados; a los otros prisioneros, aquellos pobres negros detenidos por juego,
-por vagancia o por vender whisky en las callejuelas cortadas; al fiscal que lo acusó, al
-abogado que le asignó la Corte, a la Corte y al jurado. Una hora después del hecho,
-aparentemente no recordaba nada de lo sucedido; ni siquiera recordaba al hombre que
-afirmaba hacer matado; nombró como su víctima, y ello por sugerencia o insinuación,
-a varios hombres que estaban vivos, y hasta a uno que estaba presente en la oficina
-del fiscal. Pero en ningún momento negó haber matado a alguien. No era insistencia;
-era simplemente una afirmación repetida y serena del hecho, con voz alegre, animada
-y simpática, mientras trataba al mismo tiempo de pronunciar su discurso, de decirles
-algo que no podían comprender y que se negaban a escuchar. No estaba confesando
-nada, ni tratando de establecer elementos que despertaran la clemencia del jurado a
-fin de escapar a las consecuencias de su acción. Era como si estuviese tratando más
-bien de formular un postulado, utilizando la oportunidad para salvar el abismo entre
-su persona y el mundo viviente, la tierra concreta y activa; como lo atestigua el
-curioso discurso que pronunció en el cadalso cinco años más tarde.
-Pero tampoco debió haber vivido nunca. Vino, apareció —pues si había nacido
+> Trataré de contarles algo acerca de Monje. Repito que trataré de hacerlo, es decir,
+> que intentaré salvar las inconsistencias de esta breve, sórdida y poco original historia,
+> tornándola comprensible no solamente por medio de los nebulosos instrumentos de la
+> hipótesis, la inferencia y la inventiva, sino también mediante la aplicación de esos
+> nebulosos instrumentos al material, también nebuloso e inexplicable, que Monje dejó
+> tras sí. Porque es sólo en la literatura donde las anécdotas paradójicas y a menudo
+> mutuamente excluyentes de un alma humana pueden yuxtaponerse y amalgamarse,
+> por medio del arte, en un todo de verosimilitud y plausibilidad.
+> 
+> Era un retardado, quizás un cretino; nunca debieron enviarlo a la penitenciaría.
+> 
+> Pero en la época de su juicio teníamos un joven fiscal de distrito que tenía puestas las
+> miras en el Congreso, y Monje no tenía parientes ni dinero, ni siquiera un abogado,
+> porque no creo que nunca haya comprendido por qué habría de necesitar un abogado
+> y ni siquiera qué era un abogado; por ello la Corte le designó uno, un joven
+> recién egresado, que probablemente sabía poco más que el mismo Monje acerca del
+> mecanismo de la ley criminal en la práctica, y quien, quizás, invocó la culpabilidad
+> de Monje por indicación de la Corte, o tal vez olvidó que podría haber invocado
+> incapacidad mental, puesto que ni por un instante negó Monje haber matado a la
+> víctima. No era ni confesión ni jactancia. Era como si estuviese tratando de echar un
+> discurso a las personas que estaban cerca del cadáver hasta que llegó el sheriff; luego
+> a éste y a sus empleados; a los otros prisioneros, aquellos pobres negros detenidos
+> por juego, por vagancia o por vender whisky en las callejuelas cortadas; al fiscal que
+> lo acusó, al abogado que le asignó la Corte, a la Corte y al jurado. Una hora después
+> del hecho, aparentemente no recordaba nada de lo sucedido; ni siquiera recordaba
+> al hombre que afirmaba haber matado; nombró como su víctima, y ello por sugerencia
+> o insinuación, a varios hombres que estaban vivos, y hasta a uno que estaba presente
+> en la oficina del fiscal. Pero en ningún momento negó haber matado a alguien. No
+> era insistencia; era simplemente una afirmación repetida y serena del hecho, con
+> voz alegre, animada y simpática, mientras trataba al mismo tiempo de pronunciar
+> su discurso, de decirles algo que no podían comprender y que se negaban a escuchar.
+> No estaba confesando nada, ni tratando de establecer elementos que despertaran la
+> clemencia del jurado a fin de escapar a las consecuencias de su acción. Era como si
+> estuviese tratando más bien de formular un postulado, utilizando la oportunidad para
+> salvar el abismo entre su persona y el mundo viviente, la tierra concreta y activa; como
+> lo atestigua el curioso discurso que pronunció en el cadalso cinco años más tarde.
+> 
+> Pero tampoco debió haber vivido nunca. Vino, apareció —pues si había nacido allí o
+> no, nadie lo sabía— en la región de colinas cubiertas de pinos al este de nuestro
+> distrito: un distrito que hace veinticinco años, o sea la edad de Monje, no tenía casi
+> caminos, y que ni siquiera la autoridad policial del distrito recorría; una región
+> impenetrable y agreste, poblada por familias primitivas que no reconocían fidelidad a
+> nadie ni a nada, y a quienes los de afuera nunca vieron hasta hace pocos años, cuando
+> las buenas carreteras y los automóviles penetraron en los verdes reductos, donde los
+> pobladores, con sus nombres corrompidos de origen escocés o irlandés, se casaban
+> entre sí, destilaban whisky y mataban a cualquier intruso, parapetados en sus establos
+> de troncos y sus cercos de palos. Fueron los buenos caminos y los buenos vados los
+> que no sólo trajeron a Monje a Jefferson, sino además divulgaron los rumores
+> semifantásticos acerca de su origen. Porque las mismas gentes entre quienes creció
+> parecían saber tan poco sobre él como nosotros mismos: corría la leyenda de una
+> vieja que vivía como una ermitaña, aun entre aquellos seres bravíos y huraños, en una
+> choza de troncos, con una escopeta cargada apoyada contra la puerta, y de un hijo que
+> había ido demasiado lejos, aun para esa región y esas gentes; que había asesinado y
+> huido, o posiblemente había sido desterrado y desapareció, nadie sabía dónde,
+> durante diez años por lo menos; regresó un día con una mujer, una mujer de cabellos
+> duros, brillantes, metálicos, cabellos de ciudad, y rostro de ciudad, duro y pálido; una
+> mujer a quien veían desde lejos, cuando cruzaba el potrero, o bien de pie junto a la
+> puerta, contemplando las verdes soledades con una expresión helada, hosca, de ciega
+> inescrutabilidad. Una expresión mortal, pero mortal como la mirada de una víbora,
+> diferente de la expresión de quienes seguían el rito tradicional de advertencia de
+> alejarse y, luego, pólvora. Un día se fueron. No se sabía adónde ni cuándo se fueron,
+> como tampoco de dónde ni cuándo habían llegado. Algunos decían que una noche la
+> vieja, Mrs. Odlethrop, los había corrido con la escopeta, desalojándolos de la casa y
+> de la región.
+> 
+> El hecho es que se fueron; y transcurrieron meses antes de que los vecinos
+> descubrieran que había un niño, un niño pequeño, en la casa; si lo habían traído o
+> había nacido allí, nadie lo sabía. Este niño era Monje. Además circulaba la leyenda de
+> cómo siete años más tarde comenzaron a sentir olor a cadáver; algunos de ellos
+> entraron en la choza, donde Mrs. Odlethrop yacía muerta desde hacía una semana, y
+> hallaron al pequeño vestido con una camiseta tratando de levantar la escopeta de su
+> sitio contra la puerta. No lograron atrapar a Monje. Es decir, no consiguieron
+> retenerlo aquella vez, y nunca tuvieron otra oportunidad. Pero Monje no se fue.
+> Sabían que estaba cerca, acechándolos, mientras preparaban el entierro, y que los
+> contemplaba desde la maleza mientras enterraban a la vieja. No lo vieron más durante
+> ese día, aunque sabían que merodeaba por el lugar, y al día siguiente descubrieron
+> que estaba excavando la tumba con las manos. Había hecho ya un gran agujero. Lo
+> llenaron nuevamente, y aquella noche algunos se apostaron al acecho del niño para
+> atraparlo y darle alimento. Pero tampoco entonces lograron apresar aquel cuerpo
+> furioso y desnudo, que se les deslizó entre las manos como si estuviera engrasado, y
+> huyó sin emitir ningún sonido humano. Después, algunos vecinos comenzaron a
+> llevar comida a la casa desierta y ahí se la dejaban. Pero nunca lo veían. Oyeron
+> decir, simplemente, meses más tarde, que vivía con un viudo sin hijos, un viejo
+> llamado Fraser, que gozaba de gran reputación como fabricante de whisky.
+> 
+> Aparentemente Monje vivió allí durante los diez años subsiguientes, hasta la muerte
+> de Mr. Fraser. Probablemente fue Fraser quien le dio el nombre que trajo consigo al
+> pueblo, pues nadie sabía cómo lo llamaba Mrs. Odlethrop; ahora la región comenzó a
+> conocerlo, o por lo menos a familiarizarse con él. Era un joven no muy alto, rollizo,
+> como si tuviera treinta y ocho años en lugar de dieciocho, con el rostro feo,
+> astutamente tonto, ingenuo, cuyos rasgos, más que la expresión, le ganaron su
+> sobrenombre; Monje dio al hombre que lo protegió y alimentó la devoción absoluta y
+> sin reservas de un perro, y a los diez años era capaz, según decían, de destilar el
+> whisky de Fraser tan bien como Fraser mismo.
+> 
+> Eso era todo lo que había aprendido: elaborar whisky y venderlo donde la ley lo
+> prohibía, por lo que había que hacerlo en secreto; lo cual confirma una vez más la
+> paradoja de su declaración pública, cuando le colocaron el capuchón negro sobre la
+> cabeza por haber matado al director de la penitenciaría, cinco años más tarde. Eso era
+> todo lo que sabía hacer: eso y su fidelidad hacia el hombre que lo alimentó y le
+> enseñó qué hacer, cómo y cuándo; de modo que, a la muerte de Fraser, cuando un
+> hombre cualquiera llegó en un camión y le dijo: «Muy bien, Monje, sube», subió al
+> vehículo exactamente como lo habría hecho un perro sin dueño, y vino a Jefferson.
+> 
+> Esta vez se trataba de una estación de servicio a dos o tres millas del pueblo; ahí
+> dormía en una tarima en la habitación del fondo, siempre que dicha tarima no
+> estuviese ocupada por un cliente demasiado borracho para conducir el automóvil o
+> marcharse a pie. Allí aprendió inclusive a manejar el surtidor de nafta y a entregar el
+> cambio correctamente; a pesar de que su trabajo consistía, principalmente, en
+> recordar dónde estaban enterradas las botellas de cuarto litro, en un pozo de arena a
+> quinientas yardas de distancia.
+> 
+> Ahora lo conocíamos en el pueblo, vestido con las ropas pueblerinas chillonas y
+> ordinarias con las cuales reemplazó su viejo mameluco: las camisas de colores fuertes
+> que desteñían al primer lavado, los sombreros de paja con cinta rayada que se
+> disolvían a la primera lluvia, y los zapatos con ribetes que se destrozaban en sus pies;
+> agradable, inmune a las pullas, locuaz cuando alguien lo escuchaba, con aquel rostro
+> astuto, amarillento, aquel rostro ladino y a la vez soñador, amarillento aun debajo de
+> la piel curtida, con aquella curiosa cualidad de una relación imperfecta entre sentidos
+> y raciocinio. El pueblo lo conocía desde hacía siete años, cuando llegó aquel sábado a
+> la noche, la noche del muerto; esa muerte que no fue pérdida para nadie. Pero, como
+> dije, Monje no tenía dinero, ni amigos, ni abogado. El muerto, tendido en el suelo
+> detrás de la estación de servicio; Monje, de pie a su lado con la pistola en la mano; y
+> otros dos presentes, que habían estado con la víctima toda la noche; Monje, tratando
+> de decir no sé qué cosa a los que lo sostenían, y luego al sheriff mismo, con su voz
+> alegre y jovial, como si el ruido del tiro hubiera roto la barrera detrás de la cual había
+> vivido durante veinticinco años y él hubiese salvado el abismo que lo separaba del
+> mundo de los hombres vivos, por medio del cadáver tendido a sus pies.
+> 
+> En verdad Monje no tenía más concepto de la muerte que un animal; ni de la
+> muerte del hombre a sus pies, ni de la del director, años más tarde, ni de la suya
+> propia. El cuerpo a sus pies era simplemente algo que nunca volvería a caminar,
+> hablar o comer; por lo tanto, no era fuente de daño ni de beneficio para nadie;
+> ciertamente ni de beneficio ni de utilidad. No tenía sentido del pesar, del hecho
+> irreparable y definitivo. Lo lamentaba: eso era todo. No creo que comprendiera que,
+> al yacer aquel cuerpo allí, iniciaba una cadena, una corriente de retribución que
+> alguien debería pagar. Porque nunca negó haberlo hecho, aunque la negación no le
+> habría valido de nada, en realidad, ya que los dos compañeros del muerto estaban allí
+> para declarar contra él. No lo negó, pues, a pesar de no poder decir qué había
+> ocurrido, ni en qué consistió la disputa; y como ya señalé, más tarde, ni siquiera
+> dónde había tenido lugar el hecho ni a quién había matado; pues declaró una vez,
+> como ya lo señalé también, que su víctima era un hombre que estaba entre la multitud
+> que lo siguió a la oficina del fiscal. Simplemente trataba de manifestar algo que había
+> llevado dentro durante veinticinco años, y sólo entonces hallaba oportunidad, o
+> quizás palabras, para expresarlo; así como cinco años más tarde, en el cadalso,
+> lograría una vez más darle expresión a eso o bien a otra cosa, estableciendo por fin
+> contacto con la tierra inmemorial, fecunda, ponderable, activa, sobre la cual siempre
+> deseó hablar sin conseguirlo; porque sólo entonces le habían enseñado a expresar lo
+> que quería. Intentó decírselo al sheriff que lo arrestó y al fiscal que lo acusó; estaba
+> en medio del recinto, con aquella expresión que tiene un hombre cuando espera su
+> oportunidad para hablar; escuchó la lectura de la acusación: …contra la paz y la
+> dignidad del Estado Soberano de Mississippi, que el antedicho Monje Odlethrop
+> mató deliberada y maliciosamente, con premeditación…, y de pronto la interrumpió
+> con voz aflautada y aguda, cuyo sonido, al extinguirse, dejó en su rostro la misma
+> expresión de asombro y sorpresa que se pintaba en los nuestros.
+> 
+> —Mi nombre no es Monje: me llamo Stonewall Jackson Odlethrop.
+> 
+> ¿Ven ustedes? Si ello era verdad, no pudo haberlo oído en casi veinte años, desde
+> que murió su abuela, si en verdad había sido su abuela: en cambio no podía recordar
+> las circunstancias en que había cometido un asesinato. Tampoco podía haberlo
+> inventado. No podía saber quién era Stonewall Jackson, para adoptar su nombre.
+> 
+> Había ido a la escuela rural durante un año. Sin duda lo mandaba el viejo Fraser, pero
+> no asistió durante mucho tiempo. Tal vez hasta el trabajo de primer grado de una
+> escuela rural fue demasiado para él. Monje le habló de la escuela a mi tío cuando se
+> planteó la cuestión de su indulto. No recordaba exactamente cuándo fue, dónde
+> estaba la escuela, ni cuándo la había dejado. Pero recordaba en cambio haber ido,
+> porque le había gustado. Todo lo que podía recordar era que leían todos juntos en el
+> libro. No sabía qué leían, porque no sabía qué decía el libro, y ni aun ahora podía
+> escribir su nombre. Pero dijo que le había gustado sostener el libro y oír todas las
+> voces juntas; aunque, según dijo, no oía la suya propia, pero su voz se unía asimismo
+> a las del resto, y lo sabía por la forma en que zumbaba su garganta, según sus propios
+> términos. Así, pues, nunca pudo haber oído hablar de Stonewall Jackson. Sin
+> embargo, allí estaba el nombre, heredado de la tierra, del suelo, trasmitido a sí mismo
+> a través de gentes casi parias, un elemento de amargo orgullo y de indómita altivez,
+> procedente de la tierra y de los hombres y mujeres que la pisaban y dormían sobre
+> ella.
+> 
+> Lo condenaron a prisión perpetua. Fue uno de los juicios más breves registrados
+> en nuestro distrito, porque, como dije, nadie lamentaba la muerte de la víctima y
+> nadie, salvo mi tío Gavin, aparentaba interesarse por Monje. Monje nunca había
+> viajado en tren. Subió a él, con una de las esposas sujeta a la muñeca del sheriff;
+> vestía un mameluco nuevo que alguien le había regalado, probablemente el Estado
+> soberano cuya paz y dignidad ofendió; y llevaba un sombrero de paja de imitación
+> Panamá flamante, todavía inmaculado, con su cinta chillona, pues era primero de
+> junio, había estado preso tres semanas, y había comprado el sombrero la semana de
+> aquel sábado fatal. Se sentó junto a la ventanilla y comenzó a mirarnos a todos con su
+> cara mal hecha, rechoncha y tonta, agitando la mano en un pueril gesto de despedida,
+> el brazo libre apoyado en el marco, hasta que el tren se puso en marcha y aceleró
+> lentamente, enorme y polvoriento, mientras chocaban entre sí los paragolpes de
+> acero; Monje se retiró así de nuestra vista, herméticamente sellado, y nos dejó una
+> sensación de fatalidad más irreparable que si hubiéramos visto cerrarse tras él los
+> portones de la penitenciaría, para no abrirse más en su vida; su rostro nos
+> contemplaba, sobre el cuello estirado para vernos mejor, desencajado y pequeño
+> detrás del cristal empañado, pero al mismo tiempo con aquella expresión interrogante
+> y sin temor, animada, serena y grave. Cinco años más tarde, uno de los compañeros
+> del hombre que había sido asesinado aquella noche del sábado, agonizando de
+> neumonía y whisky, confesó que había disparado el tiro y puesto la pistola en manos
+> de Monje, diciéndole que viese lo que acababa de hacer.
+> 
+> Mi tío Gavin pidió el indulto, redactó la petición, obtuvo las firmas, y la hizo
+> firmar y aprobar por el gobernador; llevó el indulto personalmente a la penitenciaría y
+> anunció a Monje que estaba en libertad. Monje lo miró un instante hasta comprender,
+> y se echó a llorar. No quería irse. Tenía ciertas prerrogativas, ahora; había transferido
+> al director la misma devoción perruna que dedicara a Fraser. No había aprendido a
+> hacer nada bien, salvo destilar y vender whisky, si bien después de venir al pueblo
+> aprendió también a barrer la estación de servicio. En vista de ello, eso era lo que
+> hacía en la prisión: su vida en aquella época debía ser semejante a aquélla en que
+> asistió a la escuela. Barría y limpiaba la casa del director como lo habría hecho una
+> mujer, y la esposa de éste le había enseñado a tejer. En medio de su llanto mostró a
+> mi tío un jersey que estaba tejiendo para el día del cumpleaños del director, y que no
+> terminaría en varias semanas.
+> 
+> Mi tío Gavin volvió, pues, a casa. Trajo consigo el indulto, pero no lo destruyó,
+> porque decía que había sido registrado, y que lo principal era ahora estudiar la ley y
+> ver si era posible expulsar a un hombre de la penitenciaría como de una universidad.
+> Creo que en el fondo esperaba que, algún día, Monje cambiaría de idea; por ello lo
+> conservó, según creo. Entonces Monje obtuvo su libertad, sin ayuda de nadie. No
+> había transcurrido una semana desde que mi tío conversó con él, y no creo que
+> hubiera decidido todavía dónde guardar el indulto, cuando llegó la noticia. Al día
+> siguiente merecía un destacado título en los diarios de Memphis, pero nosotros la
+> recibimos la noche anterior, telefónicamente: Monje Odlethrop, encabezando
+> aparentemente una evasión frustrada, había matado de un balazo y a sangre fría al
+> director de la cárcel. Esta vez no había ninguna duda. Lo habían visto cincuenta
+> hombres, y algunos de los otros presos lo dominaron y le quitaron la pistola. Sí,
+> Monje, el mismo que la semana anterior lloraba cuando mi tío Gavin le dijo que
+> estaba en libertad, aparecía ahora encabezando una evasión y perpetrando un
+> asesinato en la persona del hombre para quien tejía el jersey cuando pidió permiso,
+> llorando, para terminarla; asesinato realizado en forma tan fría, que sus propios
+> compañeros se volvieron contra él.
+> 
+> Tío Gavin fue a verlo nuevamente. Estaba ahora en una celda solitaria, de las
+> destinadas a los condenados a muerte. Tejía todavía el jersey: tejía bien, según dijo
+> tío Gavin. Y la prenda estaba casi terminada.
+> 
+> —No tengo más que tres días —le dijo Monje—, de modo que no hay tiempo que
+> perder.
+> 
+> —Pero ¿por qué, Monje? —dijo tío Gavin—. ¿Por qué? ¿Por qué lo hiciste?
+> 
+> Luego me contaba que las agujas no cesaron de moverse, ni aun mientras Monje
+> lo miraba con aquella expresión serena, afable, casi beatífica. No tenía el concepto de
+> la muerte. No creo que nunca hubiese relacionado el cadáver a sus pies detrás de la
+> estación de servicio con el hombre que momentos antes hablaba y caminaba; ni
+> aquel otro sobre el suelo del patio interior de la cárcel con el hombre para quien
+> estaba tejiendo el jersey.
+> 
+> —Yo sabía que hacer y vender ese whisky no estaba bien —dijo—. Sabía que no
+> era eso. Sólo que… —se detuvo mirando a tío Gavin. La serenidad estaba siempre
 allí o no, nadie lo sabía— en la región de colinas cubiertas de pinos al este de nuestro
 distrito: un distrito que hace veinticinco años, o sea la edad de Monje, no tenía casi
 caminos, y que ni siquiera la autoridad policial del distrito recorría; una región

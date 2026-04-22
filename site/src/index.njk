@@ -9,6 +9,12 @@ title: Literatura US
       "Esta página consistirá de una biblioteca personal: incluirá autores que creemos, como lectores, importantes. Se incluirán autores que muchos considerarán “menores” y se excluirán otros considerados “imprescindibles”. Toda antología es arbitraria e incompleta. Esta selección no es, entonces, una excepción."
     </p>
   </div>
+  
+  <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
+  <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
+  
+  <pagefind-modal-trigger></pagefind-modal-trigger>
+  <pagefind-modal></pagefind-modal>
 
   <div class="grid grid-cols-1 gap-2 sm:grid-cols-2 lg:grid-cols-3">
     {% for author in collections.authors %}

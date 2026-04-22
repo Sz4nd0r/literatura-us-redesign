@@ -16,88 +16,168 @@ tags:
 
 revisada para su inclusión en Go Down, Moses (1942), segundo capítulo de “The Fire and the Hearth”;
 Uncollected Stories (1979), Joseph Blotner, editor
-I
-Cuando se aproximaron al economato, Lucas dijo:
-—Espere aquí.
-—No, no —dijo el viajante—. Hablaré yo con él. Si no logro vendérsela yo, no hay ninguna...
-El viajante, entonces, calló. Sin saber por qué. Era joven, no llegaba a los treinta; tenía, aunque inmaduros aún, el brío y el aplomo propios de su oficio; y era blanco. Sin embargo dejó de hablar y miró al negro de mono ajado, cuya cara delataba únicamente que tenía como mínimo sesenta años, y que le estaba mirando no sólo con dignidad, sino imperiosamente.
-—Usted espere aquí —dijo Lucas.
-Así que el viajante se apoyó sobre la cerca de la finca, en la luminosa mañana de agosto, mientras Lucas caminaba colina arriba y subía los gastados escalones, al lado de los cuáles se hallaba una potranca de brillante pelaje, con tres patas calzadas y una mancha en la frente y una pesada y cómoda silla sobre el lomo, y entraba en el economato. Allí, en un escritorio de tapa corrediza situado junto al ventanal frontal, en medio de hileras de estantes con latas de tabaco y de comida y específicos médicos, de ganchos de los que pendían cadenas para tirantes de caballerías y colleras y horcates, el amo escribía en un libro mayor. Lucas permaneció de pie, en silencio, mirando la nuca del hombre blanco; al cabo, éste miró en torno y Lucas dijo:
-—Ha venido.
-Edmonds, echado hacia atrás sobre el respaldo, hizo girar la silla.
-Mientras giraba aún sobre sí mismo fulminaba ya con la mirada a Lucas; entonces, con inaudita violencia, dijo:
-—¡No!
-—Sí —dijo Lucas.
-—¡No!
-—Se ha traído la máquina —dijo Lucas—. Funciona. Enterré un dólar esta mañana en el patio trasero, y la máquina fue directamente al sitio exacto y lo encontró. Sólo pide trescientos dólares por ella. Encontraremos ese dinero esta noche, y se lo podré devolver mañana por la mañana.
-—¡No! —dijo Edmonds—. Te he dicho una y cien veces que no hay dinero enterrado en estas tierras. Llevas aquí sesenta años. ¿Alguna vez has oído de alguien de la región con dinero suficiente como para permitirse enterrarlo? ¿Te imaginas que si alguien de la región hubiera enterrado algo que valiera tanto como veinticinco centavos, no lo habría desenterrado ya hace tiempo alguno de sus parientes o amigos o conocidos o vecinos?
-—Se equivoca —dijo Lucas—. La gente sigue encontrando dinero enterrado. ¿No le conté lo de aquellos dos forasteros blancos que vinieron un día al anochecer, hace tres años, y desenterraron veintidós mil dólares y se largaron sin que nadie llegara siquiera a verlos? Yo mismo vi el hoyo que hicieron y que luego rellenaron. Y la mantequera que había contenido el dinero enterrado.
-—Ja —dijo Edmonds—. ¿Y cómo sabes que fueron veintidós mil dólares?
-Pero Lucas se limitó a mirarle.
-No era obstinación. Era una paciencia infinita, casi comparable a la de Jehová, como si él, Lucas, se hallara empeñado en una controversia —que en parte redundaría en beneficio de su propio antagonista— con un idiota.
-—Su padre, si estuviera aquí, me habría prestado esos trescientos dólares —dijo.
-—Bien, pero yo, no —dijo Edmonds—. Tienes casi tres mil condenados dólares en el banco. Si pudiera evitar que malgastaras un solo centavo de ellos en esa maldita máquina que encuentra dinero, lo haría.
-Pero no, tú no tienes intención de utilizar tu dinero en absoluto, ¿verdad? Eres demasiado sensato como para arriesgarlo.
-—Parece ser que tendré que hacerlo —dijo Lucas—. Se lo pediré a usted una vez más...
-—¡No! —volvió a decir Edmonds con desatada e inaudita violencia.
-Lucas se quedó mirándole durante cierto tiempo, con aire casi contemplativo. Ni siquiera suspiró.
-—Está bien —dijo.
-Cuando se reunió con el viajante, estaba también su yerno, un joven de cintura estrecha y piel muy negra, con el rostro vivo y lleno de dientes blancos y un astroso panamá ladeado sobre la oreja derecha.
-El viajante echó una mirada a la cara de Lucas y se apartó bruscamente de la cerca.
-—Iré yo a hablar con él —dijo.
-—No —dijo Lucas—. No se le ocurra acercarse.
-—¿Qué va a hacer al respecto, entonces? —dijo el viajante—. Aquí me tiene, venido desde St. Louis... Lo que no comprendo aún es cómo consiguió usted convencerles de que le enviaran la máquina sin hacerle pagar ninguna entrada por adelantado. Y ahora mismo le diré una cosa: si tengo que volvérmela a llevar y presentar la cuenta de gastos de este viaje sin haber vendido nada, algo va a...
-—Aquí de pie no hacemos nada en absoluto —dijo Lucas.
-Los dos hombres le siguieron hasta la puerta, y luego hasta la carretera donde el viajante había dejado el coche. La máquina adivinadora descansaba sobre el asiento trasero, y Lucas se quedó ante la portezuela abierta, mirándola: era una caja metálica y oblonga, sólida y maciza, con un asa a cada extremo y unos botones y cuadrantes que le conferían un aura de seriedad, complejidad y eficiencia. Lucas, grave y absorto, permaneció allí mirándola.
-—Y funciona —dijo—. Lo he visto con mis propios ojos.
-—¿Y bien? —dijo el viajante—. ¿Qué es lo que piensa hacer? Tengo que saberlo, y así podré saber lo que he de hacer por mi parte. ¿No tiene usted trescientos dólares?
-Lucas, meditabundo, contemplaba la máquina. Siguió sin levantar la vista.
-—Vamos a encontrar ese dinero esta noche —dijo—. Usted ponga la máquina y yo le diré dónde buscar, e iremos a medias.
-—Ja, ja, ja —dijo el viajante con aspereza—. ¿Quiere que le cuente otro?
-—Seguro que lo encontramos, capitán —dijo el yerno de Lucas—. dos blancos se deslizaron hasta aquí una noche, hace tres años, y desenterraron veintidós mil dólares y se largaron con ellos antes de que saliera el sol.
-—¡Ya lo creo! —dijo el viajante—. Y tú supiste que eran exactamente veintidós mil porque encontraste los centavos sueltos donde los dejaron tirados.
-—No, señor —dijo el yerno de Lucas—. Hasta es posible que hubiera más de veintidós mil dólares. Era una mantequera grande.
-—George Wilkins —dijo Lucas, que seguía con medio cuerpo dentro del coche y sin volver la cabeza.
-—Señor —dijo su yerno.
-—Cállate.
-Luego, Lucas se volvió y miró al viajante, el cual volvió a ver un rostro absolutamente serio, absolutamente impenetrable, un tanto frío incluso.
-—Le daré a cambio una mula —dijo Lucas.
-—¿Una mula? —dijo el viajante.
-—Cuando encontremos el dinero esta noche, le volveré a comprar la mula por trescientos dólares.
-El yerno de Lucas se había puesto a pestañear con rapidez. Pero nadie reparaba en él. Lucas y el viajante se miraban mutuamente: la cara astuta, repentinamente atenta del joven hombre blanco; la cara absolutamente impenetrable del negro.
-—¿La mula es suya?
-—¿Cómo iba yo a cambiársela si no lo fuera?
-—Vamos a verla —dijo el viajante.
-—George Wilkins —dijo Lucas.
-—Señor —dijo su yerno. Seguía pestañeando rápida e ininterrumpidamente.
-—Ve a la cuadra y tráeme el ronzal —dijo Lucas.
-II
-Edmonds descubrió la falta de la mula tan pronto como los mozos de cuadra subieron aquella noche los animales a los pastos. Era una mula de tres años, llamada Alice Ben Bolt, que pesaba mil cien libras y por la que Edmonds había rechazado trescientos dólares aquella misma primavera.
-Edmonds, sin embargo, ni siquiera se puso a maldecir. Se limitó a desmontar y luego, mientras las rápidas pisadas de la yegua se perdían en la creciente oscuridad de la noche, permaneció junto a la cerca hasta que volvió a oírlas y el jefe de los mozos saltó a tierra y le entregó la linterna y la pistola. Edmonds montó entonces en su yegua y, acompañado de los dos negros a lomos de mulas sin silla, volvió a través de los pastos, vadeando el arroyo, hacia la brecha en la cerca por donde habían sacado a la mula. Desde allí siguieron sus huellas —las de la mula y las del hombre que la conducía—, que bordeando un campo de algodón, sobre la tierra blanda, llegaban hasta la carretera. A partir de allí también pudieron seguirlas; el jefe de los mozos iba a pie y llevaba la linterna, y avanzaron por donde el hombre había conducido a la mula sin herrar sobre la tierra más blanda que bordeaba la grava.
-—Son los cascos de Alice —dijo el jefe de los mozos—. Los reconocería en cualquier parte.
-Edmonds, más tarde, se daría cuenta de que ambos negros habían reconocido también las huellas del hombre. Pero en aquel momento su inquietud y cólera mismas habían obrado de cortocircuito en su normal perceptividad para con el comportamiento con los negros. Ni aun en caso de que él lo hubiera preguntado le habrían dicho ellos quién había dejado aquellas huellas, pero el conocimiento de que ellos lo sabían le habría permitido llegar a adivinarlo, y consecuentemente le habría liberado de las cuatro o cinco horas de confusión mental y tensión física en las que a continuación se vería envuelto.
-Perdieron el rastro. Había previsto poder seguir las huellas hasta el punto en donde la mula habría sido cargada en algún camión a la espera, tras lo cual volvería a casa y telefonearía al sheriff de Jefferson y a la policía de Memphis para que al día siguiente vigilaran los mercados de caballerías. Pero no encontraron tal punto. Les llevó casi una hora encontrar de nuevo las huellas, que en determinado momento se internaban en la grava y la cruzaban y descendían por entre la maleza de la orilla opuesta de la carretera, para reaparecer de nuevo en otro campo, cien yardas más lejos. Hambriento e iracundo, sobre la yegua que llevaba todo el día ensillada y también sin alimento, Edmonds siguió las oscuras siluetas de las mulas, de las que tiraba el brazo extendido hacia atrás del mozo negro subalterno que le precedía a pie, y maldijo la oscuridad y la mezquina luz que llevaba el jefe de mozos y de la que por fuerza dependían.
-Dos horas después se encontraban en el lecho del arroyo, a cuatro millas de la casa. Ahora también él iba a pie, por miedo a romperse la cabeza contra una rama, tropezando y abriéndose camino entre las zarzas y matorrales y ramas y troncos podridos por donde discurrían las huellas, tirando con una mano de la yegua y protegiéndose la cara con el brazo y tratando de ver dónde ponía los pies, de forma que tropezó con una de las mulas, e instintivamente saltó en la dirección correcta, pues en aquel preciso instante la mula lanzó la coz, y entonces se dio cuenta de que los negros se habían detenido. Luego, maldiciendo ya en voz alta y desplazándose de nuevo con rapidez a fin de esquivar a la otra mula, que debía de hallarse en algún lugar a su izquierda , cayó en la cuenta de que la linterna estaba apagada y vio él también el tenue y humoso resplandor de la antorcha de madera resinosa que se dejaba ver allá adelante, entre los árboles. La antorcha se estaba moviendo.
-—Exacto —dijo de prisa—. Mantened la linterna apagada. —Llamó por su nombre al mozo subalterno—: Dale a las mulas de Dan y ven a coger la yegua.
-Esperó, mientras miraba la luz, hasta que la mano del negro buscó a tientas la suya. Entonces soltó las riendas y caminó en torno a las mulas, sacando la pistola y sin dejar de mirar la llama que se movía.
-—Dame la linterna —dijo. Cogió la linterna que le tendía la mano a tientas—. Tú y Oscar esperad aquí.
-—Será mejor que vaya con usted —dijo el negro.
-—De acuerdo —dijo Edmonds—. Déjale a Oscar las mulas.
-Se adelantó sin esperar, aunque de cuando en cuando podía oír al negro a sus espaldas. Ambos se movían tan sigilosa y rápidamente como les era posible. La ira no había amainado en él. Era una ira caliente; gravitava sobre él una suerte de vehemencia, una suerte de exultación vindicativa a medida que avanzaba, despreocupado de la maleza y de los troncos, con la linterna en la mano izquierda y la pistola en la derecha, ganando terreno a la antorcha moviente, irrumpiendo al fin en una especie de claro, en cuyo centro descubrió a dos hombres que miraban hacia él: uno llevaba ante sí lo que Edmonds tomó al principio por un recipiente de forraje; el otro sostenía sobre lo alto de su cabeza la humeante tea de pino. Entonces Edmonds reconoció el astroso panamá de George Wilkins, y comprendió no sólo que los dos negros que le acompañaban habían sabido siempre quien había hecho las huellas, sino que el objeto en manos de Lucas no era ningún recipiente para forraje, y que él debía haber sabido desde un principio qué había sido de su mula.
-—¡Tú, Lucas! —gritó.
-George, arqueando el cuerpo, arrojó lejos la antorcha, pero la linterna los había ya ensartado. Edmonds, entonces, vio al hombre blanco, con su sombrero de ala dura y su corbata y todo lo demás, surgido de junto a un árbol, con los pantalones arremangados hasta las rodillas y los pies ocultos bajo el barro apelmazado.
-—Muy bien —dijo Edmonds—. Adelante, George, echa a correr. Me parece que puedo acertar a tu sombrero sin siquiera tocarte.
-Se acercó; el haz de la linterna se acortó al chocar con la caja metálica que Lucas llevaba ante sí, y brilló centelleante ante los botones y esferas.
-—¿Así que era eso? —dijo—. Trescientos dólares. Me gustaría que alguien trajera a este país una semilla que exigiera el trabajo de todos los días sin excepción, desde Año Nuevo hasta Navidad. En cuanto a vosotros los negros se os deja sin hacer nada, empiezan los problemas. No voy a preocuparme por Alice esta noche, y si tú y George queréis pasaros el resto de ella de aquí para allá con esa maldita cosa, allá vosotros... Pero que esa mula esté en su cuadra para la salida del sol. ¿Me oís?
-Edmonds había olvidado la existencia del hombre blanco, que apareció de pronto junto a Lucas y dijo:
-—¿De qué mula está hablando?
-Edmonds dirigió hacia él la linterna por espacio de un instante.
-—De mi mula, señor —dijo.
-—Tengo el contrato de compraventa de esa mula —dijo el joven—. Firmado por Lucas aquí presente.
-—Pues consérvelo —dijo Edmonds—. Puede utilizarlo para encender lámparas el invierno que viene.
-—¿De veras? —dijo el joven—. Mire, señor Como-se-llame...
-Pero Edmonds había vuelto ya la linterna hacia Lucas, que seguía sosteniendo ante sí la máquina adivinadora.
-—Pensándolo bien —dijo Edmonds—, no voy a preocuparme por esa mula en absoluto. Ya te dije esta mañana lo que pienso de este asunto. Eres un hombre adulto: si quieres hacer tonterías al respecto, yo no puedo impedírtelo. Pero si la mula no está en su cuadra mañana al salir el sol, telefonearé al sheriff. ¿Me has oído?
+## I
+> 
+> Cuando se aproximaron al economato, Lucas dijo:
+> 
+> —Espere aquí.
+> 
+> —No, no —dijo el viajante—. Hablaré yo con él. Si no logro vendérsela yo, no hay ninguna...
+> 
+> El viajante, entonces, calló. Sin saber por qué. Era joven, no llegaba a los treinta; tenía, aunque inmaduros aún, el brío y el aplomo propios de su oficio; y era blanco. Sin embargo dejó de hablar y miró al negro de mono ajado, cuya cara delataba únicamente que tenía como mínimo sesenta años, y que le estaba mirando no sólo con dignidad, sino imperiosamente.
+> 
+> —Usted espere aquí —dijo Lucas.
+> 
+> Así que el viajante se apoyó sobre la cerca de la finca, en la luminosa mañana de agosto, mientras Lucas caminaba colina arriba y subía los gastados escalones, al lado de los cuáles se hallaba una potranca de brillante pelaje, con tres patas calzadas y una mancha en la frente y una pesada y cómoda silla sobre el lomo, y entraba en el economato. Allí, en un escritorio de tapa corrediza situado junto al ventanal frontal, en medio de hileras de estantes con latas de tabaco y de comida y específicos médicos, de ganchos de los que pendían cadenas para tirantes de caballerías y colleras y horcates, el amo escribía en un libro mayor. Lucas permaneció de pie, en silencio, mirando la nuca del hombre blanco; al cabo, éste miró en torno y Lucas dijo:
+> 
+> —Ha venido.
+> 
+> Edmonds, echado hacia atrás sobre el respaldo, hizo girar la silla.
+> 
+> Mientras giraba aún sobre sí mismo fulminaba ya con la mirada a Lucas; entonces, con inaudita violencia, dijo:
+> 
+> —¡No!
+> 
+> —Sí —dijo Lucas.
+> 
+> —¡No!
+> 
+> —Se ha traído la máquina —dijo Lucas—. Funciona. Enterré un dólar esta mañana en el patio trasero, y la máquina fue directamente al sitio exacto y lo encontró. Sólo pide trescientos dólares por ella. Encontraremos ese dinero esta noche, y se lo podré devolver mañana por la mañana.
+> 
+> —¡No! —dijo Edmonds—. Te he dicho una y cien veces que no hay dinero enterrado en estas tierras. Llevas aquí sesenta años. ¿Alguna vez has oído de alguien de la región con dinero suficiente como para permitirse enterrarlo? ¿Te imaginas que si alguien de la región hubiera enterrado algo que valiera tanto como veinticinco centavos, no lo habría desenterrado ya hace tiempo alguno de sus parientes o amigos o conocidos o vecinos?
+> 
+> —Se equivoca —dijo Lucas—. La gente sigue encontrando dinero enterrado. ¿No le conté lo de aquellos dos forasteros blancos que vinieron un día al anochecer, hace tres años, y desenterraron veintidós mil dólares y se largaron sin que nadie llegara siquiera a verlos? Yo mismo vi el hoyo que hicieron y que luego rellenaron. Y la mantequera que había contenido el dinero enterrado.
+> 
+> —Ja —dijo Edmonds—. ¿Y cómo sabes que fueron veintidós mil dólares?
+> 
+> Pero Lucas se limitó a mirarle.
+> 
+> No era obstinación. Era una paciencia infinita, casi comparable a la de Jehová, como si él, Lucas, se hallara empeñado en una controversia —que en parte redundaría en beneficio de su propio antagonista— con un idiota.
+> 
+> —Su padre, si estuviera aquí, me habría prestado esos trescientos dólares —dijo.
+> 
+> —Bien, pero yo, no —dijo Edmonds—. Tienes casi tres mil condenados dólares en el banco. Si pudiera evitar que malgastaras un solo centavo de ellos en esa maldita máquina que encuentra dinero, lo haría.
+> 
+> Pero no, tú no tienes intención de utilizar tu dinero en absoluto, ¿verdad? Eres demasiado sensato como para arriesgarlo.
+> 
+> —Parece ser que tendré que hacerlo —dijo Lucas—. Se lo pediré a usted una vez más...
+> 
+> —¡No! —volvió a decir Edmonds con desatada e inaudita violencia.
+> 
+> Lucas se quedó mirándole durante cierto tiempo, con aire casi contemplativo. Ni siquiera suspiró.
+> 
+> —Está bien —dijo.
+> 
+> Cuando se reunió con el viajante, estaba también su yerno, un joven de cintura estrecha y piel muy negra, con el rostro vivo y lleno de dientes blancos y un astroso panamá ladeado sobre la oreja derecha.
+> 
+> El viajante echó una mirada a la cara de Lucas y se apartó bruscamente de la cerca.
+> 
+> —Iré yo a hablar con él —dijo.
+> 
+> —No —dijo Lucas—. No se le ocurra acercarse.
+> 
+> —¿Qué va a hacer al respecto, entonces? —dijo el viajante—. Aquí me tiene, venido desde St. Louis... Lo que no comprendo aún es cómo consiguió usted convencerles de que le enviaran la máquina sin hacerle pagar ninguna entrada por adelantado. Y ahora mismo le diré una cosa: si tengo que volvérmela a llevar y presentar la cuenta de gastos de este viaje sin haber vendido nada, algo va a...
+> 
+> —Aquí de pie no hacemos nada en absoluto —dijo Lucas.
+> Los dos hombres le siguieron hasta la puerta, y luego hasta la carretera donde el viajante había dejado el coche. La máquina adivinadora descansaba sobre el asiento trasero, y Lucas se quedó ante la portezuela abierta, mirándola: era una caja metálica y oblonga, sólida y maciza, con un asa a cada extremo y unos botones y cuadrantes que le conferían un aura de seriedad, complejidad y eficiencia. Lucas, grave y absorto, permaneció allí mirándola.
+> 
+> —Y funciona —dijo—. Lo he visto con mis propios ojos.
+> 
+> —¿Y bien? —dijo el viajante—. ¿Qué es lo que piensa hacer? Tengo que saberlo, y así podré saber lo que he de hacer por mi parte. ¿No tiene usted trescientos dólares?
+> 
+> Lucas, meditabundo, contemplaba la máquina. Siguió sin levantar la vista.
+> 
+> —Vamos a encontrar ese dinero esta noche —dijo—. Usted ponga la máquina y yo le diré dónde buscar, e iremos a medias.
+> 
+> —Ja, ja, ja —dijo el viajante con aspereza—. ¿Quiere que le cuente otro?
+> 
+> —Seguro que lo encontramos, capitán —dijo el yerno de Lucas—. dos blancos se deslizaron hasta aquí una noche, hace tres años, y desenterraron veintidós mil dólares y se largaron con ellos antes de que saliera el sol.
+> 
+> —¡Ya lo creo! —dijo el viajante—. Y tú supiste que eran exactamente veintidós mil porque encontraste los centavos sueltos donde los dejaron tirados.
+> 
+> —No, señor —dijo el yerno de Lucas—. Hasta es posible que hubiera más de veintidós mil dólares. Era una mantequera grande.
+> 
+> —George Wilkins —dijo Lucas, que seguía con medio cuerpo dentro del coche y sin volver la cabeza.
+> 
+> —Señor —dijo su yerno.
+> 
+> —Cállate.
+> 
+> Luego, Lucas se volvió y miró al viajante, el cual volvió a ver un rostro absolutamente serio, absolutamente impenetrable, un tanto frío incluso.
+> 
+> —Le daré a cambio una mula —dijo Lucas.
+> 
+> —¿Una mula? —dijo el viajante.
+> 
+> —Cuando encontremos el dinero esta noche, le volveré a comprar la mula por trescientos dólares.
+> 
+> El yerno de Lucas se había puesto a pestañear con rapidez. Pero nadie reparaba en él. Lucas y el viajante se miraban mutuamente: la cara astuta, repentinamente atenta del joven hombre blanco; la cara absolutamente impenetrable del negro.
+> 
+> —¿La mula es suya?
+> 
+> —¿Cómo iba yo a cambiársela si no lo fuera?
+> 
+> —Vamos a verla —dijo el viajante.
+> 
+> —George Wilkins —dijo Lucas.
+> 
+> —Señor —dijo su yerno. Seguía pestañeando rápida e ininterrumpidamente.
+> 
+> —Ve a la cuadra y tráeme el ronzal —dijo Lucas.
+> 
+> ## II
+> 
+> Edmonds descubrió la falta de la mula tan pronto como los mozos de cuadra subieron aquella noche los animales a los pastos. Era una mula de tres años, llamada Alice Ben Bolt, que pesaba mil cien libras y por la que Edmonds había rechazado trescientos dólares aquella misma primavera.
+> 
+> Edmonds, sin embargo, ni siquiera se puso a maldecir. Se limitó a desmontar y luego, mientras las rápidas pisadas de la yegua se perdían en la creciente oscuridad de la noche, permaneció junto a la cerca hasta que volvió a oírlas y el jefe de los mozos saltó a tierra y le entregó la linterna y la pistola. Edmonds montó entonces en su yegua y, acompañado de los dos negros a lomos de mulas sin silla, volvió a través de los pastos, vadeando el arroyo, hacia la brecha en la cerca por donde habían sacado a la mula. Desde allí siguieron sus huellas —las de la mula y las del hombre que la conducía—, que bordeando un campo de algodón, sobre la tierra blanda, llegaban hasta la carretera. A partir de allí también pudieron seguirlas; el jefe de los mozos iba a pie y llevaba la linterna, y avanzaron por donde el hombre había conducido a la mula sin herrar sobre la tierra más blanda que bordeaba la grava.
+> 
+> —Son los cascos de Alice —dijo el jefe de los mozos—. Los reconocería en cualquier parte.
+> 
+> Edmonds, más tarde, se daría cuenta de que ambos negros habían reconocido también las huellas del hombre. Pero en aquel momento su inquietud y cólera mismas habían obrado de cortocircuito en su normal perceptividad para con el comportamiento con los negros. Ni aun en caso de que él lo hubiera preguntado le habrían dicho ellos quién había dejado aquellas huellas, pero el conocimiento de que ellos lo sabían le habría permitido llegar a adivinarlo, y consecuentemente le habría liberado de las cuatro o cinco horas de confusión mental y tensión física en las que a continuación se vería envuelto.
+> 
+> Perdieron el rastro. Había previsto poder seguir las huellas hasta el punto en donde la mula habría sido cargada en algún camión a la espera, tras lo cual volvería a casa y telefonearía al sheriff de Jefferson y a la policía de Memphis para que al día siguiente vigilaran los mercados de caballerías. Pero no encontraron tal punto. Les llevó casi una hora encontrar de nuevo las huellas, que en determinado momento se internaban en la grava y la cruzaban y descendían por entre la maleza de la orilla opuesta de la carretera, para reaparecer de nuevo en otro campo, cien yardas más lejos. Hambriento e iracundo, sobre la yegua que llevaba todo el día ensillada y también sin alimento, Edmonds siguió las oscuras siluetas de las mulas, de las que tiraba el brazo extendido hacia atrás del mozo negro subalterno que le precedía a pie, y maldijo la oscuridad y la mezquina luz que llevaba el jefe de mozos y de la que por fuerza dependían.
+> 
+> Dos horas después se encontraban en el lecho del arroyo, a cuatro millas de la casa. Ahora también él iba a pie, por miedo a romperse la cabeza contra una rama, tropezando y abriéndose camino entre las zarzas y matorrales y ramas y troncos podridos por donde discurrían las huellas, tirando con una mano de la yegua y protegiéndose la cara con el brazo y tratando de ver dónde ponía los pies, de forma que tropezó con una de las mulas, e instintivamente saltó en la dirección correcta, pues en aquel preciso instante la mula lanzó la coz, y entonces se dio cuenta de que los negros se habían detenido. Luego, maldiciendo ya en voz alta y desplazándose de nuevo con rapidez a fin de esquivar a la otra mula, que debía de hallarse en algún lugar a su izquierda , cayó en la cuenta de que la linterna estaba apagada y vio él también el tenue y humoso resplandor de la antorcha de madera resinosa que se dejaba ver allá adelante, entre los árboles. La antorcha se estaba moviendo.
+> 
+> —Exacto —dijo de prisa—. Mantened la linterna apagada. —Llamó por su nombre al mozo subalterno—: Dale a las mulas de Dan y ven a coger la yegua.
+> 
+> Esperó, mientras miraba la luz, hasta que la mano del negro buscó a tientas la suya. Entonces soltó las riendas y caminó en torno a las mulas, sacando la pistola y sin dejar de mirar la llama que se movía.
+> 
+> —Dame la linterna —dijo. Cogió la linterna que le tendía la mano a tientas—. Tú y Oscar esperad aquí.
+> 
+> —Será mejor que vaya con usted —dijo el negro.
+> 
+> —De acuerdo —dijo Edmonds—. Déjale a Oscar las mulas.
+> 
+> Se adelantó sin esperar, aunque de cuando en cuando podía oír al negro a sus espaldas. Ambos se movían tan sigilosa y rápidamente como les era posible. La ira no había amainado en él. Era una ira caliente; gravitaba sobre él una suerte de vehemencia, una suerte de exultación vindicativa a medida que avanzaba, despreocupado de la maleza y de los troncos, con la linterna en la mano izquierda y la pistola en la derecha, ganando terreno a la antorcha moviente, irrumpiendo al fin en una especie de claro, en cuyo centro descubrió a dos hombres que miraban hacia él: uno llevaba ante sí lo que Edmonds tomó al principio por un recipiente de forraje; el otro sostenía sobre lo alto de su cabeza la humeante tea de pino. Entonces Edmonds reconoció el astroso panamá de George Wilkins, y comprendió no sólo que los dos negros que le acompañaban habían sabido siempre quien había hecho las huellas, sino que el objeto en manos de Lucas no era ningún recipiente para forraje, y que él debía haber sabido desde un principio qué había sido de su mula.
+> 
+> —¡Tú, Lucas! —gritó.
+> 
+> George, arqueando el cuerpo, arrojó lejos la antorcha, pero la linterna los había ya ensartado. Edmonds, entonces, vio al hombre blanco, con su sombrero de ala dura y su corbata y todo lo demás, surgido de junto a un árbol, con los pantalones arremangados hasta las rodillas y los pies ocultos bajo el barro apelmazado.
+> 
+> —Muy bien —dijo Edmonds—. Adelante, George, echa a correr. Me parece que puedo acertar a tu sombrero sin siquiera tocarte.
+> 
+> Se acercó; el haz de la linterna se acortó al chocar con la caja metálica que Lucas llevaba ante sí, y brilló centelleante ante los botones y esferas.
+> 
+> —¿Así que era eso? —dijo—. Trescientos dólares. Me gustaría que alguien trajera a este país una semilla que exigiera el trabajo de todos los días sin excepción, desde Año Nuevo hasta Navidad. En cuanto a vosotros los negros se os deja sin hacer nada, empiezan los problemas. No voy a preocuparme por Alice esta noche, y si tú y George queréis pasaros el resto de ella de aquí para allá con esa maldita cosa, allá vosotros... Pero que esa mula esté en su cuadra para la salida del sol. ¿Me oís?
+> 
+> Edmonds había olvidado la existencia del hombre blanco, que apareció de pronto junto a Lucas y dijo:
+> 
+> —¿De qué mula está hablando?
+> 
+> Edmonds dirigió hacia él la linterna por espacio de un instante.
+> 
+> —De mi mula, señor —dijo.
+> 
+> —Tengo el contrato de compraventa de esa mula —dijo el joven—. Firmado por Lucas aquí presente.
+> 
+> —Pues consérvelo —dijo Edmonds—. Puede utilizarlo para encender lámparas el invierno que viene.
+> 
+> —¿De veras? —dijo el joven—. Mire, señor Como-se-llame...
+> 
+> Pero Edmonds había vuelto ya la linterna hacia Lucas, que seguía sosteniendo ante sí la máquina adivinadora.
+> 
+> —Pensándolo bien —dijo Edmonds—, no voy a preocuparme por esa mula en absoluto. Ya te dije esta mañana lo que pienso de este asunto. Eres un hombre adulto: si quieres hacer tonterías al respecto, yo no puedo impedírtelo. Pero si la mula no está en su cuadra mañana al salir el sol, telefonearé al sheriff. ¿Me has oído?
 —Le he oído —dijo Lucas.
 —Muy bien, gran chico —dijo el viajante—. Si alguien mueve esa mula de donde está antes de que yo pueda llevármela, telefonearé al sheriff. ¿Me ha oído también?
 Ahora Edmonds saltó furioso y contenido, y dirigió el haz de luz contra el viajante.

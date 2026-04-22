@@ -1,0 +1,48 @@
+# Efficient Semantic Formatting Plan
+
+This plan outlines a strategy to systematically and efficiently apply the rules defined in [semantic_formatter/brain.md](file:///home/szortofbad/projects/literatura-us-2.0/semantic_formatter/brain.md) to the entire collection of literary works (167+ authors, thousands of files).
+
+## User Review Required
+
+> [!IMPORTANT]
+> The most efficient approach involves using an LLM to process files in batches. This will incur token costs but is the only way to handle the lack of general patterns across different literary styles (poetry, stories, essays).
+> 
+> **Are there any specific authors or collections that should be prioritized or handled with extra care?**
+
+## Proposed Strategy: "Classifier-Formatter Pipeline"
+
+We will avoid a single complex regex script. Instead, we'll use a semi-automated pipeline:
+
+### 1. Classification & Analysis (Scripted)
+A Python script will scan all files to categorize them based on:
+*   **Literary Type**: Poetry (stanzas vs flattened), Prose (stories/essays).
+*   **Dialogue Style**: Presence of `—` (em-dash), `"`, or `“`.
+*   **Structure Status**: Detect if the file already has semantic tags (headers, blockquotes) or is just raw paragraphs.
+
+### 2. Category-Specific Formatting (LLM Processing)
+We will use tailored prompts for each category to ensure the best results:
+*   **Poetry**: Focus on restoring line breaks and stanzas (especially for flattened text like Benedetti's).
+*   **Prose (Stories)**: Focus on dialogue formatting (em-dashes), paragraph breaks, and identifying nested citations.
+*   **Prose (Essays)**: Focus on subheadings, footnotes, and references.
+
+### 3. Batch Processing Script
+A tool will be created to:
+1.  Read files from a target author directory.
+2.  Maintain YAML frontmatter integrity.
+3.  Send content to the LLM with the appropriate category prompt.
+4.  Perform a "Safety Check": Verify that the word count matches the original (± margin for formatting characters) to ensure no text loss or gain.
+
+## Proposed Changes
+
+### [NEW] [batch_formatter.py](file:///home/szortofbad/projects/literatura-us-2.0/semantic_formatter/batch_formatter.py)
+A flexible Python script to orchestrate the classification and formatting process.
+
+## Verification Plan
+
+### Automated
+*   **Word Count Check**: The script will automatically flag any file where the text content (ignoring markdown tags/whitespace) differs from the original.
+*   **Frontmatter Integrity**: Ensure all metadata remains intact and valid YAML.
+
+### Manual Verification
+*   **Spot Checks**: One random file per author per batch will be manually reviewed.
+*   **Site Rendering**: Build the site with 11ty and check a few rendered works to ensure CSS treats the new semantic tags correctly.

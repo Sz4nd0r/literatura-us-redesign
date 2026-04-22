@@ -7,11 +7,13 @@
     "scripts": {
         "build": "pnpm dlx @11ty/eleventy --incremental",
         "start": "pnpm dlx @11ty/eleventy --serve --incremental",
-        "debug": "DEBUG=Eleventy* pnpm dlx @11ty/eleventy"
+        "debug": "DEBUG=Eleventy* pnpm dlx @11ty/eleventy",
+        "index": "pnpm dlx pagefind --site _site"
     },
     "dependencies": {
         "@11ty/eleventy": "^3.1.5",
         "@11ty/eleventy-img": "^6.0.4",
-        "js-yaml": "^4.1.1"
+        "js-yaml": "^4.1.1",
+        "pagefind": "^1.5.2"
     }
 }

@@ -19,35 +19,63 @@ tags:
 *UNO*
 *1*
 
-Como de costumbre, el viejo Falls había conseguido que John Sartoris estuviera con él en la habitación; una vez más había hecho tres millas a pie desde el asilo del condado, trayendo consigo, como una fragancia, como el olor a limpio de su mono desteñido, cubierto de polvo, el espíritu del hombre muerto; y en la oficina de su hijo, los dos, el pobre de solemnidad y el banquero, conversaron de nuevo durante media hora, en compañía de aquel que había pasado del otro lado de la muerte y regresado después.
-Liberada del tiempo y de la carne, la presencia de John Sartoris resultaba mucho más real que la de los dos ancianos que permanecían sentados, tratando, sucesivamente, de penetrar a gritos la sordera del otro, mientras en la habitación contigua los asuntos del banco seguían su marcha y los clientes de las tiendas vecinas escuchaban el confuso alboroto de voces que les llegaba a través de las paredes. John Sartoris resultaba mucho más palpable que aquellos dos ancianos, unidos por su sordera común a una época ya muerta que se hacía cada vez más tenue con el lento desgaste de los días; incluso ahora, cuando el viejo Falls ya se había puesto en camino para recorrer las tres millas que lo devolverían al asilo que consideraba su hogar, John Sartoris aún seguía presente en el cuarto, por encima y alrededor de su hijo, con su rostro barbado y su perfil de halcón, de manera que, mientras el viejo Bayard seguía sentado, con la pipa en la mano, apoyando los pies cruzados contra el ángulo de la chimenea apagada, le parecía oír la respiración de su padre, como si el otro fuera mucho más palpable que un simple trozo de barro transitoriamente dotado de movimiento, y capaz incluso de penetrar el infranqueable reducto de silencio en que vivía su hijo.
-La cazoleta de la pipa estaba profusamente esculpida, y chamuscada por el mucho uso y, en la boquilla, se notaban las huellas de los dientes de su padre, que había dejado allí la imagen indeleble de sus huesos, como en piedra perdurable, a semejanza de esas criaturas prehistóricas concebidas y llevadas a cabo de manera demasiado grandiosa tanto para mantenerse vivas mucho tiempo como para desaparecer por completo, una vez muertas, de esta tierra moldeada y acondicionada para criaturas mucho más insignificantes.
-—¿Por qué me la das ahora, después de tanto tiempo? —le había preguntado Bayard al viejo Falls, con la pipa en la mano.
-—Bueno; creo que al Coronel no le gustaría que siguiera guardándola —contestó el otro—. Un asilo no es sitio para tener cosas suyas. Y yo voy a cumplir los noventa y cuatro.
-Más tarde, el viejo Falls recogió sus paquetes y se marchó, pero Bayard siguió sentado durante algún tiempo, con la pipa en la mano, frotando lentamente la cazoleta con el pulgar. Al cabo de un rato, también John Sartoris se ausentó, o más bien se retiró a ese lugar donde los muertos contemplan en paz sus idealizadas frustraciones, y el viejo Bayard, poniéndose en pie, se metió la pipa en el bolsillo y tomó un cigarro de la caja colocada sobre la repisa de la chimenea. Mientras encendía el fósforo, se abrió la puerta al otro lado de la habitación y un hombre que llevaba una visera verde entró y se acercó a él.
-—Simón está aquí, Coronel —dijo con voz perfectamente neutra.
-—¿Qué? —dijo Bayard, mirándolo por encima de la cerilla.
-—Ha llegado Simón.
-—Ah. Está bien.
-El otro se dio la vuelta y salió. Bayard tiró la cerilla al hogar de la chimenea, se guardó el cigarro en el bolsillo del pecho, cerró el escritorio, recogió el sombrero negro de fieltro que estaba encima y abandonó la habitación por la misma puerta que el otro. El hombre de la visera y el cajero estaban atareados al otro lado de la ventanilla. El viejo Bayard cruzó el vestíbulo, atravesó la puerta con la persiana verde echada y salió a la calle, donde Simón, con un sobretodo de lino y una chistera antiquísima, mantenía a los caballos, relucientes en la tarde primaveral, pegados a la acera. Había allí un poste para atarlos, que Bayard conservaba con testaruda desconsideración hacia el progreso industrial; pero Simón no lo usaba nunca. Hasta que se abría la puerta y Bayard surgía de detrás de las persianas echadas, con la inscripción «El Banco Está Cerrado» en letras de oro resquebrajadas, permanecía con las riendas en la mano izquierda, la correa del látigo sujeta en el sitio exacto con la derecha y, habitualmente, la misma e invariable —y al parecer incombustible— colilla de puro en ángulo jactancioso contra su rostro oscuro, hablando a la reluciente pareja de caballos en un flujo sin altibajos, de amante a amante. mimaba a los caballos. El viejo cochero admiraba a los Sartoris y sentía por ellos una ternura cálida y protectora, pero los caballos eran su debilidad y entre sus manos hasta la bestia más desmedrada florecía y se llenaba de donaire como una mujer acariciada, y de temperamento como una diva de ópera.
-Bayard cerró la puerta tras de sí y cruzó la acera hasta el coche con aquella rígida tiesura suya que, como uno de sus conciudadanos hizo notar en cierta ocasión, si el anciano diese un traspiés alguna vez, se tropezaría consigo misma antes de caer al suelo. Uno o dos viandantes y algún que otro tendero desde la puerta de su establecimiento le saludaron con una especie de barroco servilismo.
-Tampoco entonces abandonó el pescante. Con la fina sensibilidad de su raza para todo lo que tenga posibilidades teatrales, se irguió para arreglarse los desvaídos pliegues del sobretodo, comunicando la carga histriónica del momento a los caballos, que procedieron a llenar de estremecimientos sus pieles lustrosas y a agitar sus cabezas enjaezadas; y en el acartonado rostro negro de apareció una expresión indescriptiblemente majestuosa mientras rozaba el ala de su sombrero con la mano donde llevaba el látigo. Bayard se subió al coche, chasqueó la lengua, y los espectadores, detenidos para admirar el drama efímero de la partida, quedaron atrás.
-Sin embargo, había algo diferente en el porte de aquel día; algo que se reflejaba en la forma de su espalda y en la inclinación del sombrero: se diría que estaba reventando por decir algo de mucha importancia. Pero consiguió dominarse por el momento y con paso brioso y contenido condujo entre los desvencijados carros que circulaban por la plaza y torció para adentrarse en la amplia calle donde las personas que Bayard calificaba de pobretones iban y venían en sus automóviles. Cuando la ciudad quedó tras ellos y trotaban ya atravesando campos florecientes, todavía atestados de consumidores de gasolina (aunque allí la distancia entre unos y otros fuera mayor que en la población), siguió sin hablar. Pero en cuanto su señor se dejó dominar por la pacífica somnolencia que el rítmico paso de los caballos y la familiar monotonía del paisaje le producía siempre. Simón redujo la marcha y volvió la cabeza.
-La voz de Simón no era particularmente recia ni sonora y sin embargo conseguía hablar con Bayard sin dificultad. Otros tenían que gritar para horadar el muro de sordera que rodeaba la vida de su amo; en cambio podía mantener y de hecho, sobre todo cuando iban en el coche, cuya vibración mejoraba un tanto la capacidad auditiva de Bayard, mantenía con él largas conversaciones llenas de digresiones sin salirse de un monótono sonsonete, bastante agudo.
-—Míster Bayard ha vuelto —hizo notar como de pasada.
-Bayard regresó de sus somnolientas abstracciones y permaneció perfecta y furiosamente inmóvil, mientras los latidos de su corazón se debilitaban y se hacían demasiado rápidos, maldiciendo a su nieto durante un larguísimo instante; tan inmóvil, que su criado al mirar para atrás lo encontró contemplando tranquilamente el horizonte. alzó un poco la voz.
-—Se bajó del tren de las dos —continuó—. Por el lado que no da al andén y desapareció corriendo entre los árboles. Lo vio uno de los empleados. Pero todavía no había llegado a casa cuando yo salí. Se me ocurrió que quizá estuviera con usted.
-El polvo se arremolinaba bajo los cascos de los caballos para convertirse detrás en una nube perezosa. Contra los setos que se espesaban, las sombras corrían subiendo y bajando, entre radios centelleantes y el paso altivo de los caballos, con toda la futilidad de un movimiento sin progreso.
-—Ni siquiera se bajó en el apeadero —continuó Simón, con una especie de irritada exasperación—. El apeadero que construyó su propia familia. ¡Saltar del tren por el otro lado como un vagabundo! Ni siquiera iba vestido de uniforme.
-Su tono era ya de franca desaprobación.
-—Llevaba un simple traje, como un viajante de comercio o cualquier cosa parecida. Y cuando me acuerdo de aquellas botas tan brillantes y los pantalones de color amarillo claro y de la guerrera con que vino a casa el año pasado…
-Simón se dio la vuelta otra vez y miró fijamente al anciano.
-—Coronel, ¿cree usted que esos extranjeros le habrán hecho algo?
-—¿Qué quieres decir? —quiso saber Bayard—. ¿Ha vuelto cojo?
-—No, me refiero a eso de colarse de rondón en su propio pueblo. Colarse de rondón en el pueblo que construyó su abuelo, usando el ferrocarril de su familia como un cualquiera. Esos malditos extranjeros le han hecho algo o han conseguido que le persiga la policía. Ya le decía yo cuando se fue la primera vez a esa guerra que ni a él ni a Mr. Johnny se les había perdido nada…
-—No vayas tan despacio —dijo Bayard secamente—. Sigue adelante, negro maldito.
-Simón chasqueó la lengua e hizo que los caballos aligeraran el paso. La carretera se prolongaba entre los setos que seguían ofreciéndoles las terribles cabriolas sin sentido de sus propias sombras. Más allá de los árboles de goma, de las encinas y de los viñedos que bordeaban la carretera, se extendían campos recién abiertos o a punto de serlo hacia zonas de bosque de hoja caduca con brotes nuevos, esmaltados de cerezos silvestres y algarrobos locos. Tras los laboriosos arados, viscosos terrones brillaban húmedamente al sol.
-Eran aquéllas tierras altas, que se elevaban en suaves pendientes sucesivas hasta el azul inmaculado de las colinas; pero pronto la carretera empezó a descender en picado hacia un valle de amplios campos de buena tierra, somnolientos bajo el calor igualador de las primeras horas de la tarde. En seguida empezaron a cruzar las propiedades del mismo Bayard y, de cuando en cuando, algún negro levantaba la mano del arado para saludar al coche. Luego, la carretera se acercó a la vía del ferrocarril y la cruzó, hasta que, por fin, la casa que John Sartoris había construido apareció entre las encinas y los robles. Simón giró para atravesar el portón de hierro y subir por la avenida en curva.
+> Como de costumbre, el viejo Falls había conseguido que John Sartoris estuviera con él en la habitación; una vez más había hecho tres millas a pie desde el asilo del condado, trayendo consigo, como una fragancia, como el olor a limpio de su mono desteñido, cubierto de polvo, el espíritu del hombre muerto; y en la oficina de su hijo, los dos, el pobre de solemnidad y el banquero, conversaron de nuevo durante media hora, en compañía de aquel que había pasado del otro lado de la muerte y regresado después.
+> 
+> Liberada del tiempo y de la carne, la presencia de John Sartoris resultaba mucho más real que la de los dos ancianos que permanecían sentados, tratando, sucesivamente, de penetrar a gritos la sordera del otro, mientras en la habitación contigua los asuntos del banco seguían su marcha y los clientes de las tiendas vecinas escuchaban el confuso alboroto de voces que les llegaba a través de las paredes. John Sartoris resultaba mucho más palpable que aquellos dos ancianos, unidos por su sordera común a una época ya muerta que se hacía cada vez más tenue con el lento desgaste de los días; incluso ahora, cuando el viejo Falls ya se había puesto en camino para recorrer las tres millas que lo devolverían al asilo que consideraba su hogar, John Sartoris aún seguía presente en el cuarto, por encima y alrededor de su hijo, con su rostro barbado y su perfil de halcón, de manera que, mientras el viejo Bayard seguía sentado, con la pipa en la mano, apoyando los pies cruzados contra el ángulo de la chimenea apagada, le parecía oír la respiración de su padre, como si el otro fuera mucho más palpable que un simple trozo de barro transitoriamente dotado de movimiento, y capaz incluso de penetrar el infranqueable reducto de silencio en que vivía su hijo.
+> 
+> La cazoleta de la pipa estaba profusamente esculpida, y chamuscada por el mucho uso y, en la boquilla, se notaban las huellas de los dientes de su padre, que había dejado allí la imagen indeleble de sus huesos, como en piedra perdurable, a semejanza de esas criaturas prehistóricas concebidas y llevadas a cabo de manera demasiado grandiosa tanto para mantenerse vivas mucho tiempo como para desaparecer por completo, una vez muertas, de esta tierra moldeada y acondicionada para criaturas mucho más insignificantes.
+> 
+> —¿Por qué me la das ahora, después de tanto tiempo? —le había preguntado Bayard al viejo Falls, con la pipa en la mano.
+> 
+> —Bueno; creo que al Coronel no le gustaría que siguiera guardándola —contestó el otro—. Un asilo no es sitio para tener cosas suyas. Y yo voy a cumplir los noventa y cuatro.
+> 
+> Más tarde, el viejo Falls recogió sus paquetes y se marchó, pero Bayard siguió sentado durante algún tiempo, con la pipa en la mano, frotando lentamente la cazoleta con el pulgar. Al cabo de un rato, también John Sartoris se ausentó, o más bien se retiró a ese lugar donde los muertos contemplan en paz sus idealizadas frustraciones, y el viejo Bayard, poniéndose en pie, se metió la pipa en el bolsillo y tomó un cigarro de la caja colocada sobre la repisa de la chimenea. Mientras encendía el fósforo, se abrió la puerta al otro lado de la habitación y un hombre que llevaba una visera verde entró y se acercó a él.
+> 
+> —Simón está aquí, Coronel —dijo con voz perfectamente neutra.
+> 
+> —¿Qué? —dijo Bayard, mirándolo por encima de la cerilla.
+> 
+> —Ha llegado Simón.
+> 
+> —Ah. Está bien.
+> 
+> El otro se dio la vuelta y salió. Bayard tiró la cerilla al hogar de la chimenea, se guardó el cigarro en el bolsillo del pecho, cerró el escritorio, recogió el sombrero negro de fieltro que estaba encima y abandonó la habitación por la misma puerta que el otro. El hombre de la visera y el cajero estaban atareados al otro lado de la ventanilla. El viejo Bayard cruzó el vestíbulo, atravesó la puerta con la persiana verde echada y salió a la calle, donde Simón, con un sobretodo de lino y una chistera antiquísima, mantenía a los caballos, relucientes en la tarde primaveral, pegados a la acera. Había allí un poste para atarlos, que Bayard conservaba con testaruda desconsideración hacia el progreso industrial; pero Simón no lo usaba nunca. Hasta que se abría la puerta y Bayard surgía de detrás de las persianas echadas, con la inscripción «El Banco Está Cerrado» en letras de oro resquebrajadas, permanecía con las riendas en la mano izquierda, la correa del látigo sujeta en el sitio exacto con la derecha y, habitualmente, la misma e invariable —y al parecer incombustible— colilla de puro en ángulo jactancioso contra su rostro oscuro, hablando a la reluciente pareja de caballos en un flujo sin altibajos, de amante a amante. mimaba a los caballos. El viejo cochero admiraba a los Sartoris y sentía por ellos una ternura cálida y protectora, pero los caballos eran su debilidad y entre sus manos hasta la bestia más desmedrada florecía y se llenaba de donaire como una mujer acariciada, y de temperamento como una diva de ópera.
+> 
+> Bayard cerró la puerta tras de sí y cruzó la acera hasta el coche con aquella rígida tiesura suya que, como uno de sus conciudadanos hizo notar en cierta ocasión, si el anciano diese un traspiés alguna vez, se tropezaría consigo misma antes de caer al suelo. Uno o dos viandantes y algún que otro tendero desde la puerta de su establecimiento le saludaron con una especie de barroco servilismo.
+> 
+> Tampoco entonces abandonó el pescante. Con la fina sensibilidad de su raza para todo lo que tenga posibilidades teatrales, se irguió para arreglarse los desvaídos pliegues del sobretodo, comunicando la carga histriónica del momento a los caballos, que procedieron a llenar de estremecimientos sus pieles lustrosas y a agitar sus cabezas enjaezadas; y en el acartonado rostro negro de apareció una expresión indescriptiblemente majestuosa mientras rozaba el ala de su sombrero con la mano donde llevaba el látigo. Bayard se subió al coche, chasqueó la lengua, y los espectadores, detenidos para admirar el drama efímero de la partida, quedaron atrás.
+> 
+> Sin embargo, había algo diferente en el porte de aquel día; algo que se reflejaba en la forma de su espalda y en la inclinación del sombrero: se diría que estaba reventando por decir algo de mucha importancia. Pero consiguió dominarse por el momento y con paso brioso y contenido condujo entre los desvencijados carros que circulaban por la plaza y torció para adentrarse en la amplia calle donde las personas que Bayard calificaba de pobretones iban y venían en sus automóviles. Cuando la ciudad quedó tras ellos y trotaban ya atravesando campos florecientes, todavía atestados de consumidores de gasolina (aunque allí la distancia entre unos y otros fuera mayor que en la población), siguió sin hablar. Pero en cuanto su señor se dejó dominar por la pacífica somnolencia que el rítmico paso de los caballos y la familiar monotonía del paisaje le producía siempre. Simón redujo la marcha y volvió la cabeza.
+> 
+> La voz de Simón no era particularmente recia ni sonora y sin embargo conseguía hablar con Bayard sin dificultad. Otros tenían que gritar para horadar el muro de sordera que rodeaba la vida de su amo; en cambio podía mantener y de hecho, sobre todo cuando iban en el coche, cuya vibración mejoraba un tanto la capacidad auditiva de Bayard, mantenía con él largas conversaciones llenas de digresiones sin salirse de un monótono sonsonete, bastante agudo.
+> 
+> —Míster Bayard ha vuelto —hizo notar como de pasada.
+> 
+> Bayard regresó de sus somnolientas abstracciones y permaneció perfecta y furiosamente inmóvil, mientras los latidos de su corazón se debilitaban y se hacían demasiado rápidos, maldiciendo a su nieto durante un larguísimo instante; tan inmóvil, que su criado al mirar para atrás lo encontró contemplando tranquilamente el horizonte. alzó un poco la voz.
+> 
+> —Se bajó del tren de las dos —continuó—. Por el lado que no da al andén y desapareció corriendo entre los árboles. Lo vio uno de los empleados. Pero todavía no había llegado a casa cuando yo salí. Se me ocurrió que quizá estuviera con usted.
+> 
+> El polvo se arremolinaba bajo los cascos de los caballos para convertirse detrás en una nube perezosa. Contra los setos que se espesaban, las sombras corrían subiendo y bajando, entre radios centelleantes y el paso altivo de los caballos, con toda la futilidad de un movimiento sin progreso.
+> 
+> —Ni siquiera se bajó en el apeadero —continuó Simón, con una especie de irritada exasperación—. El apeadero que construyó su propia familia. ¡Saltar del tren por el otro lado como un vagabundo! Ni siquiera iba vestido de uniforme.
+> 
+> Su tono era ya de franca desaprobación.
+> 
+> —Llevaba un simple traje, como un viajante de comercio o cualquier cosa parecida. Y cuando me acuerdo de aquellas botas tan brillantes y los pantalones de color amarillo claro y de la guerrera con que vino a casa el año pasado…
+> 
+> Simón se dio la vuelta otra vez y miró fijamente al anciano.
+> 
+> —Coronel, ¿cree usted que esos extranjeros le habrán hecho algo?
+> 
+> —¿Qué quieres decir? —quiso saber Bayard—. ¿Ha vuelto cojo?
+> 
+> —No, me refiero a eso de colarse de rondón en su propio pueblo. Colarse de rondón en el pueblo que construyó su abuelo, usando el ferrocarril de su familia como un cualquiera. Esos malditos extranjeros le han hecho algo o han conseguido que le persiga la policía. Ya le decía yo cuando se fue la primera vez a esa guerra que ni a él ni a Mr. Johnny se les había perdido nada…
+> 
+> —No vayas tan despacio —dijo Bayard secamente—. Sigue adelante, negro maldito.
+> 
+> Simón chasqueó la lengua e hizo que los caballos aligeraran el paso. La carretera se prolongaba entre los setos que seguían ofreciéndoles las terribles cabriolas sin sentido de sus propias sombras. Más allá de los árboles de goma, de las encinas y de los viñedos que bordeaban la carretera, se extendían campos recién abiertos o a punto de serlo hacia zonas de bosque de hoja caduca con brotes nuevos, esmaltados de cerezos silvestres y algarrobos locos. Tras los laboriosos arados, viscosos terrones brillaban húmedamente al sol.
+> 
+> Eran aquéllas tierras altas, que se elevaban en suaves pendientes sucesivas hasta el azul inmaculado de las colinas; pero pronto la carretera empezó a descender en picado hacia un valle de amplios campos de buena tierra, somnolientos bajo el calor igualador de las primeras horas de la tarde. En seguida empezaron a cruzar las propiedades del mismo Bayard y, de cuando en cuando, algún negro levantaba la mano del arado para saludar al coche. Luego, la carretera se acercó a la vía del ferrocarril y la cruzó, hasta que, por fin, la casa que John Sartoris había construido apareció entre las encinas y los robles. Simón giró para atravesar el portón de hierro y subir por la avenida en curva.
 Había un arriate de salvia en el sitio donde una patrulla yanqui se detuviera en un día ya lejano. Simón paró el coche haciendo una última floritura y Bayard se apeó. El cochero chasqueó la lengua para que la pareja se pusiera otra vez en marcha en dirección contraria; luego, colocándose el cigarro en una postura más cómoda, tomó rumbo a la ciudad.
 Bayard permaneció por un momento inmóvil delante de la casa, pero su blanca simplicidad sólo le ofrecía un sueño ininterrumpido entre los árboles añosos iluminados por el sol. La glicina que subía por un extremo de la veranda había florecido, marchitándose después, y un débil rastro de pétalos ajados yacía pálidamente entre sus oscuras raíces y las de un rosal que crecía apoyándose en el mismo rodrigón. El rosal, lenta pero inexorablemente, estaba ahogando la otra enredadera, cuyos brotes no pasaban ya del tamaño de dedales y daban unas flores tan pequeñas como monedas de plata; abundantísimas, eso sí, pero sin aroma, y además se deshacían al intentar cortarlas.
 Sin embargo, la inmovilidad y la serenidad de la casa resultaban sedantes, por lo que el viejo Bayard subió hasta el vacío y encolumnado porche y, después de cruzarlo, entró en el espacioso vestíbulo de altísimo techo.
@@ -57,114 +85,557 @@ La escalera, con la barandilla blanca y su alfombra roja, subía en esbelta espi
 —¡Jenny!
 La salmodia cesó y mientras él se volvía hacia la escalera, una mulata de aventajada estatura apareció en la oblicua mancha de sol más allá de la puerta trasera y entró en el vestíbulo como deslizándose. Llevaba una bata azul descolorida, remangada hasta las rodillas y llena de manchas oscuras irregularmente distribuidas. Por debajo, sus pantorrillas eran rectas y descarnadas como las patas de un pájaro muy alto y sus pies, descalzos, contrastaban como pálidas manchas de café con leche sobre el oscuro suelo encerado.
 —¿Llamaba usted a alguien, Coronel? —dijo, alzando la voz.
-Bayard se detuvo con la mano en la barandilla de nogal y se volvió hacia el agradable rostro de la mulata.
-—¿Ha venido alguien por la tarde? —preguntó.
-—No, señor —contestó Elnora—. No hay nadie en la casa, que yo sepa. Miss Jenny se marchó a la reunión del club de la ciudad.
-Bayard permaneció con un pie en el primer escalón, mirándola fijamente.
-—¿Por qué demonios, negros malditos, siempre tenéis que mentir o no decir nada? —estalló de repente.
-—Cielo santo, Coronel, ¿quién podría venir hasta aquí, si no es alguien que manden usted o Miss Jenny?
-Pero él iba ya escaleras arriba, pisando furiosamente los peldaños. La mujer lo siguió con la vista unos instantes y después exclamó:
-—¿Necesita usted a Isom o cualquier otra cosa?
-Pero él siguió subiendo sin mirar atrás. Quizá no la había oído, y Elnora se quedó inmóvil viendo cómo se perdía de vista. «Se está haciendo viejo», dijo para sus adentros la mulata resignadamente; después dio media vuelta y, deslizándose más que andando, regresó por el fondo del vestíbulo al sitio de donde había venido.
-Bayard se detuvo al llegar al primer piso. Las ventanas que daban a poniente estaban cubiertas con persianas, y la luz del sol que se filtraba en pálidas estrías casi disueltas, tan sólo contribuía a aumentar la penumbra. En el lado opuesto, la puerta alta que daba a un balcón enrejado muy estrecho, ofrecía el panorama del valle y del semicírculo de colinas que lo protegían hacia el este. A cada lado de esta puerta había una ventana estrecha con vidrios emplomados de diferentes colores que, junto con la hermana más joven de John Sartoris, que los trajo desde Carolina el año sesenta y nueve en un cesto lleno de paja, constituían el legado de su madre a Bayard en el lecho de muerte.
-Esta tía era Virginia Du Pre, que vino a instalarse con ellos recién cumplidos los treinta años, cuando llevaba siete de viudez después de dos de matrimonio. Miss Jenny, una mujer esbelta con la misma nariz que todos los Sartoris aunque más delicada, y con la expresión de indomable y total cansancio que las mujeres del Sur habían aprendido a adoptar, llegó con su guardarropa y un baúl de mimbre lleno de cristales de colores. Era ella quien contó cómo había muerto Bayard Sartoris antes de la segunda batalla de Manassas. Después había vuelto a contarlo muchas veces (todavía seguía haciéndolo, ya octogenaria, y de ordinario en las ocasiones más inoportunas) y, a medida que pasaban los años, la historia se iba enriqueciendo, y adquiría el añejo esplendor de un buen vino; hasta que el alarde descabellado de dos muchachos tan temerarios como testarudos, emborrachados con su propia juventud, había llegado a convertirse en el punto culminante —lleno de arrojo y de trágica elegancia— gracias al cual la historia de la raza había salido de los antiguos pantanos de pereza espiritual, mediante dos ángeles valientes y llenos de encanto que, al caer y perderse, habían alterado el curso del acontecer humano, purificando las almas de los hombres.
-Aquel Bayard de Carolina había resultado un bocado de difícil digestión hasta para los Sartoris. No tanto por oveja negra como por molestia llena de cualidades tan positivas como poco previsibles. Tenía unos ojos azules muy alegres y el cabello, que llevaba más bien largo, le caía en rizos leonados sobre las sienes. Su rostro atezado lucía la expresión de sincera y denodada simplicidad con que nos imaginamos a Ricardo antes de partir para las Cruzadas, y en una ocasión, persiguiendo a un zorro, azuzó a sus perros de caza para que atravesaran una rústica capilla en la que se celebraba una ceremonia metodista de renovación espiritual; treinta minutos más tarde (después de capturar el zorro) volvió solo y se metió junto con su caballo en la indignada asamblea que se produjo tras su primera invasión. Todo ello simplemente para divertirse: como todas sus acciones demostraban claramente, creía con demasiada firmeza en la providencia para tener convicciones religiosas. De manera que cuando Fort Moultrie cayó y el gobernador se negó a entregarlo, los Sartoris no lo lamentaron demasiado, al menos privadamente, porque significaba darle una ocupación a Bayard.
-En Virginia, como ayudante de campo de Jeb Stuart, a Bayard no le faltó quehacer. Habría que decir más bien como el ayudante de campo, porque los otros subalternos de Stuart eran soldados empeñados en ganar una guerra y necesitados de descabezar un sueño de cuando en cuando: Bayard Sartoris era el único dispuesto, e incluso deseoso, de retrasar sueño y seguridad hasta el momento en que la monotonía reinara otra vez en el mundo. Porque mientras tanto estaba de fiesta y no aceptaba restricciones de ninguna clase.
-La guerra fue también un regalo celestial para Jeb Stuart, y poco después, recortados contra la turbia y sangrienta mediocridad de las campañas en el norte de Virginia, él a los treinta años y Bayard Sartoris a los veintitrés, se destacaron brevemente como dos estrellas llameantes, engalanadas con el laurel de la Fama y el mirto y las rosas de la Muerte, imprevisibles y repentinos como meteoros en el agitado cielo militar del general Pope, arrojando sobre él, como un manto no solicitado, la notoriedad que su talento de soldado nunca le hubiera conseguido. Y siempre por pura diversión: ni Jeb Stuart ni Bayard Sartoris, como sus acciones demostraron claramente, tenían convicciones políticas de ningún tipo.
-La tía Jenny contó la historia por primera vez poco después de su llegada. Estaban en Navidades, reunidos ante un fuego de buena madera en la biblioteca reconstruida: la tía Jenny, de rostro triste y expresión decidida, John Sartoris, barbado y con perfil de halcón, sus tres hijos y un huésped: el ingeniero escocés que John Sartoris había conocido en Méjico el año cuarenta y cinco y que le estaba ayudando a construir el ferrocarril.
-El trabajo en la vía férrea se había suspendido con motivo de las fiestas y John Sartoris y el ingeniero regresaron aquel día al atardecer desde el sitio en las colinas del norte hasta donde habían llegado con la vía, y estaban sentados junto al fuego después de cenar. El sol se había puesto entre esplendores escarlatas, helando el aire y dejándolo tan quebradizo como un cristal fino, cuando entró Joby en la habitación con una brazada de leña. Puso otro tronco en el fuego, y en el aire seco las llamas crepitaron y los leños crujieron, despidiendo brasas agonizantes por toda la chimenea.
-—¡Navidad! —exclamó Joby con la reposada y sencilla satisfacción propia de su raza, mientras con el cañón de una escopeta yanqui que estaba en la esquina de la chimenea hurgaba entre los troncos incandescentes hasta que las chispas subieron en espiral por el hueco de la chimenea como fantásticos velos dorados.
-—¿Habéis oído, niños?
-La hija mayor de John Sartoris tenía veintidós años e iba a casarse en junio; Bayard tenía veinte y la hermana más pequeña diecisiete; de manera que la tía Jenny, a pesar de su ya larga viudez, no era más que otra niña para Joby. El negro volvió a dejar el cañón de la escopeta en su sitio y prendió una larga astilla de pino en el hogar para encender las velas. Pero la tía Jenny lo detuvo con un gesto y él se marchó en seguida: una figura sin prestancia, agachada y gris por la edad, con una vieja librea demasiado grande para él; y tía Jenny, hablando siempre de Jeb Stuart como Míster Stuart, contó su historia.
-Tenía que ver con una tarde de abril y con café. O más bien con su falta. El destacamento de Stuart estaba reunido en la perfumada oscuridad bajo una luna nueva, hablando de mujeres y de placeres muertos y pensando en el hogar. No lejos los caballos se movían en la oscuridad produciendo sonidos intranquilos y los fuegos de la acampada quedaban reducidos a puntos incandescentes semejantes a luciérnagas agotadas; en algún sitio que no estaba ni demasiado cerca ni demasiado lejos el ordenanza del General tocaba en la guitarra acordes sueltos que permanecían largo tiempo suspendidos en el aire. Se alimentaban así con la intensidad de la primavera y la tristeza inmemorial de la juventud, olvidados de fatiga y gloria, recordando en cambio otras veladas de Virginia con violines sobre los innumerables candelabros y ritmos graves y frágiles aprendidos entre risas despreocupadas, al tiempo que pensaban ¿Cuándo volverán a existir? ¿Iré yo a alguno? hasta hundirse a fuerza de hablar en un estado de desesperada nostalgia en el que las frases se hacían cada vez más cortas y cada vez menos frecuentes. Entonces el General se animó y los hizo volver a la realidad hablándoles de café o más bien de su falta.
-Esta conversación sobre el café desembocó poco después en una expedición nocturna, primero por carreteras y luego por bosques tan negros como el alquitrán, donde los caballos avanzaban al paso y los jinetes montaban con un sable o un mosquetón a manera de escudo, para evitar que ramas invisibles los arrebataran de la silla; así siguieron hasta que el bosque se aclaró con las primeras sombras del amanecer. Para entonces el grupo de veinte estaba ya muy dentro de las líneas federales. Al hacerse realidad la aurora, los jinetes renunciaron a ocultarse y avanzaron al galope —desbaratando asombradas patrullas que regresaban plácidamente a sus campamentos o grupos de fajina que se ponían en marcha con picos, palas y hachas en el dorado amanecer— hasta prorrumpir gritando en la loma donde el general Pope y su estado mayor desayunaban al fresco.
-Dos hombres capturaron a un obeso comandante, y otros persiguieron brevemente a los oficiales que buscaron refugio en el bosque, pero la mayoría corrió hacia la tienda-almacén del general Pope y reaparecieron en seguida, después de devastarla como si por ella hubiera pasado un ciclón, acarreando provisiones diversas. Stuart y los tres oficiales que lo acompañaban detuvieron sus briosas monturas junto a la mesa y uno de ellos se agachó para alcanzar una enorme cafetera ennegrecida y ofrecérsela al General. Mientras el enemigo gritaba y disparaba sus mosquetones entre los árboles, ellos brindaban con café hirviendo, sin leche y sin azúcar, como si fuera el más exquisito de los licores.
-—A la salud del general Pope —dijo Stuart, haciendo una inclinación desde su silla de montar al oficial capturado.
-Después de beber ofreció la cafetera al comandante.
-—Beberé, señor —replicó el otro—, agradeciendo a Dios que el General no esté aquí para responder en persona.
-—Ya me pareció notar que se marchaba con cierta precipitación —dijo Stuart—. ¿Algún compromiso previo, quizás?
-—Sí, señor. Con el general Halleck —confirmó el comandante con sequedad—. Siento que sea él nuestro adversario en lugar de Lee.
-—También lo siento yo, caballero —replicó Stuart—. A mí me gusta hacer la guerra contra el general Pope.
-Las cornetas chillaban entre los árboles, unas cerca y otras más lejos, transmitiendo la alarma entre las brigadas repartidas por el bosque, mientras los tambores redoblaban desesperadamene y hasta los oídos de los sudistas desde los diseminados puestos de avanzada llegaban descargas de fusilería o disparos aislados como secos chasquidos de un abanico al abrirse, porque el nombre de «Stuart», al correr de destacamento en destacamento, había poblado de fantasmas grises los tranquilos bosques florecidos.
-Stuart se dio la vuelta sobre la silla y sus hombres se acercaron, inmovilizando sus caballos con la mirada fija en él, haciendo de sus rostros enjutos y tensos, espejos que reflejaban la llama inextinguible que consumía a su jefe. Luego, desde la derecha les alcanzó algo que parecía una descarga organizada y que arrancó la cafetera de manos de Bayard Sartoris, además de cercenar hojas y rebotar con fiereza entre las moteadas ramas por encima de sus cabezas.
-—Haga el favor de montarse —dijo Stuart al oficial capturado, y aunque el tono era exquisitamente cortés no había ya el menor asomo de ligereza—. Capitán Wyatt, su caballo es el más robusto: ¿tendría usted inconveniente…?
-El capitán dejó libre un estribo y ayudó al prisionero a encaramarse tras él.
-—¡En marcha! —dijo el General, y giró picando espuelas a su bayo. Con la atronadora coordinación de un único centauro, los veinte jinetes abandonaron el otero y se internaron en el bosque precisamente por el sitio de donde había salido la descarga, antes de que los escopeteros tuvieran tiempo para cargar de nuevo sus armas. Formas diminutas vestidas de azul se dispersaron precipitadamente por delante y por detrás mientras ellos se adentraban entre los árboles donde las balas zumbaban como abejas enfurecidas. Stuart llevaba en la mano su sombrero empenachado y sus largos rizos leonados, agitándose al ritmo de la marcha, parecían llamas de valor, ardiendo con el esplendor salvaje y autodestructor de su audacia.
-Detrás y a un lado de ellos los mosquetones seguían apareciendo inesperadamente para disparar contra los fantasmas que cruzaban el bosque como relámpagos; y de brigada en brigada las cornetas repetían estridentes sus inoportunas alarmas. Stuart torció gradualmente hacia la izquierda, dejando todo el alboroto a sus espaldas. Al clarear el bosque galoparon formando una columna. El prisionero rebotaba desacompasadamente sobre el caballo del capitán Wyatt, y el General frenó el suyo para ponerse a la altura del brioso corcel negro que galopaba animosamente bajo su doble carga.
-—Siento mucho las molestias que le estoy causando, señor —empezó diciendo con su exquisita cortesía—. Si quisiera usted indicarnos la posición aproximada de la estacada que quede más a mano, con mucho gusto capturaría una montura para usted.
-—Gracias, General —replicó el prisionero—, pero a los comandantes se les reemplaza mucho más fácilmente que a los caballos. No le causaré ninguna molestia.
-—Como usted prefiera —contestó Stuart fríamente.
-El General picó espuelas para situarse otra vez a la cabeza de la columna. Galopaban ya siguiendo el rastro casi perdido de un antiguo camino que serpenteaba entre masas de maleza primaveral, y lo fueron siguiendo a buen paso hasta desembocar súbitamente en un claro. Ante ellos un escuadrón de caballería yanqui, inmovilizado por el asombro, detuvo sus caballos e inmediatamente se precipitaron hacia ellos a mayor velocidad.
-Sin disminuir la marcha Stuart dio media vuelta y él y sus hombres volvieron a ocultarse en el bosque. Balas de pistola pasaron rozándoles la cabeza y el seco sonido de los disparos por encima del convergente tableteo de los cascos resultaba tan trivial como chasquidos de ramas quebradas. Stuart se salió del camino, lanzándose sin vacilación entre la maleza. Los jinetes federales los siguieron gritando y Stuart hizo describir a su grupo una curva muy cerrada, para detenerse jadeantes al abrigo de un bosquecillo muy denso. En seguida oyeron cómo sus perseguidores pasaban de largo.
-Los hombres de Stuart regresaron al camino y volvieron sobre sus pasos, silenciosos y alertas. A su izquierda el ruido de los perseguidores se fue alejando hasta desaparecer en la distancia. Entonces galoparon de nuevo. Al espesarse el bosque se vieron obligados a avanzar al trote y finalmente pusieron sus monturas al paso. Aunque no se oían más disparos y también habían callado las cornetas, dentro del silencio, por encima del rápido y entrecortado respirar de los caballos y del latido de sus propios corazones retumbando dentro de sus oídos, persistía un algo innominado: una tensión que se extendía como una neblina entre los árboles, aunque los pájaros siguieran saltando de rama en rama, desconociendo su presencia o ignorándola simplemente, llenando de un algo portentoso los bosques empapados de rocío matutino.
-Al divisar un resplandor blanco entre los árboles fronteros, Stuart alzó la mano y los jinetes detuvieron la marcha, observándole tranquilos y conteniendo la respiración para escuchar mejor. El General avanzó de nuevo, se internó entre la maleza hasta llegar a otro claro y los demás le siguieron: ante ellos se alzaba la loma con la abandonada mesa del desayuno y el almacén saqueado. Atravesaron el claro al trote y permanecieron inmóviles junto a la mesa mientras el General escribía algo apresuradamente sobre un trozo de papel. El claro soñaba tranquilo, sin sombra alguna de amenaza, bajo un día que se anunciaba soleado; embalsada en él yacía una paz profunda y duradera como un vino dorado; sin embargo, bajo aquella soledad y permeándola, seguía acechando un algo portentoso, que esperaba innominado, paciente, cerniéndose siniestro.
-—Su espada, señor —ordenó Stuart.
-El prisionero se despojó del arma, el General la recogió y con ella clavó la nota sobre la mesa. El mensaje decía lo siguiente: «Saludos del general Stuart al general Pope, con el pesar de no haber podido verlo. Repetirá la visita mañana».
-Stuart tomó otra vez las riendas.
-—¡En marcha! —dijo.
-Descendieron la loma, cruzaron el claro vacío y con un galope corto volvieron al camino que habían atravesado al amanecer: el camino que les devolvía a sus líneas. Stuart regresó junto a su cautivo y al brioso caballo negro con la doble carga.
-—Si nos orienta usted hacia la estacada más próxima le proporcionaré una montura adecuada —ofreció de nuevo.
-—¿Pondrá en peligro el general Stuart, jefe de la caballería y mano derecha del general Lee, su seguridad y la de sus hombres, así como su propia causa, para proporcionar una comodidad pasajera a un prisionero de poca importancia? Eso no es valor, es la temeridad de un muchacho despreocupado y testarudo. En un radio de dos millas hay cerca de quince mil hombres; aunque sólo sean yanquis, ni siquiera el general Stuart puede vencerlos solo.
-—No lo haría por el prisionero —respondió Stuart, altanero—, sino por el oficial que sufre los avatares de la guerra. Cualquier caballero haría lo mismo.
-—Los caballeros no tienen nada que hacer en esta guerra —replicó el comandante—. Aquí no hay sitio para ellos. Son un anacronismo, como las anchoas.
-Y añadió en seguida, burlonamente:
-—El general Stuart no se ha llevado cautivas a nuestras anchoas. ¿Tiene quizá intención de mandar a Lee en persona a por ellas?
-—Anchoas —repitió Bayard Sartoris que galopaba a poca distancia, e inmediatamente dio la vuelta a su caballo. Stuart lo llamó a gritos, pero él alzó una mano temeraria y testaruda y se alejó como un relámpago; y mientras el General se disponía a girar también para seguirlo, un centinela yanqui disparó su mosquetón desde el borde del camino y echó a correr por el bosque, dando la alarma. Inmediatamente se oyeron otras detonaciones por los alrededores y desde el bosque, a la derecha, llegaron los ruidos de un considerable contingente de hombres que se ponía precipitadamente en movimiento. Tras ellos, en dirección a la loma, cayó una descarga cerrada. Un tercer oficial picó espuelas para sujetar la montura de Stuart por la brida.
-—Señor —exclamó—; ¿qué va usted a hacer?
-Stuart encabritó al caballo mientras se oía tras ellos otra descarga que se fue extinguiendo en disparos aislados y que vino a caer en un área muy precisa. También el ruido de la derecha crecía, aproximándose.
-—Déjame ir, Alian —dijo Stuart—. Es mi amigo.
-Pero el otro siguió agarrado a la brida.
-—Es demasiado tarde —explicó—. A Sartoris lo matarán; a usted lo capturarían.
-—Siga adelante, señor, se lo ruego —añadió el prisionero—; ¿Qué es un hombre, frente a una fe renovada en la humanidad?
-—¡Piense en Lee, General, por el amor de Dios! —imploró su ayudante—. ¡En marcha! —gritó a la tropa, picando espuelas a su caballo y arrastrando el del General hacia adelante al advertir que un destacamento de caballería federal salía del bosque detrás de ellos.
-—Y así fue —terminó tía Jenny— cómo Míster Stuart siguió adelante y Bayard regresó en busca de las anchoas, con todo el ejército de Pope disparando contra él. Cabalgó gritando «¡Yaaaiiiiih, yaaaiiiiih, venid a por mí, muchachos!» hasta llegar a la loma; luego saltó por encima de la mesa del desayuno y entró sin desmontar en el destrozado almacén del General. Allí, un cocinero que se había escondido entre la confusión de sacos y cajones, sacó un brazo y disparó contra Bayard por la espalda con una pistola de cañón corto.
-Mr. Stuart se abrió camino luchando y regresó a su campamento sin perder más que dos hombres. Siempre hablaba bien de Bayard. Decía que era un buen oficial y un jinete sin par, aunque demasiado temerario.
-Durante algún tiempo permanecieron callados, iluminados por el fuego. Las llamas saltaban y estallaban en el hogar y las chispas se alzaban en penachos turbulentos chimenea arriba, y la breve carrera de Bayard Sartoris atravesó como una estrella fugaz la oscura explanada de sus respectivos recuerdos y sufrimientos, iluminándola con el súbito resplandor de un silencioso fuego de artificio y dejando una especie de brillo después de extinguirse. El ingeniero escocés, que había escuchado en silencio, tardó un buen rato en hablar.
-—Cuando Bayard volvió al campamento enemigo, no estaba seguro de que hubiera anchoas, ¿verdad?
-—El mayor yanqui dijo que estaban allí —replicó tía Jenny.
-—Sí, claro.
-Pero el escocés siguió meditando sobre el asunto.
-—Y… ¿Mr. Stuart regresó al día siguiente, como decía en la nota?
-—Regresó aquella misma tarde —explicó tía Jenny—, en busca de Bayard.
-Cenizas rosadas tan suaves como plumas revoloteaban por el hogar hasta caer y diluirse en grises sutiles. John Sartoris se inclinó hacia el fuego y atizó los leños incandescentes con el cañón del fusil yanqui.
-—Creo que nunca ha habido en el mundo otro ejército como aquél —dijo.
-—Sí —reconoció tía Jenny—. Y Bayard era el más loco de todos.
-—Sí —admitió sobriamente John Sartoris—. Bayard era un caso aparte.
-El escocés habló de nuevo.
-—Ese Míster Stuart, que llamó temerario a su hermano, ¿quién era?
-—Era Jeb Stuart, el general de caballería —contestó tía Jenny.
-Luego siguió cavilando durante un rato junto al fuego; su pálido rostro, de indómita altivez, se dejó ganar momentáneamente por una reposada ternura.
-—Tenía un extraño sentido del humor —dijo—. Nada le pareció nunca tan divertido como la imagen del general Pope en camisa de dormir.
-Después se sumió otra vez en algún ensueño más allá de la rosada fortaleza de cenizas.
-—Pobre hombre —dijo.
-Luego añadió suavemente:
-—Una vez bailé un vals con él en Baltimore en el año cincuenta y ocho.
-Y su voz resultaba tan orgullosa y sosegada como banderas sobre el polvo.
-Pero la puerta estaba cerrada, y la poca luz que se filtraba por las vidrieras de colores tenía la riqueza solemne de un tapiz antiguo. A la izquierda quedaba el cuarto de su nieto, el cuarto donde, el pasado octubre, habían muerto su mujer y su hijo. Permaneció junto a la puerta durante un momento y luego la abrió suavemente. Las persianas estaban cerradas y la habitación, vacía; y él se quedó un rato en el quicio, rodeado de oscuridad. Después cerró dando un portazo y echó a andar haciendo retumbar la casa bajo sus pasos con la insensibilidad para los ruidos característica de los sordos. Al entrar en su alcoba dio otro violento portazo, ya que era aquélla su manera habitual de cerrar las puertas.
-Después de sentarse se quitó los zapatos: el calzado que dos veces al año le hacía a la medida una firma de Saint Louis. Luego se levantó y se llegó hasta la ventana sólo con los calcetines puestos. En el patio de atrás su yegua, ya ensillada, estaba atada a una morera y un muchacho negro, tan flaco como un galgo y de movimientos igualmente fluidos, haraganeaba a su lado, disfrutando de la forzosa inmovilidad de la espera. Procedente de la cocina, aunque invisible desde su ventana, la inacabable salmodia de Elnora menguaba y crecía en la pereza de la tarde sin que Bayard pudiera oírla.
-El anciano cruzó la habitación para abrir el armario y sacar de él un par de botas de montar llenas de cicatrices y manchas. Después de ponérselas a empellones sacó un cigarro de la caja que había en la mesilla junto a la enorme cama de nogal, y permaneció durante algún tiempo con el puro entre los dientes sin acordarse de encenderlo. A través de la tela del bolsillo su mano tocó la pipa; la sacó para mirarla de nuevo, y le pareció oír aún al viejo Falls, recordando a voz en grito:
-—El Coronel estaba sentado en una silla, descalzo, con los pies sobre la barandilla del porche, y fumaba en esta misma pipa que ahora tienes en la mano. Louvinia, sentada en un escalón, pelaba en un cuenco guisantes para la cena. Te aseguro que a nadie le parecía mal un plato de guisantes en aquellos días. Y tú estabas recostado contra una columna. No había nadie más, excepto tu tía, la que vivió aquí antes de que llegara Miss Jenny. El Coronel había enviado a las dos chicas a Memphis a casa de tu abuelo la primera vez que fue a Virginia con aquel regimiento que se dio la vuelta y le quitó el mando mediante una votación. Votaron contra él porque tu padre no estaba dispuesto a confraternizar con el primer ratero que aparecía llevando un fusil de desecho y diciendo que era soldado. Tú estabas todavía creciendo, si no recuerdo mal. ¿Cuántos años tenías entonces, Bayard?
-—Catorce.
-—¿Cómo dices?
-—Catorce. ¿Es que tengo que repetirlo cada vez que me cuentas esa maldita historia?
-—Estabais todos sentados cuando entraron los yanquis y se acercaron al trote por la avenida.
-»A Louvinia se le cayó el cuenco de los guisantes y dio un chillido, pero el Coronel le dijo que se callara y fuera corriendo a por sus botas y a por sus pistolas y las tuviera preparadas en la puerta trasera; y tú saliste como un rayo camino del establo para ensillar el semental. Y cuando los otros se pararon delante de la casa, justo en el sitio donde está ahora el arriate, no quedaba en el porche más que el Coronel, tan repanchigado como si nunca hubiera oído hablar de los yanquis.
-»Ellos se quedaron allí sin desmontar, preguntándose unos a otros si aquélla era o no la casa; mientras, el Coronel seguía con los pies en la barandilla, mirándolos tan boquiabierto como un palurdo. El oficial yanqui le dijo a uno de sus hombres que fuera hasta el establo y viera si había algún caballo. Después se volvió hacia el Coronel: “Oye, Johnny, ¿dónde vive John Sartoris, el rebelde?” “Vive un poco más allá carretera abajo —contestó el Coronel sin pestañear siquiera—. Cosa de dos millas. Pero no lo van a encontrar. Se ha marchado otra vez a luchar contra los yanquis”. “Bueno; de todas maneras será mejor que vengas con nosotros para enseñarnos el camino”, dijo el oficial.
-»De manera que el Coronel se levantó muy despacio y les dijo que le dejaran coger las botas y el bastón, y entró cojeando en la casa, mientras ellos esperaban a caballo.
-»Tan pronto como lo perdieron de vista echó a correr. La vieja Louvinia lo estaba esperando en la puerta de atrás con la chaqueta, las botas, las pistolas y un bocadillo de pan de maíz. El otro yanqui había entrado a caballo en el establo y el Coronel envolvió con la chaqueta las cosas que le daba Louvinia y echó a andar por el patio de atrás como si estuviera dando un paseo. Cuando el yanqui apareció otra vez en la puerta del establo, dijo: “Aquí no queda ningún animal”. “Creo que no —contestó el Coronel; y luego añadió, mientras seguía andando—: Su capitán dice que vuelva usted con ellos”. Sentía cómo el yanqui lo vigilaba, clavándole los ojos en la espalda, en el sitio exacto por donde entraría la bala. El Coronel contaba después que lo más difícil que hizo en toda su vida fue cruzar aquel patio de espaldas al yanqui sin echar a correr. Quería llegar a la esquina del establo, para poner cuanto antes una pared por medio y le pareció que llevaba un año andando sin avanzar un milímetro; tampoco se atrevía a mirar para atrás. Y dijo que no pensaba en nada, excepto en lo bien que había hecho mandando a las chicas a Memphis; y que no se acordó ni una vez de tu tía, la que estaba en la casa, porque era una Sartoris de pura cepa, dijo, y capaz de hacer frente a una docena de yanquis.
-»Cuando el soldado empezó a llamarlo a gritos, el Coronel siguió andando sin mirar para atrás ni hacer movimientos bruscos; pero cuando el yanqui volvió a gritar y el Coronel oyó moverse el caballo, decidió que había llegado el momento de aligerar el paso. Dobló la esquina del establo al mismo tiempo que el soldado empezaba a disparar y para cuando el otro llegó hasta allí, él corría ya por entre la maleza hacia el arroyo donde tú lo esperabas escondido entre los sauces con el semental.
-»Y allí te quedaste sujetando el caballo, con la patrulla yanqui dando gritos cada vez más cerca, mientras el Coronel se ponía las botas. Y antes de marcharse te encargó que le dijeras a tu tía que no podría cenar en casa aquella noche.
-—Pero, ¿para qué me la das ahora, después de tanto tiempo? —le había preguntado Bayard, y el viejo Falls había dicho que el asilo no era un sitio adecuado para la pipa de John Sartoris.
-—Era una cosa que llevaba en el bolsillo y de la que disfrutó en aquellos días. Todo resultaba diferente mientras construíamos el ferrocarril. Decía muchas veces que cualquier sábado por la noche acabaríamos en el asilo. Más probablemente en el cementerio, cabalgando como él lo hacía de día y de noche y de un extremo a otro de la vía con las alforjas llenas de dinero, tan sólo una traviesa por delante del asilo, como solía repetir. Fue entonces cuando cambiaron las cosas. Cuando tuvo que empezar a matar gente. Como aquellos dos aventureros del Norte que vinieron a revolucionar a los negros para que votaran y el Coronel entró en la habitación en la que estaban sentados detrás de una mesa, con las pistolas delante; o como el ladrón y aquel otro tipo que mató: a todos con la misma pistola de cañón corto. Cuando una persona empieza a matar gente, la mayor parte de las veces tiene que seguir matando. Y cuando le pasa eso es como si ya estuviera muerto.
-A John Sartoris se le notaba ya en la frente —aquella sombra oscura de fatalidad y destrucción—, la noche que se sentó a cenar en el comedor bajo la luz de las velas y empezó a dar vueltas a la copa de vino entre los dedos mientras hablaba con su hijo. El ferrocarril estaba terminado, acababa de ganar las elecciones para la legislatura del Estado después de una campaña dura y despiadada y en su frente se había posado la sombra de la fatalidad y también un poco de hastío.
-—De manera —dijo—, que Redlaw acabará mañana conmigo porque iré desarmado. Estoy cansado de matar hombres… Pásame el vino, Bayard.
-Y al día siguiente ya estaba muerto, como si no hubiera hecho otra cosa que esperar aquel desenlace para librarse de la torpe limitación de huesos y aliento; como si al perder el sentimiento de frustración producido por la propia carne, pudiera ya tensar y dar forma a lo que brotaba de él convertido en la inevitable apariencia de su sueño, y ser así evocado, como un genio o una deidad, por los tediosos recuerdos de un anciano analfabeto o por una pipa chamuscada de la que hasta el rancio olor a tabaco quemado se había esfumado muchos años atrás.
-El viejo Bayard salió de su ensimismamiento y dejó la pipa sobre la cómoda. Luego bajó pesadamente las escaleras y salió de la casa por la puerta trasera.
-Isom, poniéndose en movimiento sin el menor gesto brusco, desató la yegua y ofreció el estribo a su amo. Bayard se montó y acordándose por fin de que llevaba el cigarro en la boca, lo encendió. El muchacho negro abrió el primer portón, volvió a cerrarlo tras el caballo y corrió para abrir el segundo, traspasado el cual, el jinete se encontraría ya en campo abierto. Bayard se alejó dejando flotar tras de sí el humo acre de su cigarro. De no se sabe dónde, surgió en seguida un setter inglés para situarse al lado de la yegua y acomodarse a su paso.
-Elnora, en el centro de la cocina con las piernas al aire, empapó una vez más la bayeta en el agua del cubo y volvió a dejarla caer pesadamente sobre el suelo.
-Cuando el pecador se levanta del banco de los que gimen,
-y se pasa al banco de los penitentes,
-el predicador le pregunta por qué lo hace
+> Bayard se detuvo con la mano en la barandilla de nogal y se volvió hacia el agradable rostro de la mulata.
+> 
+> —¿Ha venido alguien por la tarde? —preguntó.
+> 
+> —No, señor —contestó Elnora—. No hay nadie en la casa, que yo sepa. Miss Jenny se marchó a la reunión del club de la ciudad.
+> 
+> Bayard permaneció con un pie en el primer escalón, mirándola fijamente.
+> 
+> —¿Por qué demonios, negros malditos, siempre tenéis que mentir o no decir nada? —estalló de repente.
+> 
+> —Cielo santo, Coronel, ¿quién podría venir hasta aquí, si no es alguien que manden usted o Miss Jenny?
+> 
+> Pero él iba ya escaleras arriba, pisando furiosamente los peldaños. La mujer lo siguió con la vista unos instantes y después exclamó:
+> 
+> —¿Necesita usted a Isom o cualquier otra cosa?
+> 
+> Pero él siguió subiendo sin mirar atrás. Quizá no la había oído, y Elnora se quedó inmóvil viendo cómo se perdía de vista. «Se está haciendo viejo», dijo para sus adentros la mulata resignadamente; después dio media vuelta y, deslizándose más que andando, regresó por el fondo del vestíbulo al sitio de donde había venido.
+> 
+> Bayard se detuvo al llegar al primer piso. Las ventanas que daban a poniente estaban cubiertas con persianas, y la luz del sol que se filtraba en pálidas estrías casi disueltas, tan sólo contribuía a aumentar la penumbra. En el lado opuesto, la puerta alta que daba a un balcón enrejado muy estrecho, ofrecía el panorama del valle y del semicírculo de colinas que lo protegían hacia el este. A cada lado de esta puerta había una ventana estrecha con vidrios emplomados de diferentes colores que, junto con la hermana más joven de John Sartoris, que los trajo desde Carolina el año sesenta y nueve en un cesto lleno de paja, constituían el legado de su madre a Bayard en el lecho de muerte.
+> 
+> Esta tía era Virginia Du Pre, que vino a instalarse con ellos recién cumplidos los treinta años, cuando llevaba siete de viudez después de dos de matrimonio. Miss Jenny, una mujer esbelta con la misma nariz que todos los Sartoris aunque más delicada, y con la expresión de indomable y total cansancio que las mujeres del Sur habían aprendido a adoptar, llegó con su guardarropa y un baúl de mimbre lleno de cristales de colores. Era ella quien contó cómo había muerto Bayard Sartoris antes de la segunda batalla de Manassas. Después había vuelto a contarlo muchas veces (todavía seguía haciéndolo, ya octogenaria, y de ordinario en las ocasiones más inoportunas) y, a medida que pasaban los años, la historia se iba enriqueciendo, y adquiría el añejo esplendor de un buen vino; hasta que el alarde descabellado de dos muchachos tan temerarios como testarudos, emborrachados con su propia juventud, había llegado a convertirse en el punto culminante —lleno de arrojo y de trágica elegancia— gracias al cual la historia de la raza había salido de los antiguos pantanos de pereza espiritual, mediante dos ángeles valientes y llenos de encanto que, al caer y perderse, habían alterado el curso del acontecer humano, purificando las almas de los hombres.
+> 
+> Aquel Bayard de Carolina había resultado un bocado de difícil digestión hasta para los Sartoris. No tanto por oveja negra como por molestia llena de cualidades tan positivas como poco previsibles. Tenía unos ojos azules muy alegres y el cabello, que llevaba más bien largo, le caía en rizos leonados sobre las sienes. Su rostro atezado lucía la expresión de sincera y denodada simplicidad con que nos imaginamos a Ricardo antes de partir para las Cruzadas, y en una ocasión, persiguiendo a un zorro, azuzó a sus perros de caza para que atravesaran una rústica capilla en la que se celebraba una ceremonia metodista de renovación espiritual; treinta minutos más tarde (después de capturar el zorro) volvió solo y se metió junto con su caballo en la indignada asamblea que se produjo tras su primera invasión. Todo ello simplemente para divertirse: como todas sus acciones demostraban claramente, creía con demasiada firmeza en la providencia para tener convicciones religiosas. De manera que cuando Fort Moultrie cayó y el gobernador se negó a entregarlo, los Sartoris no lo lamentaron demasiado, al menos privadamente, porque significaba darle una ocupación a Bayard.
+> 
+> En Virginia, como ayudante de campo de Jeb Stuart, a Bayard no le faltó quehacer. Habría que decir más bien como el ayudante de campo, porque los otros subalternos de Stuart eran soldados empeñados en ganar una guerra y necesitados de descabezar un sueño de cuando en cuando: Bayard Sartoris era el único dispuesto, e incluso deseoso, de retrasar sueño y seguridad hasta el momento en que la monotonía reinara otra vez en el mundo. Porque mientras tanto estaba de fiesta y no aceptaba restricciones de ninguna clase.
+> 
+> La guerra fue también un regalo celestial para Jeb Stuart, y poco después, recortados contra la turbia y sangrienta mediocridad de las campañas en el norte de Virginia, él a los treinta años y Bayard Sartoris a los veintitrés, se destacaron brevemente como dos estrellas llameantes, engalanadas con el laurel de la Fama y el mirto y las rosas de la Muerte, imprevisibles y repentinos como meteoros en el agitado cielo militar del general Pope, arrojando sobre él, como un manto no solicitado, la notoriedad que su talento de soldado nunca le hubiera conseguido. Y siempre por pura diversión: ni Jeb Stuart ni Bayard Sartoris, como sus acciones demostraron claramente, tenían convicciones políticas de ningún tipo.
+> 
+> La tía Jenny contó la historia por primera vez poco después de su llegada. Estaban en Navidades, reunidos ante un fuego de buena madera en la biblioteca reconstruida: la tía Jenny, de rostro triste y expresión decidida, John Sartoris, barbado y con perfil de halcón, sus tres hijos y un huésped: el ingeniero escocés que John Sartoris había conocido en Méjico el año cuarenta y cinco y que le estaba ayudando a construir el ferrocarril.
+> 
+> El trabajo en la vía férrea se había suspendido con motivo de las fiestas y John Sartoris y el ingeniero regresaron aquel día al atardecer desde el sitio en las colinas del norte hasta donde habían llegado con la vía, y estaban sentados junto al fuego después de cenar. El sol se había puesto entre esplendores escarlatas, helando el aire y dejándolo tan quebradizo como un cristal fino, cuando entró Joby en la habitación con una brazada de leña. Puso otro tronco en el fuego, y en el aire seco las llamas crepitaron y los leños crujieron, despidiendo brasas agonizantes por toda la chimenea.
+> 
+> —¡Navidad! —exclamó Joby con la reposada y sencilla satisfacción propia de su raza, mientras con el cañón de una escopeta yanqui que estaba en la esquina de la chimenea hurgaba entre los troncos incandescentes hasta que las chispas subieron en espiral por el hueco de la chimenea como fantásticos velos dorados.
+> 
+> —¿Habéis oído, niños?
+> 
+> La hija mayor de John Sartoris tenía veintidós años e iba a casarse en junio; Bayard tenía veinte y la hermana más pequeña diecisiete; de manera que la tía Jenny, a pesar de su ya larga viudez, no era más que otra niña para Joby. El negro volvió a dejar el cañón de la escopeta en su sitio y prendió una larga astilla de pino en el hogar para encender las velas. Pero la tía Jenny lo detuvo con un gesto y él se marchó en seguida: una figura sin prestancia, agachada y gris por la edad, con una vieja librea demasiado grande para él; y tía Jenny, hablando siempre de Jeb Stuart como Míster Stuart, contó su historia.
+> 
+> Tenía que ver con una tarde de abril y con café. O más bien con su falta. El destacamento de Stuart estaba reunido en la perfumada oscuridad bajo una luna nueva, hablando de mujeres y de placeres muertos y pensando en el hogar. No lejos los caballos se movían en la oscuridad produciendo sonidos intranquilos y los fuegos de la acampada quedaban reducidos a puntos incandescentes semejantes a luciérnagas agotadas; en algún sitio que no estaba ni demasiado cerca ni demasiado lejos el ordenanza del General tocaba en la guitarra acordes sueltos que permanecían largo tiempo suspendidos en el aire. Se alimentaban así con la intensidad de la primavera y la tristeza inmemorial de la juventud, olvidados de fatiga y gloria, recordando en cambio otras veladas de Virginia con violines sobre los innumerables candelabros y ritmos graves y frágiles aprendidos entre risas despreocupadas, al tiempo que pensaban ¿Cuándo volverán a existir? ¿Iré yo a alguno? hasta hundirse a fuerza de hablar en un estado de desesperada nostalgia en el que las frases se hacían cada vez más cortas y cada vez menos frecuentes. Entonces el General se animó y los hizo volver a la realidad hablándoles de café o más bien de su falta.
+> 
+> Esta conversación sobre el café desembocó poco después en una expedición nocturna, primero por carreteras y luego por bosques tan negros como el alquitrán, donde los caballos avanzaban al paso y los jinetes montaban con un sable o un mosquetón a manera de escudo, para evitar que ramas invisibles los arrebataran de la silla; así siguieron hasta que el bosque se aclaró con las primeras sombras del amanecer. Para entonces el grupo de veinte estaba ya muy dentro de las líneas federales. Al hacerse realidad la aurora, los jinetes renunciaron a ocultarse y avanzaron al galope —desbaratando asombradas patrullas que regresaban plácidamente a sus campamentos o grupos de fajina que se ponían en marcha con picos, palas y hachas en el dorado amanecer— hasta prorrumpir gritando en la loma donde el general Pope y su estado mayor desayunaban al fresco.
+> 
+> Dos hombres capturaron a un obeso comandante, y otros persiguieron brevemente a los oficiales que buscaron refugio en el bosque, pero la mayoría corrió hacia la tienda-almacén del general Pope y reaparecieron en seguida, después de devastarla como si por ella hubiera pasado un ciclón, acarreando provisiones diversas. Stuart y los tres oficiales que lo acompañaban detuvieron sus briosas monturas junto a la mesa y uno de ellos se agachó para alcanzar una enorme cafetera ennegrecida y ofrecérsela al General. Mientras el enemigo gritaba y disparaba sus mosquetones entre los árboles, ellos brindaban con café hirviendo, sin leche y sin azúcar, como si fuera el más exquisito de los licores.
+> 
+> —A la salud del general Pope —dijo Stuart, haciendo una inclinación desde su silla de montar al oficial capturado.
+> 
+> Después de beber ofreció la cafetera al comandante.
+> 
+> —Beberé, señor —replicó el otro—, agradeciendo a Dios que el General no esté aquí para responder en persona.
+> 
+> —Ya me pareció notar que se marchaba con cierta precipitación —dijo Stuart—. ¿Algún compromiso previo, quizás?
+> 
+> —Sí, señor. Con el general Halleck —confirmó el comandante con sequedad—. Siento que sea él nuestro adversario en lugar de Lee.
+> 
+> —También lo siento yo, caballero —replicó Stuart—. A mí me gusta hacer la guerra contra el general Pope.
+> 
+> Las cornetas chillaban entre los árboles, unas cerca y otras más lejos, transmitiendo la alarma entre las brigadas repartidas por el bosque, mientras los tambores redoblaban desesperadamente y hasta los oídos de los sudistas desde los diseminados puestos de avanzada llegaban descargas de fusilería o disparos aislados como secos chasquidos de un abanico al abrirse, porque el nombre de «Stuart», al correr de destacamento en destacamento, había poblado de fantasmas grises los tranquilos bosques florecidos.
+> 
+> Stuart se dio la vuelta sobre la silla y sus hombres se acercaron, inmovilizando sus caballos con la mirada fija en él, haciendo de sus rostros enjutos y tensos, espejos que reflejaban la llama inextinguible que consumía a su jefe. Luego, desde la derecha les alcanzó algo que parecía una descarga organizada y que arrancó la cafetera de manos de Bayard Sartoris, además de cercenar hojas y rebotar con fiereza entre las moteadas ramas por encima de sus cabezas.
+> 
+> —Haga el favor de montarse —dijo Stuart al oficial capturado, y aunque el tono era exquisitamente cortés no había ya el menor asomo de ligereza—. Capitán Wyatt, su caballo es el más robusto: ¿tendría usted inconveniente…?
+> 
+> El capitán dejó libre un estribo y ayudó al prisionero a encaramarse tras él.
+> 
+> —¡En marcha! —dijo el General, y giró picando espuelas a su bayo. Con la atronadora coordinación de un único centauro, los veinte jinetes abandonaron el otero y se internaron en el bosque precisamente por el sitio de donde había salido la descarga, antes de que los escopeteros tuvieran tiempo para cargar de nuevo sus armas. Formas diminutas vestidas de azul se dispersaron precipitadamente por delante y por detrás mientras ellos se adentraban entre los árboles donde las balas zumbaban como abejas enfurecidas. Stuart llevaba en la mano su sombrero empenachado y sus largos rizos leonados, agitándose al ritmo de la marcha, parecían llamas de valor, ardiendo con el esplendor salvaje y autodestructor de su audacia.
+> 
+> Detrás y a un lado de ellos los mosquetones seguían apareciendo inesperadamente para disparar contra los fantasmas que cruzaban el bosque como relámpagos; y de brigada en brigada las cornetas repetían estridentes sus inoportunas alarmas. Stuart torció gradualmente hacia la izquierda, dejando todo el alboroto a sus espaldas. Al clarear el bosque galoparon formando una columna. El prisionero rebotaba desacompasadamente sobre el caballo del capitán Wyatt, y el General frenó el suyo para ponerse a la altura del brioso corcel negro que galopaba animosamente bajo su doble carga.
+> 
+> —Siento mucho las molestias que le estoy causando, señor —empezó diciendo con su exquisita cortesía—. Si quisiera usted indicarnos la posición aproximada de la estacada que quede más a mano, con mucho gusto capturaría una montura para usted.
+> 
+> —Gracias, General —replicó el prisionero—, pero a los comandantes se les reemplaza mucho más fácilmente que a los caballos. No le causaré ninguna molestia.
+> 
+> —Como usted prefiera —contestó Stuart fríamente.
+> 
+> El General picó espuelas para situarse otra vez a la cabeza de la columna. Galopaban ya siguiendo el rastro casi perdido de un antiguo camino que serpenteaba entre masas de maleza primaveral, y lo fueron siguiendo a buen paso hasta desembocar súbitamente en un claro. Ante ellos un escuadrón de caballería yanqui, inmovilizado por el asombro, detuvo sus caballos e inmediatamente se precipitaron hacia ellos a mayor velocidad.
+> 
+> Sin disminuir la marcha Stuart dio media vuelta y él y sus hombres volvieron a ocultarse en el bosque. Balas de pistola pasaron rozándoles la cabeza y el seco sonido de los disparos por encima del convergente tableteo de los cascos resultaba tan trivial como chasquidos de ramas quebradas. Stuart se salió del camino, lanzándose sin vacilación entre la maleza. Los jinetes federales los siguieron gritando y Stuart hizo describir a su grupo una curva muy cerrada, para detenerse jadeantes al abrigo de un bosquecillo muy denso. En seguida oyeron cómo sus perseguidores pasaban de largo.
+> 
+> Los hombres de Stuart regresaron al camino y volvieron sobre sus pasos, silenciosos y alertas. A su izquierda el ruido de los perseguidores se fue alejando hasta desaparecer en la distancia. Entonces galoparon de nuevo. Al espesarse el bosque se vieron obligados a avanzar al trote y finalmente pusieron sus monturas al paso. Aunque no se oían más disparos y también habían callado las cornetas, dentro del silencio, por encima del rápido y entrecortado respirar de los caballos y del latido de sus propios corazones retumbando dentro de sus oídos, persistía un algo innominado: una tensión que se extendía como una neblina entre los árboles, aunque los pájaros siguieran saltando de rama en rama, desconociendo su presencia o ignorándola simplemente, llenando de un algo portentoso los bosques empapados de rocío matutino.
+> 
+> Al divisar un resplandor blanco entre los árboles fronteros, Stuart alzó la mano y los jinetes detuvieron la marcha, observándole tranquilos y conteniendo la respiración para escuchar mejor. El General avanzó de nuevo, se internó entre la maleza hasta llegar a otro claro y los demás le siguieron: ante ellos se alzaba la loma con la abandonada mesa del desayuno y el almacén saqueado. Atravesaron el claro al trote y permanecieron inmóviles junto a la mesa mientras el General escribía algo apresuradamente sobre un trozo de papel. El claro soñaba tranquilo, sin sombra alguna de amenaza, bajo un día que se anunciaba soleado; embalsada en él yacía una paz profunda y duradera como un vino dorado; sin embargo, bajo aquella soledad y permeándola, seguía acechando un algo portentoso, que esperaba innominado, paciente, cerniéndose siniestro.
+> 
+> —Su espada, señor —ordenó Stuart.
+> 
+> El prisionero se despojó del arma, el General la recogió y con ella clavó la nota sobre la mesa. El mensaje decía lo siguiente: «Saludos del general Stuart al general Pope, con el pesar de no haber podido verlo. Repetirá la visita mañana».
+> 
+> Stuart tomó otra vez las riendas.
+> 
+> —¡En marcha! —dijo.
+> 
+> Descendieron la loma, cruzaron el claro vacío y con un galope corto volvieron al camino que habían atravesado al amanecer: el camino que les devolvía a sus líneas. Stuart regresó junto a su cautivo y al brioso caballo negro con la doble carga.
+> 
+> —Si nos orienta usted hacia la estacada más próxima le proporcionaré una montura adecuada —ofreció de nuevo.
+> 
+> —¿Pondrá en peligro el general Stuart, jefe de la caballería y mano derecha del general Lee, su seguridad y la de sus hombres, así como su propia causa, para proporcionar una comodidad pasajera a un prisionero de poca importancia? Eso no es valor, es la temeridad de un muchacho despreocupado y testarudo. En un radio de dos millas hay cerca de quince mil hombres; aunque sólo sean yanquis, ni siquiera el general Stuart puede vencerlos solo.
+> 
+> —No lo haría por el prisionero —respondió Stuart, altanero—, sino por el oficial que sufre los avatares de la guerra. Cualquier caballero haría lo mismo.
+> 
+> —Los caballeros no tienen nada que hacer en esta guerra —replicó el comandante—. Aquí no hay sitio para ellos. Son un anacronismo, como las anchoas.
+> Y añadió en seguida, burlonamente:
+> 
+> —El general Stuart no se ha llevado cautivas a nuestras anchoas. ¿Tiene quizá intención de mandar a Lee en persona a por ellas?
+> 
+> —Anchoas —repitió Bayard Sartoris que galopaba a poca distancia, e inmediatamente dio la vuelta a su caballo. Stuart lo llamó a gritos, pero él alzó una mano temeraria y testaruda y se alejó como un relámpago; y mientras el General se disponía a girar también para seguirlo, un centinela yanqui disparó su mosquetón desde el borde del camino y echó a correr por el bosque, dando la alarma. Inmediatamente se oyeron otras detonaciones por los alrededores y desde el bosque, a la derecha, llegaron los ruidos de un considerable contingente de hombres que se ponía precipitadamente en movimiento. Tras ellos, en dirección a la loma, cayó una descarga cerrada. Un tercer oficial picó espuelas para sujetar la montura de Stuart por la brida.
+> 
+> —Señor —exclamó—; ¿qué va usted a hacer?
+> 
+> Stuart encabritó al caballo mientras se oía tras ellos otra descarga que se fue extinguiendo en disparos aislados y que vino a caer en un área muy precisa. También el ruido de la derecha crecía, aproximándose.
+> 
+> —Déjame ir, Alian —dijo Stuart—. Es mi amigo.
+> 
+> Pero el otro siguió agarrado a la brida.
+> 
+> —Es demasiado tarde —explicó—. A Sartoris lo matarán; a usted lo capturarían.
+> 
+> —Siga adelante, señor, se lo ruego —añadió el prisionero—; ¿Qué es un hombre, frente a una fe renovada en la humanidad?
+> 
+> —¡Piense en Lee, General, por el amor de Dios! —imploró su ayudante—. ¡En marcha! —gritó a la tropa, picando espuelas a su caballo y arrastrando el del General hacia adelante al advertir que un destacamento de caballería federal salía del bosque detrás de ellos.
+> 
+> —Y así fue —terminó tía Jenny— cómo Míster Stuart siguió adelante y Bayard regresó en busca de las anchoas, con todo el ejército de Pope disparando contra él. Cabalgó gritando «¡Yaaaiiiiih, yaaaiiiiih, venid a por mí, muchachos!» hasta llegar a la loma; luego saltó por encima de la mesa del desayuno y entró sin desmontar en el destrozado almacén del General. Allí, un cocinero que se había escondido entre la confusión de sacos y cajones, sacó un brazo y disparó contra Bayard por la espalda con una pistola de cañón corto.
+> 
+> Mr. Stuart se abrió camino luchando y regresó a su campamento sin perder más que dos hombres. Siempre hablaba bien de Bayard. Decía que era un buen oficial y un jinete sin par, aunque demasiado temerario.
+> 
+> Durante algún tiempo permanecieron callados, iluminados por el fuego. Las llamas saltaban y estallaban en el hogar y las chispas se alzaban en penachos turbulentos chimenea arriba, y la breve carrera de Bayard Sartoris atravesó como una estrella fugaz la oscura explanada de sus respectivos recuerdos y sufrimientos, iluminándola con el súbito resplandor de un silencioso fuego de artificio y dejando una especie de brillo después de extinguirse. El ingeniero escocés, que había escuchado en silencio, tardó un buen rato en hablar.
+> 
+> —Cuando Bayard volvió al campamento enemigo, no estaba seguro de que hubiera anchoas, ¿verdad?
+> 
+> —El mayor yanqui dijo que estaban allí —replicó tía Jenny.
+> 
+> —Sí, claro.
+> 
+> Pero el escocés siguió meditando sobre el asunto.
+> 
+> —Y… ¿Mr. Stuart regresó al día siguiente, como decía en la nota?
+> 
+> —Regresó aquella misma tarde —explicó tía Jenny—, en busca de Bayard.
+> Cenizas rosadas tan suaves como plumas revoloteaban por el hogar hasta caer y diluirse en grises sutiles. John Sartoris se inclinó hacia el fuego y atizó los leños incandescentes con el cañón del fusil yanqui.
+> 
+> —Creo que nunca ha habido en el mundo otro ejército como aquél —dijo.
+> 
+> —Sí —reconoció tía Jenny—. Y Bayard era el más loco de todos.
+> 
+> —Sí —admitió sobriamente John Sartoris—. Bayard era un caso aparte.
+> 
+> El escocés habló de nuevo.
+> 
+> —Ese Míster Stuart, que llamó temerario a su hermano, ¿quién era?
+> 
+> —Era Jeb Stuart, el general de caballería —contestó tía Jenny.
+> 
+> Luego siguió cavilando durante un rato junto al fuego; su pálido rostro, de indómita altivez, se dejó ganar momentáneamente por una reposada ternura.
+> 
+> —Tenía un extraño sentido del humor —dijo—. Nada le pareció nunca tan divertido como la imagen del general Pope en camisa de dormir.
+> 
+> Después se sumió otra vez en algún ensueño más allá de la rosada fortaleza de cenizas.
+> 
+> —Pobre hombre —dijo.
+> 
+> —Una vez bailé un vals con él en Baltimore en el año cincuenta y ocho.
+> 
+> Y su voz resultaba tan orgullosa y sosegada como banderas sobre el polvo.
+> 
+> Pero la puerta estaba cerrada, y la poca luz que se filtraba por las vidrieras de colores tenía la riqueza solemne de un tapiz antiguo. A la izquierda quedaba el cuarto de su nieto, el cuarto donde, el pasado octubre, habían muerto su mujer y su hijo. Permaneció junto a la puerta durante un momento y luego la abrió suavemente. Las persianas estaban cerradas y la habitación, vacía; y él se quedó un rato en el quicio, rodeado de oscuridad. Después cerró dando un portazo y echó a andar haciendo retumbar la casa bajo sus pasos con la insensibilidad para los ruidos característica de los sordos. Al entrar en su alcoba dio otro violento portazo, ya que era aquélla su manera habitual de cerrar las puertas.
+> 
+> Después de sentarse se quitó los zapatos: el calzado que dos veces al año le hacía a la medida una firma de Saint Louis. Luego se levantó y se llegó hasta la ventana sólo con los calcetines puestos. En el patio de atrás su yegua, ya ensillada, estaba atada a una morera y un muchacho negro, tan flaco como un galgo y de movimientos igualmente fluidos, haraganeaba a su lado, disfrutando de la forzosa inmovilidad de la espera. Procedente de la cocina, aunque invisible desde su ventana, la inacabable salmodia de Elnora menguaba y crecía en la pereza de la tarde sin que Bayard pudiera oírla.
+> 
+> El anciano cruzó la habitación para abrir el armario y sacar de él un par de botas de montar llenas de cicatrices y manchas. Después de ponérselas a empellones sacó un cigarro de la caja que había en la mesilla junto a la enorme cama de nogal, y permaneció durante algún tiempo con el puro entre los dientes sin acordarse de encenderlo. A través de la tela del bolsillo su mano tocó la pipa; la sacó para mirarla de nuevo, y le pareció oír aún al viejo Falls, recordando a voz en grito:
+> 
+> —El Coronel estaba sentado en una silla, descalzo, con los pies sobre la barandilla del porche, y fumaba en esta misma pipa que ahora tienes en la mano. Louvinia, sentada en un escalón, pelaba en un cuenco guisantes para la cena. Te aseguro que a nadie le parecía mal un plato de guisantes en aquellos días. Y tú estabas recostado contra una columna. No había nadie más, excepto tu tía, la que vivió aquí antes de que llegara Miss Jenny. El Coronel había enviado a las dos chicas a Memphis a casa de tu abuelo la primera vez que fue a Virginia con aquel regimiento que se dio la vuelta y le quitó el mando mediante una votación. Votaron contra él porque tu padre no estaba dispuesto a confraternizar con el primer ratero que apareciera llevando un fusil de desecho y diciendo que era soldado. Tú estabas todavía creciendo, si no recuerdo mal. ¿Cuántos años tenías entonces, Bayard?
+> 
+> —Catorce.
+> 
+> —¿Cómo dices?
+> 
+> —Catorce. ¿Es que tengo que repetirlo cada vez que me cuentas esa maldita historia?
+> 
+> —Estabais todos sentados cuando entraron los yanquis y se acercaron al trote por la avenida.
+> 
+> »A Louvinia se le cayó el cuenco de los guisantes y dio un chillido, pero el Coronel le dijo que se callara y fuera corriendo a por sus botas y a por sus pistolas y las tuviera preparadas en la puerta trasera; y tú saliste como un rayo camino del establo para ensillar el semental. Y cuando los otros se pararon delante de la casa, justo en el sitio donde está ahora el arriate, no quedaba en el porche más que el Coronel, tan repanchigado como si nunca hubiera oído hablar de los yanquis.
+> 
+> »Ellos se quedaron allí sin desmontar, preguntándose unos a otros si aquélla era o no la casa; mientras, el Coronel seguía con los pies en la barandilla, mirándolos tan boquiabierto como un palurdo. El oficial yanqui le dijo a uno de sus hombres que fuera hasta el establo y viera si había algún caballo. Después se volvió hacia el Coronel: «Oye, Johnny, ¿dónde vive John Sartoris, el rebelde?» «Vive un poco más allá carretera abajo —contestó el Coronel sin pestañear siquiera—. Cosa de dos millas. Pero no lo van a encontrar. Se ha marchado otra vez a luchar contra los yanquis». «Bueno; de todas maneras será mejor que vengas con nosotros para enseñarnos el camino», dijo el oficial.
+> 
+> »De manera que el Coronel se levantó muy despacio y les dijo que le dejaran coger las botas y el bastón, y entró cojeando en la casa, mientras ellos esperaban a caballo.
+> 
+> »Tan pronto como lo perdieron de vista echó a correr. La vieja Louvinia lo estaba esperando en la puerta de atrás con la chaqueta, las botas, las pistolas y un bocadillo de pan de maíz. El otro yanqui había entrado a caballo en el establo y el Coronel envolvió con la chaqueta las cosas que le daba Louvinia y echó a andar por el patio de atrás como si estuviera dando un paseo. Cuando el yanqui apareció otra vez en la puerta del establo, dijo: «Aquí no queda ningún animal». «Creo que no —contestó el Coronel; y luego añadió, mientras seguía andando—: Su capitán dice que vuelva usted con ellos». Sentía cómo el yanqui lo vigilaba, clavándole los ojos en la espalda, en el sitio exacto por donde entraría la bala. El Coronel contaba después que lo más difícil que hizo en toda su vida fue cruzar aquel patio de espaldas al yanqui sin echar a correr. Quería llegar a la esquina del establo, para poner cuanto antes una pared por medio y le pareció que llevaba un año andando sin avanzar un milímetro; tampoco se atrevía a mirar para atrás. Y dijo que no pensaba en nada, excepto en lo bien que había hecho mandando a las chicas a Memphis; y que no se acordó ni una vez de tu tía, la que estaba en la casa, porque era una Sartoris de pura cepa, dijo, y capaz de hacer frente a una docena de yanquis.
+> 
+> »Cuando el soldado empezó a llamarlo a gritos, el Coronel siguió andando sin mirar para atrás ni hacer movimientos bruscos; pero cuando el yanqui volvió a gritar y el Coronel oyó moverse el caballo, decidió que había llegado el momento de aligerar el paso. Dobló la esquina del establo al mismo tiempo que el soldado empezaba a disparar y para cuando el otro llegó hasta allí, él corría ya por entre la maleza hacia el arroyo donde tú lo esperabas escondido entre los sauces con el semental.
+> 
+> »Y allí te quedaste sujetando el caballo, con la patrulla yanqui dando gritos cada vez más cerca, mientras el Coronel se ponía las botas. Y antes de marcharse te encargó que le dijeras a tu tía que no podría cenar en casa aquella noche.
+> 
+> —Pero, ¿para qué me la das ahora, después de tanto tiempo? —le había preguntado Bayard, y el viejo Falls había dicho que el asilo no era un sitio adecuado para la pipa de John Sartoris.
+> 
+> —Era una cosa que llevaba en el bolsillo y de la que disfrutó en aquellos días. Todo resultaba diferente mientras construíamos el ferrocarril. Decía muchas veces que cualquier sábado por la noche acabaríamos en el asilo. Más probablemente en el cementerio, cabalgando como él lo hacía de día y de noche y de un extremo a otro de la vía con las alforjas llenas de dinero, tan sólo una traviesa por delante del asilo, como solía repetir. Fue entonces cuando cambiaron las cosas. Cuando tuvo que empezar a matar gente. Como aquellos dos aventureros del Norte que vinieron a revolucionar a los negros para que votaran y el Coronel entró en la habitación en la que estaban sentados detrás de una mesa, con las pistolas delante; o como el ladrón y aquel otro tipo que mató: a todos con la misma pistola de cañón corto. Cuando una persona empieza a matar gente, la mayor parte de las veces tiene que seguir matando. Y cuando le pasa eso es como si ya estuviera muerto.
+> 
+> A John Sartoris se le notaba ya en la frente —aquella sombra oscura de fatalidad y destrucción—, la noche que se sentó a cenar en el comedor bajo la luz de las velas y empezó a dar vueltas a la copa de vino entre los dedos mientras hablaba con su hijo. El ferrocarril estaba terminado, acababa de ganar las elecciones para la legislatura del Estado después de una campaña dura y despiadada y en su frente se había posado la sombra de la fatalidad y también un poco de hastío.
+> 
+> —De manera —dijo—, que Redlaw acabará mañana conmigo porque iré desarmado. Estoy cansado de matar hombres… Pásame el vino, Bayard.
+> 
+> Y al día siguiente ya estaba muerto, como si no hubiera hecho otra cosa que esperar aquel desenlace para librarse de la torpe limitación de huesos y aliento; como si al perder el sentimiento de frustración producido por la propia carne, pudiera ya tensar y dar forma a lo que brotaba de él convertido en la inevitable apariencia de su sueño, y ser así evocado, como un genio o una deidad, por los tediosos recuerdos de un anciano analfabeto o por una pipa chamuscada de la que hasta el rancio olor a tabaco quemado se había esfumado muchos años atrás.
+> 
+> El viejo Bayard salió de su ensimismamiento y dejó la pipa sobre la cómoda. Luego bajó pesadamente las escaleras y salió de la casa por la puerta trasera.
+> 
+> Isom, poniéndose en movimiento sin el menor gesto brusco, desató la yegua y ofreció el estribo a su amo. Bayard se montó y acordándose por fin de que llevaba el cigarro en la boca, lo encendió. El muchacho negro abrió el primer portón, volvió a cerrarlo tras el caballo y corrió para abrir el segundo, traspasado el cual, el jinete se encontraría ya en campo abierto. Bayard se alejó dejando flotar tras de sí el humo acre de su cigarro. De no se sabe dónde, surgió en seguida un setter inglés para situarse al lado de la yegua y acomodarse a su paso.
+> 
+> Elnora, en el centro de la cocina con las piernas al aire, empapó una vez más la bayeta en el agua del cubo y volvió a dejarla caer pesadamente sobre el suelo.
+> 
+> Cuando el pecador se levanta del banco de los que gimen,
+> 
+> y se pasa al banco de los penitentes,
+> 
+> el predicador le pregunta por qué lo hace
+> 
+> y el otro le contesta: «El predicador se va con las mujeres igual que yo».
+> 
+> ¡Señor, señor!
+> 
+> Eso es lo que pasa hoy día con la iglesia.
+> 
+> 2
+> 
+> El lugar hacia donde Simón se dirigía era una enorme casa de ladrillo situada junto a la calle. La finca había albergado anteriormente una hermosa mansión colonial que se alzaba entre magnolios, robles y setos florecidos, pero al incendiarse el antiguo edificio, se derribaron algunos de los árboles y se hizo sitio para un disparate arquitectónico tan terriblemente desmesurado que poseía cierta grandiosidad caótica. Era el monumento a la sobriedad de un montañés (y el mausoleo de las aspiraciones sociales de las mujeres de su familia) que se había trasladado allí desde una pequeña aldea llamada Frenchman’s Bend y que, como explicaba Miss Jenny Du Pre, construyó la casa más distinguida de Frenchman’s Bend en el lugar más hermoso de Jefferson. El montañés había resistido dos años —durante los cuales las mujeres de su familia se pasaban las mañanas sentadas en la veranda con cofias de encaje y por las tardes salían a pasear, enfundadas en sedas de colores, en un birlocho nuevo con ruedas de goma— antes de vender la casa a un recién llegado, para volverse con sus mujeres a la montaña donde, sin duda alguna, las puso otra vez a trabajar.
+> 
+> Cierto número de automóviles colocados en la fila al lado de la acera daba un aire de solemnidad oficial a la ocasión, y Simón, con su colilla ladeada, se acercó, tiró de las riendas y se permitió mantener un breve altercado lleno de colorido con un negro sentado al volante de un automóvil estacionado delante del poste para atar los caballos.
+> 
+> —No impidas nunca el paso al coche de los Sartoris, chico —añadió cuando el otro retiró el automóvil, permitiendo que Simón tuviera acceso al poste—. Cierra el paso a la gente vulgar, si quieres, pero no te atrevas con un coche que esté esperando al Coronel o a Miss Jenny. No lo consentirían.
+> 
+> Simón se apeó para atar los caballos y con el espíritu apaciguado por la regañina administrada y purificado por la satisfacción de haberse salido con la suya, se detuvo a examinar el automóvil con curiosidad y algo de arrogancia, levemente teñidas de envidioso asombro, y cambió varias frases amistosas con el conductor. Pero no por mucho tiempo, porque Simón tenía en la cocina de aquella casa algunas hermanas en el Señor, de manera que en seguida cruzó el portón y echó a andar por el sendero que llevaba a la parte de atrás. Oyó el ruido de la reunión mientras pasaba bajo las ventanas: aquel ininterrumpido e ininteligible cotorreo con que las señoras de raza blanca conseguían envolverse sin el menor esfuerzo y que, al parecer, juzgaban condición necesaria (o inevitable) para pasar un buen rato. El hecho de que se tratara de una partida de cartas no le parecía a Simón ni paradójico ni asombroso, porque el tiempo y la mucha experiencia le habían equipado con una buena dosis de tolerancia, tanto hacia las excentricidades de los blancos en particular como, en general, a las de cualquier miembro del sexo débil.
+> 
+> El montañés había construido su casa tan cerca de la calle que la mayor parte del primitivo jardín, con sus majestuosos árboles, quedaba en la parte de atrás. En otro tiempo abundaban allí los mirtos y las celindas, los arbustos de lilas y los jazmines creciendo sin orden, y no faltaban tocones y vallas cubiertos de madreselvas; cuando la casa primitiva se quemó, todas estas plantas se apoderaron del lugar convirtiendo su desgreñado decoro en una espesa jungla llena de aromas, preferida por los sinsontes y las alondras, y en donde a los muchachos y a las muchachas se les pasaba el tiempo sin sentir durante las noches de primavera y verano, entre luciérnagas a la deriva e inquietas chotacabras. Cuando el montañés compró la finca, cortó algunos de los árboles para construir la casa cerca de la calle de acuerdo con la moda rural, arrasó la jungla de arbustos y enredaderas, encaló los restantes árboles y situó las vallas del establo, de la cochiquera y del corral de las gallinas entre sus fantasmales troncos. No se quedó allí el tiempo suficiente para enterarse de la aparición de los garajes.
+> 
+> La aséptica desolación impuesta por la tenacidad del montañés había desaparecido en parte, ya que el nuevo propietario decidió plantar algunos arbustos —jazmín, celinda y verbena—, colocando junto a ellos mesas de hierro pintadas de verde con sus correspondientes sillas, además de construir una piscina y una pista de tenis. Simón atravesó por allí con discreto aplomo y, con un zumbido de voces femeninas desprovisto de consonantes como fondo, entró en la cocina, donde una mujer muy delgada con un fúnebre turbante morado, que sostenía sobre un sucio guante de cabritilla una galleta cubierta con alguna sustancia sólida impregnada en mayonesa, y otra enorme fémina, con el manchado delantal propio de su estado, que comía helado derretido en un platillo, volvieron la vista al oír sus pasos.
+> 
+> —Lo vi ayer en la calle y tenía muy mal aspecto; no lo encontré nada favorecido —decía la visita cuando entró Simón, pero inmediatamente abandonaron aquel tema de conversación para darle la bienvenida.
+> 
+> —¡Pero si es el hermano Strother! —dijeron ambas al unísono—. Pase, pase, hermano Strother. ¿Cómo se encuentra?
+> 
+> —Malamente, señoras, malamente —contestó Simón, quitándose el sombrero y colocando la colilla del puro entre la cinta y el fieltro—. He tenido un dolor agudo muy molesto en la espalda. Y ustedes, ¿siguen bien?
+> 
+> —Bien, muchas gracias, hermano Strother —dijo la visita.
+> 
+> Simón acercó una silla a la mesa, como se le rogó que hiciera.
+> 
+> —¿Qué va usted a comer, hermano Strother? —preguntó la cocinera con entonación hospitalaria—. Tenemos canapés de la fiesta, algunas verduras frías y un poco de helado derretido que ha quedado de la comida.
+> 
+> —Creo que tomaré un poco de helado y unas verduras, hermana Rachel —contestó Simón—. Mis dientes no están ya para muchos trotes.
+> 
+> La cocinera se alzó con majestuosa solemnidad, y llegándose hasta la despensa con amplio contoneo, alcanzó una fuente. Era una de las mejores cocineras de Jefferson y ninguna señora se hubiese atrevido a protestar contra la generosa hospitalidad de Rachel.
+> 
+> —¡No hay otro como usted! —exclamó la visita—. ¡Comiendo helado a su edad!
+> 
+> —Llevo sesenta años comiendo helado —dijo Simón—, ¿qué razón puede haber para que deje de hacerlo ahora?
+> 
+> —Tiene usted razón, hermano Strother —asintió la cocinera, colocándole delante un plato de espinacas—. Coma helado siempre que pueda. Un minuto y se lo…
+> 
+> Rachel interrumpió lo que estaba diciendo al entrar en la cocina una muchacha negra de piel clara con un bonito delantal blanco y una cofia, que llevaba una bandeja llena de fuentes con los restos de diferentes estructuras comestibles, copiadas de algún dibujo en revistas para señoras, tan carentes de volumen como de cualidades nutritivas, con las que las damas de la reunión habían estado embotando su apetito al aproximarse la hora de la cena.
+> 
+> —Oye, Meloney, sírvele al hermano Strother un cuenco de helado, haz el favor, querida.
+> 
+> La muchacha depositó estrepitosamente la bandeja sobre el fregadero y estuvo enjuagando un cuenco bajo el grifo mientras Simón la contemplaba fijamente con sus ojillos inquisitivos. La muchacha secó el cuenco con un paño, haciendo una excelente demostración de desdeñoso descuido, y con la nariz arrogantemente apuntando al cielo, cruzó la cocina sobre el estrépito de sus zapatos de tacón alto, sin que Simón pestañeara una sola vez mientras seguía mirándola, y salió de la habitación dando un portazo. Al perderse de vista, Simón volvió la cabeza.
+> 
+> —Sí, señora —repitió—, llevo demasiado tiempo comiendo helado para dejarlo a mi edad.
+> 
+> —Ningún alimento le hará daño mientras el estómago sea capaz de soportarlo —aseguró la cocinera, alzando otra vez su propio platillo hasta los labios.
+> 
+> La muchacha regresó con la mirada todavía puesta en las alturas y colocó el cuenco lleno de líquido viscoso delante de Simón que, aprovechándose de aquel movimiento, le tocó un muslo. La chica le dio un golpe en el cogote con la mano abierta.
+> 
+> —Miss Rachel, dígale que tenga las manos quietas.
+> 
+> —¿No le da vergüenza? —preguntó Rachel, sin dar la menor muestra de indignación—. ¡Un anciano canoso como usted, con hijos crecidos y un pie en el cementerio!
+> 
+> —Cállese la boca, mujer —dijo Simón plácidamente, mezclando dentro del cuenco las espinacas con el helado—. ¿No estarán ya a punto de terminar la reunión?
+> 
+> —Imagino que sí —contestó la primera invitada, introduciéndose en la boca otra galleta bien cargada de mayonesa con gesto de elegante displicencia—. Parece que hablan más alto.
+> 
+> —Entonces es que se han puesto a jugar otra vez —le corrigió Simón—. Hablan menos cuando comen. Sí, señor, están jugando otra vez. Los blancos son así. Los negros no somos tan listos como para jugar a las cartas y hacer todo ese ruido al mismo tiempo.
+> 
+> Pero la reunión llegaba a su fin. Miss Jenny Du Pre, siguiendo su costumbre, acababa de contar una historia que turbó levemente a las otras tres jugadoras, consiguiendo que durante unos instantes no se atrevieran a levantar los ojos de la mesa. Miss Jenny viajaba muy poco y, cuando lo hacía, no frecuentaba los vagones para fumadores, de manera que la gente se preguntaba de dónde sacaba aquellas historias y quién se las contaba. Ella, por su parte, las repetía en cualquier sitio y aprovechaba cualquier oportunidad, escogiendo el peor momento y el público menos adecuado con alegre y premeditada audacia. A la gente joven le caía bien y estaba muy solicitada como carabana para los picnics.
+> 
+> A continuación se dirigió a la anfitriona, al otro extremo de la habitación.
+> 
+> —Me voy a casa, Belle —anunció—. Me parece que estamos todas un poco cansadas de tu fiesta. Por lo menos yo lo estoy.
+> 
+> La anfitriona era una mujer rolliza, relativamente joven, y su rostro inteligentemente maquillado mostraba un grado tal de concentración histérica que casi podría tomarse por reposo; pero cuando Miss Jenny rompió aquel frágil equilibrio con el anuncio de su marcha inminente apareció de nuevo en él su habitual expresión de cansancio y de vago descontento y empezó a protestar de forma convencional aunque con la petulante sinceridad que cabe esperar de un niño bien educado.
+> 
+> Pero Miss Jenny se mostró inflexible y mientras se ponía en pie, su fina mano llena de arrugas, sacudió migas invisibles del delantero de su vestido negro de seda.
+> 
+> —Si me quedo un minuto más no estaré en casa para cuando llegue Bayard a tomar el ponche —explicó con su habitual franqueza—. Vamos, Narcissa, te llevaré a casa.
+> 
+> —Tengo aquí mi coche, muchas gracias, Miss Jenny —replicó con grave voz de contralto la joven aludida, poniéndose en pie; las demás también se alzaron, iniciando, a pesar de las protestas petulantes de la anfitriona, un fluido movimiento de convergencia que las condujo suavemente hasta el vestíbulo, donde se amontonaron de nuevo frente a los espejos, parlanchinas y llenas de colorido. Miss Jenny se abrió camino hacia la puerta con determinación.
+> 
+> —Vamos, vamos —repitió—. A Harry Mitchell no le hará ninguna gracia encontrarse con toda esta algarabía cuando vuelva a casa del trabajo.
+> 
+> —Pues se puede quedar en el garaje sentado en el coche —replicó la anfitriona con voz cortante—. Me gustaría que no se marcharan ustedes. Miss Jenny, me parece que no voy a volver a invitarla.
+> 
+> Pero Miss Jenny sólo dijo un «Adiós, adiós» fríamente afable y con su nariz igual a la de todos los Sartoris y aquella espalda suya de granadero, tan recta que sólo cedía en tiesura a otra espalda de la ciudad —la de su sobrino Bayard—, se detuvo en lo alto de la escalera, donde Narcissa Benbow se reunió con ella, trayendo consigo, como un aroma, aquella aura de grave y serena calma en que habitaba.
+> 
+> —No creas que Belle bromeaba —dijo Miss Jenny.
+> 
+> —Bromeaba… ¿sobre qué?
+> 
+> —Lo que dijo sobre Harry… ¡Vaya! ¿dónde supones que se habrá metido ese maldito negro?
+> 
+> Simón desató los caballos y se colocó junto al estribo del coche en la actitud que reservaba para Miss Jenny. Era diferente de la del banco; en lugar de aquella contenida disponibilidad para la acción, de carácter marcadamente militar, aquí se trataba de una deferencia galante, algo condescendiente.
+> 
+> Miss Jenny miró con fijeza el rostro tranquilo y sereno de la joven.
+> 
+> —¿Por qué no te casas y dejas que ese niñito tuyo se cuide solo durante algún tiempo? Fíjate bien en lo que te digo, antes de seis semanas habrá ya alguna mujer desviviéndose por obtener el privilegio de secarle los pies; y tu pobre Horace ni siquiera te echará de menos.
+> 
+> —Se lo prometí a mi madre —contestó la otra amablemente, sin darse por ofendida—. No entiendo por qué no ha mandado un telegrama comprensible.
+> 
+> —Bueno —dijo Miss Jenny volviéndose hacia el coche—. Quizá no sea más que un huérfano, después de todo.
+> 
+> Pero con el tono de voz anulaba el contenido tranquilizador de sus palabras.
+> 
+> —Lo sabré muy pronto, en cualquier caso —concedió la otra; y dirigiéndose a un pequeño automóvil junto a la acera, abrió la portezuela.
+> 
+> Miss Jenny se subió al coche ayudada por Simón, el cochero se montó en el pescante y empuñó las riendas.
+> 
+> —No dejes de avisarme cuando llegue de Nueva York —exclamó Miss Jenny al ponerse el vehículo en movimiento—. Y no dejes de venir a por flores siempre que te apetezca.
+> 
+> —Gracias. Hasta la vista.
+> 
+> —Puedes seguir, Simón.
+> 
+> El cochero reanudó la marcha y también esta vez Simón esperó a que estuvieran fuera de la ciudad para dar la noticia.
+> 
+> —Míster Bayard ha vuelto —explicó con la voz de todos los días, como quitándole importancia.
+> 
+> —¿Dónde está? —quiso saber Miss Jenny inmediatamente.
+> 
+> —Todavía no ha llegado a casa —contestó Simón—. Supongo que habrá ido al cementerio.
+> 
+> —Bobadas —le atajó Miss Jenny—. Los Sartoris sólo van una vez al cementerio… ¿Sabe el Coronel que ha llegado?
+> 
+> —Sí, señora, se lo dije, pero tengo la impresión de que no se creyó que le estaba diciendo la verdad.
+> 
+> —¿Quieres decir que eres tú el único que lo ha visto?
+> 
+> —Tampoco yo lo he visto —aclaró Simón—. Un empleado lo vio saltar del tren y me dijo…
+> 
+> —¡Estúpido negro! —estalló Miss Jenny—. ¿Y tú fuiste y le soltaste una tontería semejante a Bayard? ¿Es posible que no tengas un poco más de sentido común?
+> 
+> —El empleado lo vio —respondió Simón testarudamente—. Estoy seguro de que es capaz de reconocer a Míster Bayard cuando lo ve.
+> 
+> —Entonces, ¿dónde está?
+> 
+> —Puede que haya ido al cementerio —sugirió Simón.
+> 
+> —¡Aprieta el paso! —dijo Miss Jenny con voz cortante.
+> 
+> Miss Jenny halló al viejo Bayard en su despacho, acompañado por dos perros de caza. Las paredes estaban cubiertas de estanterías ocupadas por hileras de pesados tomos jurídicos encuadernados en piel grisácea, que creaban un ambiente de meditación polvorienta, no sujeto a perturbación alguna, y por una considerable variedad de novelas de la escuela histórico-romántica (todo Dumas estaba allí, y la ininterrumpida progresión de sus volúmenes constituía en aquel momento la única lectura de Bayard Sartoris, que tenía siempre uno de ellos sobre la mesilla de noche junto a la cama); en la habitación había también una colección de objetos indiscriminados —paquetitos de semillas, espuelas oxidadas, trozos de riendas y hebillas varias, folletos sobre enfermedades de animales y plantas, barrocas tabaqueras que le habían regalado a Bayard en diferentes ocasiones y que nunca había usado, inexplicables fragmentos de piedras, raíces disecadas y vainas de legumbres—, reunidos uno a uno, y por razones que el anciano no recordaba ya, aunque sin renunciar por ello a seguir conservándolos. La habitación contenía además un armario enorme con candado, una mesa muy grande abarrotada de objetos varios, un buró también cerrado con llave (llaves y candados eran una de las obsesiones del viejo Bayard), un diván y tres sillones de cuero. A esta habitación se la designaba siempre como el «despacho», y el anciano, que no se había quitado aún ni el sombrero ni las botas de montar, estaba allí trasvasando bourbon whisky de un barrilito a un frasco de cristal con tapón de plata, mientras los dos perros lo contemplaban con majestuosa gravedad.
+> 
+> Uno de ellos era muy viejo y estaba casi ciego. Se pasaba casi todo el día tumbado al sol en el patio de atrás o en la fresca oscuridad polvorienta bajo el suelo de la cocina en los días calurosos del verano. Pero hacia media tarde se situaba frente a la fachada de la casa y esperaba tranquilamente hasta que oía el ruido del coche en la avenida, y cuando Bayard se apeaba y entraba en casa, el perro volvía al patio de atrás y aguardaba a que Isom sacara la yegua al porche trasero y Bayard saliera para montarla. Después el hombre a caballo y el setter inglés que le acompañaba como un sesudo amigo pasaban juntos el resto de la tarde recorriendo sin prisas los pastizales, los campos donde se sembraba o se cosechaba, y los bosques llenos de paz, observando sus suaves cambios a lo largo de las estaciones, mientras el atardecer de sus vidas avanzaba hacia una pacífica conclusión sobre la tierra generosa que los había criado a ambos.
+> 
+> El perro más joven no había cumplido aún los dos años; su ritmo resultaba demasiado febril para la compostura que caracterizaba la larga asociación de los otros, y aunque a veces se ponía en camino al mismo tiempo o acudía desde algún sitio, mojado y entusiasta, para reunirse con ellos a mitad del recorrido, nunca se quedaba mucho rato, sino que en seguida echaba a correr con la lengua fuera y la cola convertida en tensa y delicada flecha, persiguiendo los olores enfurecedoramente esquivos con que el mundo lo rodeaba y que venían a tentarlo desde cada matorral, cada bosquecillo y cada barranco.
+> 
+> Las botas de Bayard Sartoris estaban completamente empapadas y las suelas tenían un cerco de barro; y él se inclinaba con preocupada intensidad sobre el barrilito y el frasco, vigilado por la sobria curiosidad de los perros. El anciano había apoyado el barril en una silla con la espita hacia arriba y trasegaba delicadamente el aterciopelado líquido ambarino hasta el frasco mediante un delgado tubo de goma. Miss Jenny entró con la toca negra todavía colocada en el exacto centro de su pulcra cabeza blanca; los dos perros levantaron la vista para mirarla, el más viejo con grave dignidad, el más joven moviéndose más de prisa y golpeando el suelo con la cola, en actitud de aduladora desconfianza. Pero Bayard Sartoris no levantó la cabeza. Miss Jenny cerró la puerta y contempló sus botas desaprobadoramente.
+> 
+> —Tienes los pies mojados —observó.
+> 
+> Él siguió sin levantar la vista, manteniendo delicadamente el tubo dentro del cuello del frasco y contemplando cómo subía el nivel del líquido. A veces la sordera de Bayard Sartoris resultaba muy conveniente, quizá más conveniente que auténtica; pero, ¿quién podía saberlo con certeza?
+> 
+> —Sube a tu habitación y quítate las botas —ordenó Miss Jenny acercándose—. Ya terminaré yo de llenar el frasco.
+> 
+> Pero dentro de la serena torre amurallada de su sordera, la concentrada imperturbabilidad de Bayard no flaqueó hasta que el frasco estuvo lleno y hubo apretado el tubo, alzándolo, para que el sobrante volviera a vaciarse en el barril. El perro viejo seguía imperturbable delante de él, pero el otro se había colocado detrás, inmóvil y alerta, con la cabeza apoyada sobre las cruzadas patas delanteras, vigilando a Miss Jenny con ojos que se humedecían sin pestañear. Bayard Sartoris sacó el tubo del barrilito y miró a su tía por primera vez.
+> 
+> —¿Qué me decías?
+> 
+> Pero Miss Jenny había ido a abrir la puerta de nuevo y estaba dando gritos en el vestíbulo, obteniendo una alarmada respuesta desde la cocina, que concluyó en seguida con la aparición del mismo Simón en carne y hueso.
+> 
+> —Sube a por las zapatillas del Coronel —indicó Miss Jenny.
+> 
+> Al entrar otra vez en la biblioteca ni su sobrino ni el barrilito estaban a la vista, pero tras la puerta abierta del armario sobresalían los inquisitivos cuartos traseros del perro joven y la tensa flecha de su barométrica cola; en seguida Bayard Sartoris apartó al perro con un pie, reapareciendo; luego cerró la puerta del armario y echó el candado.
+> 
+> —¿Ha llegado Simón? —preguntó.
+> 
+> —Llegará en seguida —contestó ella—. Acabo de llamarlo. Siéntate aquí y quítate las botas.
+> 
+> En aquel momento entró Simón con las zapatillas. Bayard Sartoris se sentó obedientemente, y Simón se arrodilló y le quitó las botas bajo la rigurosa vigilancia de Miss Jenny.
+> 
+> —¿Tiene los calcetines secos? —preguntó ella.
+> 
+> —No, señora; están mojados —contestó Simón.
+> 
+> Pero Miss Jenny se agachó para comprobarlo por sí misma.
+> 
+> —¿Qué haces? —dijo su sobrino con tono irritado; pero Miss Jenny pasó la mano por ambos pies con calma imperturbable.
+> 
+> —No es que se haya esforzado especialmente para que no lo estén —dijo, alzando la voz para atravesar el muro de su sordera—. Y además tenías que venir tú con esa estúpida patraña sobre Mr. Bayard.
+> 
+> —Lo vio un empleado —repitió Simón con testarudez, arrojando las zapatillas contra los pies de Bayard Sartoris—. Nunca he dicho que yo lo hubiera visto.
+> 
+> Y se quedó en pie frotándose las manos contra los muslos.
+> 
+> Bayard Sartoris metió a empellones los pies en las zapatillas.
+> 
+> —Trae las cosas del ponche, Simón —dijo. Y luego añadió, dirigiéndose a su tía con tono indiferente—: Simón dice que Bayard se apeó del tren esta tarde.
+> 
+> Pero Miss Jenny estaba otra vez ocupándose de Simón.
+> 
+> —Ven aquí, recoge estas botas y ponías detrás del fogón —dijo.
+> 
+> Simón, acercándose furtivamente a la chimenea, recogió las botas.
+> 
+> —Y llévate a los perros de paso —dijo ella—. Tendremos que agradecer a Dios que a Bayard no se le haya ocurrido traer también aquí a su caballo.
+> 
+> Inmediatamente el perro viejo se puso en pie y, seguido por la desconfiada presteza del más joven, salió de la biblioteca con la misma fingida premeditación con que tanto Bayard Sartoris como Simón se sometían a la implacable voluntad de Miss Jenny.
+> 
+> —Simón dice… —repitió Bayard Sartoris.
+> 
+> —Simón dice bobadas —le interrumpió Miss Jenny—. ¿Llevas sesenta años viviendo con él y todavía no te has enterado de que no es capaz de reconocer la verdad cuando se tropieza con ella?
+> 
+> Luego siguió a Simón desde la biblioteca hasta la cocina, y mientras su hija Elnora se afanaba sobre la tabla donde amasaba la pasta para las galletas y él llenaba una jarra con agua, cortaba limones en rodajas y los poma en una bandeja junto con un azucarero y dos vasos, Miss Jenny permaneció en el quicio de la puerta consiguiendo que al viejo criado negro se le erizaran los pocos cabellos grises que le quedaban. Miss Jenny manejaba el inglés con gran precisión en todo momento, pero cuando algo o alguien la enfurecía se elevaba sin esfuerzo hasta insospechadas alturas. Hablaba entonces con una claridad tan vigorosa y una simplicidad tan expresiva que el mismo Demóstenes se la hubiera envidiado, porque incluso las mulas la entendían, y hasta las personas más obtusas tardaban muy poco tiempo en captar plenamente su sentido; bajo el asalto de su elocuencia Simón fue inclinando más y más la cabeza hasta que su fingida pose de respetuosa indiferencia se fue desprendiendo de su indefenso yo como las hojas de los árboles en otoño, por lo que, apoderándose de la bandeja, abandonó precipitadamente la cocina. La voz de Miss Jenny lo siguió, descendiendo de las alturas sin dificultad, mediante una serie de consideraciones extraordinariamente amplias que incluían una amonestación y una sugerencia para el comportamiento futuro tanto de Simón como de todos sus descendientes, existentes o meramente posibles, durante un buen número de años.
+> 
+> —Y la próxima vez —terminó Miss Jenny— que tú o cualquier empleado, guardaagujas o mozo de los recados veáis u oigáis algo que os parezca de interés para el Coronel, decídmelo antes a mí: ya me encargaré yo de contárselo.
+> 
+> Y luego de lanzar a Elnora otra mirada fulminante por si acaso, Miss Jenny regresó a la biblioteca, donde su sobrino mezclaba cuidadosamente agua y azúcar en los dos vasos.
+> 
+> Simón con una chaqueta blanca oficiaba de mayordomo, y en lugar de las riendas manejaba una delicada cubertería de plata tan desgastada por el uso que los mangos de algunas cucharas tenían la delgadez del papel en el sitio donde los dedos de sucesivas generaciones las habían empuñado; cubertería de plata que Joby, el abuelo de Simón, había enterrado muchos años atrás en el suelo, con olor a amoníaco, del establo, mientras Simón, de tres años de edad y cubierto con una única prenda de vestir extremadamente sucia, lo miraba con todo el interés que puede sentir un niño por cualquier juego que se sale de lo normal.
+> 
+> Un efluvio de su primigenia vocación lo seguía a todas partes, incluso cuando se le cepillaba y se le adornaba e incluso se le deformaba un poco embutiéndolo para ir a la iglesia en una chaqueta Príncipe Alberto que Bayard Sartoris no usaba ya; de manera que una débil nostalgia de los establos acompañaba cada entrada suya en el comedor con los platos; se identificaba con las relajadas posturas que adoptaba cerca del buffet mientras contestaba las abruptas preguntas de Miss Jenny o proseguía algún fragmento de conversación que Bayard Sartoris y él habían iniciado previamente durante el día; o quedaba flotando tras él cuando salía del comedor. Pero aquella noche Simón traía los platos, los colocaba y se volvía inmediatamente a la cocina: se daba cuenta de que también en aquella ocasión había hablado más de la cuenta.
+> 
+> Miss Jenny, con un chal de lana sobre los hombros para protegerse del frío del atardecer, llevó todo el peso de la conversación, sumergiendo a su sobrino en un mar de trivialidades —hechos y dichos sin importancia, chismes—, apartándose con ello de su comportamiento habitual. Miss Jenny tenía sus opiniones, por supuesto, y una manera concisa y ferozmente divertida de expresarlas, pero sólo practicaba el cotilleo en muy contadas ocasiones. Mientras tanto Bayard Sartoris se había encerrado en la torre amurallada de su sordera, alzando el puente levadizo y bajando incluso el rastrillo, con lo que nadie podía saber si oía o no, mientras su yo corpóreo seguía cenando sin inmutarse. En cuanto terminaron, Miss Jenny hizo sonar la campanilla de plata que tenía al lado. Cuando Simón abrió la puerta los ojos de la anciana le lanzaron una andanada tan fría que inmediatamente volvió a cerrarla y esperó agazapado a que sus amos salieran del comedor para entrar a quitar la mesa.
+> 
+> Bayard Sartoris encendió su cigarro en la biblioteca y Miss Jenny, siguiéndolo hasta allí, acercó su sillón a la mesa donde estaba la lámpara y abrió el diario de Memphis. Miss Jenny disfrutaba con la humanidad en sus manifestaciones más llamativas, y como prefería cualquier jugosa novelería al más impecable recuento de grisáceas realidades, estaba suscrita a un periódico sensacionalista de la tarde a pesar de que no le llegaba hasta el día siguiente, y en él leía con fría avidez relatos de incendios, asesinatos, violentas separaciones matrimoniales y adulterios; muy pronto —a su debido tiempo— América le proporcionaría nuevas diversiones gracias a las guerras entre contrabandistas de licores, pero eso no había llegado todavía. Su sobrino, situado fuera del ambarino estanque de luz creado por la lámpara —con los pies contra la esquina de la chimenea, en el sitio donde las suelas de sus botas y las de las botas de John Sartoris antes de las suyas habían hecho desaparecer el barniz años atrás—, lanzaba bocanadas de humo periódicamente. Bayard no estaba leyendo y de cuando en cuando Miss Jenny lanzaba miradas en dirección suya por encima de las gafas y del borde del periódico, sin que se produjera otro sonido en la habitación que el esporádico crujido del papel al pasar las páginas.
+> 
+> Cuando Bayard se puso en pie, lo hizo con la especial brusquedad que le caracterizaba, y Miss Jenny lo siguió con la vista mientras cruzaba la habitación y salía dando un portazo. Ella continuó leyendo durante un rato, pero toda su atención había quedado prendida en el ruido de sus pisadas, y cuando éste cesó, Miss Jenny se levantó también, dejó el periódico y salió hasta la puerta principal.
+> 
+> La luna había surgido por encima de la oscura muralla de las colinas del este e iluminaba discretamente el valle, subiendo como un globo infantil entre los robles y las acacias que bordeaban la avenida. Bayard Sartoris estaba sentado a la luz de la luna con los pies en la barandilla del porche. Su cigarro se iluminaba a intervalos regulares y una estridente monotonía de grillos se alzaba del vecino césped; más allá, entre los árboles, como diminutas burbujas de plata que se desprendieran, inacabables, surgían los frágiles silbidos de las ranas, mezclados con un leve aroma de acacia imposible de localizar y tan sutil como un humo de tabaco desvanecido. Desde el fondo de la casa llegaba hasta el vestíbulo en sombras la voz de Elnora manteniendo una absurda cadencia en tono menor.
+> 
+> Miss Jenny dio unos pasos hacia la derecha sin salir de la casa, buscando a tientas alrededor de la bostezante semioscuridad del espejo el sombrero de fieltro de su sobrino. Cuando lo encontró, salió con él y se lo dejó en la mano.
+> 
+> —No te quedes ahí sentado mucho tiempo. Todavía no estamos en verano.
+> 
+> Bayard dejó escapar un gruñido ininteligible pero se puso el sombrero. Miss Jenny volvió a la biblioteca, terminó de leer el periódico, y lo dobló, dejándolo sobre la mesa. Apagó la luz y subió a oscuras las escaleras hasta su habitación. Desde allí la luna brillaba ya sobre los árboles y su resplandor penetraba en anchas franjas plateadas a través de las ventanas del este.
+> 
+> Antes de encender la luz se llegó al lado sur de la casa y abrió una ventana que daba sobre el clamor de los grillos, de las ranas y a veces de algún sinsonte. Junto a la ventana había un magnolio, todavía sin florecer; tampoco se habían abierto las madreselvas que cubrían la valla del jardín. Pero ya no tardarían mucho y desde aquella ventana Miss Jenny podía dominar todo el jardín y contemplar los jazmines del Cabo, las celindas y las lilas allí donde la luna iluminaba todavía su sueño bronceado sin florecer, y los retoños y los injertos de otros jardines de Carolina y de Virginia que había conocido siendo muchacha.
+> 
+> Un poco más allá de la ventana estaba la cocina y de ella la voz de Elnora manaba en suave cadencia descendente. No todas las personas que hablan del Cielo han de ir allí, decía su canto; y en seguida ella y Simón aparecieron bajo la luz de la luna y tomaron el camino de su casa, un poco por debajo del establo. Simón había encendido por fin la colilla de su cigarro y el humo reconcentrado se iba desvaneciendo lentamente a sus espaldas; incluso cuando ya los dos habían desaparecido se tenía la impresión de que su rancia fetidez persistía aún junto con el sonido de los grillos y de las ranas en el aire plateado, indisolublemente mezclado con la cadencia agonizante de la voz de Elnora.
+> 
+> No todas las personas que hablan del Cielo han de ir allí.
+> 
+> Se le había apagado el cigarro, de manera que movió el brazo para sacarse una cerilla del chaleco. El viejo Bayard volvió a encender el puro y colocó otra vez los pies sobre la barandilla; y de nuevo el aroma del tabaco se extendió a la deriva por los corredores inmóviles del aire, perdiéndose y disolviéndose lentamente entre el murmullo de las acacias y la frágil e incesante reiteración de los grillos y de las ranas. Muy lejos, en algún sitio del valle, cantó un sinsonte y al cabo de un rato lo hizo otro desde el magnolio junto a la valla del jardín. Pasó un automóvil por la cuidada carretera del valle, disminuyendo la marcha en el paso a nivel para luego aumentar otra vez la velocidad; cuando el ruido de su motor se perdió a lo lejos, el silbato del tren de las nueve y media resonó entre las colinas.
+> 
+> Dos largos pitidos, cuyos ecos se disolvieron lentamente, y a continuación otros dos breves; pero antes de que fuera posible divisarlo, a Bayard se le había vuelto a apagar el puro y siguió sin moverse con el cigarro entre los dedos mientras la locomotora arrastraba la hilera de ventanillas iluminadas valle arriba hasta desaparecer otra vez entre las colinas, donde al cabo de cierto tiempo, silbó una vez más, arrogante y triste a la vez. John Sartoris, sentado en aquella misma veranda, había contemplado cómo sus trenes salían de las colinas para atravesar el valle y perderse otra vez entre los montes, con acompañamiento de luces, humo, campanas y una ruidosa imitación de velocidad. Pero ahora su ferrocarril pertenecía a un sindicato y había más de dos trenes haciendo el recorrido desde Chicago hasta el Golfo de México, con lo que su sueño se había visto realizado aunque ahora el mismo John Sartoris durmiera entre marciales querubines y la inútil vanagloria de cualquier Dios que su orgullo no le impidiera reconocer como tal.
+> 
+> Luego el puro se le volvió a apagar y siguió sin encenderlo mientras observaba cómo una figura alta emergía de los arbustos de lilas junto a la verja del jardín y avanzaba, iluminada a retazos por la luz de la luna, hacia el porche donde él estaba sentado. Su nieto no llevaba sombrero y se le acercó y subió los escalones y permaneció inmóvil dejando que la luz de la luna marcara los acusados relieves de su rostro mientras su abuelo, con el cigarro apagado entre los dedos, lo contemplaba.
+> 
+> —Bayard, hijo —murmuró el anciano. El joven Bayard siguió en el mismo sitio, iluminado por la luna. Las órbitas de sus ojos eran sombras cavernosas.
+> 
+> —Traté de evitar que subiera en aquel estúpido avión de juguete —dijo por fin con cavilosa ferocidad.
+> 
+> Después se movió de nuevo y el viejo Bayard retiró los pies de la barandilla, pero su nieto arrastró una silla hasta ponerla a su lado y se dejó caer en ella. Sus movimientos eran tan abruptos como los de su abuelo, pero controlados y armoniosos dentro de su violencia.
+> 
+> —¿Por qué demonios no me has anunciado que venías? —preguntó el anciano—. ¿Qué sentido tiene que te presentes aquí como lo has hecho?
+> 
+> —Nadie lo sabía.
+> 
+> El joven Bayard sacó un pitillo y frotó una cerilla contra la suela del zapato.
+> 
+> —¿Cómo?
+> 
+> —No le dije a nadie que venía —repitió, alzando la voz por encima de la cerilla encendida entre sus manos ahuecadas.
+> 
+> —Simón lo sabía. ¿Te dedicas a informar a los criados negros de tus movimientos en lugar de hacérselo saber a tu abuelo?
+> 
+> —¡Condenado Simón! —replicó el joven Bayard—. ¿Quién le ha dicho que me vigile?
+> 
+> —No me grites, muchacho —contraatacó el anciano.
+> 
+> Su nieto tiró la cerilla y aspiró el humo del cigarrillo con chupadas profundas, llenas de preocupación.
+> 
+> —No despiertes a Jenny —añadió el otro con tono más amable, acercando una cerilla a su cigarro apagado—. Tú estás bien, ¿no es cierto?
+> 
+> El joven Bayard notó que a su abuelo le temblaban las manos.
+> 
+> —Espere —dijo, extendiendo un brazo—. Déjeme que le sostenga la cerilla. Va a prenderse fuego al bigote.
+> 
+> Pero su abuelo le rechazó con viveza y aspiró testaruda e impotentemente mientras el fósforo temblaba entre sus dedos inseguros.
+> 
+> —Te he preguntado si te encuentras bien —repitió.
+> 
+> —¿Por qué no? —contestó su nieto con brusquedad—. Casi hace falta ser tan estúpido para que le hieran a uno en la guerra como en tiempo de paz. Hay que ser un imbécil integral, eso es lo que se necesita.
+> 
+> Volvió a chupar el cigarrillo y luego lo arrojó casi entero hacia el mismo sitio que la cerilla.
+> 
+> —A uno tuve que esperar cuatro días para cazarlo y acabé mandando a Sibleigh en un Ak. W. que es como una canasta vieja, para que me sirviera de cebo. Sólo buscaban combates sin riesgo, él y los de su escuadrilla. Le di una buena lección. Estuve encima de él durante seis mil pies y le metí un cargador entero en la cabina. Los impactos estaban tan juntos que hubiera usted podido taparlos todos con su sombrero. Pero el muy canalla no quiso arder.
+> 
+> La voz del joven Bayard se fue alzando de nuevo mientras seguía hablando. El aroma de las acacias se extendía en suaves ráfagas, y los grillos y las ranas cantaban con la monotonía de un idiota tocando la flauta en el sopor de un mediodía de verano. Desde su ventana de plata, la luna miraba hacia el valle disolviéndose con opalina tranquilidad en la serena y misteriosa infinitud de las colinas, mientras la voz del joven Bayard seguía contando historias de violencia, de velocidad y de muerte.
+> 
+> —Habla más bajo —repitió el anciano—. Vas a despertar a Jenny.
+> 
+> Y el otro redujo el volumen de su voz obedientemente, pero pronto volvió a alzarla; al cabo de un rato apareció Miss Jenny con su chal de lana blanca sobre el camisón y, acercándose, le dio un beso.
+> 
+> —Imagino que estás bien de salud —dijo—, de lo contrario no estarías de tan mal humor. Cuéntanos lo que le pasó a Johnny.
+> 
+> —Estaba borracho —contestó el joven Bayard ásperamente—. Estaba borracho o se había vuelto completamente imbécil. Traté de impedir que se subiera en el maldito Camel. Uno no se podía ver la propia mano aquella mañana. Había nubes por todas partes y hasta el más tonto se habría dado cuenta de que en el lado enemigo iban a abundar los Fokkers capaces de subir hasta veinticinco mil pies; y él, con un maldito Camel. Pero estaba decidido a subir aunque Lille se hallara a dos pasos. No pude impedírselo. Disparó sobre mí. Traté de apartarlo y de hacerle volver, pero me mandó una rociada. Había subido ya todo lo que daba de sí su avión, pero ellos debían estar a cinco mil pies por encima de nosotros cuando nos localizaron. Se le echaron todos encima. Lo rodearon como a una ternera en un corral, y uno de ellos se le colocó detrás hasta que empezó a arder y cayó en picado. Después se volvieron corriendo a casa.
+> 
+> El aroma de las acacias seguía extendiéndose por el aire tranquilo y las ranas continuaban produciendo su oleaje plateado desde los árboles. En el magnolio de la esquina del jardín cantó un sinsonte. A lo lejos, en el valle, otro le contestó.
+> 
+> —Salió zumbando hacia casa con el resto de su pandilla —dijo el joven Bayard—. Él y sus compañeros. Era Proeckner —añadió, y por un momento su voz se hizo firme y tranquila, llena de justificado orgullo—. Uno de los mejores aviadores que tenían. Discípulo de Richthofen.
+> 
+> —Bueno, eso ya es algo —asintió Miss Jenny, acariciándole la cabeza.
+> 
+> El joven Bayard estuvo cavilando durante un rato.
+> 
+> —Traté de evitar que se subiera en aquel estúpido avión de juguete —estalló de nuevo.
+> 
+> —¿Qué esperabas, después de haberlo educado como lo hiciste? —preguntó Miss Jenny—. Tú eras el mayor… Has estado en el cementerio, ¿no es cierto?
+> 
+> —Sí —contestó él tranquilamente.
+> 
+> —¿De qué estáis hablando? —quiso saber el anciano.
+> 
+> —Este viejo loco de Simón dijo que era allí donde estabas… Pero ahora lo que tienes que hacer es entrar en casa y cenar —dijo Miss Jenny con tono firme y enérgico, irrumpiendo otra vez en su vida sin pedirle permiso y recogiendo todos aquellos hilos tan enmarañados con su característica eficiencia.
+> 
+> El joven Bayard se puso en pie obedientemente.
+> 
+> —¿De qué estáis hablando? —repitió su abuelo.
+> 
+> —Y tú no te quedes ahí.
+> 
+> Miss Jenny incluyó también al anciano en la órbita de su voluntad como se recoge al pasar una prenda de vestir abandonada sobre una silla.
+> 
+> —Ya es hora de que estés en la cama.
+> 
+> Los dos siguieron hasta la cocina y se quedaron en pie mientras ella abría la nevera, colocaba alimentos y una jarra de leche sobre la mesa y acercaba una silla.
+> 
+> —Prepárale un ponche, Jenny —sugirió el anciano. Pero Miss Jenny puso el veto inmediatamente.
+> 
+> —Es leche lo que necesita. Estoy segura de que ha bebido suficiente whisky durante la guerra como para pasarse sin él una temporada. Siempre que Bayard volviera a casa de la suya quería subir a caballo los escalones del porche y entrar en casa montado. Vamos —y fue sacando al anciano de la cocina y llevándolo escaleras arriba—. Acuéstate, ¿me oyes? Déjalo solo un rato.
+> 
+> Esperó a que cerrara la puerta y luego entró en el cuarto del joven Bayard y le preparó la cama; al cabo de un rato, ya desde su habitación, le oyó subir las escaleras.
+> 
+> También su habitación se hallaba engañosamente iluminada por la luna, y Bayard, sin encender la luz, se sentó en la cama. Al otro lado de la ventana los interminables grillos y ranas sonaban como si los rayos de la luna fuesen frágiles cristales cayendo entre los árboles y los matorrales, desmenuzándose sobre el suelo en una lluvia musical; por encima de todo ello, con una cualidad profunda y vibrante, alentaban las mesuradas respiraciones de la bomba de agua en la planta eléctrica, más allá del establo.
+> 
+> Sacó otro cigarrillo y lo encendió. Pero sólo le dio dos chupadas antes de tirarlo. Después permaneció inmóvil en la habitación que él y John habían compartido de muchachos, llenos de juvenil violencia masculina; inmóvil sobre la cama que él y su mujer habían ocupado durante su última noche de permiso, antes de que volviera a Inglaterra y de allí otra vez al frente, donde John le esperaba. Junto a él, sobre la almohada, la viva llama de bronce de los cabellos de su mujer palidecía en la oscuridad y ella estaba tumbada sujetando el brazo de Bayard contra su pecho con las dos manos, mientras hablaban por fin tranquila y sobriamente.
+> 
+> Pero ni aún entonces pensaba en ella. Cuando se ocupaba de la mujer que estaba tumbada a su lado en la oscuridad, apretando un brazo suyo entre los pechos, era sólo porque se sentía un poco salvajemente avergonzado de lo mal que se había portado con ella. Pensaba en su hermano, a quien no había visto desde hacía más de un año, y en que volverían a verse al cabo de un mes.
+> 
+> Tampoco ahora pensaba en ella, aunque aquellas paredes encerraran, como una flor mustia dentro de un ataúd, la fragancia del caos mágico en que vivieron fugazmente; tan trágico y tan pasajero como una floración de madreselva. Bayard pensaba en su hermano muerto; el espíritu de los violentos días en que el uno completaba al otro, cubría como polvo toda la habitación, obliterando el perfume de aquella otra presencia, y le impedía respirar, hasta que tuvo que abrir la ventana violentamente y apoyarse contra el alféizar, llenándose de aire los pulmones como un hombre que ha estado sumergido y todavía no acaba de creer que haya conseguido alcanzar de nuevo la superficie.
+> 
+> Más tarde, cuando yacía desnudo entre las sábanas, le despertaron sus propios gemidos. La habitación estaba llena de una helada luz grisácea, sin origen preciso y al volver la cabeza vio a Miss Jenny, con el chal de lana sobre los hombros, sentada en una silla junto a la cama.
+> 
+> —¿Qué pasa? —dijo Bayard.
+> 
+> —Eso es lo que me gustaría saber a mí —contestó Miss Jenny—. Haces más ruido que la bomba de agua.
+> 
+> —Necesito un trago.
+> 
+> Miss Jenny se inclinó hacia adelante y le presentó un vaso que estaba en el suelo junto a ella. Bayard lo cogió, alzándose sobre el codo pero la mano se detuvo antes de llegar a la boca, con el vaso debajo de la nariz.
 y el otro le contesta: «El predicador se va con las mujeres igual que yo».
 ¡Señor, señor!
 Eso es lo que pasa hoy día con la iglesia.

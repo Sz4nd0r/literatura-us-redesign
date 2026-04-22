@@ -1,0 +1,169 @@
+Author               | Score  | Files | Issues
+------------------------------------------------------------
+ld                   | 87.14  | 7     | author_line_missing, legacy_quotes_only, missing_h1
+ao                   | 85.0   | 6     | author_line_missing, legacy_quotes_only, missing_h1, metadata_residuals
+rmr                  | 85.0   | 4     | author_line_missing, legacy_quotes_only, missing_h1
+mutis                | 84.35  | 23    | author_line_missing, legacy_quotes_only, missing_h1
+tse                  | 82.5   | 6     | author_line_missing, legacy_quotes_only, missing_h1, metadata_residuals
+eld                  | 81.25  | 8     | missing_h1, author_line_missing, metadata_residuals, author_italics_missing, legacy_quotes_only
+bolano               | 77.06  | 17    | author_line_missing, legacy_quotes_only, missing_h1
+buzzati              | 75.68  | 74    | author_line_missing, legacy_quotes_only, missing_h1, metadata_residuals
+ra                   | 75.0   | 9     | author_line_missing, legacy_quotes_only, missing_h1, metadata_residuals
+stig                 | 74.09  | 22    | author_line_missing, legacy_quotes_only, missing_h1
+js                   | 73.53  | 17    | missing_h1, author_line_missing, metadata_residuals, author_italics_missing, legacy_quotes_only
+malamud              | 73.53  | 17    | author_line_missing, legacy_quotes_only, missing_h1
+oscar                | 73.46  | 39    | author_line_missing, legacy_quotes_only, missing_h1, metadata_residuals
+ibs                  | 73.0   | 15    | author_line_missing, legacy_quotes_only, missing_h1, metadata_residuals
+tommaso              | 72.94  | 51    | author_line_missing, legacy_quotes_only, missing_h1
+cl                   | 72.5   | 24    | author_line_missing, legacy_quotes_only, missing_h1
+conrad               | 72.07  | 29    | author_line_missing, missing_h1, metadata_residuals
+daudet               | 71.8   | 25    | author_line_missing, legacy_quotes_only, missing_h1, metadata_residuals
+elena                | 71.8   | 25    | author_line_missing, legacy_quotes_only, missing_h1, metadata_residuals
+ivant                | 71.72  | 32    | author_line_missing, legacy_quotes_only, missing_h1, metadata_residuals
+lessing              | 71.56  | 48    | author_line_missing, legacy_quotes_only, missing_h1, metadata_residuals
+gdm                  | 71.46  | 41    | author_line_missing, legacy_quotes_only, missing_h1, metadata_residuals
+id                   | 71.36  | 22    | author_line_missing, missing_h1, metadata_residuals
+sa                   | 71.36  | 44    | author_line_missing, legacy_quotes_only, missing_h1
+mda                  | 71.3   | 23    | author_line_missing, missing_h1, metadata_residuals
+rk                   | 71.2   | 25    | author_line_missing, missing_h1, metadata_residuals
+ma                   | 71.07  | 14    | author_line_missing, missing_h1, metadata_residuals
+aam                  | 70.88  | 17    | author_line_missing, missing_h1, metadata_residuals
+ew                   | 70.88  | 17    | author_line_missing, missing_h1, metadata_residuals
+gci                  | 70.88  | 17    | author_line_missing, missing_h1, metadata_residuals
+lp                   | 70.88  | 17    | author_line_missing, missing_h1, metadata_residuals
+hgw                  | 70.81  | 37    | author_line_missing, missing_h1, metadata_residuals
+miguel               | 70.77  | 39    | author_line_missing, missing_h1, metadata_residuals
+donoso               | 70.68  | 22    | author_line_missing, missing_h1, metadata_residuals
+gorki                | 70.6   | 25    | author_line_missing, legacy_quotes_only, missing_h1, author_italics_missing
+acd                  | 70.28  | 54    | author_line_missing, missing_h1, metadata_residuals
+dhl                  | 70.24  | 41    | author_line_missing, missing_h1, metadata_residuals
+ah                   | 70.0   | 4     | author_line_missing, missing_h1
+carlos               | 70.0   | 26    | author_line_missing, missing_h1
+edq                  | 70.0   | 4     | author_line_missing, missing_h1
+foc                  | 70.0   | 18    | author_line_missing, missing_h1
+gkc                  | 70.0   | 16    | author_line_missing, missing_h1
+gogol                | 70.0   | 18    | author_line_missing, missing_h1
+greene               | 70.0   | 33    | author_line_missing, missing_h1
+gs                   | 70.0   | 5     | author_line_missing, missing_h1
+im                   | 70.0   | 4     | author_line_missing, missing_h1
+jhl                  | 70.0   | 6     | author_line_missing, missing_h1
+jt                   | 70.0   | 5     | author_line_missing, missing_h1
+julia                | 70.0   | 2     | author_line_missing, missing_h1
+jw                   | 70.0   | 5     | author_line_missing, missing_h1
+kate                 | 70.0   | 12    | author_line_missing, missing_h1
+maria                | 70.0   | 8     | author_line_missing, missing_h1
+maugham              | 70.0   | 29    | author_line_missing, missing_h1
+merimee              | 70.0   | 17    | author_line_missing, missing_h1
+moreno               | 70.0   | 20    | author_line_missing, missing_h1
+musset               | 70.0   | 9     | author_line_missing, missing_h1
+rls                  | 70.0   | 23    | author_line_missing, missing_h1
+saul                 | 70.0   | 8     | author_line_missing, missing_h1
+simenon              | 70.0   | 51    | author_line_missing, missing_h1, author_italics_missing, metadata_residuals
+to                   | 70.0   | 3     | author_line_missing, missing_h1
+yk                   | 70.0   | 9     | author_line_missing, missing_h1
+am                   | 69.9   | 102   | author_line_missing, legacy_quotes_only, missing_h1
+rf                   | 69.74  | 57    | missing_h1, author_line_missing, metadata_residuals, author_italics_missing, legacy_quotes_only
+jup                  | 69.31  | 29    | missing_h1, author_line_missing, metadata_residuals, author_italics_missing, legacy_quotes_only
+ac                   | 69.07  | 107   | author_line_missing, missing_h1
+sergio               | 69.0   | 60    | metadata_residuals, legacy_quotes_only, missing_h1
+tw                   | 68.18  | 11    | author_line_missing, missing_h1
+mk                   | 67.0   | 5     | author_line_missing, missing_h1, author_italics_missing
+jose                 | 66.62  | 37    | metadata_residuals, legacy_quotes_only, missing_h1, author_line_missing
+josee                | 66.2   | 50    | metadata_residuals, legacy_quotes_only, missing_h1
+romulo               | 65.88  | 34    | metadata_residuals, legacy_quotes_only, missing_h1
+rueda                | 65.0   | 1     | metadata_residuals, missing_h1
+franko               | 62.5   | 6     | author_line_missing, missing_h1, author_italics_missing
+jjoyce               | 62.31  | 13    | author_line_missing, missing_h1
+vw                   | 62.22  | 9     | author_line_missing, missing_h1, metadata_residuals
+benedetti            | 61.48  | 162   | legacy_quotes_only, missing_h1
+garciamarquez        | 61.25  | 44    | metadata_residuals, legacy_quotes_only, missing_h1, author_line_missing
+arenas               | 61.0   | 10    | legacy_quotes_only, missing_h1, author_italics_missing
+acs                  | 60.47  | 32    | legacy_quotes_only, missing_h1, author_italics_missing
+gp                   | 60.45  | 11    | legacy_quotes_only, missing_h1, author_italics_missing
+sontag               | 60.36  | 14    | metadata_residuals, legacy_quotes_only, missing_h1, author_italics_missing
+hm                   | 59.17  | 6     | author_line_missing, legacy_quotes_only, missing_h1, author_italics_missing
+arturo               | 58.53  | 51    | metadata_residuals, legacy_quotes_only, missing_h1
+jesus                | 58.46  | 13    | metadata_residuals, legacy_quotes_only, missing_h1, author_italics_missing
+ab                   | 58.29  | 41    | metadata_residuals, legacy_quotes_only, missing_h1, author_italics_missing
+sc                   | 58.21  | 14    | metadata_residuals, legacy_quotes_only, missing_h1, author_italics_missing
+ozick                | 58.16  | 19    | metadata_residuals, missing_h1, author_italics_missing
+babel                | 58.0   | 45    | metadata_residuals, legacy_quotes_only, missing_h1, author_italics_missing
+tc                   | 58.0   | 10    | legacy_quotes_only, missing_h1, author_italics_missing
+lm                   | 57.73  | 11    | legacy_quotes_only, missing_h1, author_italics_missing
+cp                   | 57.54  | 59    | legacy_quotes_only, missing_h1, author_italics_missing
+padilla              | 57.5   | 4     | legacy_quotes_only, missing_h1
+kap                  | 57.0   | 15    | legacy_quotes_only, missing_h1, author_italics_missing
+jgr                  | 56.88  | 24    | metadata_residuals, legacy_quotes_only, missing_h1, author_italics_missing
+wf                   | 56.72  | 87    | missing_h1, metadata_residuals, author_line_missing, author_italics_missing, legacy_quotes_only
+joseluis             | 56.67  | 18    | metadata_residuals, legacy_quotes_only, missing_h1
+ferre                | 56.43  | 21    | metadata_residuals, legacy_quotes_only, missing_h1
+neruda               | 56.25  | 24    | legacy_quotes_only, missing_h1
+shirley              | 56.15  | 26    | legacy_quotes_only, missing_h1, author_italics_missing
+fbh                  | 56.1   | 41    | metadata_residuals, missing_h1, author_italics_missing
+virgilio             | 56.0   | 5     | legacy_quotes_only, missing_h1
+vn                   | 56.0   | 15    | metadata_residuals, missing_h1, author_italics_missing
+fsc                  | 55.95  | 42    | metadata_residuals, legacy_quotes_only, missing_h1, author_italics_missing
+roque                | 55.77  | 13    | metadata_residuals, legacy_quotes_only, missing_h1
+nh                   | 55.71  | 14    | metadata_residuals, missing_h1, author_italics_missing
+james                | 55.7   | 71    | author_line_missing, missing_h1, author_italics_missing, metadata_residuals
+ciro                 | 55.62  | 24    | metadata_residuals, legacy_quotes_only, missing_h1
+dickens              | 55.62  | 24    | metadata_residuals, missing_h1, author_italics_missing
+london               | 55.6   | 124   | metadata_residuals, legacy_quotes_only, missing_h1, author_italics_missing
+jc                   | 55.36  | 14    | metadata_residuals, missing_h1, author_italics_missing
+alejo                | 55.31  | 16    | metadata_residuals, legacy_quotes_only, missing_h1, author_italics_missing
+cmc                  | 55.0   | 11    | missing_h1, author_italics_missing
+huxley               | 55.0   | 7     | missing_h1, author_italics_missing
+jco                  | 55.0   | 9     | missing_h1, author_italics_missing
+le                   | 55.0   | 7     | missing_h1, author_italics_missing
+lino                 | 55.0   | 10    | missing_h1, author_italics_missing
+mallea               | 55.0   | 11    | missing_h1, author_italics_missing
+mt                   | 55.0   | 6     | missing_h1, author_italics_missing
+ohara                | 55.0   | 27    | missing_h1, author_italics_missing
+onelio               | 55.0   | 11    | missing_h1, author_italics_missing
+pr                   | 55.0   | 6     | missing_h1, author_italics_missing
+pushkin              | 55.0   | 16    | missing_h1, author_italics_missing
+sarah                | 55.0   | 5     | missing_h1, author_italics_missing
+wi                   | 55.0   | 5     | missing_h1, author_italics_missing
+willa                | 55.0   | 13    | missing_h1, author_italics_missing
+rulfo                | 54.58  | 24    | author_line_missing, legacy_quotes_only, missing_h1
+piglia               | 53.75  | 24    | legacy_quotes_only, missing_h1
+rojo                 | 53.75  | 16    | legacy_quotes_only, missing_h1
+jorge                | 53.33  | 18    | legacy_quotes_only, missing_h1
+liliana              | 53.33  | 45    | metadata_residuals, legacy_quotes_only, missing_h1
+cuadra               | 53.0   | 5     | metadata_residuals, missing_h1
+tellez               | 53.0   | 20    | legacy_quotes_only, missing_h1
+augusto              | 52.81  | 32    | legacy_quotes_only, missing_h1
+cardenal             | 52.5   | 6     | metadata_residuals, missing_h1
+cortazar             | 52.41  | 81    | metadata_residuals, legacy_quotes_only, missing_h1
+borges               | 52.35  | 51    | metadata_residuals, legacy_quotes_only, missing_h1
+mujica               | 52.31  | 65    | metadata_residuals, legacy_quotes_only, missing_h1
+rc                   | 52.24  | 67    | author_line_missing, legacy_quotes_only, missing_h1, author_italics_missing
+pgv                  | 52.22  | 27    | metadata_residuals, legacy_quotes_only, missing_h1
+fk                   | 52.11  | 19    | author_line_missing, missing_h1
+fd                   | 52.0   | 10    | author_line_missing, missing_h1
+jds                  | 52.0   | 10    | missing_h1, author_italics_missing
+roberto              | 52.0   | 15    | legacy_quotes_only, missing_h1
+vallejo              | 52.0   | 10    | author_line_missing, missing_h1
+eap                  | 51.56  | 32    | metadata_residuals, missing_h1, author_line_missing
+onetti               | 51.23  | 61    | metadata_residuals, legacy_quotes_only, missing_h1
+km                   | 51.17  | 81    | metadata_residuals, legacy_quotes_only, missing_h1, author_italics_missing
+eh                   | 51.06  | 52    | missing_h1, author_line_missing, metadata_residuals, author_italics_missing, legacy_quotes_only
+juanbosch            | 50.91  | 66    | legacy_quotes_only, missing_h1
+julio                | 50.88  | 51    | metadata_residuals, legacy_quotes_only, missing_h1
+bioy                 | 50.43  | 69    | metadata_residuals, missing_h1
+ohenry               | 50.43  | 105   | missing_h1, author_italics_missing
+arlt                 | 50.0   | 23    | missing_h1
+bonaparte            | 50.0   | 3     | missing_h1
+calvino              | 50.0   | 41    | missing_h1
+emilio               | 50.0   | 4     | missing_h1
+felix                | 50.0   | 6     | missing_h1
+hernandez            | 50.0   | 14    | missing_h1
+jma                  | 50.0   | 24    | missing_h1
+lt                   | 50.0   | 4     | missing_h1
+manuel               | 50.0   | 28    | missing_h1
+marti                | 50.0   | 6     | missing_h1
+mieses               | 50.0   | 2     | missing_h1
+ow                   | 50.0   | 13    | missing_h1
+quiroga              | 50.0   | 43    | missing_h1
+skarmeta             | 50.0   | 15    | missing_h1
+tm                   | 50.0   | 17    | missing_h1

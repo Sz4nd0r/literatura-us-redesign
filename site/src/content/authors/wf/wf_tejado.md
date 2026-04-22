@@ -17,36 +17,67 @@ tags:
 *(Nueva York: Random House, 1950, 900 págs.)*
 
 Papá se levantó más de una hora antes de que fuese de día y agarró la mula y bajó hasta casa de Killegrew a pedirle prestado el escoplo y el mazo. Tendría que haber estado de vuelta, con todo, en tres cuartos de hora. Pero había salido el sol y ya había ordeñado yo a las vacas y les había echado el pienso y me estaba desayunando cuando él volvió, con la mula no sólo babeando espuma, sino a punto de derrengarse.
+
 —La caza del zorro —dijo—. La dichosa caza del zorro, hay que ver. Un hombre de setenta años, con los dos pies metidos en la tumba, y una de las dos piernas hasta el corvejón, que va y se pasa la noche entera acuclillado en el monte y haciendo como que de lejos oye las carreras de los demás en pos de un zorro que no acertaría a oír a menos que se plantasen justo en el mismo tronco en que estuviera sentado y se lo dijeran a gritos por la trompetilla. Anda, dame el desayuno —le dijo a mamá—. Whitfield está ahí plantado justo ahora mismo, a horcajadas del árbol que han talado para hacer tablones y tejas, con el reloj en la mano.
+
 Y vaya si estaba. Pasamos de largo por delante de la iglesia y no sólo estaba aparcado el autobús del colegio que conducía Solon Quick, sino también la yegua vieja del reverendo Whitfield. Amarramos la mula a un retoño y colgamos la lonchera de una rama, y mientras papá llevaba el escoplo y el mazo y las cuñas de Killegrew y yo llevaba el hacha, bajamos hasta el árbol talado para hacer tablones o tejas, donde Solon y Homer Bookwright, con los escoplos y los mazos y las cuñas, se habían sentado en dos tocones, y Whitfield estaba allí plantado como un pasmarote, ya lo dijo papá, con la camisa almidonada, el sombrero negro, los pantalones negros, la corbata negra, con el reloj en la mano. Era un reloj de oro, y con el sol de la mañana parecía grande como un calabacín maduro.
+
 —Llegas tarde —dijo.
-Así que papá volvió a contar que el Viejo Killegrew se había pasado la noche entera liado con lo de la caza del zorro, y que no encontró en su casa a nadie que le prestara el escoplo, pues sólo estaban la señora Killegrew y la cocinera. Como es natural, la cocinera no quiso prestarle ninguna de las herramientas de Killegrew, y la señora Killegrew estaba aún más sorda que el Viejo Killegrew. Si uno entrase a todo correr y le dijera que ardía la casa, se quedaría como estaba, en la mecedora, y diría que ya se lo parecía a ella, a menos que le diera por hartarse a pegar gritos a la cocinera para que soltase a los perros sin darte siquiera tiempo de abrir la boca.
+
+Así que papá volvió a contar que el Viejo Killegrew se había pasado la noche entera liado con lo de la caza del zorro, y que no encontró en su casa a nadie que le prestara el escoplo, pues sólo estaban la señora Killegrew y la cocinera. Como es natural, la cocinera no quiso prestarle ninguna de las herramientas de Killegrew, y la señora Killegrew estaba aún más sorda que el Viejo Killegrew. Si uno entrara a todo correr y le dijera que ardía la casa, se quedaría como estaba, en la mecedora, y diría que ya se lo parecía a ella, a menos que le diera por hartarse a pegar gritos a la cocinera para que soltase a los perros sin darte siquiera tiempo de abrir la boca.
+
 —Podrías haber ido ayer a pedir prestado el escoplo —dijo Whitfield—. Sabes desde hace más de un mes que nos tienes prometido este día, un día en todo el verano, para poner el tejado nuevo en la casa del Señor.
+
 —Pero si no llegamos ni con dos horas de retraso… —dijo papá—. Digo yo que el Señor podrá perdonárnoslo. Al Señor, además, el tiempo no le importa. Lo que le importa es la salvación.
+
 Whitfield ni siquiera esperó a que papá terminase. A mí me pareció que de pronto era más alto aun cuando se dirigió a papá con voz atronadora, como una nube de tormenta que acabara de descargar.
-—¡Al Señor no le interesa ni lo uno ni lo otro, hombre! ¿Cómo le iban a interesar, eh, si resulta que ya es dueño de las dos cosas? ¿Y por qué tendrá que andar de acá para allá tras las almas de los pobres hombres, de los miserables, de los que ni siquiera saben pedir a tiempo una herramienta para cambiar las tejas de Su iglesia? Eso a mí no me lo preguntes. A lo mejor es porque Él los ha creado. A lo mejor se dijo: «Yo los he creado, y no sé por qué. Pero como Yo los he creado, ¡por Dios bendito que me voy a remangar con tal de llevarlos a la gloria eterna, tanto si quieren como si no!».
+
+—¡Al Señor no le interesa ni lo uno ni lo otro, hombre! ¿Cómo le iban a interesar, eh, si resulta que ya es dueño de las dos cosas? ¿Y por qué tendrá que andar de acá para allá tras las almas de los pobres hombres, de los miserables, de los que ni siquiera saben pedir a tiempo una herramienta para cambiar las tejas de Su iglesia? Eso a mí no me lo preguntes. A lo mejor es porque Él los ha creado. A lo mejor se dijo: «Yo los he creado, y no sé por qué. Pero como Yo los he creado, ¡por Dios bendito que me voy a rengar con tal de llevarlos a la gloria eterna, tanto si quieren como si no!».
+
 Pero esto no vino al caso en ese momento, y a mí me parece que él se dio cuenta, tal como se daba cuenta de que no pasaría nada en absoluto mientras siguiera allí plantado. Así que se guardó el reloj en el chaleco e indicó a Solon y a Homer que se acercasen, y todos nos quitamos el sombrero, menos él, allí plantado de cara al sol, con los ojos cerrados, y las cejas como si fuesen una enorme oruga gris al borde de un precipicio.
+
 —Señor —dijo—, haz que las tejas y tablones de este árbol salgan bien derechos, haz que se laminen fácil, que son para Ti y para Tu casa —y abrió los ojos y nos volvió a mirar, sobre todo a papá, y fue a desatar su yegua y montó despacio, envarado, como hacen los viejos, antes de ponerla al paso y marchar.
+
 Papá dejó el escoplo y el mazo en el suelo, con las tres cuñas en fila, para empuñar el hacha.
+
 —En fin, señores —dijo—, manos a la obra, que ya va siendo tarde.
+
 —Para mí y para Homer no es tarde —dijo Solon—. Que por algo estábamos aquí esperando.
+
 Esta vez, Homer y él no se sentaron en los tocones. Se acuclillaron. Vi entonces que Homer sacaba punta a un palo. Antes no me había dado cuenta.
+
 —Creo que son dos horas, poco más o menos —dijo Solon.
+
 Papá aún estaba medio agachado, con el hacha en la mano.
+
 —Más bien será una —dijo—. Pero digamos que son dos, no vayamos a discutir. ¿Y qué?
+
 —¿Discutir? ¿Por qué vamos a discutir? —dijo Homer.
+
 —De acuerdo —dijo papá—. Sean dos horas. ¿Y qué?
+
 —En total salen tres unidades por hombre y hora, multiplicado por dos horas —dijo Solon—. Es decir, un total de seis unidades de trabajo.
+
 Cuando la Administración del Progreso de las Obras Públicas se instaló en el condado de Yoknapatawpha y comenzó a dar trabajo a la gente, y comida, y colchones, Solon fue a Jefferson a meter la cuchara en el lío. Todas las mañanas se ponía al volante del autobús del colegio y recorría las veintidós millas que había hasta la ciudad, y volvía de noche. Lo estuvo haciendo durante casi toda una semana antes de descubrir no sólo que iba a tener que poner su parcela a nombre de otro, sino que ni siquiera podría ser el dueño y conductor del autobús del colegio, que él mismo había construido. Así que aquella noche volvió y ya no se le ocurrió ir a meter la cuchara nunca más, y desde entonces a nadie se le ocurría ni hablar de la Administración del Progreso de las Obras Públicas delante de él, a no ser que pretendiera armar una trifulca, aunque a él de vez en cuando se le ocurrían esos cálculos, en horas de trabajo por hombre, como acababa de hacer en ese momento.
+
 —Nos faltan seis unidades.
+
 —Cuatro de las cuales ya las podíais haber trabajado Homer y tú mientras me estabais esperando mano sobre mano —dijo papá.
+
 —Pero no lo hicimos —dijo Solon—. Prometimos a Whitfield dos unidades de doce horas de tres unidades cada una para poner las tejas nuevas en el tejado de la iglesia. Aquí estamos desde que amaneció, esperando a que aparezca la tercera unidad. Por eso no podíamos empezar. Pero tú me parece que no tienes muy en cuenta estas ideas, estas moderneces sobre el trabajo, que han inundado y han enaltecido el campo en estos últimos años.
+
 —Pero… ¿qué moderneces ni qué niño muerto? —dijo papá—. No sabía yo que hubiera más que una idea cuando es cosa de trabajo, y es que mientras no se acaba no está hecho, y cuando se acaba hecho está.
+
 Homer sacó otra viruta alargada del palo que estaba afilando. La navaja cortaba más que una navaja de barbero.
+
 Solon sacó la cajita del rape y llenó la tapa y se volcó el rape en el labio inferior y le pasó la cajita a Homer, que negó con un gesto, y Solon volvió a poner la tapa y se guardó la cajita en el bolsillo.
+
 —Total —dijo papá—, que como tuve que esperar un par de horas a que un anciano de setenta años volviese de su dichosa caza del zorro, en la que no se le había perdido nada, y menos para pasar la noche en vela en el bosque, tal como tampoco se le habría perdido nada en un tugurio de carretera, nosotros tres vamos a tener que volver mañana a terminar lo que tú y Homer…
+
 —Yo no —dijo Solon—. De Homer no sé nada. Yo a Whitfield le prometí un día. Y aquí estaba para ponerme manos a la obra cuando salió el sol. Cuando se ponga el sol, daré por supuesto que he terminado.
+
 —Entiendo —dijo papá—, entiendo. Voy a tener que volver yo mañana. Por mi cuenta. Voy a tener que meterme una mañana entera entre pecho y espalda para compensar las dos horas que Homer y tú habéis pasado tumbados a la bartola. Voy a tener que echar mañana otras dos horas para compensar por las dos horas en las que ni Homer ni tú habéis dado un palo al agua.
+
 —Va a ser cosa de meterse más de una mañana —dijo Solon—. Va a ser como echarla a perder. Quedan aún seis unidades. Seis unidades por hora y hombre. A lo mejor tú eres capaz de trabajar el doble que Homer y yo juntos para terminar con esto en cuatro horas, pero no creo que puedas trabajar el triple y terminar sólo en dos.
 Papá se había puesto en pie. Jadeaba. Lo oíamos.
 —Vaya —dijo—. Vaya —blandió el hacha e hincó la hoja en uno de los tajos, agarrándolo por el extremo plano, que estaba a punto de partirse—. Así que se me va a penalizar con medio día de mi propio tiempo, del trabajo que ahora mismo me espera en casa, para que haga otras seis horas más que vosotros dos, y todo porque os han faltado dos horas que habéis pasado sin dar palo al agua, lisa y llanamente porque sólo soy un agricultor medio, que trabaja de firme y que intenta hacer las cosas lo mejor que puede, en vez de ser un millonario que encima es dueño de las herramientas y para colmo se apellida Quick o Bookwright.

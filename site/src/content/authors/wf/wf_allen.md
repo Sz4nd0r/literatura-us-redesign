@@ -10,80 +10,135 @@ tags:
 ---
 *William Faulkner*
 *(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
-*# Allén*
+
 *—Beyond*
-*Originalmente publicado en Harper’s Magazine, CLXVII (septiembre de 1933)*
-*con el título de «Beyond the Gate», o «Más allá de la puerta»;*
-*reimpreso en Doctor Martino and Other Stories (1934)*
-*Cuentos reunidos (1950)*
-*I*
+
+> Originalmente publicado en Harper’s Magazine, CLXVII (septiembre de 1933) con el título de «Beyond the Gate», o «Más allá de la puerta»; reimpreso en Doctor Martino and Other Stories (1934), Cuentos reunidos (1950)
+
 
 La oreja dura y redonda del fonendoscopio le resultó fría y desagradable al tacto sobre su pecho desnudo; el cuarto, grande, cuadrado, con toscos muebles de nogal —la cama en la que por primera vez durmió solo, que había sido su cama matrimonial, en la que fue concebido su hijo, en la que nació, en la que fue amortajado para introducirlo en el féretro—, el cuarto que tan familiar le había sido a lo largo de sesenta y cinco años, de sólito tan apacible, callado, tan peculiarmente suyo que despedía el mismo olor que él, parecía atestado de gente, aunque sólo eran tres en total y a los tres los conocía: Lucius Peabody, que debiera haber estado en el pueblo y atender a su consulta de médico en ejercicio, más los dos negros, la que debiera estar en la cocina y el que debiera al igual estar con el cortacésped, remedando al menos una actividad a cambio de la cual se ganaban el jornal que el sábado por la noche contaban con recibir.
-Pero lo peor de todo era la oreja dura y fría y no muy grande, la oreja del fonendoscopio, peor incluso que el ultraje de estar con el pecho desnudo, con la fina y delicada cobertura de vello entrecano al aire. Lo cierto es que en todo aquello había al menos una circunstancia atenuante. «Al menos —pensó con un punto de humor algo contrariado y sardónico— se me ha ahorrado la algarabía que hubieran armado las mujeres de la familia, y que me habría tocado en suerte, como suele ser por lo común concomitante con ocasión de un matrimonio o un divorcio. Y si ése al menos me quitara de encima ese condenado telefonito de juguete y dejara que mis negros volvieran al trabajo…».
+
+Pero lo peor de todo era la oreja dura y fría y no muy grande, la oreja del fonendoscopio, peor incluso que el ultraje de estar con el pecho desnudo, con la fina y delicada cobertura de vello entrecano al aire. Lo cierto es que en todo aquello había al menos una circunstancia atenuante. *«Al menos —pensó con un punto de humor algo contrariado y sardónico— se me ha ahorrado la algarabía que hubieran armado las mujeres de la familia, y que me habría tocado en suerte, como suele ser por lo común concomitante con ocasión de un matrimonio o un divorcio. Y si ése al menos me quitara de encima ese condenado telefonito de juguete y dejara que mis negros volvieran al trabajo…»*.
+
 Y antes de terminar él su pensamiento, Peabody en efecto retiró el fonendoscopio. Y cuando se acomodaba él de nuevo en la almohada, con un suspiro de contrariado alivio, uno de los negros, la mujer, armó tal pandemónium de lloros y gimoteos y lamentos que se incorporó él como un resorte en la cama, tapándose con las manos los oídos. La negra estaba al pie de la cama, las manos largas y ágiles quietas en el travesaño, los ojos en blanco, vueltos hacia el interior del cráneo, la boca abierta de par en par, mientras de ella manaban lentas bocanadas de soprano tan dulces como los tonos del registro alto de un órgano y tan avasalladoras y demoledoras como la sirena de un barco de vapor.
-—¡Chlory! —le gritó—. ¡Ya basta! —ella no paró. Aparentemente, ni veía ni oía nada—. ¡Tú, Jake! —le gritó al negro que estaba junto a ella, con las manos también sobre el travesaño, a los pies de la cama, el semblante meditabundo, la mirada clavada en la cama, con una expresión sombría, profundamente enigmática—. ¡Llévatela de aquí! ¡Ahora mismo! —pero Jake tampoco se movió, así que se volvió a Peabody con un estallido de ira—. ¡Eh, Lucius! ¡Llévese de aquí a esos malditos negros! —pero Peabody tampoco pareció haberle oído. El juez lo vio doblar y recoger meticulosamente el fonendoscopio en su funda; lo miró con suma irritación unos instantes más, mientras el alarido demoledor de la mujer se expandía como el humo por todo el cuarto. Entonces apartó el cobertor de una sacudida y se levantó de la cama y salió como una furia del cuarto y de la casa.
-De golpe se dio cuenta de que aún iba en pijama, así que se abotonó por encima el abrigo. Era de buen paño, negro, cepillado, de una elegancia un tanto demodé, con los cuellos de piel de marta. «Al menos no han tenido tiempo de escondérmelo —pensó, presa todavía de una contrariada rabia—. Ahora que si al menos tuviera los… —se miró los pies—. Ah, vaya; pues parece que los tengo… —se miró los zapatos—. Por suerte». La momentánea sorpresa también se disipó ahora que la rabia había encontrado un espacio en el cual difuminarse. Se tocó el sombrero, se llevó la mano a la solapa. El jazmín seguía en el ojal. Dijera lo que dijese, y por más que despotricara contra el negro, y a menudo no le quedaba más remedio, el negro nunca se olvidaba de la flor que tocara según la estación. Siempre se la encontraba puesta, fresca, reciente, impecable, en la bandeja con que le servía el café por la mañana. La flor y el… Sujetó el bastón de ébano bajo el brazo y abrió el maletín. Ahí estaban los dos pañuelos limpios, junto con el libro. Uno de ellos se lo introdujo en el bolsillo de la pechera y siguió su camino. Al cabo, los ruidosos gimoteos de Chlory se apagaron por sí solos.
+
+> —¡Chlory! —le gritó—. ¡Ya basta! —ella no paró. Aparentemente, ni veía ni oía nada—. ¡Tú, Jake! —le gritó al negro que estaba junto a ella, con las manos también sobre el travesaño, a los pies de la cama, el semblante meditabundo, la mirada clavada en la cama, con una expresión sombría, profundamente enigmática—. ¡Llévatela de aquí! ¡Ahora mismo! —pero Jake tampoco se movió, así que se volvió a Peabody con un estallido de ira—. ¡Eh, Lucius! ¡Llévese de aquí a esos malditos negros! —pero Peabody tampoco pareció haberle oído. El juez lo vio doblar y recoger meticulosamente el fonendoscopio en su funda; lo miró con suma irritación unos instantes más, mientras el alarido demoledor de la mujer se expandía como el humo por todo el cuarto. Entonces apartó el cobertor de una sacudida y se levantó de la cama y salió como una furia del cuarto y de la casa.
+
+De golpe se dio cuenta de que aún iba en pijama, así que se abotonó por encima el abrigo. Era de buen paño, negro, cepillado, de una elegancia un tanto demodé, con los cuellos de piel de marta. *«Al menos no han tenido tiempo de escondérmelo —pensó, presa todavía de una contrariada rabia—. Ahora que si al menos tuviera los…»* —se miró los pies—. *«Ah, vaya; pues parece que los tengo…»* —se miró los zapatos—. *«Por suerte»*. La momentánea sorpresa también se disipó ahora que la rabia había encontrado un espacio en el cual difuminarse. Se tocó el sombrero, se llevó la mano a la solapa. El jazmín seguía en el ojal. Dijera lo que dijese, y por más que despotricara contra el negro, y a menudo no le quedaba más remedio, el negro nunca se olvidaba de la flor que tocara según la estación. Siempre se la encontraba puesta, fresca, reciente, impecable, en la bandeja con que le servía el café por la mañana. La flor y el… Sujetó el bastón de ébano bajo el brazo y abrió el maletín. Ahí estaban los dos pañuelos limpios, junto con el libro. Uno de ellos se lo introdujo en el bolsillo de la pechera y siguió su camino. Al cabo, los ruidosos gimoteos de Chlory se apagaron por sí solos.
+
 Durante un rato no muy largo la cosa fue sin lugar a dudas desagradable. Detestaba las muchedumbres, el arremolinarse de la gente sin sentido, la paciencia transmutada en estulticia, el impacto de la carne viva y palpitante con la suya propia. Pero en cuestión de segundos, o muy pronto en todo caso, se vio libre, y se detuvo en seco, un tanto descompuesto, un tanto importunado, y volvió la vista atrás con enojo y desagrado menguantes hacia el gentío que se apiñaba en silencio en torno a la entrada. Con desagrado y enojo menguantes hasta que desapareció del todo el desagrado, con el rostro impertérrito y la mirada inteligente, con un deje atenuado de desconcierto enojado, socarrón, acaso un tanto atenuado y sin embargo constante, pero todavía no teñido de especulación sobresaltada, todavía sin caer en el desgobierno, sin entrar en la cautela. Eso habría de llegar más adelante. De ahí que no se le notase en la voz, que sonó tan sólo ligera, mordaz, contenida.
-—Parece que se ha juntado una multitud de cuidado.
-—Sí —dijo el otro. El juez lo miró y vio a un joven trajeado a la manera convencional, de ceremonia matutina, con un sutil efluvio a bodas, que supervisaba la entrada con aire crispado, pacienzudo.
-—¿Está esperando a alguien? —dijo el juez.
-Entonces fue el otro el que lo miró.
-—Sí. No habrá visto usted a… Claro que usted no la conoce.
-—¿Que no conozco a quién?
-—A mi esposa. Es decir, no es aún mi esposa, pero la boda tendrá lugar a mediodía.
-—Entonces es que ha ocurrido algo, ¿no es así?
-—No me quedó más remedio —el joven lo miró con crispación, angustiado—. Llegaba tarde, por eso venía conduciendo tan deprisa. Se me cruzó un niño por la carretera. Iba tan deprisa que no pude parar. Por eso tuve que dar un volantazo.
-—Pero no atropelló al niño.
-—No —el otro lo miró—. ¿Usted no la conoce?
-—¿Está esperando aquí a…? —el juez miró al otro con suma atención. Entornó los ojos, su mirada era penetrante, dura—. Eso es una sarta de pamplinas —dijo de pronto, tajantemente.
-—¿Cómo? ¿Qué ha dicho usted? —preguntó el otro con aire impreciso, de crispación, casi suplicante. El juez apartó la mirada. Desapareció el ceño fruncido, su concentración, su reflejo de asombro iracundo. Parecía habérselo borrado del rostro con una acción súbita e intencionada. Era como ese hombre que, sin ser un espadachín, ha practicado un poco con un florete para protegerse de cierta crisis por lo demás improbable, y que de pronto se encuentra, florete en mano, cara a cara ante el acontecimiento. Miró a la entrada con gesto alerta, cavilando con rapidez: parecía cavilar sobre los rostros de los que entraban, examinarlos con una concentración inmóvil y furiosa, y con sosiego; con sosiego miró en derredor, y luego miró al otro. El joven no le quitaba los ojos de encima.
-—Supongo que usted también estará buscando a su esposa —dijo—. Espero que la encuentre. De veras, lo espero —hablaba con una suerte de sosegada desesperación—. Supongo que será ya una mujer de edad, como es usted. Tiene que ser un infierno para el que tiene que estar pendiente y esperando al otro, con el que uno ha ido envejeciendo en el matrimonio, porque en mi caso le aseguro que es terrible estar pendiente y esperar, y eso que espero a una joven que para mí es virgen. Desde luego, considero que mi caso es el más penoso de soportar. Dese cuenta, si al menos hubiera sido un día después… cualquier cosa. Pero es que de haber sido así supongo que no podría haber pegado el volantazo y esquivar al niño aquel. Considero que el mío es terrible, de veras. Pero no puede ser tan malo como a mí me lo parece. Es imposible que lo sea. En fin, espero y deseo que la encuentre.
+
+> —Parece que se ha juntado una multitud de cuidado.
+> 
+> —Sí —dijo el otro. El juez lo miró y vio a un joven trajeado a la manera convencional, de ceremonia matutina, con un sutil efluvio a bodas, que supervisaba la entrada con aire crispado, pacienzudo.
+> 
+> —¿Está esperando a alguien? —dijo el juez.
+> 
+> Entonces fue el otro el que lo miró.
+> 
+> —Sí. No habrá visto usted a… Claro que usted no la conoce.
+> 
+> —¿Que no conozco a quién?
+> 
+> —A mi esposa. Es decir, no es aún mi esposa, pero la boda tendrá lugar a mediodía.
+> 
+> —Entonces es que ha ocurrido algo, ¿no es así?
+> 
+> —No me quedó más remedio —el joven lo miró con crispación, angustiado—. Llegaba tarde, por eso venía conduciendo tan deprisa. Se me cruzó un niño por la carretera. Iba tan deprisa que no pude parar. Por eso tuve que dar un volantazo.
+> 
+> —Pero no atropelló al niño.
+> 
+> —No —el otro lo miró—. ¿Usted no la conoce?
+
 El juez frunció el labio.
-—Yo he venido aquí escapándome de alguien, no he venido para encontrar a nadie —miró al otro. Aún tenía el semblante descompuesto por esa mueca que podría haber pasado por una sonrisa, pero no sonreían sus ojos—. Si estuviera buscando a alguien, lo más probable es que fuera a mi hijo.
-—Ah, un hijo. Entiendo.
-—Sí. Tendría más o menos la misma edad que usted. Tenía diez años cuando murió.
-—Pues búsquelo por aquí.
-El juez se rió en ese momento a carcajadas, aunque la risa no asomara a sus ojos. El otro lo miró con esa gravedad y esa angustia, sazonadas ya con una curiosidad interesada.
-—¿Quiere decir que no cree? —el juez rió aún más fuerte. Sin dejar de reírse, sacó una bolsita de tela donde llevaba el tabaco y lió un cigarrillo fino. Cuando alzó los ojos, el otro seguía pendiente de la entrada. El juez dejó de reír—. ¿Tiene una cerilla? —el otro lo miró. El juez le mostró el cigarrillo—. Una cerilla.
-El otro rebuscó en los bolsillos.
-—Pues no —miró al juez—. Búsquelo aquí —dijo.
-—Gracias —repuso el juez—. A lo mejor más adelante sigo su consejo —se volvió. Hizo una pausa y se volvió a mirar atrás. El joven estaba pendiente de la entrada. El juez lo miró con desconcierto, con el labio fruncido. Se volvió y se detuvo en seco. En su rostro se había pintado una sorpresa absoluta, una inmovilidad completa, como una máscara, la boca perceptiva y agotada, las aletas nasales delicadas, los ojos todos pupila o sin pupila acaso. No parecía que se moviese nada en él. En ese momento Madrespojo[1] se volvió y lo vio. Titilaron sus ojos claros, se paró su mandíbula trunca, desmoronándose de golpe con un movimiento fiero y desdentado.
-—¿Y bien? —dijo Madrespojo.
-—Pues sí —dijo el juez—, soy yo.
-Fue justo entonces, al abandonarle el hipnotismo, cuando la sombra del desconcierto y la cautela tocó del todo su semblante. A él mismo le sonaron idiotas sus palabras.
-—Creí que estaba muer… —hizo sin embargo un esfuerzo supremo y gallardo y aligeró la voz, para darle de nuevo socarronería y contenerse—. ¿Y bien?
-Madrespojo lo miró, un hombre de corta estatura, robusto, con un traje sucio y desparejado, manchado de grasa, de tierra, el cuello sucio e inocente huérfano de corbata, con ojos claros, ligeramente adormecidos, pero desbordantes de ira desbocada.
-—A lo que se ve, también a usted lo han traído aquí, ¿eh?
-—Eso depende, según a quién se refiera al decir «lo han traído» y al decir «aquí».
-Madrespojo hizo un gesto feroz, desplazando un brazo.
-—¡Aquí, qué demonios! ¡Los predicadores, los que se desgañitan proclamando el nombre de Cristo!
-—Ah —dijo el juez—. Bien, pues si estoy donde empiezo a pensar que estoy, no sé si estoy aquí o no. Pero usted sí que no está aquí, de ninguna manera, ¿no es cierto? —Madrespojo le largó una violenta maldición—. Así es —siguió diciendo el juez—, nunca se nos ocurrió, cuando pasamos todas aquellas tardes sentados en mi despacho, hablando de Voltaire y de Ingersoll, que alguna vez fuésemos a terminar así, ¿verdad? Usted, el ateo al que la sola visión del campanario de una iglesia llenaba de una rabia ciega; yo, que nunca he sabido divorciarme de la razón en la medida suficiente para aceptar siquiera su apacible teoría del nihilismo, con la que tanto trabajo se puede ahorrar.
-—¡Que se puede ahorrar trabajo! —exclamó Madrespojo—. Por todos los demonios, que… —maldijo con furia e impotencia. El juez podría estar sonriendo si no fuera por los ojos. Volvió a pegar el cigarrillo.
-—¿Tiene usted una cerilla?
-—¿Cómo? —dijo Madrespojo. Fulminó con los ojos al juez, con la boca abierta. Se tentó la ropa. Por la violencia del gesto, sujeta en el sobaco se asomó fugazmente la culata de una pesada pistola—. No —dijo—, no llevo.
-—Ya —dijo el juez. Lió el cigarrillo apretándolo, la mirada liviana, socarrona—. Pero aún no me ha contado qué es lo que está haciendo aquí. Tenía entendido que usted se…
-Madrespojo volvió a despotricar, maldiciendo con todo su enojo.
-—Pues no. Sólo me suicidé —miró furibundo al juez—. Maldita sea, recuerdo cómo empuñé la pistola; recuerdo la presión de la boca del cañón, fría en la oreja; recuerdo cuando ordené a mi dedo que presionara el gatillo… —miró furibundo al juez—. Pensé que ésa sería una forma de escapar a los predicadores, puesto que según doctrina de la Iglesia… —miró furibundo al juez, los ojos pálidos, al borde de la apoplejía y ofendidos—. En fin, yo ya sé por qué está usted aquí. Ha venido en busca de ese niño.
-El juez bajó la mirada con el labio fruncido, el gesto ascendente, hasta los ojos.
-—No —dijo a media voz.
-Madrespojo lo miró, lo fulminó con la mirada.
-—En busca de ese niño. Agnosticismo —lo dijo con un gruñido—. No dirá ni sí ni no hasta que no vea por dónde van los tiros. Siempre a punto para venderse al mejor postor. Por todos los demonios, yo antes hubiera preferido rendirme y morir en santidad, con todos los imbéciles que aúllan al Cielo en veinte kilómetros a la redonda…
-—No —dijo el juez a media voz, sin separar los dientes refulgentes, apagados. Se desvanecieron entonces sus dientes en silencio, aunque no alzó la mirada. Volvió a pegar el cigarrillo con gran cuidado—. Parece que aquí hay mucha gente —Madrespojo comenzó a mirarlo con ojos especulativos, paladeando las encías como un desquiciado, detenida su mirada furibunda, clara—. Supongo que además de la mía habrá visto por aquí otras caras conocidas, digo yo. Incluso las de aquellos a los que conocía sólo de oídas, ¿no?
-—Ah —dijo Madrespojo—, ya entiendo. Ahora ya le entiendo —el juez parecía absorto en su cigarrillo—. Lo que pretende es darles un repaso, ¿no? Pues adelante. Ojalá saque de ellos algo más, ojalá se le pegue a las entrañas un poco más que a mí. Es posible que lo logre, ya que no parece que pretenda usted saber, sino, más bien, encontrar algo que le inspire certeza. Le aseguro que de eso tienen todos ellos más de lo que podría apetecer.
-—Quiere decir que ya ha…
-Madrespojo volvió a despotricar, a lanzar maldiciones desquiciadas.
-—Claro. Con Ingersoll. Con Paine. Con todos esos hijos de la gran puta, con los que perdía el tiempo miserablemente, leyéndoles, cuando más me hubiese valido sentarme a la solana.
-—Ah —dijo el juez—. Ingersoll. ¿Es que está…?
-—Por supuesto. En un banco, en aquel parque, nada más entrar. Y es posible que sentado en ese mismo banco se encuentre usted al que escribió los libros aquellos de las mujercitas.[2] Si no está ahí, es desde luego donde debería estar.
-Así pues, el juez se sentó e hincó los codos en las rodillas, con el cigarro sin encender en los dedos.
-—Por lo que veo, se ha reconciliado —dijo. El hombre que según Madrespojo era Ingersoll le miró de perfil y en silencio—. Con este sitio, quiero decir.
-—Vaya —dijo el otro, e hizo un gesto seco—. Reconciliado.
-El juez no alzó los ojos.
-—¿Lo acepta? ¿Lo admite? —parecía absorto en el cigarrillo—. Si al menos pudiera verle, si pudiera hablar con Él… —el cigarrillo daba vueltas, despacio, entre sus dedos—. Es posible que estuviera buscándole a Él. Es posible que estuviera buscándole a Él durante todo el tiempo que dediqué a leer sus libros, y a Voltaire, y a Montesquieu. Es posible, sí —el cigarrillo daba vueltas despacio entre sus dedos—. Yo he creído en usted. En su sinceridad. Me dije que si la Verdad está al alcance del hombre, si el hombre la puede descubrir, este hombre estará entre los que la descubran. Hubo una vez, estando yo desgarrado, presa de ese sufrimiento que produce una herida todavía reciente, que lleva incluso a un hombre inteligente a buscar cualquier remedio, un clavo ardiendo al que agarrarse, en la que fui víctima de una necia pretensión: será usted el primero que se ría, tal como me reí yo al cabo. Pensé que quizás exista una vida allende ésta, tal vez una estación intermedia en el tránsito hacia la nada, en donde al menos durante un momento los hombres menos valiosos puedan hablar cara a cara con hombres como usted, hombres en los que se puede creer, y oír de labios de tales hombres las palabras… «Hay esperanza», o bien «No hay nada». Me dije que en tal caso no sería a Él a quien debiera yo buscar; debiera en tal caso buscar a Ingersoll, a Paine, a Voltaire —observó el cigarrillo—. Deme su palabra. Dígame lo uno o lo otro. Creeré lo que me diga.
-El otro miró al juez unos instantes.
-—¿Por qué? —dijo al cabo—. Creer… ¿por qué?
-El papel del cigarrillo se había vuelto a despegar. El juez volvió a liarlo con esmero, manipulándolo con gran cuidado.
-—Verá usted. Yo tenía un hijo. El último que llevó mi apellido, el último de mi linaje. Cuando murió mi esposa vivimos los dos solos, dos hombres en la casa. Mi apellido había merecido todo el respeto, dese cuenta. Yo quería que él fuese un hombre hecho y derecho, digno de mi apellido. Mi hijo tenía un caballo en el que montaba a todas horas. Tengo una fotografía en la que aparece montado en el caballo, la utilizaba para marcar la página de mis lecturas. Muchas veces, mirando esa fotografía, o viéndolos sin que ellos se dieran cuenta, al pasar por delante de la ventana de la biblioteca, me paraba a pensar: «Qué esperanzas cabalgan en lontananza», o bien pensaba en el caballo: «Qué carga soportas a ciegas, mudo animal». Un día me llamaron por teléfono a mi despacho. Lo encontraron enganchado de un estribo, arrastrado por el animal. Nunca llegué a saber si el caballo le había dado una coz o si se desnucó al caer.[3]
+> —Yo he venido aquí escapándome de alguien, no he venido para encontrar a nadie —miró al otro. Aún tenía el semblante descompuesto por esa mueca que podría haber pasado por una sonrisa, pero no sonreían sus ojos—. Si estuviera buscando a alguien, lo más probable es que fuera a mi hijo.
+> 
+> —Ah, un hijo. Entiendo.
+> 
+> —Sí. Tendría más o menos la misma edad que usted. Tenía diez años cuando murió.
+> —Pues búsquelo por aquí.
+> 
+> El juez se rió en ese momento a carcajadas, aunque la risa no asomara a sus ojos. El otro lo miró con esa gravedad y esa angustia, sazonadas ya con una curiosidad interesada.
+> 
+> —¿Quiere decir que no cree? —el juez rió aún más fuerte. Sin dejar de reírse, sacó una bolsita de tela donde llevaba el tabaco y lió un cigarrillo fino. Cuando alzó los ojos, el otro seguía pendiente de la entrada. El juez dejó de reír—. ¿Tiene una cerilla? —el otro lo miró. El juez le mostró el cigarrillo—. Una cerilla.
+> 
+> El otro rebuscó en los bolsillos.
+> 
+> —Pues no —miró al juez—. Búsquelo aquí —dijo.
+> 
+> —Gracias —repuso el juez—. A lo mejor más adelante sigo su consejo —se volvió. Hizo una pausa y se volvió a mirar atrás. El joven estaba pendiente de la entrada. El juez lo miró con desconcierto, con el labio fruncido. Se volvió y se detuvo en seco. En su rostro se había pintado una sorpresa absoluta, una inmovilidad completa, como una máscara, la boca perceptiva y agotada, las aletas nasales delicadas, los ojos todos pupila o sin pupila acaso. No parecía que se moviese nada en él. En ese momento Madrespojo[1] se volvió y lo vio. Titilaron sus ojos claros, se paró su mandíbula trunca, desmoronándose de golpe con un movimiento fiero y desdentado.
+> 
+> —¿Y bien? —dijo Madrespojo.
+> 
+> —Pues sí —dijo el juez—, soy yo.
+> 
+> Fue justo entonces, al abandonarle el hipnotismo, cuando la sombra del desconcierto y la cautela tocó del todo su semblante. A él mismo le sonaron idiotas sus palabras.
+> 
+> —Creí que estaba muer… —hizo sin embargo un esfuerzo supremo y gallardo y aligeró la voz, para darle de nuevo socarronería y contenerse—. ¿Y bien?
+> 
+> Madrespojo lo miró, un hombre de corta estatura, robusto, con un traje sucio y desparejado, manchado de grasa, de tierra, el cuello sucio e inocente huérfano de corbata, con ojos claros, ligeramente adormecidos, pero desbordantes de ira desbocada.
+> 
+> —A lo que se ve, también a usted lo han traído aquí, ¿eh?
+> 
+> —Eso depende, según a quién se refiera al decir «lo han traído» y al decir «aquí».
+> 
+> Madrespojo hizo un gesto feroz, desplazando un brazo.
+> 
+> —¡Aquí, qué demonios! ¡Los predicadores, los que se desgañitan proclamando el nombre de Cristo!
+> 
+> —Ah —dijo el juez—. Bien, pues si estoy donde empiezo a pensar que estoy, no sé si estoy aquí o no. Pero usted sí que no está aquí, de ninguna manera, ¿no es cierto? —Madrespojo le largó una violenta maldición—. Así es —siguió diciendo el juez—, nunca se nos ocurrió, cuando pasamos todas aquellas tardes sentados en mi despacho, hablando de Voltaire y de Ingersoll, que alguna vez fuésemos a terminar así, ¿verdad? Usted, el ateo al que la sola visión del campanario de una iglesia llenaba de una rabia ciega; yo, que nunca he sabido divorciarme de la razón en la medida suficiente para aceptar siquiera su apacible teoría del nihilismo, con la que tanto trabajo se puede ahorrar.
+> 
+> —¡Que se puede ahorrar trabajo! —exclamó Madrespojo—. Por todos los demonios, que… —maldijo con furia e impotencia. El juez podría estar sonriendo si no fuera por los ojos. Volvió a pegar el cigarrillo.
+> 
+> —¿Tiene usted una cerilla?
+> 
+> —¿Cómo? —dijo Madrespojo. Fulminó con los ojos al juez, con la boca abierta. Se tentó la ropa. Por la violencia del gesto, sujeta en el sobaco se asomó fugazmente la culata de una pesada pistola—. No —dijo—, no llevo.
+> 
+> —Ya —dijo el juez. Lió el cigarrillo apretándolo, la mirada liviana, socarrona—. Pero aún no me ha contado qué es lo que está haciendo aquí. Tenía entendido que usted se…
+> 
+> Madrespojo volvió a despotricar, maldiciendo con todo su enojo.
+> 
+> —Pues no. Sólo me suicidé —miró furibundo al juez—. Maldita sea, recuerdo cómo empuñé la pistola; recuerdo la presión de la boca del cañón, fría en la oreja; recuerdo cuando ordené a mi dedo que presionara el gatillo… —miró furibundo al juez—. Pensé que ésa sería una forma de escapar a los predicadores, puesto que según doctrina de la Iglesia… —miró furibundo al juez, los ojos pálidos, al borde de la apoplejía y ofendidos—. En fin, yo ya sé por qué está usted aquí. Ha venido en busca de ese niño.
+> 
+> El juez bajó la mirada con el labio fruncido, el gesto ascendente, hasta los ojos.
+> 
+> —No —dijo a media voz.
+> 
+> Madrespojo lo miró, lo fulminó con la mirada.
+> 
+> —En busca de ese niño. Agnosticismo —lo dijo con un gruñido—. No dirá ni sí ni no hasta que no vea por dónde van los tiros. Siempre a punto para venderse al mejor postor. Por todos los demonios, yo antes hubiera preferido rendirme y morir en santidad, con todos los imbéciles que aúllan al Cielo en veinte kilómetros a la redonda…
+> 
+> —No —dijo el juez a media voz, sin separar los dientes refulgentes, apagados. Se desvanecieron entonces sus dientes en silencio, aunque no alzó la mirada. Volvió a pegar el cigarrillo con gran cuidado—. Parece que aquí hay mucha gente —Madrespojo comenzó a mirarlo con ojos especulativos, paladeando las encías como un desquiciado, detenida su mirada furibunda, clara—. Supongo que además de la mía habrá visto por aquí otras caras conocidas, digo yo. Incluso las de aquellos a los que conocía sólo de oídas, ¿no?
+> 
+> —Ah —dijo Madrespojo—, ya entiendo. Ahora ya le entiendo —el juez parecía absorto en su cigarrillo—. Lo que pretende es darles un repaso, ¿no? Pues adelante. Ojalá saque de ellos algo más, ojalá se le pegue a las entrañas un poco más que a mí. Es posible que lo logre, ya que no parece que pretenda usted saber, sino, más bien, encontrar algo que le inspire certeza. Le aseguro que de eso tienen todos ellos más de lo que podría apetecer.
+> 
+> —Quiere decir que ya ha…
+> 
+> Madrespojo volvió a despotricar, a lanzar maldiciones desquiciadas.
+> 
+> —Claro. Con Ingersoll. Con Paine. Con todos esos hijos de la gran puta, con los que perdía el tiempo miserablemente, leyéndoles, cuando más me hubiese valido sentarme a la solana.
+> 
+> —Ah —dijo el juez—. Ingersoll. ¿Es que está…?
+> 
+> —Por supuesto. En un banco, en aquel parque, nada más entrar. Y es posible que sentado en ese mismo banco se encuentre usted al que escribió los libros aquellos de las mujercitas.[2] Si no está ahí, es desde luego donde debería estar.
+> 
+> Así pues, el juez se sentó e hincó los codos en las rodillas, con el cigarro sin encender en los dedos.
+> 
+> —Por lo que veo, se ha reconciliado —dijo. El hombre que según Madrespojo era Ingersoll le miró de perfil y en silencio—. Con este sitio, quiero decir.
+> 
+> —Vaya —dijo el otro, e hizo un gesto seco—. Reconciliado.
+> 
+> El juez no alzó los ojos.
+> 
+> —¿Lo acepta? ¿Lo admite? —parecía absorto en el cigarrillo—. Si al menos pudiera verle, si pudiera hablar con Él… —el cigarrillo daba vueltas, despacio, entre sus dedos—. Es posible que estuviera buscándole a Él. Es posible que estuviera buscándole a Él durante todo el tiempo que dediqué a leer sus libros, y a Voltaire, y a Montesquieu. Es posible, sí —el cigarrillo daba vueltas despacio entre sus dedos—. Yo he creído en usted. En su sinceridad. Me dije que si la Verdad está al alcance del hombre, si el hombre la puede descubrir, este hombre estará entre los que la descubran. Hubo una vez, estando yo desgarrado, presa de ese sufrimiento que produce una herida todavía reciente, que lleva incluso a un hombre inteligente a buscar cualquier remedio, un clavo ardiendo al que agarrarse, en la que fui víctima de una necia pretensión: será usted el primero que se ría, tal como me reí yo al cabo. Pensé que quizás exista una vida allende ésta, tal vez una estación intermedia en el tránsito hacia la nada, en donde al menos durante un momento los hombres menos valiosos puedan hablar cara a cara con hombres como usted, hombres en los que se puede creer, y oír de labios de tales hombres las palabras… *«Hay esperanza»*, o bien *«No hay nada»*. Me dije que en tal caso no sería a Él a quien debiera yo buscar; debiera en tal caso buscar a Ingersoll, a Paine, a Voltaire —observó el cigarrillo—. Deme su palabra. Dígame lo uno o lo otro. Creeré lo que me diga.
+> 
+> El otro miró al juez unos instantes.
+> 
+> —¿Por qué? —dijo al cabo—. Creer… ¿por qué?
+> 
+> El papel del cigarrillo se había vuelto a despegar. El juez volvió a liarlo con esmero, manipulándolo con gran cuidado.
+> 
+> —Verá usted. Yo tenía un hijo. El último que llevó mi apellido, el último de mi linaje. Cuando murió mi esposa vivimos los dos solos, dos hombres en la casa. Mi apellido había merecido todo el respeto, dese cuenta. Yo quería que él fuese un hombre hecho y derecho, digno de mi apellido. Mi hijo tenía un caballo en el que montaba a todas horas. Tengo una fotografía en la que aparece montado en el caballo, la utilizaba para marcar la página de mis lecturas. Muchas veces, mirando esa fotografía, o viéndolos sin que ellos se dieran cuenta, al pasar por delante de la ventana de la biblioteca, me paraba a pensar: *«Qué esperanzas cabalgan en lontananza»*, o bien pensaba en el caballo: *«Qué carga soportas a ciegas, mudo animal»*. Un día me llamaron por teléfono a mi despacho. Lo encontraron enganchado de un estribo, arrastrado por el animal. Nunca llegué a saber si el caballo le había dado una coz o si se desnucó al caer.[3]
 Dejó el cigarrillo en el banco, a su lado, y abrió el maletín. Sacó un libro.
 —El Diccionario filosófico de Voltaire —dijo—. Siempre llevo un libro encima. Soy un gran lector. Resulta que llevo una vida solitaria, ya que soy el último de la familia y tal vez también porque soy un funcionario republicano en un bastión demócrata. Soy juez federal, juez de un distrito de Mississippi. El padre de mi esposa era republicano. Creo firmemente —añadió de corrido— que los dogmas del partido republicano son los mejores para el país. Tal vez no lo crea usted, pero a lo largo de estos últimos quince años mi único compañero en lo intelectual ha sido un ateo furibundo, casi analfabeto, que no sólo se mofa de la lógica y la ciencia, sino que además tiene un inconfundible olor corporal. A veces, sentado con él en mi despacho, en una tarde de verano, una tarde lluviosa, he llegado a pensar que si el restablecimiento de la fe sirviera para eliminar el prejuicio que tiene en contra del aseo personal, tendría yo sobrada justificación en llegar a ese extremo —sacó una fotografía del libro y se la tendió—. Éste era mi hijo.
 El otro miró la fotografía sin mover un dedo, sin ofrecerse a tomarla. En la cartulina desvaída, sepia, un niño de diez años, bien erguido sobre el caballo, los miraba con reposada y solemne altivez.
@@ -92,49 +147,90 @@ El otro miró la fotografía sin mover un dedo, sin ofrecerse a tomarla. En la c
 El juez no movió ni un dedo. Con la fotografía en una mano y el cigarrillo que se deshacía en la otra, permaneció completamente inmóvil. Parecía estar sentado en una suerte de suspensión aterradora, sin respirar.
 —¿Y encontrarlo? ¿Encontrarlo?
 El otro no contestó. El juez entonces se volvió a mirarlo y el cigarrillo cayó entonces deshecho; las hebras de tabaco llovieron sobre su zapato lustroso, reluciente.
-—¿Ésa es su palabra? Creeré, se lo aseguro —el otro permanecía sentado, sin forma, grisáceo, sedentario, casi anodino, cabizbajo—. Vamos. No puede quedarse con eso. No puede.
-Por el sendero, ante ellos, pasaba gente constantemente. Pasó una mujer con un niño en brazos y una cesta, una mujer joven, con una capa sencilla, desgastada, cepillada. Se volvió hacia el hombre del que Madrespojo dijo que era Ingersoll con una cara sencilla, luminosa, agradable de ver, y le habló con voz agradable, tranquila. Miró entonces al juez con ojos agradables, una mirada sincera, sin osadía, sin timidez, y siguió hablando.
-—Vamos. No puede. No puede usted.
-El juez se quedó atónito, el rostro del todo inexpresivo. A la vez que hablaba se le vació el rostro de toda expresión. Repitió «no puede, es que no puede», en un tono consternado, meditabundo.
-—No puede —dijo—. ¿Quiere decir que no puede darme su palabra, no puede decirme nada? ¿Quiere decir que no lo sabe? ¿Quiere decir que usted no lo sabe? ¿Usted? ¿Robert Ingersoll? ¿Ingersoll, nada menos? —el otro no se movió—. ¿Me está diciendo Robert Ingersoll que durante veinte años me he apoyado en un junco que no era más fuerte que yo mismo?
-El otro siguió sin levantar los ojos.
-—Ya ha visto a esa mujer joven que acaba de pasar de largo con un niño en brazos. Sígala. Mírele a la cara.
-—Una mujer joven. Con un… —el juez miró al otro—. Ah, entiendo. Sí, de acuerdo; miraré al niño y le veré las cicatrices. Y luego miro a la cara a la mujer. ¿Es eso? —el otro no respondió—. ¿Ésa es su respuesta? ¿Es su última palabra? —el otro no se movió. El juez frunció el labio. Con ese movimiento ascendente entrecerró los ojos como si la tristeza, la desesperación, hubiera provocado una llamarada en un último instante, como una llama que se extingue, dejando sobre su semblante un relumbre final, desdibujado, en una mueca apenas perceptible, una mordedura de los dientes apagados, muertos. Se puso en pie y guardó la fotografía en el maletín—. Y éste es el hombre que dice haber sido Robert Ingersoll —por encima de los dientes se le contrajo el rostro en esa expresión que podría haber sido una sonrisa de no ser por los ojos—. No es la prueba que buscaba. Entre todos los hombres, precisamente yo soy quien sabe que la prueba no es sino falacia inventada por el hombre para justificarse y justificar a sus semejantes en su grosera lujuria y en su necedad. No era la prueba que buscaba —con el bastón y el maletín sujetos bajo el brazo, lió otro cigarrillo fino—. Desconozco quién es usted, pero no creo que sea Robert Ingersoll, la verdad. Es posible que ni siquiera si lo fuese pudiera yo reconocerlo. De todos modos, existe cierta consistencia integral que, sea buena o mala, un hombre siempre tendrá que atesorar, porque sólo esa consistencia le permitirá morir un día. Así pues, lo que he sido soy; lo que soy seré hasta que llegue el instante en que no sea. Y entonces nunca habré sido. ¿Cómo era aquello? Non fui. Sum. Fui. Non sum.
-Con el cigarrillo sin encender entre los dedos, pensó al principio que seguiría su camino. Pero en cambio se detuvo y miró al niño. Estaba sentado en el sendero, a los pies de la mujer, rodeado por minúsculas efigies de hombres, de plomo, unas de pie, otras tendidas. La cesta, volcada y vacía, se encontraba a su lado. El juez vio entonces que las figuras eran soldados romanos en distintos estados de descuartizamiento —a unos les faltaba la cabeza, a otros los brazos, a otros las piernas—, esparcidos en derredor, tendidos boca abajo, de pie, alerta, con una actitud marcial, inescrutable, vencida, en medio del polvo blando e inescrutable. En el centro exacto de los pies del niño, en el arco, había una pequeña cicatriz. Y había una tercera en la palma de la mano expuesta, y al mirarlo el juez con desconcierto y sosiego y socarronería cuando el niño derribó de un manotazo el resto de las figurillas vio la cuarta cicatriz. El niño comenzó a llorar.
-—Ssshh —dijo la mujer. Alzó los ojos y miró al juez; se arrodilló y puso en pie los soldaditos. El niño seguía llorando, la cara sucia a chorretones; lloraba con fuerza, sin pasión, sin lágrimas—. ¡Mira! —dijo la mujer—. ¿Lo ves? ¡Mira, aquí! ¡Aquí está también Pilatos! ¡Míralo! —el niño dejó de llorar. Sin haber derramado una sola lágrima, se encontraba en medio del polvo del sendero, mirando a los soldados con una expresión tan inescrutable como la de ellos, en suspenso, solemne como un concejal, reservado. Volvió a derribar a los soldados con el canto de la mano—. ¡Ahí lo tienes! —dijo ella con voz luminosa, con cariño—. ¿Lo ves? —el niño permaneció sentado unos instantes más; luego se echó a llorar de nuevo. Ella lo tomó en brazos y se sentó en el banco, acunándolo, mirando al juez—. Ya, ya —decía—. Ya está, ya pasó.
-—¿Está enfermo? —preguntó el juez.
-—No, no. Sólo está cansado de los juguetes que tiene, a los niños les suele suceder —mecía al niño con gesto de afecto, sin asomo de preocupación—. Ya está, ya está —le decía—. Que te está viendo este caballero…
-El niño seguía llorando.
-—¿Es que no tiene otros juguetes? —preguntó el juez.
-—Oh, sí, claro. Tiene tantos que ni me atrevo a ir por la casa a oscuras. Pero los que más le gustan son los soldaditos. Se los regaló un anciano caballero que ha vivido aquí mucho tiempo, según dicen, y que es bastante rico. Un anciano caballero de bigote blanco, con esos ojos saltones que suelen tener los que han comido más de la cuenta. Yo ya se lo dije. Tiene un lacayo que le lleva el paraguas y el abrigo y la manta de viaje, y a veces se pasa más de una hora sentado aquí con nosotros, charlando, aunque respira con dificultad. Siempre le trae un caramelo o alguna cosa —miró al niño con rostro pensativo y sereno; lloraba sin cesar. Socarrón, desconcertado, el juez se puso en pie mirando los pies sucios del niño, las cicatrices. La mujer alzó los ojos y siguió su mirada—. Ah, le está mirando las cicatrices, se está preguntando cómo se las hizo, ¿no es eso? Se las hicieron los otros niños un día en que estaban jugando. No se dieron cuenta de que le iban a hacer daño, claro está. Supongo que les sorprendió tanto como a él. Ya sabe cómo son los niños cuando se quedan callados mucho tiempo.
-—Sí —dijo el juez—. Yo también tuve un hijo.
-—¿No me diga? ¿Y por qué no lo trae aquí? Nos pondríamos muy contentos, de veras, si viniese a jugar con nuestros soldaditos.
-Los dientes del juez despidieron un brillo apagado.
-—Me temo que ya es mayor para esos juguetes —tomó la fotografía del maletín—. Vea, éste era mi hijo.
-La mujer tomó la fotografía. El niño lloraba sin cesar, con fuerza.
-—Anda, si es Howard. Si lo vemos todos los días… Pasa por aquí montado a caballo todos los días. A veces se detiene y nos deja montar un poco. Yo voy caminando a su lado, para sostenerlo —añadió alzando los ojos. Le mostró la fotografía al niño—. ¡Mira! ¡Es Howard en su caballo! ¿Lo ves? —sin dejar de llorar, el niño contempló la fotografía, el rostro a chorretones de lágrimas y suciedad, con expresión distante, en suspenso, como si viviese en dos vidas distintas, desgajadas, al mismo tiempo. Ella le devolvió la fotografía—. Supongo que lo estará buscando usted…
-—Ah —dijo el juez sin separar los dientes momentáneos. Colocó la fotografía con cuidado en el maletín, el cigarro sin encender entre los dedos.
-La mujer cambió de postura en el banco, recogiendo las faldas en señal de invitación.
-—¿No quiere sentarse? Aquí es seguro que lo verá pasar.
-—Ah —volvió a decir el juez. La miró socarrón, con los ojos nublados de los viejos—. Es así, ya lo ve. ¿Y dice que siempre viene montado en el mismo caballo?
-—Sí, claro —ella lo miró sorprendida, pero serena, seria.
-—¿Y cuántos años diría que tiene el caballo?
-—Bueno, yo… Diría que es del tamaño que le corresponde.
-—Así que debe de ser un potro aún joven…
-—Sí, claro —lo miraba con los ojos muy abiertos.
-—Ah —dijo el juez sin separar aún los dientes, débiles y quietos. Cerró el maletín con cuidado. Del bolsillo sacó medio dólar—. A lo mejor también se ha cansado de los soldaditos. A lo mejor con esto…
-—Gracias —dijo ella. No volvió a mirar la moneda—. Tiene usted una expresión muy triste. ¿Lo ve? Cuando cree estar sonriendo es aún más triste que nunca. ¿Es que no se encuentra bien? —le miró la mano, que tenía extendida. No había hecho ademán de tomar la moneda—. La perdería, entiéndalo. Y es tan bonita, tan brillante… Cuando sea mayor podrá jugar con estas cosas tan chiquitas, pero es que ahora aún es pequeño, entiéndalo.
-—Entiendo —dijo el juez. Se guardó la moneda en el bolsillo—. Bueno, entonces creo que…
-—Espere aquí con nosotros. Siempre pasa por aquí. Así lo encontrará antes, se lo aseguro.
-—Ah —dijo el juez—. Y a caballo, siempre en el mismo caballo. Así las cosas, el caballo tendría ahora… treinta años. Ese caballo murió cuando tenía dieciocho, tras seis años sin que lo montara nadie, seis años que pasó en mis tierras. De eso hace doce años. En fin, mejor será que siga mi camino.
-Y de nuevo fue harto desagradable. Tendría que haberlo sido por partida doble, con la estrechez de la entrada y el hecho de que si bien antes caminaba en la misma dirección que el resto, ahora tuvo que abrirse paso palmo a palmo en sentido inverso al de los demás. «Pero al menos ahora sé adónde voy —pensó con el sombrero aplastado en la cabeza, el peso del bastón y el maletín tirándole de ambos brazos—, cosa que antes no parece que supiera». Por fin estaba libre, y al mirar el reloj del juzgado, como nunca dejaba de hacer al bajar las escaleras de su despacho, vio que disponía de una hora entera antes de que la cena estuviera lista, antes de que los vecinos reparasen en que, como siempre, había pasado marcando la hora exacta.
-—Me queda tiempo para ir al cementerio», pensó, y al mirar la excavación reciente, abierta como una herida, maldijo nervioso y molesto, pues algunos de los terrones arrancados habían caído sobre la losa de mármol que estaba al lado.
-—Maldito sea ese Pettigrew —dijo—. Tendría que haberse ocupado de esto. Le dije que quería que las dos estuvieran tan cerca como fuera posible, pero supuse que al menos velaría… —arrodillado, trató de retirar los terrones caídos sobre la losa. Pero quedaba más allá de sus fuerzas todo lo que no fuera limpiar el trozo que parcialmente ocultaba las letras: «Howard Allison II. 3 de abril de 1903 - 22 de agosto de 1913», y la inscripción callada, en letra gótica, al pie: Auf Wiedersehen, Chiquillo. Siguió alisando, acariciando las letras cuando despejó del todo la tierra, con el rostro desconcertado y tranquilo, mientras hablaba con el hombre del que dijo Madrespojo que era Ingersoll—. Dese cuenta: si pudiera creer que lo volveré a ver, que lo volveré a tocar, no lo habré perdido. Y si no lo hubiera perdido, nunca lo habría tenido. Porque ya he pasado por la pérdida y el dolor de la pérdida, y si soy es por ese dolor. No sé lo que era ni lo que seré. Pero por la muerte sé lo que soy. Y ésa es toda la inmortalidad de la que es capaz el intelecto, toda la que debiera desear la carne. Cualquier otra cosa es para los campesinos, los zoquetes que nunca hubieran amado a un hijo en la medida suficiente para haberlo perdido —se le quebró el semblante en una miríada de arrugas, socarrón, desconcertado, mientras pasaba la mano con suavidad sobre las letras—. No. No tengo necesidad de eso. Yacer a su lado será para mí suficiente. Habrá una muralla de polvo entre nosotros, es verdad, y él ya es polvo al cabo de estos veinte años. Pero algún día también yo seré polvo. Y… —habló con más firmeza, sosegado, con aire triunfal— ¿quién es el que afirmará que ha de haber una red de carne y hueso que contenga entera la forma del amor?
-Se había hecho tarde. «Es probable que estén retrasando los relojes en este mismo instante», pensó a la vez que caminaba por la calle hacia su casa. Ya tendría que llegarle a los oídos el rumor del cortacéspedes. Y en el instante de exasperación que tuvo con Jake reparó en la hilera de automóviles aparcados ante la cancela de su casa, y tuvo una prisa repentina, pero no tanta que, al mirar de nuevo el vehículo que se hallaba en cabeza, se abstuviera de proferir una nueva maldición.
-—¡Maldito sea Pettigrew! Le dije en presencia de testigos, cuando firmé mi testamento, que no estaba dispuesto a que me llevasen por medio Jefferson con los pies por delante y a sesenta kilómetros por hora. Que si no era capaz de encontrarme un par de caballos adecuados… ganas me están entrando de volver y no dejarle en paz, como sin duda querría Jake que hiciera.
-Pero las prisas, la urgencia, se habían adueñado de él. Presuroso, llegó a la puerta de atrás (reparó en que el césped estaba recién cortado con esmero, como si Jake lo hubiera hecho ese mismo día) y entró. Le llegó entonces el tenue olor de las flores y oyó la voz; tuvo el tiempo justo de quitarse el abrigo y el pijama y de dejarlos colgados en perfecto orden, en el armario, y de atravesar el vestíbulo, adentrarse donde era más denso el aroma a flores recién cortadas y el rezongar de la voz y vestirse a toda prisa. Su ropa estaba recién planchada, y también tenía la barba recién afeitada. No obstante, las ropas y la cara eran las suyas, y se embutió en ese abrazo antiguo y familiar que ninguna plancha podría trastornar, con la misma ansiedad lasciva con que acomodaba sus extremidades a las ropas de cama en una noche de invierno.
-—Ah —dijo al hombre del que Madrespojo dijo que era Ingersoll—, esto a fin de cuentas es lo mejor de todo. Un viejo nunca está del todo en casa si no es con sus propias prendas: con su vieja forma de pensar y sus creencias, con sus manos y sus pies de toda la vida, con los codos, las rodillas, los hombros que bien sabe que le sientan bien.
-Se esfumó la luz entonces con un sonido ahuecado, en sordina, tenue, decoroso, que por un instante comprimió encima de él ese olor tenebroso y macabro de las flores cortadas, aniquiladas; al mismo tiempo, cobró conciencia de que había dejado de oír la voz que antes rezongara. «Y en mi propia casa —pensó, esperando a que se desvaneciera el olor de las flores—, y en cambio ni una sola vez me he parado a pensar quién hablaba, ni cuándo calló». Oyó o percibió entonces el decoroso restregar de los pies en el suelo a su alrededor, y yació a oscuras, en una oscuridad angosta, las manos recogidas sobre el pecho al dormir, como en el sueño de antaño, a la espera del momento. Llegó. Y habló en tono reposado, en voz alta, socarrón, con sorna incluso, en paz, como hacía cada noche en cama, en su cuarto solitario ya apacible, cuando por fin una expiración plena vaciaba su cuerpo de todo resto del estar en vela, y durante menos de lo que dura un instante le parecía mirar en derredor desde el umbral del sueño: «Caballeros del jurado, procedan».
+> —¿Ésa es su palabra? Creeré, se lo aseguro —el otro permanecía sentado, sin forma, grisáceo, sedentario, casi anodino, cabizbajo—. Vamos. No puede quedarse con eso. No puede.
+> 
+> Por el sendero, ante ellos, pasaba gente constantemente. Pasó una mujer con un niño en brazos y una cesta, una mujer joven, con una capa sencilla, desgastada, cepillada. Se volvió hacia el hombre del que Madrespojo dijo que era Ingersoll con una cara sencilla, luminosa, agradable de ver, y le habló con voz agradable, tranquila. Miró entonces al juez con ojos agradables, una mirada sincera, sin osadía, sin timidez, y siguió hablando.
+> 
+> —Vamos. No puede. No puede usted.
+> 
+> El juez se quedó atónito, el rostro del todo inexpresivo. A la vez que hablaba se le vació el rostro de toda expresión. Repitió *«no puede, es que no puede»*, en un tono consternado, meditabundo.
+> 
+> —No puede —dijo—. ¿Quiere decir que no puede darme su palabra, no puede decirme nada? ¿Quiere decir que no lo sabe? ¿Quiere decir que usted no lo sabe? ¿Usted? ¿Robert Ingersoll? ¿Ingersoll, nada menos? —el otro no se movió—. ¿Me está diciendo Robert Ingersoll que durante veinte años me he apoyado en un junco que no era más fuerte que yo mismo?
+> 
+> El otro siguió sin levantar los ojos.
+> 
+> —Ya ha visto a esa mujer joven que acaba de pasar de largo con un niño en brazos. Sígala. Mírele a la cara.
+> 
+> —Una mujer joven. Con un… —el juez miró al otro—. Ah, entiendo. Sí, de acuerdo; miraré al niño y le veré las cicatrices. Y luego miro a la cara a la mujer. ¿Es eso? —el otro no respondió—. ¿Ésa es su respuesta? ¿Es su última palabra? —el otro no se movió. El juez frunció el labio. Con ese movimiento ascendente entrecerró los ojos como si la tristeza, la desesperación, hubiera provocado una llamarada en un último instante, como una llama que se extingue, dejando sobre su semblante un relumbre final, desdibujado, en una mueca apenas perceptible, una mordedura de los dientes apagados, muertos. Se puso en pie y guardó la fotografía en el maletín—. Y éste es el hombre que dice haber sido Robert Ingersoll —por encima de los dientes se le contrajo el rostro en esa expresión que podría haber sido una sonrisa de no ser por los ojos—. No es la prueba que buscaba. Entre todos los hombres, precisamente yo soy quien sabe que la prueba no es sino falacia inventada por el hombre para justificarse y justificar a sus semejantes en su grosera lujuria y en su necedad. No era la prueba que buscaba —con el bastón y el maletín sujetos bajo el brazo, lió otro cigarrillo fino—. Desconozco quién es usted, pero no creo que sea Robert Ingersoll, la verdad. Es posible que ni siquiera si lo fuese pudiera yo reconocerlo. De todos modos, existe cierta consistencia integral que, sea buena o mala, un hombre siempre tendrá que atesorar, porque sólo esa consistencia le permitirá morir un día. Así pues, lo que he sido soy; lo que soy seré hasta que llegue el instante en que no sea. Y entonces nunca habré sido. ¿Cómo era aquello? Non fui. Sum. Fui. Non sum.
+> 
+> Con el cigarrillo sin encender entre los dedos, pensó al principio que seguiría su camino. Pero en cambio se detuvo y miró al niño. Estaba sentado en el sendero, a los pies de la mujer, rodeado por minúsculas efigies de hombres, de plomo, unas de pie, otras tendidas. La cesta, volcada y vacía, se encontraba a su lado. El juez vio entonces que las figuras eran soldados romanos en distintos estados de descuartizamiento —a unos les faltaba la cabeza, a otros los brazos, a otros las piernas—, esparcidos en derredor, tendidos boca abajo, de pie, alerta, con una actitud marcial, inescrutable, vencida, en medio del polvo blando e inescrutable. En el centro exacto de los pies del niño, en el arco, había una pequeña cicatriz. Y había una tercera en la palma de la mano expuesta, y al mirarlo el juez con desconcierto y sosiego y socarronería cuando el niño derribó de un manotazo el resto de las figurillas vio la cuarta cicatriz. El niño comenzó a llorar.
+> 
+> —Ssshh —dijo la mujer. Alzó los ojos y miró al juez; se arrodilló y puso en pie los soldaditos. El niño seguía llorando, la cara sucia a chorretones; lloraba con fuerza, sin pasión, sin lágrimas—. ¡Mira! —dijo la mujer—. ¿Lo ves? ¡Mira, aquí! ¡Aquí está también Pilatos! ¡Míralo! —el niño dejó de llorar. Sin haber derramado una sola lágrima, se encontraba en medio del polvo del sendero, mirando a los soldados con una expresión tan inescrutable como la de ellos, en suspenso, solemne como un concejal, reservado. Volvió a derribar a los soldados con el canto de la mano—. ¡Ahí lo tienes! —dijo ella con voz luminosa, con cariño—. ¿Lo ves? —el niño permaneció sentado unos instantes más; luego se echó a llorar de nuevo. Ella lo tomó en brazos y se sentó en el banco, acunándolo, mirando al juez—. Ya, ya —decía—. Ya está, ya pasó.
+> 
+> —¿Está enfermo? —preguntó el juez.
+> 
+> —No, no. Sólo está cansado de los juguetes que tiene, a los niños les suele suceder —mecía al niño con gesto de afecto, sin asomo de preocupación—. Ya está, ya está —le decía—. Que te está viendo este caballero…
+> 
+> El niño seguía llorando.
+> 
+> —¿Es que no tiene otros juguetes? —preguntó el juez.
+> 
+> —Oh, sí, claro. Tiene tantos que ni me atrevo a ir por la casa a oscuras. Pero los que más le gustan son los soldaditos. Se los regaló un anciano caballero que ha vivido aquí mucho tiempo, según dicen, y que es bastante rico. Un anciano caballero de bigote blanco, con esos ojos saltones que suelen tener los que han comido más de la cuenta. Yo ya se lo dije. Tiene un lacayo que le lleva el paraguas y el abrigo y la manta de viaje, y a veces se pasa más de una hora sentado aquí con nosotros, charlando, aunque respira con dificultad. Siempre le trae un caramelo o alguna cosa —miró al niño con rostro pensativo y sereno; lloraba sin cesar. Socarrón, desconcertado, el juez se puso en pie mirando los pies sucios del niño, las cicatrices. La mujer alzó los ojos y siguió su mirada—. Ah, le está mirando las cicatrices, se está preguntando cómo se las hizo, ¿no es eso? Se las hicieron los otros niños un día en que estaban jugando. No se dieron cuenta de que le iban a hacer daño, claro está. Supongo que les sorprendió tanto como a él. Ya sabe cómo son los niños cuando se quedan callados mucho tiempo.
+> 
+> —Sí —dijo el juez—. Yo también tuve un hijo.
+> 
+> —¿No me diga? ¿Y por qué no lo trae aquí? Nos pondríamos muy contentos, de veras, si viniese a jugar con nuestros soldaditos.
+> 
+> Los dientes del juez despidieron un brillo apagado.
+> 
+> —Me temo que ya es mayor para esos juguetes —tomó la fotografía del maletín—. Vea, éste era mi hijo.
+> 
+> La mujer tomó la fotografía. El niño lloraba sin cesar, con fuerza.
+> 
+> —Anda, si es Howard. Si lo vemos todos los días… Pasa por aquí montado a caballo todos los días. A veces se detiene y nos deja montar un poco. Yo voy caminando a su lado, para sostenerlo —añadió alzando los ojos. Le mostró la fotografía al niño—. ¡Mira! ¡Es Howard en su caballo! ¿Lo ves? —sin dejar de llorar, el niño contempló la fotografía, el rostro a chorretones de lágrimas y suciedad, con expresión distante, en suspenso, como si viviese en dos vidas distintas, desgajadas, al mismo tiempo. Ella le devolvió la fotografía—. Supongo que lo estará buscando usted…
+> 
+> —Ah —dijo el juez sin separar los dientes momentáneos. Colocó la fotografía con cuidado en el maletín, el cigarro sin encender entre los dedos.
+> 
+> La mujer cambió de postura en el banco, recogiendo las faldas en señal de invitación.
+> 
+> —¿No quiere sentarse? Aquí es seguro que lo verá pasar.
+> 
+> —Ah —volvió a decir el juez. La miró socarrón, con los ojos nublados de los viejos—. Es así, ya lo ve. ¿Y dice que siempre viene montado en el mismo caballo?
+> —Sí, claro —ella lo miró sorprendida, pero serena, seria.
+> 
+> —¿Y cuántos años diría que tiene el caballo?
+> 
+> —Bueno, yo… Diría que es del tamaño que le corresponde.
+> 
+> —Así que debe de ser un potro aún joven…
+> 
+> —Sí, claro —lo miraba con los ojos muy abiertos.
+> 
+> —Ah —dijo el juez sin separar aún los dientes, débiles y quietos. Cerró el maletín con cuidado. Del bolsillo sacó medio dólar—. A lo mejor también se ha cansado de los soldaditos. A lo mejor con esto…
+> 
+> —Gracias —dijo ella. No volvió a mirar la moneda—. Tiene usted una expresión muy triste. ¿Lo ve? Cuando cree estar sonriendo es aún más triste que nunca. ¿Es que no se encuentra bien? —le miró la mano, que tenía extendida. No había hecho ademán de tomar la moneda—. La perdería, entiéndalo. Y es tan bonita, tan brillante… Cuando sea mayor podrá jugar con estas cosas tan chiquitas, pero es que ahora aún es pequeño, entiéndalo.
+> 
+> —Entiendo —dijo el juez. Se guardó la moneda en el bolsillo—. Bueno, entonces creo que…
+> 
+> —Espere aquí con nosotros. Siempre pasa por aquí. Así lo encontrará antes, se lo aseguro.
+> 
+> —Ah —dijo el juez—. Y a caballo, siempre en el mismo caballo. Así las cosas, el caballo tendría ahora… treinta años. Ese caballo murió cuando tenía dieciocho, tras seis años sin que lo montara nadie, seis años que pasó en mis tierras. De eso hace doce años. En fin, mejor será que siga mi camino.
+> 
+> Y de nuevo fue harto desagradable. Tendría que haberlo sido por partida doble, con la estrechez de la entrada y el hecho de que si bien antes caminaba en la misma dirección que el resto, ahora tuvo que abrirse paso palmo a palmo en sentido inverso al de los demás. *«Pero al menos ahora sé adónde voy —pensó con el sombrero aplastado en la cabeza, el peso del bastón y el maletín tirándole de ambos brazos—, cosa que antes no parece que supiera»*. Por fin estaba libre, y al mirar el reloj del juzgado, como nunca dejaba de hacer al bajar las escaleras de su despacho, vio que disponía de una hora entera antes de que la cena estuviera lista, antes de que los vecinos reparasen en que, como siempre, había pasado marcando la hora exacta.
+> 
+> *«Me queda tiempo para ir al cementerio»*, pensó, y al mirar la excavación reciente, abierta como una herida, maldijo nervioso y molesto, pues algunos de los terrones arrancados habían caído sobre la losa de mármol que estaba al lado.
+> 
+> —Maldito sea ese Pettigrew —dijo—. Tendría que haberse ocupado de esto. Le dije que quería que las dos estuvieran tan cerca como fuera posible, pero supuse que al menos velaría… —arrodillado, trató de retirar los terrones caídos sobre la losa. Pero quedaba más allá de sus fuerzas todo lo que no fuera limpiar el trozo que parcialmente ocultaba las letras: *«Howard Allison II. 3 de abril de 1903 - 22 de agosto de 1913»*, y la inscripción callada, en letra gótica, al pie: Auf Wiedersehen, Chiquillo. Siguió alisando, acariciando las letras cuando despejó del todo la tierra, con el rostro desconcertado y tranquilo, mientras hablaba con el hombre del que dijo Madrespojo que era Ingersoll—. Dese cuenta: si pudiera creer que lo volveré a ver, que lo volveré a tocar, no lo habré perdido. Y si no lo hubiera perdido, nunca lo habría tenido. Porque ya he pasado por la pérdida y el dolor de la pérdida, y si soy es por ese dolor. No sé lo que era ni lo que seré. Pero por la muerte sé lo que soy. Y ésa es toda la inmortalidad de la que es capaz el intelecto, toda la que debiera desear la carne. Cualquier otra cosa es para los campesinos, los zoquetes que nunca hubieran amado a un hijo en la medida suficiente para haberlo perdido —se le quebró el semblante en una miríada de arrugas, socarrón, desconcertado, mientras pasaba la mano con suavidad sobre las letras—. No. No tengo necesidad de eso. Yacer a su lado será para mí suficiente. Habrá una muralla de polvo entre nosotros, es verdad, y él ya es polvo al cabo de estos veinte años. Pero algún día también yo seré polvo. Y… —habló con más firmeza, sosegado, con aire triunfal— ¿quién es el que afirmará que ha de haber una red de carne y hueso que contenga entera la forma del amor?
+> 
+> Se había hecho tarde. *«Es probable que estén retrasando los relojes en este mismo instante»*, pensó a la vez que caminaba por la calle hacia su casa. Ya tendría que llegarle a los oídos el rumor del cortacéspedes. Y en el instante de exasperación que tuvo con Jake reparó en la hilera de automóviles aparcados ante la cancela de su casa, y tuvo una prisa repentina, pero no tanta que, al mirar de nuevo el vehículo que se hallaba en cabeza, se abstuviera de proferir una nueva maldición.
+> 
+> —¡Maldito sea Pettigrew! Le dije en presencia de testigos, cuando firmé mi testamento, que no estaba dispuesto a que me llevasen por medio Jefferson con los pies por delante y a sesenta kilómetros por hora. Que si no era capaz de encontrarme un par de caballos adecuados… ganas me están entrando de volver y no dejarle en paz, como sin duda querría Jake que hiciera.
+> 
+> Pero las prisas, la urgencia, se habían adueñado de él. Presuroso, llegó a la puerta de atrás (reparó en que el césped estaba recién cortado con esmero, como si Jake lo hubiera hecho ese mismo día) y entró. Le llegó entonces el tenue olor de las flores y oyó la voz; tuvo el tiempo justo de quitarse el abrigo y el pijama y de dejarlos colgados en perfecto orden, en el armario, y de atravesar el vestíbulo, adentrarse donde era más denso el aroma a flores recién cortadas y el rezongar de la voz y vestirse a toda prisa. Su ropa estaba recién planchada, y también tenía la barba recién afeitada. No obstante, las ropas y la cara eran las suyas, y se embutió en ese abrazo antiguo y familiar que ninguna plancha podría trastornar, con la misma ansiedad lasciva con que acomodaba sus extremidades a las ropas de cama en una noche de invierno.
+> 
+> —Ah —dijo al hombre del que Madrespojo dijo que era Ingersoll—, esto a fin de cuentas es lo mejor de todo. Un viejo nunca está del todo en casa si no es con sus propias prendas: con su vieja forma de pensar y sus creencias, con sus manos y sus pies de toda la vida, con los codos, las rodillas, los hombros que bien sabe que le sientan bien.
+> 
+> Se esfumó la luz entonces con un sonido ahuecado, en sordina, tenue, decoroso, que por un instante comprimió encima de él ese olor tenebroso y macabro de las flores cortadas, aniquiladas; al mismo tiempo, cobró conciencia de que había dejado de oír la voz que antes rezongara. *«Y en mi propia casa —pensó, esperando a que se desvaneciera el olor de las flores—, y en cambio ni una sola vez me he parado a pensar quién hablaba, ni cuándo calló»*. Oyó o percibió entonces el decoroso restregar de los pies en el suelo a su alrededor, y yació a oscuras, en una oscuridad angosta, las manos recogidas sobre el pecho al dormir, como en el sueño de antaño, a la espera del momento. Llegó. Y habló en tono reposado, en voz alta, socarrón, con sorna incluso, en paz, como hacía cada noche en cama, en su cuarto solitario ya apacible, cuando por fin una expiración plena vaciaba su cuerpo de todo resto del estar en vela, y durante menos de lo que dura un instante le parecía mirar en derredor desde el umbral del sueño: *«Caballeros del jurado, procedan»*.
 N. del T.:
 [1] El nombre, Mothershed en el original, ofrece complejas posibilidades de
 interpretación. Pronunciado «mother-shed», es decir, «madre despojada», o
