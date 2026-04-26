@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# El Jan Y Su Hijo*
 *(1896)*
 *(“Хан и его сын”)*
 *Originalmente publicado, con el subtítulo de Крымская легенда*

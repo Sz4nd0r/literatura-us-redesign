@@ -8,7 +8,6 @@ tags:
   - brujo
   - arturo
 ---
-*# El brujo de Guatemala*
 *Arturo Uslar Pietri (1906 - 2001)*
 
 Lo vi pasar, por fragmentos, de la conversación al recitativo, al encantamiento y a la escritura. Formó parte irreal de una realidad en la que viví por años sin saber muy bien por dónde navegaba. 

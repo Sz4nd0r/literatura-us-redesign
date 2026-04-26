@@ -10,8 +10,6 @@ tags:
 ---
 *Juan Rulfo*
 *(1918-1986)*
-*# Juan*
-*# ## Rulfo Y Su Purgatorio A Ras De Suelo[1]*
 *Por*
 *Mario Benedetti*
 *(Letras*

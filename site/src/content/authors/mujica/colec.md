@@ -8,7 +8,6 @@ tags:
   - colec
   - mujica
 ---
-*# XV. El coleccionista (1891)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Carta de Diego Ponce de León al pintor Eduardo Sívori. San Isidro, 4 de diciembre de 1891. Mon cher Sívori: No quiero dejar que transcurra una hora sin expresarle el placer que me dio su visita de ayer. Sus compañeros son encantadores, especialmente Graciano Mendilaharzu. Ahora me explico que el doctor Pirovano y Manuel Lainez me hayan hablado tanto de él. Es muy consolador pensar que en Buenos Aires existe actualmente un grupo formado por hombres como Ballerini, Della Valle, Schiaffino, Lucio Correa Morales, Giudici, Rodríguez Etchart, Mendilaharzu y usted.

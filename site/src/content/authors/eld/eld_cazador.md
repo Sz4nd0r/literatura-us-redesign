@@ -10,7 +10,6 @@ tags:
 ---
 *E. L. Doctorow*
 *(Bronx, NY, 1931- Manhattan, NY, 2015)*
-*# El Cazador*
 *—The Hunter*
 *Vidas de los poetas (Lives of the Poets: Six Stories and a Novella, 1984)*
 

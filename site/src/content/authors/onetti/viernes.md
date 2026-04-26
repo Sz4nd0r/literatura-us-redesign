@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# El Último Viernes*
 *Cuentos completos, 2004 (Anexo: Cuentos inéditos y fragmentos)*
 
 En cuanto lo hicieron pasar, Carner comprendió que aquel viernes iba a ser distinto. Creyó recordar tímidas premoniciones, trató de protegerse despidiéndose de la larga sala de espera que acababa de dejar, de la noche o el día eternos que imponían los tubos fluorescentes, de la humanidad pobre y silenciosa que se rozaba los hombros sin respaldo, conservando rígidos los cuerpos durante horas, temiendo que su abandono significara la renuncia a su esperanza.

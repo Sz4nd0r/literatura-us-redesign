@@ -8,7 +8,6 @@ tags:
   - laque
   - mujica
 ---
-*# XXII. La que recordaba (1919)*
 *Manuel Mujica Lainez*
 *Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Recordaba una gran casa prisionera del follaje. A veces la veía nítidamente, perfilando el dibujo de sus columnas y sus arquerías. Otras, una neblina tenue, como la que flota sobre los pantanos, envolvía toda su estructura, de suerte que solo distinguía, en el verde-gris indeciso, la veleta y los cristales del mirador.*
 

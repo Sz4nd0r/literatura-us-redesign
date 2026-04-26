@@ -8,7 +8,6 @@ tags:
   - no
   - joseluis
 ---
-*# Esta noche no*
 *José Luis*
 *González (1926 - 1997)*
 *Esta noche no En este lado (México: Los Presentes, 1954, 180 págs.); En este lado. Edición corregida (La Habana: Nuevo Mundo, 1961, 123 págs.) A René Márquez La llanta se vació con un sonido de disparo y luego el aro de metal de la rueda golpeó sobre el asfalto hasta que el automóvil se detuvo a la orilla de la carretera, en medio de la llanura seca y parda corno un cuero tostado por el sol. El hombre que iba conduciendo abrió la portezuela y salió a examinar la avería.*

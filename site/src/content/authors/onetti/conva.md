@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Convalecencia*
 *Originalmente publicado en Marcha (Montevideo), 1940*
 
 Casi en el mediodía, el hombre me rociaba de arena, empujando con el pie desnudo. Me volvía, medio dormida, desperezándome a la sombra de la cara inclinada y sonriente. El hombre cambiaba o alteraba un poco, con frecuencia, sus mallas de baño. Pero la aguda cara permanecía igual e incomprensible, sonriéndome. La cara recordaba con intensidad a un animal conocido. Y, al mismo tiempo, siguiendo sin esfuerzo las líneas del rostro había allí una expresión de inteligencia humana y maliciosa.

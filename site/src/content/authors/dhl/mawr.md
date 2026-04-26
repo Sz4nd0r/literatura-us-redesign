@@ -14,7 +14,6 @@ tags:
 *(“St. Mawr”)*
 *St. Mawr: Together with The Princess*
 *(Londres: Martin Secker, 1925, 238 págs.);*
-*# St. Mawr*
 *(Nueva York: Alfred A. Knopf, 1925, 222 págs.), págs. 3-47.*
 
 Lou Witt llevaba tanto tiempo saliéndose con la suya que, a los veinticinco años, no sabía muy bien dónde se encontraba. Cuando uno se sale siempre con la suya, pierde el rumbo por completo.
@@ -1286,7 +1285,6 @@ La señora Witt leyó aquella larga carta con satisfacción. Ella misma tenía u
 Cogió la hoja de papel de mala calidad que iba incluida en la carta de Lou. Era la misiva de Lewis, bastante bien escrita.
 Lady Carrington
 Le escribo para comunicarles a usted y a sir Henry que creo que lo mejor es que deje de trabajar a su servicio, ya que me parece que será lo más conveniente para todos. Si tiene la amabilidad de escribirme diciéndome lo que quiere que haga con St. Mawr, haré lo que me pida. Con mis mejores deseos para lady Carrington y sir Henry, quedo, su humilde servidor.
-# ## Morgan Lewis
 La señora Witt dejó la carta a un lado y permaneció sentada mirando por la ventana. Era extraño, pero se sentía como si su alma ya hubiera abandonado aquel lugar. En cuerpo estaba allí, en el condado de Oxford, pero en espíritu ya había partido hacia algún otro sitio. Una profunda apatía se apoderó de ella. Tras hacer un gran esfuerzo y ponerse en movimiento, escribió a su abogado de Londres para liberarse de sus obligaciones en Inglaterra. A continuación, escribió a un hotel de esa misma ciudad.
 Por primera vez en su vida deseó tener una doncella que le hiciera las cosas. Siempre había tenido demasiada energía para soportar a nadie cerca, con demasiada intimidad. Pero en esos momentos se arrepentía. Tenía las muñecas entumecidas, como si se hubiera quedado sin fuerzas.
 Cuando bajó, le dijeron que Lewis había pedido hablar con ella. Prácticamente no lo había visto desde que habían llegado a Merriton.

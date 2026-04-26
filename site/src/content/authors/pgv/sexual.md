@@ -8,7 +8,6 @@ tags:
   - sexual
   - pgv
 ---
-*# Vida sexual angélica*
 *Pedro Gómez Valderrama*
 
 Vida sexual angélica La procesion de los ardientes (Bogotá: Miguel Arbeláez Sarmiento, 1973, 180 págs.) Un teólogo tiene la visión de la discusión obstinada que mantuvieron en Constantinopla, a lo largo de todo el período del sitio turco, los cuatro teólogos que se ocupaban del arduo problema de definir el sexo de los ángeles. Permanecieron en el mismo sitio hasta que los turcos invadieron la plaza, y como la casa cercana a la Catedral, en la cual estaban sesionando, fue incendiada, no se sabe exactamente qué fue de ellos, aunque mientras unos sostienen que se quedaron viviendo en Turquía y abrazaron finalmente la fe musulmana, otros mantienen que se dispersaron y dos de ellos se hicieron soldados mercenarios.

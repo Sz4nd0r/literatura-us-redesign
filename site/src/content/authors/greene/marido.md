@@ -370,7 +370,6 @@ Stephen no respondió.
 Subió la escalera. Tony lo siguió con la mirada, creo que con una especie de ternura y lástima, con un pesar muy superficial.
 —Esta tarde lo ha atormentado el reumatismo —dijo—. Pobre Stephen.
 Pensé que lo mejor sería irme a la cama antes de convertirme en el “pobre William”. Esta noche, la caridad de Tony era infinita.
-# Viii
 Después de mucho tiempo, ésa fue la primera mañana en que me encontré desayunando a solas en la terraza. Las mujeres con las faldas de tweed se habían marchado algunos días, y “los dos muchachos” tampoco habían aparecido. Mientras esperaba el café, me pregunté cuál sería la razón. Podía ser el reumatismo, aunque no me imaginaba a Tony cuidando a un amigo. Existía también la remota posibilidad de que estuvieran algo avergonzados y no quisieran enfrentarse con su víctima. En cuanto a la víctima, me pregunté tristemente qué penosa revelación le habría deparado la noche. Me culpé por no hablar a tiempo. Sin duda habría conocido la verdad más suavemente de mis labios que algún balbuciente estallido de su marido. Al mismo tiempo —tan egoísta somos en nuestras pasiones—, me alegraba de estar así, esperando para secarle las lágrimas, tomarla en mis brazos y consolarla… Me entregué a románticos sueños en la terraza hasta que ella bajó la escalera y comprobé que nunca había necesitado menos que la consolaran.
 Estaba como la había visto la primera noche: tímida, animada, alegre, con un largo y feliz futuro resplandeciente en sus ojos.
 —¿Puedo sentarme con usted, William? —dijo.

@@ -8,7 +8,6 @@ tags:
   - laexp
   - benedetti
 ---
-*# La expresión*
 *Mario Benedetti (1920 - 2009)*
 *La muerte y otras sorpresas, 1968) Milton Estomba había sido un niño prodigio. A los siete años ya tocaba la Sonata Nº 3 Op. 5, de Brahms, y a los once, el unánime aplauso de la crítica y del público acompañó su serie de conciertos en las principales capitales de América y Europa. Sin embargo, cuando cumplió los veinte años, pudo notarse en el joven pianista una evidente transformación. Había empezado a preocuparse desmesuradamente por el gesto ampuloso, por la afectación del rostro, por el ceño fruncido, por los ojos en éxtasis, y otros tantos efectos afines. Él llamaba a todo ello «su expresión».*
 

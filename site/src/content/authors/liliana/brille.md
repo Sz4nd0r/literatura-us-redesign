@@ -8,7 +8,6 @@ tags:
   - brille
   - liliana
 ---
-*# Cuando todo brille*
 *Liliana Heker*
 
 Cuando todo brille Las peras del mal (Buenos Aires: Editorial de Belgrano, 1982, 145 págs.) Todo empezó con el viento. Cuando Margarita le dijo a su marido aquello del viento. El ni atinó a cerrar la puerta de su casa. Se quedó como congelado en la actitud de empujar, el brazo extendido hacia el picaporte, los ojos clavados en los ojos de su mujer. Pareció que iba a perpetuarse en esta situación pero al fin aulló. Fue sorprendente.

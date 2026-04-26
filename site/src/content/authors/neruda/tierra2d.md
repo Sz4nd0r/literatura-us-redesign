@@ -14,9 +14,6 @@ tags:
 *Residencia en la tierra,*
 *2*
 *(1931-1935):*
-*# Parte Iv*
-*# ## Tres Cantos Materiales*
-*# ## ## Entrada A La Madera*
 *Con mi razón apenas, con mis*
 *dedos,*
 
@@ -69,7 +66,6 @@ a vuestros materiales sometidos,
 a vuestras muertas palomas neutrales,
 y hagamos fuego, y silencio, y sonido,
 y ardamos, y callemos, y campanas.
-# ## ## ## Apogeo Del Apio
 Del centro puro que los ruidos
 nunca
 atravesaron, de la intacta cera,

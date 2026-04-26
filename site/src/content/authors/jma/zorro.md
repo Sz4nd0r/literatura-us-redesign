@@ -8,7 +8,6 @@ tags:
   - zorro
   - jma
 ---
-*# El zorro de arriba y el zorro de abajo*
 *José María Arguedas (1937 - 1917)*
 
 En abril de 1966, hace ya algo más de dos años, intenté suicidarme. En mayo de 1944 hizo crisis una dolencia psíquica contraída en la infancia y estuve casi cinco años neutralizado para escribir. El encuentro con una zamba gorda, joven, prostituta, me devolvió eso que los médicos llaman “tono de vida”. El encuentro con aquella alegre mujer debió ser el toque sutil, complejísimo que mi cuerpo y alma necesitaban, para recuperar el roto vínculo con todas las cosas.

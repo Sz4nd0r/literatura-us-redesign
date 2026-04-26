@@ -10,7 +10,6 @@ tags:
 ---
 *Richard Ford*
 *(Jackson, Mississippi, 1944-)*
-*# Resignación*
 *(“Calling”)*
 *Originalmente publicado en The New Yorker (diciembre 25, 2000 & enero 1, 2001)*
 *A Multitude of Sins (2002)*

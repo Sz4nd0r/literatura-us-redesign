@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Las Tres De La Mañana*
 *Originalmente publicado en Cuentos completos (Alfaguara), 1994*
 
 La última patada lo hizo chocar contra la pared gris de la celda. Golpeó con la cabeza y tal vez haya tenido tiempo, un segundo, para agradecer el desmayo, la inconsciencia, el olvido de los tormentos.

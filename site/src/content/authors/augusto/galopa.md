@@ -8,7 +8,6 @@ tags:
   - galopa
   - augusto
 ---
-*# Galopa en dos tiempos*
 *Augusto Roa Bastos (1917 - 2005)*
 *El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) 1 El hombre apenas reconoció el lugar. Todo estaba cambiado. Parecía otro barrio con el mismo nombre de antaño. Se lo podía leer en todos los letreros. Fue leyendo algunos: «Gran cine de Dos Bocas», «El Chic de Dos Bocas», casimires finos, «Club Guaraní», «Kabuffeti y Espíndola — Frutos del País». Le guiñaban al pasar los nervios verdes y rojos de neón. La vieja calle de tierra había crecido y se había transformado en una ancha avenida de macadán. A los lados se escalonaban las casas: chalets que a toda costa querían ser modernos y eran solamente ridículos y chillones con sus tics de mal gusto petrificados en la mampostería; galpones de cinc, cobertizos de todos tamaños, una estación de servicio iluminada «al giorno».*
 

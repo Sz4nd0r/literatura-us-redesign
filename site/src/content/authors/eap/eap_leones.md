@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# Los Leones*
 *(“Lionizing”, 1835)*
 *Originalmente publicado, como “Lionizing: A Tale”,*
 *en Southern Literary Messenger (mayo 1835)*

@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# ¡Qué Hermosa Pareja!*
 *(“What a Handsome Pair!”)*
 *Originalmente publicado en The Saturday Evening Post, 205 (27 de agosto de 1932);*
 *The Price Was High: The Last Uncollected Stories of F. Scott Fitzgerald*

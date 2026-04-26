@@ -8,7 +8,6 @@ tags:
   - guaira
   - juanbosch
 ---
-*# La muchacha de la Güaira*
 *Juan Bosch (1909 - 2001)*
 
 La muchacha de la Guaira La muchacha de La Guaira (Santiago, Chile: Editorial Nacimiento, 1955, 197 págs.) Más cuentos escritos en el exilio (Santo Domingo: Editorial Librería Dominicana, Colección Pensamiento Dominicano, 32, 1964, 285 pgs.) El primer oficial tuvo razón al pensar que un asunto de tal naturaleza debía ser comunicado al capitán, pero el capitán no la tuvo cuando dijo las estúpidas palabras con que más o menos dejó cerrado el episodio.

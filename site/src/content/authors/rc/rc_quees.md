@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# ¿Qué Es Lo Que Quiere?*
 *(“What Is It?”)*
 *Originalmente publicado en Esquire Magazine (1972);*
 *Will You Please Be Quiet, Please? (1976);*

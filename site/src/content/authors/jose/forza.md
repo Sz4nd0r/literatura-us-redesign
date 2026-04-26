@@ -8,7 +8,6 @@ tags:
   - forza
   - jose
 ---
-*# La forza del destino*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

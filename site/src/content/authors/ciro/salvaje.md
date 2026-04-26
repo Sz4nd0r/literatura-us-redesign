@@ -8,9 +8,7 @@ tags:
   - salvaje
   - ciro
 ---
-*# Guillermo el salvaje*
 *Ciro Alegría*
-*# Guillermo el salvaje*
 *Ciro Alegría*
 
 Guillermo el salvaje [Guillermo Silvestre] Originalmente publicado, con el título de “El salvaje que se capacitó”, en Selecciones del Reader’s Digest, en Estados Unidos (septiembre de 1942), págs. 9-11; Duelo de caballeros (Lima: Populibros Peruanos, 1963, 127 págs.); (Buenos Aires: Losada, 1965, 117 págs.) No llegué a verlo claramente esa tarde. Cuando nos acercábamos a su bohío –mi padre jineteando una mula y yo un pequeño caballo–, dejó de atizar el fogón donde preparaba la comida y echó a correr a campo traviesa, con los harapos flotando al aire, para esconderse en unos matorrales.

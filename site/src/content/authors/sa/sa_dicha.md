@@ -10,7 +10,6 @@ tags:
 ---
 *Sherwood Anderson*
 *(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
-*# La Mentira No Dicha*
 *(1917)*
 *(“The Untold Lie”)*
 *Originalmente publicado en la revista Seven Arts (enero de 1917);*

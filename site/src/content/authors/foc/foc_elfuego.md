@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# Un Círculo En El Fuego*
 *(“A Circle in the Fire”, 1954)*
 *(originalmente publicado en Kenyon Review, vol. 16, primavera de 1954;*
 

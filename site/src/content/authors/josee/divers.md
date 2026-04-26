@@ -8,7 +8,6 @@ tags:
   - divers
   - josee
 ---
-*# Parque de diversiones*
 *José Emilio Pacheco (n. 2004)*
 *Parque de diversiones El viento distante (México, D.F.: Ediciones Era, 1963, 59 págs.) A Russell M. Cluff I La gente se ha congregado alrededor del sitio que ocupan los elefantes. Entre injurias y riñas todos tratan de llegar a la primera fila con objeto de no perderse un solo detalle. Los más jóvenes han subido a los árboles y asisten desde allí al espectáculo del parto. La elefanta se halla a punto de dar a luz. El dolor la enfurece y su barritar taladra los huesos. Se azota contra el muro de cemento, se arroja al suelo, vuelve a levantarse. El elefante y las personas se limitan a observar el proceso. En su furia la elefanta no ha permitido que se acerquen el domador ni el veterinario.*
 

@@ -10,7 +10,6 @@ tags:
 ---
 *Grace Paley*
 *(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
-*# Madre*
 *(“Mother”)*
 *Originalmente publicado, como “My Mother”, en Ms Magazine (1980);*
 *Later the Same Day (1985)*

@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# Macacos*
 *(“Macacos”)*
 *(Otro título en español: “Monos”)*
 *A legião estrangeira (1964)*

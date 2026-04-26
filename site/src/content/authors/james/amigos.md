@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# Los Amigos De Los Amigos*
 *(“The Friends of Friends”, 1896)*
 *Originalmente publicado, como “The Way It Came”, in Chapman’s Magazine of Fiction, Londres (May 1896)*
 *Embarrassments*

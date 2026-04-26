@@ -10,7 +10,6 @@ tags:
 ---
 *Antón Chéjov*
 *(Ucrania, 1860 - Alemania, 1904)*
-*# La Máscara*
 *(1884)*
 *(“Маска”)*
 *Originalmente publicado, con el título “Noli me tangere”, en el especial aniversario*

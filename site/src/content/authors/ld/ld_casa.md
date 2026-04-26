@@ -8,7 +8,6 @@ tags:
   - ld_casa
   - ld
 ---
-# La casa de atrás
 
 *Lydia Davis*
 

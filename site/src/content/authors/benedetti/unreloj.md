@@ -8,7 +8,6 @@ tags:
   - unreloj
   - benedetti
 ---
-*# Un reloj con números romanos*
 *Mario Benedetti (1920 - 2009)*
 *Un reloj con números romanos (Despistes y franquezas, 1989) No se culpe a nadie de mi vida. JULIO CORTÁZAR ¿Te llama la atención mi reloj? ¿Verdad que es lindo? A mí siempre me gustaron los relojes con números romanos. ¿Crees que está atrasado porque marca las once y cuarto? No, no está atrasado. Simplemente, hace diez años que está detenido en esa hora. ¿Por qué? No es tan simple de contar. Nunca hablo de eso, nada más que por miedo a que no me crean. ¿Serías capaz de creerme?*
 

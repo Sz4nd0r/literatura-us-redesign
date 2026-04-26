@@ -8,7 +8,6 @@ tags:
   - perono
   - sergio
 ---
-*# Pero no lloraré*
 *Sergio Ramírez (n. 1942)*
 *Pero no lloraré Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Roberto Cajina Al acercarse al lavamanos bajo el espejo de la Alka-Seltzer, su rostro desvelado le pareció el de otra mujer entrevista alguna vez en sueños. Con las manos húmedas, que luego secó en las perneras de su blue-jean, se restregó asombrada los labios frente a la llama pálida del espejo carcomido por una aureola de chispas negras.*
 

@@ -10,7 +10,6 @@ tags:
 ---
 *Bernard Malamud*
 *(26 de abril, 1914 – 18 de marzo, 1986)*
-*# La Carta*
 *(1972)*
 *(“The Letter”)*
 *Originalmente publicado en la revista Esquire (1 de agosto de 1972);*

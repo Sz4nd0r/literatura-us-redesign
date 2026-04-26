@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# La Playa*
 *(La spiaggia, 1958)*
 *I*
 
@@ -444,7 +443,6 @@ Pero en la entrada de los baños encontré a Guido, esta vez con un albornoz mar
 —Querida Nina. ¿Cómo has dormido? ¿Me permites? —y le dijo mi nombre. Rocé los dedos de aquella mano delgada y entre el resol y la sombrilla de por medio le vi sobre todo las piernas, largas y atezadas, y las complicadas sandalias que las remataban. Se había incorporado para sentarse en la gandula, y me miró con ojos duros, descarnados, como la voz con que se dirigió a Guido.
 Cambiamos unos cuantos cumplidos. Pregunté por su baño; me dijo que sólo se bañaba hacia el atardecer, en el agua tibia; dedicó alguna risita a mis ocurrencias y me retuvo la mano cuando me despedí, invitándome a que pasase de nuevo. Guido se quedó.
 Llegué al escollo y vi a Berti que, sentado en la roca, dirigía la palabra a una chica de unos dieciséis años amiga de Ginetta, y Doro, tendido en la arena entre los dos, se desentendía de ellos. Clelia, en aquel momento, estaba en el mar.
-# ## Viii
 Doro me explicó, una de aquellas mañanas, por qué estaba harto de pintar. Me había cogido del brazo y poco a poco nos habíamos alejado del pueblo, por el camino que se desplomaba sobre el mar.
 —Si volviese a ser muchacho —me dijo—, sólo sería pintor. Me largaría de casa, daría un portazo, pero sería una decisión definitiva.
 Aquella rabia me gustó y le dije que en tal caso no se habría casado con Clelia. Doro dijo riendo que aquélla era la única cosa en la que no se había equivocado. Clelia sí que era una hermosa vocación. Pero, dijo, no eran aquellos cuadros tontos que pintaba a ratos perdidos lo que le daba rabia, sino el haber perdido el entusiasmo y las ganas de hablar conmigo de tantas cosas, eso sí.

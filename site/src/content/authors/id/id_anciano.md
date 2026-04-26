@@ -10,7 +10,6 @@ tags:
 ---
 *Isak Dinesen*
 *(1885–1962)*
-*# El Anciano*
 *—The Old Chevalier*
 *Seven Gothic Tales (1934)*
 

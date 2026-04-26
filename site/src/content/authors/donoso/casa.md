@@ -10,17 +10,14 @@ tags:
 ---
 *José Donoso*
 *(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
-*# Casa De Campo*
 *(1978)*
 *(Barcelona: Seix Barral, 1978)*
 *Para Maria Pilar*
 *Árbol*
 *![árbol](/assets/images/arbol.png)*
 *Primera parte:*
-*# ## La Partida*
 *Capítulo Uno:*
 
-# ## ## La Excursión
 1
 Los grandes habían hablado muchísimo de que era absolutamente indispensable partir temprano esa mañana, casi al amanecer, si querían llegar a su destino a una hora que justificara el viaje. Pero los niños se guiñaban un ojo al oírlos, sonriendo sin levantar la cabeza de sus torneos de bésigue o de ajedrez que parecían durar todo el verano.
 La noche anterior a la excursión que me propongo usar como eje de esta novela, Wenceslao dejó a su madre roncando con el láudano que tomó para poder dormir después de la efervescencia de los preparativos, y se escabulló de su lecho para ir a acurrucarse junto a Melania. Con la voz atenuada para que los lacayos no los sorprendieran hablando después del toque de queda, le apostó una corona a que sus padres, que se complicaban con todo, serían incapaces de partir antes de las once de la mañana, si es que partían, y que tanta exaltación y preámbulo quedarían convertidos en la insoportable retórica con que acostumbraban encubrir sus fracasos. Melania le tironeó los bucles para castigarlo por este irrespetuoso vaticinio: en la intimidad de las sábanas le hubiera gustado reducirlo al llanto para secarle las lágrimas de sus ojos azules con besos, y sus mejillas de muñeca de loza con su trenza negra.
@@ -165,7 +162,6 @@ Adriano Gomara, entonces, estiró débilmente su mano para tocársela, y sus lab
 —Hijo.
 Adriano tardó mucho, hasta transcurridos gran parte de los acontecimientos que en la primera mitad de esta novela me propongo narrar, en adquirir fortaleza suficiente para iniciar una sonrisa.
 Capítulo Dos:
-# ## ## ## Los Nativos
 1
 A estas alturas de mi narración, mis lectores quizás estén pensando que no es de «buen gusto» literario que el autor tironee a cada rato la manga del que lee para recordarle su presencia, sembrando el texto con comentarios que no pasan de ser informes sobre el transcurso del tiempo o el cambio de escenografía.
 Quiero explicar cuanto antes que lo hago con el modesto fin de proponer al público que acepte lo que escribo como un artificio. Al interponerme de vez en cuando en el relato sólo deseo recordarle al lector su distancia con el material de esta novela, que quiero conservar como objeto mío, mostrado, exhibido, nunca entregado para que el lector confunda su propia experiencia con él. Si logro que el público acepte las manipulaciones del autor, reconocerá no sólo esta distancia, sino también que las viejas maquinarias narrativas, hoy en descrédito, quizás puedan dar resultados tan sustanciosos como los que dan las convenciones disimuladas por el «buen gusto» con su escondido arsenal de artificios. La síntesis efectuada al leer esta novela —aludo al área donde permito que se unifiquen las imaginaciones del lector y del escritor— no debe ser la simulación de un área real, sino que debe efectuarse en un área en que la apariencia de lo real sea constantemente aceptada como apariencia, con una autoridad propia muy distinta a la de la novela que aspira a crear, por medio de la verosimilitud, otra realidad, homologa pero siempre accesible como realidad. En la hipócrita no-ficción de las ficciones en que el autor pretende eliminarse siguiendo reglas preestablecidas por otras novelas, o buscando fórmulas narrativas novedosas que deberán hacer de la convención de todo idioma aceptado como no convencional sino como «real», veo un odioso fondo de puritanismo que estoy seguro que mis lectores no encontrarán en mi escritura.

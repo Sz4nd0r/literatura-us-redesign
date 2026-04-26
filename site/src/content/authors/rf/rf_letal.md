@@ -10,7 +10,6 @@ tags:
 ---
 *Richard Ford*
 *(Jackson, Mississippi, 1944-)*
-*# Letal Invierno*
 *(“Winterkill”)*
 *Originalmente publicado en Esquire Magazine (noviembre 1983);*
 *incluído en Granta 12: The Rolling Stones. Fiction (1 de junio de 1984)*

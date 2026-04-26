@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# Preciosidad*
 *(“Preciosidade”)*
 *Originalmente publicado en Laços de família (1960)*
 

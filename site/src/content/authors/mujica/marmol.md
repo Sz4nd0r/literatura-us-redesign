@@ -8,7 +8,6 @@ tags:
   - marmol
   - mujica
 ---
-*# XXXIX. La escalinata de mármol (1852)*
 *Manuel Mujica Lainez*
 
 Ahora va a morir. Casi no puede moverse en el lecho, y sus labios, que tuerce la desesperación, no emiten más que un ronco gemido precursor de la agonía. En las sombras del cuarto, su familia solloza bajo las acuarelas románticas de navíos, de puertos, de tormentas, de velámenes henchidos por el vendaval.

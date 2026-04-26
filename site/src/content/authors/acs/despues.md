@@ -8,7 +8,6 @@ tags:
   - despues
   - acs
 ---
-*# Después de meditarlo mucho*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Los cuentos de Juana (Con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
 

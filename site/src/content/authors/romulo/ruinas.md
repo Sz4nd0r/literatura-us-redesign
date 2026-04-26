@@ -8,7 +8,6 @@ tags:
   - ruinas
   - romulo
 ---
-*# Entre las ruinas*
 *Rómulo Gallegos (n. 1969)*
 *Entre las ruinas Originalmente publicado en El Cojo Ilustrado (15 de agosto de 1911); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) Aunque la mañana estaba metida en agua y a menudo lloviznaba, Céspedes había salido, como de costumbre, a vagar un poco por los arrabales, y al doblar una esquina, ya en las afueras, vio que unos pasos más adelante iba aquel joven con quien venía encontrándose hacía días, en sus habituales paseos. A poco le dio alcance, y al pasar uno junto al otro, no obstante no conocerse, se saludaron, y acordado el paso, como de intento, siguieron calle arriba.*
 

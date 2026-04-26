@@ -8,7 +8,6 @@ tags:
   - lagran
   - augusto
 ---
-*# La gran solución*
 *Augusto Roa Bastos (1917 - 2005)*
 
 El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) Al principio de la guerra con Bolivia, Liberato Farías se consideró relativamente seguro. Con sus cuarenta años blandos y retacones se sentía en cierto modo inmunizado contra la posibilidad de marchar él también al frente. Vivía con Cesarina, su esposa, en una casita muy linda del puerto, detrás del enorme edificio circular de la Dirección General de la Armada.

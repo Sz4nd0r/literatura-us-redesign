@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
-*# En El Muelle De Esmirna*
 *(“On the Quai at Smyrna”)*
 *Originalmente publicado, como “Introduction by the author” (una vignette), en*
 *In Our Time*

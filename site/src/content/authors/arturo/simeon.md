@@ -8,7 +8,6 @@ tags:
   - simeon
   - arturo
 ---
-*# Simeón Calamaris*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Catorce cuentos venezolanos* (1969)*
 *Catorce cuentos venezolanos (Madrid: Ediciones de la Revista de Occidente, 1969) A María Martel Era su primer cadáver. Casi no podía ver otra cosa que aquella estrecha mesa de disección sobre la que la lona que cubría el cuerpo formaba una pelada cordillera, como las de los paisajes de la luna. Era como si no hubiera más nadie en la espaciosa sala. Ni siquiera el compañero de trabajo había llegado. No había para él sino aquella rugosa e informe masa blanca de la tela.*

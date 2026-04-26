@@ -8,7 +8,6 @@ tags:
   - lamuerte
   - borges
 ---
-*# La muerte y la brújula*
 *Jorge Luis Borges*
 
 De los muchos problemas que ejercitaron la temeraria perspicacia de Lönnrot, ninguno tan extraño —tan rigurosamente extraño, diremos— como la periódica serie de hechos de sangre que culminaron en la quinta de Triste-le-Roy, entre el interminable olor de los eucaliptos. Es verdad que Erik Lönnrot no logró impedir el último crimen, pero es indiscutible que lo previó.

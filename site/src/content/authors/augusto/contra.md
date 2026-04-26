@@ -8,7 +8,6 @@ tags:
   - contra
   - augusto
 ---
-*# Contravida*
 *Augusto Roa Bastos (1917 - 2005)*
 *Lo primero que percibí de mi cuerpo fue el hedor a carroña. En la postura lisiada de los condenados, estaba semihundido en el lodo y la maleza. A través de las bolsas sanguinolentas de los párpados, veía borrosamente mi cuerpo, negro de moscas, de avispitas chupadoras, de las temibles hormigas tahyi-rë que subían en hileras por mis miembros. El vaho salobre del viento que soplaba desde la bahía me escocía las grietas purulentas de las heridas, más que los insectos. El calor y la muerte se movían en el mismo viento. No me sentía del todo muerto, pero hubiera deseado estarlo como los demás.*
 

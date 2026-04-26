@@ -8,7 +8,6 @@ tags:
   - mamag
   - garciamarquez
 ---
-*# Los funerales de la Mamá Grande*
 *Gabriel*
 *García Márquez (n. 1947)*
 

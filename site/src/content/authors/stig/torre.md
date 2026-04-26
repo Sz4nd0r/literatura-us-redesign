@@ -10,7 +10,6 @@ tags:
 ---
 *Stig Dagerman*
 *(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
-*# La Torre Y La Fuente*
 *(“Tornet och källan”)*
 *Nattens lekar. Noveller.*
 *(Stockholm: Norstedts, 1947, 312 págs.)*

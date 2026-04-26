@@ -8,7 +8,6 @@ tags:
   - plinio
   - garciamarquez
 ---
-*# El olor de la guayaba. Conversaciones con Gabriel García Márquez*
 *Gabriel*
 *García Márquez (n. 1947)*
 

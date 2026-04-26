@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Comida Con Un Pastor*
 *Ultimo viene il corvo (1949)*
 
 Fue un error de nuestro padre, como siempre. Había hecho venir a aquel muchacho de un pueblecito de montaña para que nos guardara las cabras. Y el día en que llegó quiso invitarlo a comer con nosotros.

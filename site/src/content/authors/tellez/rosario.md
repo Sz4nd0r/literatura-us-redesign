@@ -8,7 +8,6 @@ tags:
   - rosario
   - tellez
 ---
-*# Rosario dijo que sí*
 *Hernando Téllez (1908 - 1966)*
 
 Rosario dijo que sí Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) Claro está que Rosario no quería engañar a Carlos. Y, desde luego, lo amaba. Verdad, sí, que los años, no muchos pero los suficientes como para que se advirtiera la transformación, lograron alterar, con la insidiosa complicidad del hígado, las líneas de ese rostro. Carlos no era ya, evidentemente, lo que fuera diez, once años atrás: un joven apuesto, sencillo, tímido y hermoso.

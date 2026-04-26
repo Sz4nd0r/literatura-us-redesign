@@ -8,7 +8,6 @@ tags:
   - vaiven
   - benedetti
 ---
-*# Vaivén*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) Vení a dormir conmigo: no haremos el amor, él nos hará.JULIO CORTÁZAR Como casi siempre, al descubrirse, el desnudo y la desnuda se asombran de sus desnudeces. Como casi siempre, éstas son mejores que las de la memoria. Por supuesto, son jóvenes. Él es el primero en quebrar el encantamiento y la inercia. Sus manos se ahuecan para buscar y encontrar los pechos de ella, que al mero contacto lucen, se renuevan.

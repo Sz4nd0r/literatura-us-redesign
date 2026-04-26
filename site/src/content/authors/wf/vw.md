@@ -8,7 +8,6 @@ tags:
   - vw
   - wf
 ---
-# Virginia Woolf
 
 **Virginia Woolf**
 

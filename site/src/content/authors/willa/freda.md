@@ -8,7 +8,6 @@ tags:
   - freda
   - willa
 ---
-# El matrimonio de Freda
 
 **Willa Cather**
 

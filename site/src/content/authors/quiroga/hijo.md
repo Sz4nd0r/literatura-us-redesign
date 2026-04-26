@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# El Hijo*
 *Es un poderoso día de verano en*
 *Misiones, con todo el sol, el calor y la calma que puede deparar la*
 *estación. La naturaleza plenamente abierta, se siente satisfecha de sí.*

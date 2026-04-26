@@ -8,7 +8,6 @@ tags:
   - mendigo
   - manuel
 ---
-*# Un mendigo*
 *Manuel Rojas*
 *Originalmente publicado en El Diario [Santiago de Chile] (22 de agosto de 1926); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 43-56. Fue un día de invierno, alumbrado por un sol transparente y seco, color tafetán, cuando Lucas Ramírez, después de franquear la puerta del hospital, se encontró en la calle. Parpadeó, deslumbrado por la luz fuerte y libre que resplandecía en las paredes blanqueadas; luego, inmóvil en la orilla de la acera, reflexionó. No lo hizo mucho rato; ya en el último mes de su estada en el establecimiento había pensado bastante sobre el momento de su salida y sabía que su vida, al abandonar el hospital, estaría amarrada a dos hilos: la punta de uno de ellos remataba en el hospicio; la del otro, en esa gran institución ambulante y pública que se llama mendicidad.*
 

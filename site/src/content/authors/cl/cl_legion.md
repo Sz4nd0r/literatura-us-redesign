@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# La Legión Extranjera*
 *(“A legião estrangeira”)*
 *A legião estrangeira (1964)*
 

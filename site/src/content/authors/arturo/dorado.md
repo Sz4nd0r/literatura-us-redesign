@@ -8,7 +8,6 @@ tags:
   - dorado
   - arturo
 ---
-*# El camino de El Dorado*
 *Arturo Uslar Pietri (1906 - 2001)*
 *La noche en Moyobamba*
 

@@ -10,7 +10,6 @@ tags:
 ---
 *Sherwood Anderson*
 *(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
-*# Un Despertar*
 *(“An Awakening”)*
 *Originalmente publicado en la revista The Little Review (diciembre de 1918);*
 *Winesburg, Ohio*

@@ -8,7 +8,6 @@ tags:
   - sorpre
   - jose
 ---
-*# La sorpresa*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

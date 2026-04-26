@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# El Extraño Caso De Benjamin Button*
 *(“The Curious Case of Benjamin Button”)*
 *Originalmente publicado en Collier’s Magazine (27 de mayo de 1922);*
 *Tales of the Jazz Age*
@@ -229,7 +228,6 @@ Llegamos a un asunto desagradable sobre el que pasaremos lo más rápidamente po
 En aquel tiempo Hildegarde era una mujer de treinta y cinco años, con un hijo, Roscoe, de catorce. En los primeros días de su matrimonio Benjamín había sentido adoración por ella. Pero, con los años su cabellera color miel se volvió castaña, vulgar, y el esmalte azul de sus ojos adquirió el aspecto de la loza barata. Además, y por encima de todo, Hildegarde había ido moderando sus costumbres, demasiado plácida, demasiado satisfecha, demasiado anémica en sus manifestaciones de entusiasmo: sus gustos eran demasiado sobrios. Cuando eran novios ella era la que arrastraba a Benjamín a bailes y cenas; pero ahora era al contrario. Hildegarde lo acompañaba siempre en sociedad, pero sin entusiasmo, consumida ya por esa sempiterna inercia que viene a vivir un día con nosotros y se queda a nuestro lado hasta el final.
 La insatisfacción de Benjamín se hizo cada vez más profunda. Cuando estalló la Guerra Hispano-Norteamericana en 1898, su casa le ofrecía tan pocos atractivos que decidió alistarse en el ejército. Gracias a su influencia en el campo de los negocios, obtuvo el grado de capitán, y demostró tanta eficacia que fue ascendido a mayor y por fin a teniente coronel, justo a tiempo para participar en la famoso carga contra la colina de San Juan. Fue herido levemente y mereció una medalla.
 Benjamin estaba tan apegado a las actividades y las emociones del ejército, que lamentó tener que licenciarse, pero los negocios exigían su atención, así que renunció a los galones y volvió a su ciudad. Una banda de música lo recibió en la estación y lo escoltó hasta su casa.
-# ## Viii
 Hildegarde, ondeando una gran bandera de seda, lo recibió en el porche, y en el momento preciso de besarla Benjamin sintió que el corazón le daba un vuelco: aquellos tres años habían tenido un precio. HÜdelgarde era ahora una mujer de cuarenta años, y una tenue sombra gris se insinuaba ya en su pelo. El descubrimiento lo entristeció.
 Cuando llegó a su habitación, se miró en el espejo: se acercó más y examinó su cara con ansiedad, comparándola con una foto en la que aparecía en uniforme, una foto de antes de la guerra.
 —¡Dios santo! —dijo en voz alta. El proceso continuaba. No había la más mínima duda: ahora aparentaba tener treinta años. En vez de alegrarse, se preocupó: estaba rejuveneciendo. Hasta entonces había creído que, cuando alcanzara una edad corporal equivalente a su edad en años, cesaría el fenómeno grotesco que había caracterizado su nacimiento. Se estremeció. Su destino le pareció horrible, increíble.

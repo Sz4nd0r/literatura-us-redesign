@@ -20,7 +20,6 @@ tags:
 *a cuyo espíritu la divinidad quiere perder.*
 *Sófocles: Antígona.*
 
-# Primera Parte
 I
 Barboza, de golpe, se levantó de la silla. Tenía ante él la gran puerta. La franqueó, dio seis pasos, estuvo en la calle. El sol matinal doraba los olmos. La zapatería estaba enfrente y el francés Louis Rogoul conversaba con otro hombre. La calle tenía algo de trágica con su estrechez sin aceras, su aire pobre, la irregularidad de su pavimento de piedra. Barboza miró a Rogoul sin saludarlo. Su intención lo obsedía, y hubiera pasado ante un pontífice sin saber de quién se trataba.
 Aquel golpeteo de sus suelas con clavos —vaya a saber por qué de alpinista, tal vez por prolongar su duración o quizás por admirar a algún suizo— lo había oído él siempre. Desde niño se habituó al bárbaro calzado, y sin él no se hubiera sentido a sí mismo. ¡Ah, aquel ruido a la vez monótono y férreo de los botines que parecían de madera formaba ya parte de su persona, tanto como las manos de agricultor o la cabeza virilmente despeinada, cabeza de empecinado!

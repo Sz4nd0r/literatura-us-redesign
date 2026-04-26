@@ -8,7 +8,6 @@ tags:
   - tenga
   - josee
 ---
-*# Tenga para que se entretenga*
 *José Emilio Pacheco (n. 2004)*
 *Tenga para que se entretenga El principio del placer (México: Editorial Joaquin Mortiz, 1972, 163 págs.); (Mé́xico : Era, 1972, 140 págs.) A Ignacio Solares Estimado señor: Le envío el informe confidencial que me pidió. Incluyo un recibo por mis honorarios. Le ruego se sirva cubrirlos mediante cheque o giro postal. Confío en que el precio de mis servicios le parezca justo. El informe salió más largo y detallado de lo que en un principio supuse.*
 

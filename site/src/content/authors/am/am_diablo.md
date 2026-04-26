@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# El Diablo No Puede Salvar Al Mundo*
 *La cosa e altri racconti (1983)*
 
 Soy un diablo, muy viejo, sin duda, pero no soy un diablo bueno y mucho menos un pobre diablo. Si se piensa que en los últimos cien años me dediqué sobre todo al progreso científico y que los conocimientos conducentes a la bomba de Hiroshima los sugerí yo, uno por uno, al precio de sus almas, a todos los principales científicos del siglo, empezando por Albert Einstein, francamente se deberá convenir en que no soy un diablo de poca monta.

@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# La Década Perdida*
 *(“The Lost Decade”)*
 *Originalmente publicado en Esquire, 12 (diciembre de 1939);*
 *i>The Stories of F. Scott Fitzgerald*

@@ -8,7 +8,6 @@ tags:
   - kuru
   - augusto
 ---
-*# Kurupí*
 *Augusto Roa Bastos (1917 - 2005)*
 
 Su voz se apagó entre el tantaneo de las ruedas. El hombre que venía dormitando a su lado, con las botas cruzadas sobre el asiento frontero y las manos sobre el vientre, no se movió. El aludo sombrero de fibra estaba volcado sobre la nariz. No se le veía más que la boca entreabierta, los gruesos labios moteados de sudor. Tuvo que repetirle las palabras. —Mirá, Melitón. ¡Parece el acompañamiento del Crucificado! El hombre reflotó pesadamente de su sopor y giró la cabeza. —Y sí, es la procesión del Viernes Santo —dijo de mala gana, pasándose la mano por la cara abotagada. Se acodó en la ventanilla. Su corpachón bloqueó el hueco. La mujer se mudó al otro asiento, para seguir viendo.

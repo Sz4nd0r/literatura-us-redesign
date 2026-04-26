@@ -12,15 +12,12 @@ tags:
 *Wilde*
 *(Irlanda, 1854 - Francia,*
 *1900)*
-*# El Pescador Y Su Alma*
 *(“The Fisherman and his Soul”)*
 *A House of Pomegranates*
 *(Londres: James R. Osgood McIlvaine & Co., 1891, 159 págs.)*
 *A*
-*# # ## S.A.R.*
 *## ## ## ALICIA*
 
-# ## ## ## Princesa De Monaco
 Todas las tardes el joven
 Pescador se internaba en el mar, y arrojaba sus redes al agua.
 Cuando el viento soplaba desde

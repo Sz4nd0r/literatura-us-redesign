@@ -8,7 +8,6 @@ tags:
   - fragata
   - juanbosch
 ---
-*# Fragata*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la Revista Bohemia Año 36, Núm. 23 (4 de Junio de 1944), págs. 9, 13, 19 y 43-44; Ocho cuentos (La Habana: Edición del autor, 1947, 132 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) La resolución de Fragata fue tan sorprendente que hasta doña Ana se sintió conmovida. Doña Ana no dijo media palabra, pero se mantuvo en la puerta, pálida e inmóvil, hasta que Fragata desapareció por la esquina balanceando su enorme cuerpo. La muchacha había llegado hacía un mes.*
 

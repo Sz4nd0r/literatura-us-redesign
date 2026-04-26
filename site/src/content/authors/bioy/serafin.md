@@ -8,7 +8,6 @@ tags:
   - serafin
   - bioy
 ---
-*# El gran Serafín*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Aun en las playas contiguas al pequeño espigón de pesca, bautizadas Negresco y Miramar por la patrona de la hostería, era escasa la gente. Alfonso Álvarez descubrió así un lugar que de modo admirable correspondía al anhelo de su corazón: una ensenada romántica, desgarrada, salvaje, a la que reputó uno de los puntos más remotos del mundo, Última Tule, Seno de la Última Esperanza o todavía más allá —Álvarez ahora articuló su divagación en un arrobado murmullo—las Largas y Prodigiosas Playas, Furdurstrandi. . . El mar entraba encajonado en acantilados pardos y abruptos, en los que se abrían cavernas.

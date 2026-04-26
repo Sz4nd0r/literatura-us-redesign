@@ -12,7 +12,6 @@ tags:
 *Mansfield*
 *(Nueva Zelandia, 1888 -*
 *Francia, 1923)*
-*# La Mosca*
 *(“The Fly”,*
 *1922)*
 *Originalmente publicado en*

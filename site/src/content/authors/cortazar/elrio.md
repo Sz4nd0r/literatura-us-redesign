@@ -8,9 +8,7 @@ tags:
   - elrio
   - cortazar
 ---
-*# El río*
 *Julio Cortázar*
-*# El río*
 *Julio Cortázar*
 
 Final del juego, 1956) Y sí, parece que es así, que te has ido diciendo no sé qué cosa, que te ibas a tirar al Sena, algo por el estilo, una de esas frases de plena noche, mezcladas de sábana y boca pastosa, casi siempre en la oscuridad o con algo de mano o de pie rozando el cuerpo del que apenas escucha, porque hace tanto que apenas te escucho cuando dices cosas así, eso viene del otro lado de mis ojos cerrados, del sueño que otra vez me tira hacia abajo.

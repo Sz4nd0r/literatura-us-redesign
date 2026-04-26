@@ -8,7 +8,6 @@ tags:
   - amalia
   - ferre
 ---
-*# Amalia*
 *Rosario Ferré (2001 - 1972)*
 
 Ahora ya estoy aquí, en medio del patio prohibido, saliéndome desde adentro, sabiendo que esto va a ser hasta donde dice sin poder parar, rodeada de golpes de sábana y aletazos abandonados que dan vuelta a mi alrededor, sudando caballos blancos y gaviotas que vomitan sal. Ahora empiezo a acunar entre los brazos esta masa repugnante que eras tú, Amalia, y era también yo, juntas éramos las dos una sola, esperando el día en que nos dejaran encerradas en este patio, en que sabiendo que nos dejarán.

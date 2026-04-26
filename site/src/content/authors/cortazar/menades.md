@@ -8,9 +8,7 @@ tags:
   - menades
   - cortazar
 ---
-*# Las ménades*
 *Julio Cortázar*
-*# Las ménades*
 *Julio Cortázar*
 
 Final del juego, 1956) Alcanzándome un programa impreso en papel crema, Don Pérez me condujo a mi platea. Fila nueve, ligeramente hacia la derecha: el perfecto equilibrio acústico. Conozco bien el teatro Corona y sé que tiene caprichos de mujer histérica. A mis amigos les aconsejo que no acepten jamás la fila trece, porque hay una especie de pozo de aire donde no entra la música; ni tampoco el lado izquierdo de las tertulias, porque al igual que en el Teatro Comunale de Florencia, algunos instrumentos dan la impresión de apartarse de la orquesta, flotar en el aire, y es así como una flauta puede ponerse a sonar a tres metros de uno mientras el resto continúa correctamente en la escena, lo cual sería pintoresco pero muy poco agradable. Le eché una mirada al programa.

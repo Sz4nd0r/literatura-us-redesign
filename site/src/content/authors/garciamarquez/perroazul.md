@@ -8,7 +8,6 @@ tags:
   - perroazul
   - garciamarquez
 ---
-*# Ojos de perro azul*
 *Gabriel*
 *García Márquez (n. 1947)*
 

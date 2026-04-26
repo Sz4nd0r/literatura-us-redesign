@@ -10,7 +10,6 @@ tags:
 ---
 *Isak Dinesen*
 *(1885–1962)*
-*# La Inundación*
 *—The Deluge at Norderney*
 *Seven Gothic Tales (1934)*
 

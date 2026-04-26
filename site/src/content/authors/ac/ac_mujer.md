@@ -10,7 +10,6 @@ tags:
 ---
 *Antón Chéjov*
 *(Ucrania, 1860 - Alemania, 1904)*
-*# La Mujer Del Boticario*
 *(1886)*
 *[Otro título en español: “La boticaria”]*
 *(“Аптекарша”)*

@@ -8,7 +8,6 @@ tags:
   - segura
   - juanbosch
 ---
-*# Victoriano Segura*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la Revista Bohemia Año 44, Núm. 52 (28 de diciembre de 1952), págs. 24-26, 114-115 y 120; La muchacha de La Guaira (Santiago, Chile: Editorial Nascimento, 1955, 197 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) Todo lo malo que se había pensado de Victoriano Segura estaba sin duda justificado, pues a las pocas semanas de hallarse viviendo allí se presentaron en su puerta dos policías y se lo llevaron por delante.*
 

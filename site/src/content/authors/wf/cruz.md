@@ -8,7 +8,6 @@ tags:
   - cruz
   - wf
 ---
-# La muerte de Artemio Cruz
 
 **Carlos Fuentes**
 

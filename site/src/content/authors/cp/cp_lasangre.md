@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# La Sangre*
 *(“Il sangue”, 1942)*
 *Sólo hay un manuscrito, fragmento*
 *Tutti i racconti (2002)*

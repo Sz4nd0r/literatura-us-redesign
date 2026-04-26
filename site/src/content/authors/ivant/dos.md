@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# Los Dos Terratenientes*
 *(1852)*
 *(“Два помещика”)*
 *Записки охотника [Relatos de un cazador, Del álbum de un cazador]*

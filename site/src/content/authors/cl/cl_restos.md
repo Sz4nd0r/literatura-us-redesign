@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# Restos Del Carnaval*
 *(“Restos de Carnaval”)*
 *Felicidade clandestina (1971)*
 

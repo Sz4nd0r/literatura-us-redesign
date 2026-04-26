@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# Un Día Único*
 *(“A Day of Days*
 *Originalmente publicada en The Galaxy Magazine, vol. 1, no. 4 (June 15, 1866)*
 

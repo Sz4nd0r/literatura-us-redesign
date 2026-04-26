@@ -10,7 +10,6 @@ tags:
 ---
 *Eudora Welty*
 *(Jackson, Mississippi, 1909-2001)*
-*# El Recital De Junio*
 *(“June Recital”)*
 *The Golden Apples, 1949*
 *I*

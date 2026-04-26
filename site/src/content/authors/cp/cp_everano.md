@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# El Verano*
 *(“L’estate”, 1942)*
 *Originalmente publicado en Il Messaggero de Roma (6 de junio de 1942)*
 *y en Il Secolo XIX de Génova (16 de junio de 1942);*

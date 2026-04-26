@@ -8,7 +8,6 @@ tags:
   - luispie
   - juanbosch
 ---
-*# Luis Pié*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la Revista Carteles (14 de enero de 1940), págs. 17-18; Ocho cuentos (La Habana: Edición del autor, 1947, 132 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) A eso de las siete la fiebre aturdía al haitiano Luis Pie. Además de que sentía la pierna endurecida, golpes internos le sacudían la ingle.*
 

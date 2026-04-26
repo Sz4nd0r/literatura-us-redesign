@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# Los Ojos Sombrios*
 *Cuentos de amor, de*
 *locura y de muerte*
 *(solamente en la primera edición de 1917 y la segunda, de 1918)*

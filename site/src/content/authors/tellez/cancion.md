@@ -8,7 +8,6 @@ tags:
   - cancion
   - tellez
 ---
-*# La canción de mamá*
 *Hernando Téllez (1908 - 1966)*
 *Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) ¿Saben ustedes que soy un criminal? No. No es esta la palabra. Soy menos que un criminal: un homicida. Un criminal, un asesino, es diferente. Yo no quería matar a nadie. Pero maté. ¿Para qué negarlo? Por eso soy un hombre desgraciado. ¡Y hace tantos años! ¿Sabían ustedes lo que es un hombre desgraciado? Probablemente hay entre ustedes muchos que no lo saben.*
 

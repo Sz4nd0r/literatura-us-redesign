@@ -8,7 +8,6 @@ tags:
   - ultimo
   - tellez
 ---
-*# El último diálogo*
 *Hernando Téllez (1908 - 1966)*
 
 Tiempo de verano Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) Cuando llegamos a la orilla del río, Roberto me dijo: —Quítese el vestido. Nadaremos en la parte menos honda. Recuerdo —de esto hace veinte años— que el calor era sofocante, y que el aire brillaba, estremecido, a través de los arbustos. Yo estaba empapada en sudor, pues habíamos corrido los últimos cien metros del camino.

@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# La Lección Del Maestro*
 *(“The Lesson of the Master”, 1888)*
 *Originalmente publicado en The Universal Review, vol. 1 (julio - agosto 1888)*
 *The Lesson of the Master; The Marriages; [etc.] (1892)*

@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# El Retrato Oval*
 *(“The Oval Portrait”, 1842)*
 *Originalmente publicado, en un versión más extensa,*
 *como “Life in Death”, in Graham’s Magazine (1842);*

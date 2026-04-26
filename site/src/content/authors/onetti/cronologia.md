@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Cronología*
 *(Preparada por Pablo Rocca*
 *publicada en El País Cultural, Nº 177, 1993, Montevideo)*
 *1909:*

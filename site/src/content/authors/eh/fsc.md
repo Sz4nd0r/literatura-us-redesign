@@ -29,7 +29,6 @@ Winter Carnival, Fitzgerald tuvo una horrenda borrachera y fue tratado por el ps
 Desde 1939 hasta su muerte en 1940, Fitzgerald se burló a sí mismo a través del personaje de Pat Hobby en una secuencia de 17 cuentos, más tarde recopilados como The Pat Hobby Stories, que se publicaron en la revista Esquire, entre enero de 1940 y julio de 1941.
 Fitzgerald, un alcohólico desde la universidad, se hizo famoso durante la década de 1920 por su consumo excesivo de alcohol que minaría su salud a fines de la década de 1930. Sufrió dos ataques de corazón a fines de la década de 1930. El 21 de diciembre de 1940, en Hollywood, Fitzgerald murió de un ataque al corazón. Tenía 44 años.
 Zelda Fitzgerald murió en 1948, en un incendio en el Hospital Mental Highland, en Asheville, Carolina del Norte.
-# Índice:
 Relatos:
 Flappers and Philosophers (1920):
 —1. El pirata de la costa

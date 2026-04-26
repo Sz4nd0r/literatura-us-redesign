@@ -10,7 +10,6 @@ tags:
 ---
 *Joyce Carol Oates*
 *(Lockport, New York, 1938-)*
-*# Infiel*
 *—Faithless:*
 *Originalmente publicado en The Kenyon Review,*
 *en The Best American Mystery Stories 1998*

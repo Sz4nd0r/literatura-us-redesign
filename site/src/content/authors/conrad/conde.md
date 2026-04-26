@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# Il Conde*
 *(1908)*
 *(“Il Conde”)*
 *Originalmente publicado en Cassell’s Magazine,*

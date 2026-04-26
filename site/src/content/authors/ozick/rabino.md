@@ -154,7 +154,6 @@ corretea por el bosque, una oréade roza a su paso el monte,
 níveo en el susurrante arroyo el destello de una náyade;
 la belleza de la tierra sigue imbuida de su mágica cohorte.
 Todo era tan engolado, lunático y ridículo, y además tan pedante, que me avergoncé de él. Y aun así prácticamente no había nada más, nada que lo redimiera ni nada personal, tan solo una frase o dos compuestas con su estilo académico, rígido y contenido, no muy distinto de las pequeñas bromas acartonadas que solían salpicar nuestra correspondencia. «Escribo en la oscuridad, sentado en una piedra en el parque de la ensenada de Trilham, una bahía al norte de la ciudad, y a escasos pasos de un árbol esbelto, un Quercus velutina, cuya edad, si uno deseara calcularla, puede determinarse (Dios no lo permita) cortando el tronco y contando los anillos. El hombre que escribe tiene treinta y cinco años y envejece demasiada rápido, lo cual puede determinarse contando los pliegues de las ojeras que rodean sus pobres ojos miopes.» Debajo, más nítidas y legibles que el resto, deliberadas, aparecían cuatro curiosas palabras:
-# El Dios Pan Vive
 No había nada más. Al cabo de un día o dos fui a devolverle el cuaderno a Sheindel. Me dije que tenía siete huérfanas de las que hacerse cargo, y contuve la rabia de que me hubiera engañado.
 Me estaba esperando.
 —Lo siento, había una carta en el cuaderno, se cayó. La encontré en la alfombra cuando ya te habías ido.

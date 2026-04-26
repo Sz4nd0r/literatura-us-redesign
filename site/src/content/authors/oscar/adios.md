@@ -8,7 +8,6 @@ tags:
   - adios
   - oscar
 ---
-*# Adiós Europa, adiós: La soledad del viejo amigo*
 *Óscar Collazos (1942 - 2015)*
 *La soledad del viejo amigo Adiós Europa, adiós (Bogotá: Planeta Colombiana Editorial S.A. (Seix Barral], 2000, 130 págs.) Para Antonio Saura, in memoriam En su cuarto de la rue du Pont de Lodi, Ernesto se balanceaba entre la miseria y la agonía. De allí que se viese a sí mismo como una réplica del ser que había sido, lleno de apetitos, trifulcas de amigos y grandes gozadas en un París que ya no existía porque había desaparecido la locura —decía— y nadie recordaba el ejercicio de la lujuria y la gente ya nada hacía sin los bolsillos llenos de francos, nadie saboreaba al amanecer el bocado de una nueva aventura.*
 

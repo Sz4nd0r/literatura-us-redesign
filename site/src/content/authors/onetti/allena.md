@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Luna Llena*
 *Originalmente publicado en Nueva Estafeta (Madrid), 1983*
 
 Se llamaba Carmencita y tendría cincuenta años a lo más. Terminó la tercera vuelta en la cama, se quitó la sábana de la cara y supo que no iba a dormir. Aún llegaban los ruidos de la noche sabática de Buenos Aires.

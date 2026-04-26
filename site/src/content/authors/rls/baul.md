@@ -17,7 +17,6 @@ tags:
 *(junio, julio, agosto, septiembre y octubre 1878;*
 *New Arabian Nights (vol. I)*
 *(Londres: Chatto & Windus, 1882, 279 págs.)*
-*# [Ii.]*
 *Historia del médico y el baúl (1878)*
 *(“Story of the Physician and the Saratoga Trunk”)*
 *Originalmente publicado en la revista semanal London*

@@ -8,7 +8,6 @@ tags:
   - oro
   - ciro
 ---
-*# La serpiente de oro*
 *Ciro Alegría*
 
 Por donde el Marañón rompe las cordilleras en un voluntarioso afán de avance, la sierra peruana tiene una bravura de puma acosado. Con ella en torno, no es cosa de estar al descuido. Cuando el río carga, brama contra las peñas invadiendo la amplitud de las playas y cubriendo el pedrerío. Corre burbujeando, rugiendo en las torrenteras y recodos, ondulando en los espacios llanos, untuoso y ocre de limo fecundo en cuyo acre hedor descubre el instinto rudas potencialidades germinales. Un rumor profundo que palpita en todos los ámbitos, denuncia la creciente máxima que ocurre en febrero.

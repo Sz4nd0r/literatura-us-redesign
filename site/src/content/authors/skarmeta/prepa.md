@@ -11,7 +11,6 @@ tags:
 *Antonio*
 *Skármeta*
 *(Antofagasta, Chile, 1940 -)*
-*# Primera Preparatoria*
 *Tiro libre*
 *(México: Siglo Veintiuno Editores, 1973, 206 págs.)*
 

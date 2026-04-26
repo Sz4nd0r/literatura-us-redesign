@@ -8,7 +8,6 @@ tags:
   - alien
   - julio
 ---
-*# Alienación*
 *Julio Ramón Ribeyro (1987 - 1994)*
 *Cuento edificante seguido de breve colofón) Silvio en El Rosedal (no se publicó como un libro individual, pero fue publicado en 1977 como parte del tercer tomo de La palabra del mudo) La palabra del mudo. Cuentos 1952-1977, tomo III. (Lima: Milla Batres Editorial, 1977, 220 págs.) A pesar de ser zambo y de llamarse López, quería parecerse cada vez menos a un zaguero de Alianza Lima y cada vez más a un rubio de Filadelfia. La vida se encargó de enseñarle que si quería triunfar en una ciudad colonial más valía saltar las etapas intermediarias y ser antes que un blanquito de acá un gringo de allá.*
 

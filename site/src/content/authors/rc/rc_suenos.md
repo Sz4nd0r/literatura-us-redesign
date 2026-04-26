@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Sueños*
 *(“Dreams”)*
 *Originalmente publicado, en forma ligeramente diferente, en*
 *Esquire Magazine, 134, n.° 2 (agosto de 2000);*

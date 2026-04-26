@@ -18,8 +18,6 @@ tags:
 y “Bénis soient les humbles”(en francé), revista Mystère Magazine, París, Editions Opta (mayo de 1949).
 Maigret les petits cochons sans queue
 (París: Presses de la Cité, 1950, 221 págs.)
-# Capítulo I
-# ## Donde El Sastrecillo Tiene Miedo Y Se Aproxima A Su Vecino El Sombrerero
 Kachoudas, el sastrecillo de la calle de los Prémontrés, tenía miedo, era indiscutible. Mil personas, diez mil exactamente, puesto que la villa tenía diez mil habitantes, tenían también miedo, salvo los niños de corta edad; pero la mayor parte no lo confesaban, ni se atrevían incluso a reconocerlo ante el espejo.
 Hacía ya varios minutos que Kachoudas había encendido la lámpara eléctrica que un hilo de hierro le permitía acercar y mantener justamente encima de su trabajo. No eran aún más que las cuatro de la tarde, pero como estaban en noviembre, comenzaba a oscurecer. Llovía. Llovía desde hacía quince días. A cien metros de la tienda, en el cine luminoso de luz color malva cuyo timbre se oía repiquetear, podía verse, en las «Actualidades de Francia y del extranjero», gente que circulaba en barca por las calles, granjas aisladas en medio de verdaderos torrentes que arrastraban árboles enteros.
 Todo esto contaba. Todo contaba. Si no hubieran estado en otoño, si no oscureciese a las tres y media, si la lluvia no se descolgase del cielo de la mañana a la noche y de la noche a la mañana, hasta el punto de que mucha gente no tenía nada seco que ponerse encima. Si, por añadidura, no hubiera habido ráfagas de viento que se introducían en las calles estrechas y daban vuelta a los paraguas como si fuesen guantes, Kachoudas no hubiera tenido miedo, ni, probablemente, hubiera sucedido nada.
@@ -165,8 +163,6 @@ Salir delante es peligroso. Salir después, es más peligroso todavía. Y, sin e
 Duda. Sabe que hace mal, que va a emborracharse, pero no es capaz de hacer otra cosa.
 —Lo mismo…
 ¿Será posible que sea él a quien miren como a un sospechoso?
-# ## ## Capítulo Ii
-# ## ## ## Donde El Sastrecillo Presencia El Fin De Una Dama
 —¿Cómo está Mathilde?
 Alguien ha pronunciado aquella frasecita. Pero, ¿quién? En aquel momento Kachoudas tenía ya la cabeza pesada, y quizá incluso había pedido su séptimo vaso de vino blanco. Hasta el punto de que se le ha preguntado si festejaba un nuevo nacimiento. Probablemente es Germain, el tendero, quien ha hablado. La cosa, por lo demás, carece de importancia. Todos tienen aproximadamente la misma edad, entre sesenta y sesenta y cinco años. La mayor parte de ellos han ido juntos, primero a la escuela, al colegio después. Han jugado juntos a las bolas. Se tutean. Cada uno de ellos ha asistido a la boda de los demás. Indudablemente, cualquiera de ellos, entre los quince y los diecisiete años, ha sido novio de la que después se casó con su amigo.
 Hay, además, el grupo de los que están entre cuarenta y cincuenta años, preparados para el relevo, cuando los viejos ya no estén, y que ahora juegan a las cartas en el rincón izquierdo del Café de la Paix. Son un poco más alborotadores, pero llegan más tarde, hacia las cinco, porque no han recorrido aún todavía toda su vida profesional.

@@ -8,7 +8,6 @@ tags:
   - espa
   - julio
 ---
-*# Los españoles*
 *Julio Ramón Ribeyro (1987 - 1994)*
 *La palabra del mudo. Cuentos 1952-1972, tomo II. (Lima: Milla Batres Editorial, 1973, 291 págs.) He vivido en cuartos grandes y pequeños, lujosos y miserables, pero si he buscado siempre algo en una habitación, algo más importante que una buena cama o que un sillón confortable, ha sido una ventana a la calle. El más sórdido reducto me pareció llevadero si tenía una ventana por donde mirar a la calle. La ventana, en muchísimos casos, reemplazó para mí al amigo lejano, a la novia perdida, al libro cambiado por un plato de lentejas. A través de las ventanas llegué al corazón de los hombres y pude comprender las consejas de la ciudad.*
 

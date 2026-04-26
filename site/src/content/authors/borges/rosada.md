@@ -8,9 +8,7 @@ tags:
   - rosada
   - borges
 ---
-*# Hombre de la esquina rosada*
 *Jorge Luis Borges*
-*# Hombre de la esquina rosada*
 *Jorge Luis Borges*
 
 Yo lo conocí, y eso que éstos no eran sus barrios porque el sabía tallar más bien por el Norte, por esos laos de la laguna de Guadalupe y la Batería. Arriba de tres veces no lo traté, y ésas en una misma noche, pero es noche que no se me olvidará, como que en ella vino la Lujanera porque sí a dormir en mi rancho y Rosendo Juárez dejó, para no volver, el Arroyo. A ustedes, claro que les falta la debida esperiencia para reconocer ése nombre, pero Rosendo Juárez el Pegador, era de los que pisaban más fuerte por Villa Santa Rita.

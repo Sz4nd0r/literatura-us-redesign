@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(1899-1961)*
-*# El Río De Los Dos Corazones*
 *(“Big Two-Hearted River”, 1925)*
 *In Our Time (New York: Boni & Liveright, 1925)*
 *I*

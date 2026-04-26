@@ -8,7 +8,6 @@ tags:
   - circo
   - liliana
 ---
-*# Tarde de circo*
 *Liliana Heker*
 
 Tarde de circo La muerte de Dios (Buenos Aires: Aguilar, Altea, Taurus, Alfaguara, 2011, 208 págs.) Cuando el hombre dio vuelta la esquina los dos chicos vinieron corriendo y le abrazaron las piernas. Los alzó, los revoleó y los acomodó bajo los brazos igual que a paquetes. Avanzaron los tres así, al trote y aullando como autos de carrera hasta que él vio a la mujer y a la asistente social que lo observaban desde la boletería.

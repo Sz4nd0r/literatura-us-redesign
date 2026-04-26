@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# De Una Clase Especial*
 *(“The Special Type”, 1900)*
 *Originalmente publicado en Collier’s Weekly (16 de junio de 1900)*
 *The Better Sort (Lo más selecto), 1903*

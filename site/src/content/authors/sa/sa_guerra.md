@@ -10,7 +10,6 @@ tags:
 ---
 *Sherwood Anderson*
 *(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
-*# Guerra*
 *(“War”)*
 *The Triumph of the Egg*
 *(Nueva York: B. W. Huebsch, Inc., 1921, 269 págs.)*

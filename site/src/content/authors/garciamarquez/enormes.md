@@ -8,7 +8,6 @@ tags:
   - enormes
   - garciamarquez
 ---
-*# Un señor muy viejo con unas alas enormes*
 *Gabriel*
 *García Márquez (n. 1947)*
 

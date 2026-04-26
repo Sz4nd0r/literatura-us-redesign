@@ -8,7 +8,6 @@ tags:
   - una
   - bioy
 ---
-*# Una aventura*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Historias de amor (Buenos Aires: Emecé, 1972, 259 págs.) Creo que fue Mildred quien descubrió el mejor lugar para tomar el té. Ahora me acuerdo: era de tarde, caminábamos por el vasto y abandonado parque de Marly, me cansé inopinadamente, sentí que la sangre se me enfriaba en las venas y dije, en tono de broma, que una taza de té sería providencial. Mildred gritó, y señaló algo por encima de mi hombro. Me volví. Yo debía de estar muy débil, porque me incliné a pensar que por voluntad de mi amiga había surgido, en ese momento, en pleno bosque, el pabellón de La Trianette.

@@ -12,7 +12,6 @@ tags:
 *Mann*
 *(Lübeck, Alemania, 1875 -*
 *Suiza, 1955)*
-*# Los Hambrientos*
 *(“Die Hungernden”)*
 *Originalmente publicado en la revista Die Zukunft, vol. 11, n. 17, Berlin (1903)*
 *(Der kleine Herr Friedemann,*

@@ -8,7 +8,6 @@ tags:
   - falsa
   - sergio
 ---
-*# La puerta falsa*
 *Sergio Ramírez (n. 1942)*
 *La puerta falsa Flores oscuras (Madrid: Editorial Alfaguara, Colección Hispánica, 2013, 226 págs.) A Edgard Rodríguez Cuando Amado Gavilán subió al encordado del Staples Center de Los Ángeles la tarde del 28 de mayo del año 2005, iba a cumplir con una pelea de relleno pactada a ocho asaltos contra el filipino Arcadio Evangelista, invicto en la categoría de los pesos minimosca. Era el tercer match de una larga velada que culminaría a las diez de la noche con el estelar en que Julio César Chávez, el más famoso de los boxeadores mexicanos, ganador de cinco títulos mundiales en tres categorías diferentes, se enfrentaría al wélter Ivan “Mighty” Robinson en lo que sería su histórica despedida del boxeo.*
 *Muy pocos habían oído hablar de Amado Gavilán, mexicano igual que Chávez pero lejano a la fama que cubría con su cálido manto a su compatriota. A los cuarenta y dos años, y a pocos pasos de su retiro de las cuerdas, el pentacampeón Chávez era dueño de un impresionante récord de 108 combates ganados, 87 de ellos por nocaut, y por eso mismo aún era capaz de colocarse como preferido en las quinielas de los apostadores, y recibir los dorados frutos de un contrato de televisión pay-per-view costa a costa, como esa noche.*

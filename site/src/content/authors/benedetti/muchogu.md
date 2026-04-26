@@ -8,7 +8,6 @@ tags:
   - muchogu
   - benedetti
 ---
-*# Mucho gusto*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) Se habían encontrado en la barra de un bar, cada uno frente a una jarra de cerveza, y habían empezado a conversar, al principio, como es lo normal, sobre el tiempo y la crisis, luego de temas varios y no siempre racionalmente encadenados. Al parecer el flaco era escritor; el otro, un señor cualquiera. No bien supo que el flaco era literato, el señor cualquiera empezó a elogiar la condición de artista, eso que llamaba «el sencillo privilegio de poder escribir». «No crea que es algo tan estupendo», dijo el flaco. «También hay momentos de profundo desamparo, en los que uno llega a la conclusión de que todo lo que ha escrito es una basura.

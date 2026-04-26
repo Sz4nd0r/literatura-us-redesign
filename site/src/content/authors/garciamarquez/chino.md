@@ -8,7 +8,6 @@ tags:
   - chino
   - garciamarquez
 ---
-*# ¿Todo cuento es un cuento chino?*
 *Gabriel*
 *García Márquez (n. 1947)*
 

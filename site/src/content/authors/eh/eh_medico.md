@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(1899-1961)*
-*# El Médico Y Su Mujer*
 *(“The Doctor and the Doctor’s Wife”, 1925)*
 *In Our Time (New York: Boni & Liveright, 1925)*
 

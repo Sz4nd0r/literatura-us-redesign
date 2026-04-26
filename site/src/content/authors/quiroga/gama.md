@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# La Gama Ciega*
 *(Cuentos de la selva,*
 *1918)*
 *Había una vez un venado —una*
@@ -155,7 +154,6 @@ del cazador.
 ¡tan! —golpearon.
 —¿Qué hay? —respondió
 una voz de hombre, desde adentro. —¡Somos las gamas!... ¡TENEMOS LA
-# ## Cabeza De Víbora!
 La madre se apuró a
 decir esto, para que el hombre supiera bien que ellas eran amigas del oso
 hormiguero.

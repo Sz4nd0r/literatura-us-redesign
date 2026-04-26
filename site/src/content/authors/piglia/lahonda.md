@@ -12,7 +12,6 @@ tags:
 *Piglia*
 *(Adrogué, Buenos Aires,*
 *1941 - Buenos Aires, 2017)*
-*# La Honda*
 *(La invasión, 1967)*
 *No me dejo engañar por los chicos.*
 *Sé que mienten, que siempre están poniendo cara de inocentes y por*
@@ -43,8 +42,6 @@ Los pibes empezaron a barrer, como les
 ordenó el patrón en escarmiento.
 Mientras barrían les preguntó si
 sabían leer. Los cuatro sabían y los cuatro habían leído el cartel:
-# ## Prohibida
-# ## ## La Entrada
 Pero
 se metieron por culpa de Nacho que les dijo, repitieron, que era amigo del
 patrón.

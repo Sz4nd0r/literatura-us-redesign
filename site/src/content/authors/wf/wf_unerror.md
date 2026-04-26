@@ -473,8 +473,6 @@ cubrían veinte años o más. Era la crónica de los dones y del talento que Fli
 desvirtuara y traicionara por fin, y que a su vez se habían vuelto contra él para
 destruirlo. Todo estaba allí: comienzo, evolución, cumbre y, por fin, decadencia. Los
 programas, volantes, recortes periodísticos, y hasta un cartel de dos metros de altura:
-# Signor Canova
-# ## Ilusionista
 Desaparece a la vista del espectador.
 La empresa ofrece mil dólares en efectivo
 a cualquier hombre, mujer o niño que…

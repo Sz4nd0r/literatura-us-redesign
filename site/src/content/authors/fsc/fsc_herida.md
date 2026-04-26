@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# La Primera Herida*
 *(“First Blood”)*
 *Originalmente publicado en The Saturday Evening Post, 202 (5 de abril de 1930);*
 *Taps at Reveille*

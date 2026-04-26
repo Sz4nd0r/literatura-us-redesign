@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Alba Entre Las Ramas Desnudas*
 *Ultimo viene il corvo (1949)*
 
 No hiela a menudo en nuestros pagos: sólo por la mañana las lechugas se despiertan ateridas, un poco lívidas, y la tierra forma una costra gris, casi lunar, que responde sorda a la zapa. Al pie de los árboles, en diciembre, la tierra empieza a pigmentarse de hojitas amarillas que poco a poco la cubren como una manta ligera. El invierno es más transparencia de aire que frío y en ese aire se encienden en las ramas esqueléticas centenares de lamparitas rojas: los caquis.

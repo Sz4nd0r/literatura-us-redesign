@@ -11,9 +11,7 @@ tags:
 *T.S. Eliot*
 *(Missouri,*
 *USA, 1888-Londes, 1965)*
-*# Otros Poemas*
 *LA*
-*# ## Muerte De San Narciso*
 *Ven bajo la*
 *sombra de esta roca gris*
 *Entra bajo la sombra de esta roca gris,*
@@ -76,7 +74,6 @@ Ahora él es verde, seco y manchado
 Con la sombra en los labios.
 (Traducción:
 Alberto Blanco)
-# ## ## El Primer Coro De La Roca
 «Se cíerne el
 águila en la cumbre del cielo,
 El cazador y la jauría cumplen su círculo.
@@ -106,7 +103,6 @@ Nos apartan de Dios y nos aproximan al polvo.»
 (Traducción:
 Jorge Luis
 Borges)
-# ## ## ## Mr. Apollinax
 [cita, en griego, de Luciano]
 Cuando Mr. Apollinax
 visitó los Estados Unidos

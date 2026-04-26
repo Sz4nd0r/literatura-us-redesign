@@ -18,13 +18,9 @@ tags:
 Una recámara con un espejo en el techo. Al lado, con la puerta abierta, un baño. En el cuarto, una cama matrimonial, una silla, dos burós, varias botellas grandes de Coca-Cola, dos de ellas vacías, bolsas de papas fritas, paquetes de cigarros. SILVIA está desnuda, acostada en la cama, con una pierna levantada, doblada, el pie apoyado sobre la rodilla. José Roberto está de pie, también desnudo, al lado de la cama, cepillándose los dientes.
 JOSÉ ROBERTO (mientras se cepilla los dientes con un cepillo sin pasta)
 Odio pocas cosas en la vida, y una de ellas es que te cepilles los dientes con mi cepillo. Eso me molesta, no sé cómo puedes confundirte, nuestros cepillos son tan diferentes, ¿ves?, el tuyo es azul, el mío rojo, ¿ves? azul, rojo, y el tuyo tiene el mango más largo, y las cerdas del mío son más blandas y delgadas, y el mío tiene un agujerito en la punta del mango, y el tuyo no. Azul, ¿estás viendo?, rojo, ¿ves?, no eres daltónico, odio esto, lo odio, disculpa que insista, no es que esté molesta contigo, llevamos quince años de casados, pero yo soy, cómo lo diré, convencional, me casé virgen porque soy convencional, me cepillo los dientes con mi cepillo porque soy convencional, soy una esposa fiel porque soy convencional, cuido de la casa cuando sales a trabajar de nueve de la mañana a nueve de la noche porque soy convencional, el hombre trabaja y la mujer cuida la casa y acepto eso porque soy convencional y odio que te cepilles los dientes con mi cepillo porque soy convencional.
-# Silvia
 La imitas perfectamente, sólo falta aquel hum ham que ella hace. Hum, ham.
-# ## José Roberto
 Habló media hora sin parar sobre eso de que me cepillo los dientes con su cepillo. Fue entonces que lo decidí.
-# ## ## Silvia
 ¿Es por eso que te estás cepillando los dientes con mi cepillo? ¿Para vengarte de ella?
-# ## ## ## José Roberto
 Siempre me he cepillado los dientes con tu cepillo.
 ## ## ## ## SILVIA
 ¿Y qué haces todos los días de nueve de la mañana a nueve de la noche?

@@ -8,7 +8,6 @@ tags:
   - cien
   - pgv
 ---
-*# Cien años de aire*
 *Pedro Gómez Valderrama*
 
 Invenciones y artificios (Bogotá: Instituto Colombiano de Cultura, División de Publicaciones, 1975, 127 págs.) “Si j’étais colombien, je dirais: Rendez nous cent ans d’air et nous vivrons longtemps”. (El comerciante Lefebvre, citado por el General Francisco de Paula Santander, en su Diario de viaje por Europa 1829-1832).. I Los sueños tienen una materia especial, que se proyecta sin saber cómo sobre la vida. No quiero hablar de su interpretación científica, sino de su proyección vital, o por mejor decirlo, mágica.

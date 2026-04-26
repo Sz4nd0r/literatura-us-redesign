@@ -12,7 +12,6 @@ tags:
 *Mieses Burgos*
 *(Santo Domingo, 1907-1976)*
 *Antología poética*
-*# Yo Estoy Muerto Con Ella*
 *Yo estoy muerto con ella*
 *sin rumuroso llanto de azucenas,*
 *desde un pecho que estingue sus ardientes cenizas,*
@@ -48,7 +47,6 @@ a reposar en ella los astros sonrientes.
 Yo estoy muerta con ella
 inevitablemente desde donde su pena estremecida grita,
 donde un rio como ella pasa callando siempre.
-# ## Imploración
 Sin mundo ya y herido por el cielo
 voy hacia ti en mi carne de angustia iluminada,
 como en busca de otra pretérita ribera,
@@ -67,7 +65,6 @@ tu hijo, el de las briznas de fuegos y los cantos
 en sumergida isla de llanto y de dolores.
 El que te mira a ti, transfigurado, en clima (te distintos hemisferios,
 uno y plural ¡en tu palabra eterna!
-# ## ## Cuando La Rosa Muere
 Cuando la rosa muere
 deja un hueco en el aire
 que no lo llena nada;
@@ -93,7 +90,6 @@ Cuando la rosa muere
 deja un hueco en el aire
 —redondo como un nido—
 ­para acunar tu pena.
-# ## ## ## Paisaje Con Un Merengue Al Fondo
 Por dentro de tu noche
 solitaria de un llanto de cuatrocientos años;
 por dentro de tu noche caída entre estas islas

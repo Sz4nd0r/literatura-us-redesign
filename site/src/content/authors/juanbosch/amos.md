@@ -8,7 +8,6 @@ tags:
   - amos
   - juanbosch
 ---
-*# Los amos*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la Revista Carteles (12 de noviembre de 1939), pág. 69; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) Cuando ya Cristino no servía ni para ordeñar una vaca, don Pío lo llamó y le dijo que iba a hacerle un regalo. —Le voy a dar medio peso para el camino.*
 

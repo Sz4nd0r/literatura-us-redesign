@@ -8,7 +8,6 @@ tags:
   - avion
   - garciamarquez
 ---
-*# El avión de la bella durmiente*
 *Gabriel*
 *García Márquez (n. 1947)*
 

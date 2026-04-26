@@ -10,7 +10,6 @@ tags:
 ---
 *Elena Garro*
 *(Puebla, México, 1916 - Cuernavaca, 1998)*
-*# La Culpa Es De Los Tlaxcaltecas*
 *La semana de colores*
 *(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
 

@@ -8,7 +8,6 @@ tags:
   - infie
   - oscar
 ---
-*# Las puertas del infierno*
 *Óscar Collazos (1942 - 2015)*
 
 Las puertas del infierno Biografía del desarraigo (Buenos Aires: Siglo XXI, 1974, 143 págs.) ¡Ya pueden venir los tigres con sus garras! El principito, Antoine de Saint-Exupéry No se mueva tanto, maricón, le dice Pichita a Trabuco y Trabuco que no me estoy moviendo, déjese usté de mariconadas, ya está muy grande, y Rolo esconde el rostro y sacude el pesado enjambre de periódicos y se los echa encima, acurrucándose, reduciéndose a una especie de cuerpo redondeado por el frío de la carrera Séptima y Trabuco dice que anoche vio estrellas y un cohete cruzando por los cerros con una cola de fuego y se sintió volando y fue hasta la casa de su padre, entró por la ventana y lo vio, borracho como siempre, entre los costales de papas y a su madrastra también doblegada de la juma, dormida de la perra, caída de la curda, diciendo qué-puta-es-la-vida y entonces cuando estuvo frente a él le dijo que dejara de estarse quejando, toda la vida no ha hecho sino chillar como mujercita, viejo cabrón, y entonces había vuelto a salir volando por la ventana, sobre los techos del sur y había regresado en segundos, vuelto a ver la cola del cohete que ahora parecía un cometa con un enorme letrero que anunciaba la llegada del Papa.

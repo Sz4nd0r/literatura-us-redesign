@@ -8,7 +8,6 @@ tags:
   - yk_fuji
   - yk
 ---
-# Primera nieve en el monte Fuji
 
 **Yasunari Kawabata**
 

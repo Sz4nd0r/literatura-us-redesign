@@ -8,7 +8,6 @@ tags:
   - toinet
   - mujica
 ---
-*# XIII. Toinette (1658)*
 *Manuel Mujica Lainez*
 
 Toinette vuelve en sí de su desmayo y aunque quiere no logra incorporarse. Tarda un minuto en darse cuenta de que por más que se esfuerce no lo conseguirá. La viga central de su cámara, desplomada con parte del artesonado de querubes y sirenas esculpidas, le aprisiona la cintura. En torno reina la confusión. La bala española que partió el trinquete de La Maréchale fue seguida por otras del barco holandés de Isaac de Brac, que barrieron la cubierta e incendiaron la popa.

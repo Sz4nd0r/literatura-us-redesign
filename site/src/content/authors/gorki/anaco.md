@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# El Anacoreta*
 *(1923)*
 *[“El ermitaño”]*
 *(“Отшельник”)*

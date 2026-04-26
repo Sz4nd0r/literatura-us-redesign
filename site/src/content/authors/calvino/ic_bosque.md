@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# El Bosque De Los Animales*
 *Ultimo viene il corvo (1949)*
 
 Los días de batida es como si en el bosque hubiese una feria. Entre los arbustos y los árboles, fuera de los senderos, pasan continuamente familias empujando una vaca o un ternero, viejas con una cabra atada a una cuerda y niñas con un ganso debajo del brazo. Incluso hay quien escapa llevándose los conejos.

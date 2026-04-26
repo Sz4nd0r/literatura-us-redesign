@@ -11,7 +11,6 @@ tags:
 *Roberto Bolaño*
 *(Santiago,*
 *Chile, 1953 - Barcelona, 2003)*
-*# Una Aventura Literaria*
 *(Llamadas telefónicas, 1997)*
 
 B escribe un libro en donde se burla, bajo máscaras diversas, de ciertos escritores, aunque más ajustado sería decir de ciertos arquetipos de escritores. En uno de los relatos aborda la figura de A, un autor de su misma edad pero que a diferencia de él es famoso, tiene dinero, es leído, las mayores ambiciones (y en ese orden) a las que puede aspirar un hombre de letras. B no es famoso ni tiene dinero y sus poemas se imprimen en revistas minoritarias. Sin embargo entre A y B no todo son diferencias. Ambos provienen de familias de la pequeña burguesía o de un proletariado más o menos acomodado. Ambos son de izquierdas, comparten una parecida curiosidad intelectual, las mismas carencias educativas. La meteórica carrera de A, sin embargo, ha dado a sus escritos un aire de gazmoñería que a B, lector ávido, le parece insoportable. A, al principio desde los periódicos pero cada vez más a menudo desde las páginas de sus nuevos libros, pontifica sobre todo lo existente, humano o divino, con pesadez académica, con el talante de quien se ha servido de la literatura para alcanzar una posición social, una respetabilidad, y desde su torre de nuevo rico dispara sobre todo aquello que pudiera empañar el espejo en el que ahora se contempla, en el que ahora contempla el mundo. Para B, en resumen, A se ha convertido en un meapilas.

@@ -8,7 +8,6 @@ tags:
   - rebeli
   - romulo
 ---
-*# La rebelión*
 *Rómulo Gallegos (n. 1969)*
 
 Esto fue cuando Juan Lorenzo tenía cinco años. Una noche, a las primeras horas, estaba él en las piernas de la madre, que le cantaba para dormirlo, cuando llegó un hombre a la puerta y dijo: —Señora, dígale a Mano Carlos que aquí está Julián Camejo que viene a cumplile lo ofrecío. Efigenia dejó al niño en la mecedora y entrando en el cuarto del marido se acercó a la hamaca donde él estaba y le dijo, con su voz de sierva sumisa que habla al amo que acaba de azotarla: —Que ahí está Julián Camejo que viene a cumplirte lo ofrecido. El hombre saltó de la hamaca y se precipitó fuera del cuarto a grandes pasos, a tiempo que desabrochaba la tirilla del revólver en la faja que llevaba siempre al cinto.

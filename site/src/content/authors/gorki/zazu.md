@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Zazúbrina*
 *(1897)*
 *(“ЗАЗУБРИНА”, “Зеленый Котенок”)*
 *Originalmente publicado, como el segundo de la series Жалостливые люди. Очерки*

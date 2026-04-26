@@ -8,7 +8,6 @@ tags:
   - ciybar
   - josee
 ---
-*# Civilización y barbarie*
 *José Emilio Pacheco (n. 2004)*
 *El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A José Ricardo Chaves El fuerte es un punto a mitad de la pradera. Hacia él convergen los apaches encabezados por Jerónimo. Al galope bajan de los montes y blanden fusiles, arcos, lanzas. Querido papá: Gracias por el regalo. Llegó justo el día de mi cumpleaños. Tardé una semana en contestarte porque fuimos movilizados y ahora estamos en plena selva. Me porté bien en mi bautismo de fuego.*
 

@@ -8,7 +8,6 @@ tags:
   - balada
   - joseluis
 ---
-*# Balada de otro tiempo*
 *José Luis*
 *González (1926 - 1997)*
 

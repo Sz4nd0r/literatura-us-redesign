@@ -8,7 +8,6 @@ tags:
   - flores
   - sergio
 ---
-*# Flores oscuras*
 *Sergio Ramírez (n. 1942)*
 
 Llega un momento de la vida en que lo primero que se busca de las ciudades son los museos, y queríamos ver, antes de nada, el Cenáculo de Leonardo en Santa Maria delle Grazie; pero como los grupos admitidos a horarios determinados al refectorio del convento son pequeños, al no haber entradas para ese día decidimos adelantar el siguiente paso del programa, y nos fuimos a visitar la pinacoteca de Brera.

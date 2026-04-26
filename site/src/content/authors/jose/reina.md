@@ -8,7 +8,6 @@ tags:
   - reina
   - jose
 ---
-*# La reina y su secreto*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

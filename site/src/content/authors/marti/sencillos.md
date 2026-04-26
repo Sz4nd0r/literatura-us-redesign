@@ -11,7 +11,6 @@ tags:
 *José*
 *Martí*
 *(1853—1895)*
-*# Versos Sencillos*
 *(1891)*
 *I*
 *Yo soy un hombre sincero*
@@ -253,7 +252,6 @@ Amo la tierra florida,
 Musulmana o española,
 Donde rompió su corola
 La poca flor de mi vida.
-# ## Viii
 Yo tengo un amigo muerto
 Que suele venirme a ver:
 Mi amigo se sienta, y canta;
@@ -398,7 +396,6 @@ Y a mis pies vi de repente,
 Ofendido del hedor
 Un pez muerto, un pez hediondo
 En el bote remador
-# ## ## Xiii
 Por donde abunda la malva
 Y da el camino un rodeo,
 Iba un ángel de paseo
@@ -450,7 +447,6 @@ Pálida, en su canapé
 De seda tórtola y roja,
 Eva, callada, deshoja
 Una violeta en el té.
-# ## ## ## Xvii
 Es rubia: el cabello suelto
 Da más luz al ojo moro:
 Voy, desde entonces, envuelto

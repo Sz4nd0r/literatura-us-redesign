@@ -10,7 +10,6 @@ tags:
 ---
 *Richard Ford*
 *(Jackson, Mississippi, 1944-)*
-*# Carreras De Galgos*
 *(“Going to the Dogs”)*
 *Originalmente publicado en TriQuarterly Magazine (invierno 1979),*
 *Rock Springs*

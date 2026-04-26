@@ -10,7 +10,6 @@ tags:
 ---
 *Richard Ford*
 *(Jackson, Mississippi, 1944-)*
-*# Rock Springs*
 *(“Rock Springs”)*
 *Originalmente publicado en Esquire Magazine (febrero 1982);*
 *## Rock Springs*

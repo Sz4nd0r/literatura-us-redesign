@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# La Oficina*
 *(1847)*
 *(“Контора”)*
 *Originalmente publicado en la revista Современник [El Contemporáneo]*
@@ -99,9 +98,6 @@ Ambos guardamos silencio.
 El tipo me devolvió una amplia sonrisa, asintió, salió de la oficina y trajo consigo una cuartilla escrita.
 —Mire cómo escribo —dijo, todavía sonriendo.
 Observé la cuartilla de papel grisáceo. Sobre la misma estaba escrito lo siguiente en una letra amplia y con buen gusto:
-# ## Una Orden
-# ## ## De La Principal Oficina De La Casa
-# ## ## ## De Anánevo Al Intendente Mijaíl Víkulov
 Número 209
 Se le ordena de inmediato que en cuanto reciba esto explique qué fue lo que hizo anoche, todo borracho y cantando tonadillas indecentes, pasando al lado de los jardines ingleses, y despertando a la institutriz, la dama francesa Madame Eugenie. Así como qué estaba haciendo el guarda nocturno que estaba de guardia en el jardín y por qué permitió que ocurriera tal desorden. Se le ordena de inmediato que se informe con todo detalle sobre todo lo descrito más arriba, y que informe de ello sin dilación a la oficina.
 El jefe de oficinistas Nikolái Jvostov

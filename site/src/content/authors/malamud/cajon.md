@@ -10,7 +10,6 @@ tags:
 ---
 *Bernard Malamud*
 *(26 de abril, 1914 – 18 de marzo, 1986)*
-*# El Hombre En El Cajón*
 *(1968)*
 *(“Man in the Drawer”)*
 *Originalmente publicado en la revista The Atlantic (abril 1968);*

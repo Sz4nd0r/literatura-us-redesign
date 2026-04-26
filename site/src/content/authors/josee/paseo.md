@@ -8,7 +8,6 @@ tags:
   - paseo
   - josee
 ---
-*# Paseo en el lago*
 *José Emilio Pacheco (n. 2004)*
 
 Paseo en el lago La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) Acabo de recibir noticias de Elena. Me devuelven a aquel paseo en el lago, dos años atrás, que tuvo inesperadas consecuencias para mi vida. En 1957 Elena entró como mecanógrafa en el diario deportivo en que yo trabajaba. Al volver de un juego nocturno, para mayor rapidez le dictaba a Elena mi crónica con base en las notas tomadas en el estadio.

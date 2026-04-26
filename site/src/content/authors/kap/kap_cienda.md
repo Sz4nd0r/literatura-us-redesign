@@ -10,7 +10,6 @@ tags:
 ---
 *Katherine Anne Porter*
 *(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
-*# Hacienda*
 *(“Hacienda”)*
 
 Originalmente publicada, como un artículo periodístico, en Virginia Quarterly Review, 8 (Octubre 1932)

@@ -8,7 +8,6 @@ tags:
   - rancho
   - manuel
 ---
-*# El rancho en la montaña*
 *Manuel Rojas*
 *Originalmente publicado en la revista Atenea, 63 (agosto de 1930); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.) El rancho estaba situado frente al desfiladero y era la primera habitación que se encontraba al salir de la estrecha y profunda garganta. Para llegar era preciso ascender la falda del cerro y cruzar una meseta rocosa, brillante, sin una brizna de hierba, sin una piedrecilla, lisa como el viento que la barría sin cesar.*
 

@@ -8,7 +8,6 @@ tags:
   - ld_lawn
   - ld
 ---
-# Césped recién cortado
 
 *Lydia Davis*
 

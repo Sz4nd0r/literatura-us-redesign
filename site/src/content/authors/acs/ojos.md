@@ -8,7 +8,6 @@ tags:
   - ojos
   - acs
 ---
-*# Las muñecas que hace Juana no tienen ojos*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Los cuentos de Juana (con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
 

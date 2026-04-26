@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# La Señora Medwin*
 *(“Mrs Medwin”, 1901)*
 *Originalmente publicado en Punch (28 de agosto - 18 de septiembre de 1901)*
 *The Better Sort (Lo más selecto), 1903*

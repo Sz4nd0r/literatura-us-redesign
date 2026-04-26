@@ -8,7 +8,6 @@ tags:
   - amor
   - bioy
 ---
-*# Amor vencido*
 *Adolfo Bioy Casares (1914 - 1999)*
 *Recuerdas lo que prometiste?», me falta valor para anunciarle, una vez más, que la semana siguiente almorzaremos juntos, pero que hoy me esperan mis padres. Para sobreponerme a una inopinada congoja, como si quisiera marearme con palabras, me largo a hablar. Probablemente por asociación de ideas hablo del restaurante que el invierno pasado un cocinero francés inauguró en una vieja quinta —¿de San Isidro? ¿de San Fernando?— llamado Fierre. ¿O Pierre queda realmente en el barrio sur?*
 

@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# El Ídolo*
 *(“L’idolo”, 1937)*
 *Tutti i racconti (2002)*
 

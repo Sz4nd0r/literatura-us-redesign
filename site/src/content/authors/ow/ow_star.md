@@ -12,7 +12,6 @@ tags:
 *Wilde*
 *(Irlanda, 1854 - Francia,*
 *1900)*
-*# El Niño-Estrella*
 *(“The Star-Child”)*
 *A House of Pomegranates*
 *(Londres: James R. Osgood McIlvaine & Co., 1891, 159 págs.)*

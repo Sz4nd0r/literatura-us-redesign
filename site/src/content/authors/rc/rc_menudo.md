@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Menudo*
 *(“Menudo”)*
 *Originalmente publicado en Granta (1987);*
 *Where I’m Calling From: New & Selected Stories (1988);*

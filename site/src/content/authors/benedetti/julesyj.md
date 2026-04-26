@@ -8,7 +8,6 @@ tags:
   - julesyj
   - benedetti
 ---
-*# Jules y Jim*
 *Mario Benedetti (1920 - 2009)*
 
 Fue un sábado de tarde, en plena siesta, cuando sonó la primera llamada. Aún medio aturdido, había alargado el brazo hasta el teléfono, y una voz masculina, ni demasiado grave ni demasiado aguda, había inaugurado el ciclo de amenazas con aquello, después tan repetido, de hola Agustín, te vamos a matar, no sabemos si en esta semana o en la próxima, lo único seguro es que te vamos a matar, chau Agustín.

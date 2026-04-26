@@ -10,7 +10,6 @@ tags:
 ---
 *Sherwood Anderson*
 *(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
-*# Píldoras De Papel*
 *(1919)*
 *(“Paper Pills”)*
 *Winesburg, Ohio*

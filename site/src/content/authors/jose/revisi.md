@@ -8,7 +8,6 @@ tags:
   - revisi
   - jose
 ---
-*# El laberinto revisitado*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

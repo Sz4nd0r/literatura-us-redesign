@@ -11,7 +11,6 @@ tags:
 *Roberto*
 *Arlt*
 *(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
-*# Desde La Otra Vida*
 *El criador de gorilas*
 *(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)*
 *Fernando sentía la incomodidad de*

@@ -8,7 +8,6 @@ tags:
   - ala
   - pgv
 ---
-*# El ala izquierda del águila*
 *Pedro Gómez Valderrama*
 
 El ala izquierda del águila La procesion de los ardientes (Bogotá: Miguel Arbeláez Sarmiento, 1973, 180 págs.) El siguiente texto tiene valor simplemente por un notable adjetivo. Tal vez es un texto excesivamente emocional; hay quienes dudan de su verdad histórica, aunque siempre ha tenido importancia la verdad histórica de los ayudas de cámara. El adjetivo en cuestión es contrapuesto y enemigo de la gloria del Emperador.

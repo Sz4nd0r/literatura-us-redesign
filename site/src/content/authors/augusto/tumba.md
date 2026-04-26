@@ -8,7 +8,6 @@ tags:
   - tumba
   - augusto
 ---
-*# La tumba viva*
 *Augusto Roa Bastos (1917 - 2005)*
 
 El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) Mucho después —no en el momento en que Fulvio Morel se había puesto intensamente pálido al mirar hacia arriba— comprendí que ciertas mutaciones del tiempo no son caprichosas. En ese momento no sabíamos todavía que el árbol bajo el cual nos hallábamos sesteando —un guapo’y de descomunales proporciones— era un árbol que se había tragado a otro árbol. No sabíamos todavía que el cardenal que se había introducido entre sus hojas con un vuelo dormido y vertiginoso de colibrí era el índice que el aparente azar había elegido para señalar el sitio con la gota de fuego de su penacho saltarín. No sabíamos todavía nada del misterio que había permanecido oculto durante más de quince años En una palabra, nada sabíamos aún de toda la historia.

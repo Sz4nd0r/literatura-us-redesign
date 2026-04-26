@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# Al Dios Desconocido*
 *La cosa e altri racconti (1983)*
 
 Durante aquel invierno me encontraba a menudo con Marta, una enfermera que conocí algunos meses antes en el hospital donde me había internado a causa de ciertas misteriosas fiebres,

@@ -8,7 +8,6 @@ tags:
   - memoriae
   - benedetti
 ---
-*# Memoria electrónica*
 *Mario Benedetti (1920 - 2009)*
 *Despistes y franquezas, 1989) Todas las tardes, al regresar de su trabajo en el Banco (sección Valores al Cobro), Esteban Ruiz contemplaba con deleite su nueva adquisición. Para el joven poeta inédito, aquella maquinita de escribir era una maravilla: signos para varios idiomas, letra redonda y bastardilla, tipo especial para Titulares, pantallita correctora, centrado automático, selector de teclado, tabulador decimal y un etcétera estimulante y nutrido. Ah, pero lo más espectacular era sin duda la Memoria.*
 *Eso de escribir un texto y, mediante la previa y sucesiva presión de dos suaves teclas, poder incorporarlo a la memoria electrónica, era algo casi milagroso. Luego, cada vez que se lo proponía, introducía un papel en blanco y, mediante la previa y sucesiva presión, esta vez de cinco teclas, la maquinita japonesa empezaba a trabajar por su cuenta y riesgo e imprimía limpiamente el texto memorizado. A Esteban le agradaba sobremanera incorporar sus poemas a la memoria electrónica.*

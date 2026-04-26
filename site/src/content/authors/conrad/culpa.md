@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# Por Culpa De Los Dólares*
 *(1915)*
 *(“Because of the Dollars”)*
 *Within the Tides: Tales*

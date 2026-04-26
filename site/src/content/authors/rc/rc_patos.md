@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Los Patos*
 *(“The Ducks”)*
 *Originalmente publicado en Carolina Quarterly (1963)*
 *Will You Please Be Quiet, Please? (1976)*

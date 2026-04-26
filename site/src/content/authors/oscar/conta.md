@@ -8,7 +8,6 @@ tags:
   - conta
   - oscar
 ---
-*# Contando*
 *Óscar Collazos (1942 - 2015)*
 
 Se lo digo porque ya ha de estar preguntándose cómo hizo ese viejo zoquete para tumbar a un muchachón cuajado y robusto, pero no se le olvide que esta mano, allí donde la ve, mandó a la lona a quince hombres en veinte peleas y a algunos derecho al hospital, con camilla, esparadrapo y todo. No fue por vainas que un día vienen y me llaman y me dicen: “Te sellamos la mano, no la podés usar fuera del ring”. Y yo: “No me la pueden sellar, porque cómo es que voy a hacer pa’ defenderme”. Y nada: “Te la sellamos, la ley es la ley, tu mano es peor que un arma, más mortífera que una carabina”.

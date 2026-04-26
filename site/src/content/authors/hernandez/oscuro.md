@@ -11,7 +11,6 @@ tags:
 *Felisberto*
 *Hernández*
 *(Uruguay, 1902-1964)*
-*# El Comedor Oscuro*
 *Nadie encendía las*
 *láparas*
 *Buenos Aires: Sudamericana, 1947*

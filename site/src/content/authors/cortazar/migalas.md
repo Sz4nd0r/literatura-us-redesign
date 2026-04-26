@@ -8,7 +8,6 @@ tags:
   - migalas
   - cortazar
 ---
-*# Historia con migalas*
 *Julio Cortázar*
 
 Llegamos a las dos de la tarde al bungalow y media hora después, fiel a la cita telefónica, el joven gerente se presenta con las llaves, pone en marcha la heladera y nos muestra el funcionamiento del calefón y del aire acondicionado. Está entendido que nos quedaremos diez días, que pagamos por adelantado. Abrimos las valijas y sacamos lo necesario para la playa; ya nos instalaremos al caer la tarde, la vista del Caribe cabrilleando al pie de la colina es demasiado tentadora.

@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# El Bosque Y La Estepa*
 *(1849)*
 *(“Бежин луг”)*
 *Originalmente publicado en la revista Современник [El Contemporáneo]*

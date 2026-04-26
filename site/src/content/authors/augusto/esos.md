@@ -8,7 +8,6 @@ tags:
   - esos
   - augusto
 ---
-*# Esos rostros oscuros*
 *Augusto Roa Bastos (1917 - 2005)*
 *El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) 1 Hacía rato que había anochecido y el calor seguía crujiendo entre el follaje seco de los árboles que rodeaba las casas del puesto, en la loma. Parecía el chirrido de un horno que se fuera enfriando con imperceptibles rajaduras del adobe caldeado. Las casuarinas estaban silenciosas y erguidas. A lo lejos, el campo se anegaba en una penumbra morada de la cual no había huido del todo la claridad. A la izquierda, como a un cuarto de legua, estaba el montecito de tacuaras, espinillos y sauces que ocultaba la laguna. Se escuchaba el mugido lejano de los vacunos que esperaban su ración de sal cerca de las bateas.*
 

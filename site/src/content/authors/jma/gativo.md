@@ -8,7 +8,6 @@ tags:
   - gativo
   - jma
 ---
-*# El vengativo*
 *José María Arguedas (1937 - 1917)*
 *Originalmente publicado en Suplemento dominical de La Prensa [Lima] (9 de diciembre de 1934); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Para Héctor Araujo Álvarez, mi amigo Voy a faltar a mi palabra, voy a romper la promesa más solemne que he hecho en mi vida; me siento demasiado humano, no puedo guardar por más tiempo esa tremenda historia.*
 

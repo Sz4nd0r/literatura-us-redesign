@@ -8,7 +8,6 @@ tags:
   - quebu
   - benedetti
 ---
-*# Pequebú*
 *Mario Benedetti (1920 - 2009)*
 *Con y sin nostalgia, 1977) Le parecía a veces que sus propios gritos salían de otra garganta, y sólo entonces lograba situarse más allá del dolor estéril, feroz. Aunque su cuerpo se encogiera y se estirase [como un bandoneón de cambalache, llegó a pensar], él casi podía sentirlo como una cosa ajena. A diferencia de otros que dijeron no sé, y no hablaron, y sobre todo a diferencia de aquellos pocos que dijeron no sé y sin embargo hablaron, él había preferido inaugurar una nueva categoría: los que decían sí sé, pero no hablaban.*
 

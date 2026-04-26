@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# Tatiana Borísovna Y Su Sobrino*
 *(1848)*
 *(“Татьяна Борисовна и её племянник”)*
 *Originalmente publicado en la revista Современник [El Contemporáneo]*

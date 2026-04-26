@@ -10,7 +10,6 @@ tags:
 ---
 *John Steinbeck*
 *(27 de febrero, 1902 – 20 de diciembre, 1968)*
-*# De Ratones Y Hombres*
 *(New York: Covici-Friede, 1937, 187 págs.)*
 *Capítulo 1*
 

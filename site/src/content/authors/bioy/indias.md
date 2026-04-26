@@ -8,7 +8,6 @@ tags:
   - indias
   - bioy
 ---
-*# El camino de Indias*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Realmente yo estaba lejos de presentir que las notas reunidas para mi discurso en elogio del doctor Francisco Abreu y el diario que llevé durante mi último viaje, muy pronto me servirían para redactar un artículo en defensa de mi persona. Como introducción y excusa diré únicamente que una larga amistad me une al doctor Abreu y que me parece normal que un amigo defienda a otro. Sin más emprendo ahora mi justificación, que será de paso la cálida semblanza de un verdadero médico y la discreta, pero veraz, memoria de las aventuras que jalonaron uno de los descubrimientos más importantes para la felicidad del hombre. En este punto convengo con Abreu, que suele decir: «¡Cuánta razón tenía Freud, en lo del sexo!». Ya se sabe que no es devoto del psicoanálisis.

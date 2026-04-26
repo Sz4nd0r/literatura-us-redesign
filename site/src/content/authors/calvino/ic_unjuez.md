@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Ahorcamiento De Un Juez*
 *Ultimo viene il corvo (1949)*
 
 Aquella mañana el juez Onofrio Clérici notó un aire distinto en el ir y venir de las gentes. Atravesaba todos los días la ciudad en un carruaje frágil, desde su casa hasta el Palacio de Justicia, y allí la gente llenaba las aceras, con aquel dejar caer cansadamente los hombros, los amontonamientos alrededor de las morenas vendedoras de castañas, los gritos de ciegos: lotería… millones… Y los golpes sordos de los cuadernos en las carteras cuadradas de los escolares y las cestas rebosantes de berzas y apios roídos por las babosas.

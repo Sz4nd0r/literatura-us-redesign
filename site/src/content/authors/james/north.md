@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# La Humillación De Los Northmore*
 *(“The Abasement of the Northmores”, 1900)*
 *The Soft Side (1900)*
 *I*

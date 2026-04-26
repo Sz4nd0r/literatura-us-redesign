@@ -8,7 +8,6 @@ tags:
   - fosa
   - arturo
 ---
-*# Una fosa abierta*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Los ganadores* (1980)*
 *Gabino a los que se acercaban al gran hueco, que ya le ocultaba medio cuerpo.*

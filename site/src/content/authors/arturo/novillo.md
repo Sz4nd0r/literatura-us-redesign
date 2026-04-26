@@ -8,7 +8,6 @@ tags:
   - novillo
   - arturo
 ---
-*# El novillo amarrado al botalón*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Catorce cuentos venezolanos* (1969)*
 *El novillo amarrado al botalón Catorce cuentos venezolanos (Madrid: Ediciones de la Revista de Occidente, 1969, 237 págs.) A Arturo Es una pequeña casa aislada. Fue blanca, pero ya está sucia de intemperie. Una habitación grande y desnuda donde yo estoy. Un retrete, un dormitorio que parece un calabozo y una cocina sucia. A un lado dan la puerta abierta y una ventana. Al otro lado, sólo una ventana. Estoy sentado en una especie de camastro.*

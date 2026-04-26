@@ -8,7 +8,6 @@ tags:
   - pie
   - julio
 ---
-*# Al pie del acantilado*
 *Julio Ramón Ribeyro (1987 - 1994)*
 *Al pie del acantilado Tres historias sublevantes (Lima: J. Mejía Baca, 1964, 99 págs.) A Hernando Cortés Nosotros somos como la higuerilla, como esa planta salvaje que brota y se multiplica en los lugares más amargos y escarpados. Véanla como crece en el arenal, sobre el canto rodado, en las acequias sin riego, en el desmonte, alrededor de los muladares. Ella no pide favores a nadie, pide tan sólo un pedazo de espacio para sobrevivir. No le dan tregua el sol ni la sal de los vientos del mar, la pisan los hombres y los tractores, pero la higuerilla sigue creciendo, propagándose, alimentándose de piedras y de basura.*
 

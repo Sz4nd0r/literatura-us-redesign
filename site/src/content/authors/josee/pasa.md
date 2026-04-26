@@ -8,7 +8,6 @@ tags:
   - pasa
   - josee
 ---
-*# No me preguntes cómo pasa el tiempo*
 *José Emilio Pacheco (n. 2004)*
 *No me preguntes cómo pasa el tiempo [1964-1968] (México, D. F.: Editorial Joaquín Mortiz, 1969, 128 págs.) A Cristina Como figuras que pasan por una pantalla de televisión y desaparecen, así ha pasado mi vida. Como los automóviles que pasaban rápidos por las carreteras con risas de muchachas y música de radios... Y la belleza pasó rápida, como el modelo de los autos Y las canciones de los radios que pasaron de moda. ERNESTO CARDENAL I. En estas circunstancias ...cuando la sombra el mundo va cubriendo o la luz se avecina... GARCILASO DE LA VEGA Descripción de un naufragio en ultramar (agosto 1966) Pertenezco a una era fugitiva, mundo que se desploma ante mis ojos.*
 

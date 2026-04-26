@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# El Hombre De La Multitud*
 *(“The Man of the Crowd”, 1840)*
 *Originalmente publicado, simultáneamente, en Atkinson’s Casket*
 *y Burton’s Gentleman’s Magazine (diciembre 1940)*

@@ -11,7 +11,6 @@ tags:
 *Antonio*
 *Skármeta*
 *(Antofagasta, Chile, 1940 -)*
-*# De La Sangre Al Petróleo*
 *No pasó nada y otros relatos*
 *(Santiago de Chile: Pehuén, 1985, 110 págs.)*
 

@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# La Aventura*
 *(“La avventura”, 1941)*
 *Originalmente publicado en Primato de Roma (1 de septiembre de 1941)*
 *Tutti i racconti (2002)*

@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Jerry Y Molly Y Sam*
 *(“Jerry and Molly and Sam”)*
 *Originalmente publicado en Perspective (1972)*
 *Will You Please Be Quiet, Please? (1976)*

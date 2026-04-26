@@ -8,7 +8,6 @@ tags:
   - vence
   - joseluis
 ---
-*# El vencedor*
 *José Luis*
 *González (1926 - 1997)*
 *Originalmente publicado en KO en el séptimo round (Siete cuentos sobre box) (México: Extemporáneos, 1972, pp. 95, 122); La galería y otros cuentos México: Era, 1972, 144 págs.; La tercera llamada y otros relatos (México: Leega, 1983, 130 págs.) Homenaje a E. H. —¿Ni un día más? La mujer era fea, cuarentona. Despedía un inequívoco olor a cebolla y vestía una bata casera de género estampado, desteñido por el sudor de las axilas y vulneradas por innúmeros chisguetes de manteca. De su garganta rechoncha salía la voz chillona que torturaba los oídos del hombre echado en el camastro. Éste se incorporó sobre los codos y empezó a decir: —Mire, señora, yo de aquí a unos días… —¡Ningunos días! —lo interrumpió casi gritando la mujer—. ¿A ver si el gallego del colmado también se va esperar! Y además, ¿usté se cree que yo no sé lo que pasa? —Señora… —¿Quien lo manda a andar revolcándose con busconas por ahí, para que le paguen porquerías? Ya lo sabe: diez pesos antes de mediodía o me desocupa. ¡Ni un día más! Y el portazo repercutió en el cráneo del hombre como el efecto de un cruzado de derecha a la quijada. El hombre, ahora solo, se sentó en el borde del camastro y trató de ponerse en pie. La cabeza le dio vueltas y tuvo que apoyarse en la pared.*

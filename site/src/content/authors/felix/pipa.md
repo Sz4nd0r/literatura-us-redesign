@@ -11,7 +11,6 @@ tags:
 *Félix*
 *Pita Rodríguez*
 *(Bejucal, Cuba, 1909- Habana, 1990)*
-*# La Pipa De Cerezo*
 *La pipa de cerezo y otros cuentos*
 *(La Habana, Letras Cubanas, 1987, 251pp.)*
 *Prosa. “Cuentos dispersos. 1929-1935*

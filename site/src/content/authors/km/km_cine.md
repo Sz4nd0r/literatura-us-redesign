@@ -72,7 +72,6 @@ Recibí su carta. En este momento no
 tenemos nada en producción, pero hemos archivado su retrato para producciones
 futuras.
 La saluda atentamente,
-# Backwash Film Co.
 La carta pareció producirla una gran satisfacción, la leyó dos veces antes de
 responderle a la portera.
 —Bien, señora Pine, creo que

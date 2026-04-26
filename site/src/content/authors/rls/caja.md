@@ -17,7 +17,6 @@ tags:
 *(junio, julio, agosto, septiembre y octubre 1878;*
 *New Arabian Nights (vol. I)*
 *(Londres: Chatto & Windus, 1882, 279 págs.)*
-*# # # [I.]*
 *Historia de la caja de sombreros (1878)*
 *(“Story of the Bandbox”)*
 *Originalmente publicado en la revista semanal London*

@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
-*# Dios Les Conserve La Alegría, Caballeros*
 *(1933)*
 *(“God Rest You Merry, Gentlemen”)*
 *Originalmente publicado, como un panfleto: God Rest You Merry, Gentlemen (1933);*

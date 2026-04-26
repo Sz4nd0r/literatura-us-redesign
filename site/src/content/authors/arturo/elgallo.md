@@ -8,7 +8,6 @@ tags:
   - elgallo
   - arturo
 ---
-*# El gallo*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Treinta hombres y sus sombras* (1949)*
 *Ese como que es José Gabino —dijeron las gentes al mirarlo en el recodo.*

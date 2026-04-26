@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# En La Cantina*
 *Ultimo viene il corvo (1949)*
 
 Enseguida comprendí que sucedería algo. Los dos se miraban por encima de la mesa, con ojos inexpresivos, como peces en un acuario. Pero se notaba que eran inconmensurablemente extraños el uno para el otro, dos animales desconocidos entre sí que se estudian y desconfían.

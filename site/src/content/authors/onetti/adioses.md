@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Los Adioses*
 *(1954)*
 *A Idea Vilariño*
 

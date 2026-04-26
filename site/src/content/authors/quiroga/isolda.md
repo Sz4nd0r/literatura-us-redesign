@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# La Muerte De Isolda*
 *(Cuentos de amor, de*
 *locura y de muerte, (1917)*
 *Concluía el primer acto de Tristán*

@@ -8,7 +8,6 @@ tags:
   - ordende
   - benedetti
 ---
-*# Orden del día*
 *Mario Benedetti (1920 - 2009)*
 
 Orden del día (Despistes y franquezas, 1989) En la ciudad de Montevideo, a las nueve horas y cuarenta minutos del día quince de mayo del año mil novecientos ochenta y siete, se reúne el Directorio de Abecé, S. A., en la sala de conferencias de su Casa Central, bajo la presidencia de don Tomás Olarte, ejerciendo la Secretaría don Virgilio Sánchez, y con asistencia de los vocales, doña Magdalena Bravo de Maura, y los señores Orosmán Nieto, Alberto J.

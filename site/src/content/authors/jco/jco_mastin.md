@@ -10,7 +10,6 @@ tags:
 ---
 *Joyce Carol Oates*
 *(Lockport, New York, 1938-)*
-*# Mastín*
 *—Mastiff*
 *Originalmente publicado en The New Yorker (1 de julio de 2013)*
 *y reimpreso en The Best American Short Stories 2014*

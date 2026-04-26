@@ -8,7 +8,6 @@ tags:
   - debajo
   - acs
 ---
-*# Por debajo de este ahogado ha corrido mucha agua*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Los cuentos de Juana (Con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
 
@@ -18,7 +17,6 @@ Mucho después se habló de filmarlo. Aquí se armó el mierdero. Angulo, Luis V
 
 De todas maneras, la versión que Juana encontró en la caja fuerte donde Fray Bartolomé guardaba las ostias en la sacristía de la Iglesia de Ciénaga, no puede ser la que escribió Luis Ernesto. Al menos las anotaciones no pueden ser de él: están en inglés. O son de Juana, o son de Fray Bartolomé.
 
-# ## El Ahogado
 ### (Argumento para un medio metraje, original de, —tantas personas dicen haberlo contado que es mejor no poner a nadie)
 
 **Cámara en el fondo del agua.**

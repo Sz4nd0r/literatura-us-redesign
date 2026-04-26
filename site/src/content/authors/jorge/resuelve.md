@@ -12,7 +12,6 @@ tags:
 *Ibargüengoitia*
 *(Guanajuato, México, 1928*
 *—Madrid, 1983)*
-*# Resuelve Este Caso*
 *En las últimas semanas tres*
 *personas me han reclamado por no haber escrito un artículo sobre Agatha*
 *Christie con pretexto de su defunción. A las tres les contesté lo*

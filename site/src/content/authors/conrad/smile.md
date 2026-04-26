@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# Un Guiño De La Fortuna*
 *(1911)*
 *(“A Smile of Fortune”)*
 *Originalmente publicado en The London Magazine,*

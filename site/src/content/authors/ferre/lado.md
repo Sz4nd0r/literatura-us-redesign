@@ -8,7 +8,6 @@ tags:
   - lado
   - ferre
 ---
-*# “De tu Lado al Paraíso”*
 *Rosario Ferré (2001 - 1972)*
 
 Methinks her fault and beauty, blended together, show, like leprosy, the whiter, the fouler. The Duchen of Malfi Hace un año justo que ellos vienen posponiendo este regreso, este enfrentamiento a su último rostro, a su espíritu que aguarda sentado en el centro tibio de la casa. Es comprensible que después de lo que sucedió les faltara valor, necesitaran casi doce meses para ir sedimentando capa tras capa alrededor de su corazón para poder regresar, hojear estas láminas fragilísimas, a la vez hirientes y blandas, su rostro y sus manos cubiertas por una piel de vidrio, estas láminas centelleantes, tan parecidas a los muros de esta casa que yo limpio cada día en su nombre, eñangotándome para darle cera de muñeca a los pisos, metiendo la mano hasta el hombro en el servicio para purificar la porcelana más alejada de su garganta, poniéndome en cuarto patas para cepillar el vello de las alfombras hasta dejarlas relajadas, desleídas como vellones de mujeres rubias derribadas por el suelo, rebajándome día tras día hasta llegar a ser la mierda y la hielda de la sociedad para que ella pueda seguir siendo la crema y nata, para que ella pueda seguir viviendo, como el ángel que ahora es, en el séptimo cielo, soñando como una princesa su séptimo sueño encima de sus siete colchones de pluma de ganso, sellada en la frente con el séptimo sello de Nuestro Señor que por siempre la tenga en su gloria.

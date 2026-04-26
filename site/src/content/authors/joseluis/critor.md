@@ -8,7 +8,6 @@ tags:
   - critor
   - joseluis
 ---
-*# El escritor*
 *José Luis*
 *González (1926 - 1997)*
 *York y otras desgracias (México: Siglo Veintiuno Editores, 1973, 140 pgs.) A Luis Rafael Sánchez Aquel domingo, cuando el escritor se despertó, la luz del sol entraba ya por las ventanas entreabiertas y bañaba la habitación de claridad. El hombre se incorporó en la cama y se desperezó bostezando largamente. Después se levantó, metió los pies en las pantuflas y se envolvió en una elegante bata de seda azul.*

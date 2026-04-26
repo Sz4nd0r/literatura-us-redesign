@@ -80,7 +80,6 @@ Hooniah llegó con la cabeza baja y la mirada furtiva.
 —Acababa de tenderlos al sol —gimió ella—. Me distraje un momento…
 —¿Por qué?
 —Por culpa de Di Ya.
-# # # # —¿Y…?
 —Le pegué a más y mejor por haber atraído la desgracia sobre gente pobre.
 —¡Los cobertores! —gritó Klok-No-Ton con voz ronca, adivinando los deseos de la mujer de pagar sus servicios lo menos caros posible—. ¡Tus cobertores, mujer! ¡Tu fortuna es bien conocida!
 —Acababa de tenderlos al sol —lloriqueó ella—, y somos gente pobre. No tenemos nada.

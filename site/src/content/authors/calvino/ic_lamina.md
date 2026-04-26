@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# ¿Quién Puso La Mina En El Mar?*
 *Ultimo viene il corvo (1949)*
 
 En la villa del financiero Pomponio los invitados tomaban el café en la galería. Estaba el general Amalasunta explicando con las tacitas y las cucharillas la tercera guerra mundial y la señora Pomponio decía: «¡Espantoso!», sonriendo, como mujer de sangre fría que era.

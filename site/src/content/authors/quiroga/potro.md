@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# El Potro Salvaje*
 *(El desierto y otros cuentos, 1924)*
 *Era un caballo, un joven*
 *potro de corazón ardiente, que llegó del desierto a la ciudad, a vivir del*

@@ -8,7 +8,6 @@ tags:
   - biblio
   - roberto
 ---
-*# Bibliografía*
 *Roberto Fernández*
 *Retamar*
 

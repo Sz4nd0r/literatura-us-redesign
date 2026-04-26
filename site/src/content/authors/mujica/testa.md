@@ -8,7 +8,6 @@ tags:
   - testa
   - mujica
 ---
-*# XIV. El testamento (1872)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Los parientes llegaron muy temprano. Desde el cuarto del mirador, Máximo les vio cruzar el jardín sacudiéndose el polvo de la carretera. Flotaban los crespones de Doña Clara, y los guantes de su marido revoloteaban como negras mariposas. Detrás, Diego Ponce de León, el hijo de la vejez, caminaba desganado. Por primera vez en tantos años, los primos de Teresa dejaban de ser un mito para el hombre que les observaba a través de las rejas altas.

@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# El Terror De Roma*
 *(“Il terrore di Roma”)*
 *Racconti romani*
 *(Milán: Bompiani, 1954, 439 págs.)*

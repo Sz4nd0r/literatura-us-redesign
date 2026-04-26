@@ -246,7 +246,6 @@ Al mismo tiempo se desembarazó de la cortina y la extendió delicadamente sobre
 Y cogiendo a sus dos amigos del brazo, les empujó hacia la puerta, diciendo:
 —Venid conmigo y lo veréis.
 Como Marcelo se esperaba, les condujo a la calle del Espolón.
-# Viii
 Marcelo había ganado la apuesta. Los cuatro francos y el trozo de tarta de la señorita Pinsón estaban sobre la mesa de Rougette, junto a los restos del pollo que la enviara Eugenio. La pobre enferma, aunque un poco mejor, se hallaba en cama todavía; y a pesar de su profunda gratitud hacia su desconocido bienhechor, encargó a su amiga la excusase con los visitantes, por no serla posible recibirlos en aquel estado.
 —¡La conozco muy bien! —dijo Marcelo—. Ha de estar muriéndose sobre un jergón en su buhardilla, y aún se hará la duquesa.
 Los dos amigos, bien a su pesar, se vieron obligados a volverse a su casa como vinieron, no sin reírse de tanta virtud y discreción, raramente alojadas en un sotabanco.

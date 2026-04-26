@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# Ligeia*
 *(“Ligeia”, 1838)*
 *Originalmente publicado en The American Museum (18 de september de 1838);*
 *Tales of the Grotesque and Arabesque, dos tomos*

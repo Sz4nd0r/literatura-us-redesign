@@ -10,7 +10,6 @@ tags:
 ---
 *Onelio Jorge Cardoso*
 *(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)*
-*# Caballito Blanco*
 *## Caballito blanco*
 *Diseño e ilustraciones de Manuel del Toro*
 *(La Habana: Editorial Gente Nueva, 1974, 57 pp.)*

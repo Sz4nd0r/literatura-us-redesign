@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Diles A Las Mujeres Que Nos Vamos*
 *(“Tell the Women We’re Going”)*
 *Originalmente publicado en Sou’wester (1971);*
 *What We Talk About When We Talk About Love (1981);*

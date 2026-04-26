@@ -10,7 +10,6 @@ tags:
 ---
 *Margaret Atwood*
 *(Ottawa, Ontario, Canada, 1939–)*
-*# Finales Felices*
 *(“Happy Endings”)*
 *Murder in the Dark: Short Fictions and Prose Poems*
 *(Toronto: Coach House Books, 1983, 85 págs.)*

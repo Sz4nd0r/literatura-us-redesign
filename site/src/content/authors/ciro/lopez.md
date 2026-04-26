@@ -8,9 +8,7 @@ tags:
   - lopez
   - ciro
 ---
-*# Muerte del cabo Cheo López*
 *Ciro Alegría*
-*# Muerte del cabo Cheo López*
 *Ciro Alegría*
 
 Muerte del cabo Cheo López Originalmente publicado en Cuadernos Americanos [México], Núm. 1, Vol. XCVII (enero-febrero de 1958), págs. 237-238; Duelo de caballeros (Lima: Populibros Peruanos, 1963, 127 págs.); (Buenos Aires: Losada, 1965, 117 págs.) Perdóneme, don Pedro… Claro que ésta no es manera de presentarme… Pero, le diré… ¿Cómo podría explicarle?… Ha muerto Eusebio López… Ya sé que usted no lo conoce y muy pocos lo conocían… ¿Quién se va a fijar en un hombre que vive entre tablas viejas?… Por eso no fui a traer los ladrillos… Éramos amigos, ¿me entiende? Yo estaba pasando en el camión y me crucé con Pancho Torres. Él me gritó: “¡Ha muerto Cheo López!”.

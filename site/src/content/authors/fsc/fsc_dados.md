@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Dados, Nudillos De Hierro Y Guitarra*
 *(“Dice, Brass Knuckles & Guitar”)*
 *Originalmente publicado en Hearst’s International, 43 (mayo de 1923);*
 

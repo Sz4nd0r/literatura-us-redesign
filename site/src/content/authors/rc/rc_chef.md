@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# La Casa De Chef*
 *(“Chef’s House”)*
 *Originalmente publicado en The New Yorker (noviembre 30, 1981);*
 *Cathedral (1983);*

@@ -8,7 +8,6 @@ tags:
   - visita
   - arturo
 ---
-*# La visita en el tiempo*
 *Arturo Uslar Pietri (1906 - 2001)*
 *La visita en el tiempo (1990) (Madrid: Mondadori, 1990) A la memoria de Federico de Onís Uno Lentamente el pequeño grupo se puso en marcha por la cuesta abierta y terrosa en cuyo fondo asomaba entre la arboleda, junto a la fachada del templo, una mancha de paredes rojas. En medio, la litera de la señora oculta bajo el arqueado capacete. Los criados de servicio, el escudero Galarza en su caballo y él sobre su mula, con el mejor jubón de raso y toca con pluma blanca.*
 *Iban en silencio entre el tenue sonido de los cascos y de los pasos. Veía cómo la luz del sol deshacía las figuras sobre el suelo en largas patas y abultadas sombras. A ratos Doña Magdalena asomaba la cabeza bajo el capacete de la litera para verlo y hacía un movimiento de aprobación con la cabeza. A medida que avanzaban se iba precisando más la traza de los edificios entre las ramas, como si fueran creciendo ante sus ojos.*

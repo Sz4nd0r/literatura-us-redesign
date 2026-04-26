@@ -8,7 +8,6 @@ tags:
   - molicie
   - julio
 ---
-*# La molicie*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 Cuentos de circunstancias (Lima: Editorial Nuevos Rumbos, 1958, 96 págs.) Mi compañero y yo luchábamos sistemáticamente contra la molicie. Sabíamos muy bien que ella era poderosa y que se adueñaba fácilmente de los espíritus de la casa. Habíamos observado cómo, agazapada en las comidas fuertes, en los muelles sillones y hasta en las melodías lánguidas de los boleros, aprovechaba cualquier instante de flaqueza para tender sobre nosotros sus brazos tentadores y sutiles y envolvernos suavemente, como la emanación de un pebetero.

@@ -45,7 +45,6 @@ Ahora bien, una mañana en que la anciana estaba sola en casa, divisó a lo lejo
 Señora Sauvage, la presente es para darle una triste noticia. Su hijo Víctor fue matado ayer por una bala de cañón, que mismamente lo cortó en dos partes. Yo estaba muy cerca, pues nos encontrábamos uno al lado del otro en la compañía y él me hablaba de usted para avisarla el mismo día que le ocurriera una desgracia.
 He cogido el reloj de su bolsillo para llevárselo cuando acabe la guerra.
 La saluda amistosamente.
-# Cesaire Rivot,
 Soldado de 2.a clase del 23 de Infantería.
 La carta estaba fechada hacía tres semanas.
 No lloró. Se quedó inmóvil, tan sobrecogida y alelada, que ni siquiera sufría aún. Pensaba: “Ya está; han matado a Víctor.” Después poco a poco las lágrimas subieron a sus ojos, y el dolor invadió su corazón. Una tras otra acudían las ideas, espantosas, torturadoras. ¡No volvería a besar nunca a su hijo, a su muchacho, nunca jamás! Los gendarmes habían matado al padre, los prusianos habían matado al hijo… Una bala de cañón lo había cortado en dos. Y le parecía verla, aquella cosa tan horrible: la cabeza cayendo, con los ojos abiertos, mientras él se mordía la punta de su gran bigote, como hacía en los momentos de cólera.

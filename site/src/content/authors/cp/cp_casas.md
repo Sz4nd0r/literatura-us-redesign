@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Las Casas*
 *(“Le case”, 1943)*
 *Originalmente publicado en Feria d’agosto (1946)*
 *Tutti i racconti (2002)*

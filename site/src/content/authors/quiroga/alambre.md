@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# El Alambre De Púa*
 *(Cuentos de amor, de*
 *locura y de muerte, 1917)*
 *Durante quince días el alazán había buscado en vano la senda por donde su*

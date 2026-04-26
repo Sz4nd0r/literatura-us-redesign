@@ -33,7 +33,6 @@ Se
 entregarán 10.000 francos a toda persona que suministre datos que
 permitan detener a los contrabandistas de ametralladoras o explosivos.
 EL
-# Alto Comisionado
 No
 bien el piadoso Abdalá terminó de leer esta especie de bando, cuando al
 final de la calle resonaron los gritos de un pequeño vendedor de

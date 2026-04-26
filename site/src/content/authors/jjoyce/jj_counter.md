@@ -10,7 +10,6 @@ tags:
 ---
 *James Joyce*
 *(1882-1941)*
-*# Duplicados*
 *(“Counterparts”)*
 *(Dubliners, 1914)*
 *El timbre sonó*

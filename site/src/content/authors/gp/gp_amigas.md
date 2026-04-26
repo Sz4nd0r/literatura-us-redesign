@@ -10,7 +10,6 @@ tags:
 ---
 *Grace Paley*
 *(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
-*# Amigas*
 *(“Friends”)*
 *Originalmente publicado en The New Yorker (18 de junio de 1979, pág. 32);*
 *Later the Same Day (1985)*

@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Martínez Moreno*
 *(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
-*# La Última Morada*
 *(1953)*
 *Originalmente publicado la revista Número (Año 5, Nº 23/24, abril-setiembre 1953);*
 *Los dias por vivir*

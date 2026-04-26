@@ -8,7 +8,6 @@ tags:
   - indio
   - julio
 ---
-*# La piel de un indio no cuesta cara*
 *Julio Ramón Ribeyro (1987 - 1994)*
 *La piel de un indio no cuesta cara Las botellas y los hombres (originalmente publicado, por error, como Los hombres y las botellas) (Lima: Populibros Peruanos, 1964, 135 págs.) —¿Piensas quedarte con él? —preguntó Dora a su marido. Miguel, en lugar de responder, se levantó de la perezosa donde tomaba el sol y haciendo bocina con las manos gritó hacia el jardín: —¡Pancho! Un muchacho que se entretenía sacando la yerba mala volteó la cabeza, se puso de pie y echó a correr. A los pocos segundos estuvo frente a ellos. —A ver, Pancho, dile a la señora cuanto es ocho más ocho. —Dieciséis. —¿Y dieciocho más treinta? —Cuarentaiocho. —¿Y siete por siete?*
 *Pancho pensó un momento. —Cuarentainueve. Miguel se volvió hacia su mujer: —Eso se lo he enseñado ayer. Se lo hice repetir toda la tarde pero se le ha grabado para toda la vida. Dora bostezó. —Guárdalo entonces contigo. Te puede ser útil. —Por supuesto. ¿No es verdad Pancho que trabajarás en mi taller? —Sí, señor. A Dora que se desperezaba: —En Lima lo mandaré a la escuela nocturna. Algo podemos hacer por este muchacho. Me cae simpático. —Me caigo de sueño —dijo Dora.*

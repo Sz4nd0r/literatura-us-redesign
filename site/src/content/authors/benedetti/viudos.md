@@ -8,7 +8,6 @@ tags:
   - viudos
   - benedetti
 ---
-*# Los viudos de Margaret Sullavan*
 *Mario Benedetti (1920 - 2009)*
 
 Los viudos de Margareth Sullavan (Con y sin nostalgia, 1977) Uno de los pocos nombres reales que aparecen en mis primeros cuentos [«Idilio», «Sábado de gloria»] es el de Margaret Sullavan. Y aparece por una razón sencilla. Es inevitable que en la adolescencia uno se enamore de una actriz, y ese enamoramiento suele ser definitorio y también formativo. Una actriz de cine no es exactamente una mujer; más bien es una imagen. Y a esa edad uno tiende, como primera tentativa, a enamorarse de imágenes de mujer antes que de mujeres de carne y hueso.

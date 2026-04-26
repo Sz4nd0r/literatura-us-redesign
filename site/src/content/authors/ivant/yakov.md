@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# Yákov Páskinov*
 *(1855)*
 *(“Яков Пасынков”)*
 *Повестей и рассказов [Relatos y novelas cortas]*

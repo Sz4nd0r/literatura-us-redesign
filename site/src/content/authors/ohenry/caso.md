@@ -126,13 +126,10 @@ La señora Sharp repuso:
 La señora Sharp se despidió y a poco Standifer se encaminó al modesto hotel en que se alojaba y consultó en la prensa los horarios de ferrocarriles. Media hora después se despojó de levita y chaleco, pasóse por los hombros las correas de una pistolera de singular hechura, y la escondió bajo la axila. Volvió a ponerse las prendas que se quitara, se dirigió a la estación y tomó el tren que a las cinco y veinte salía para San Antonio.
 Se había guardado en la pistolera un revólver del 44 de cañón corto.
 A la mañana siguiente el Express de San Antonio publicaba esta sensacional noticia:
-# Benton Sharp Recibe Su Merecido
 El más famoso bandido del sudoeste de Texas,
 muerto a tiros en la puerta del restaurante
-# ## Casa Dorada
 Un importante funcionario del Estado se defiende valerosamente
 de la agresión del temido matón
-# ## ## Magnifica Exhibición De Rapidez En El Tiro
 Anoche, a las once en punto, Benton Sharp, acompañado de otros dos hombres, entró en el restaurante Casa Dorada. Los tres individuos ocuparon una mesa.
 Sharp había estado bebiendo mucho, y se mostraba alborotador y con ganas de disputa, como siempre que se encontraba bajo la influencia del licor.
 Cinco minutos después de que el grupo penetrase en el establecimiento, un caballero de edad, bien vestido y de elevada estatura, apareció asimismo en el restaurante. Pocos de los presentes reconocieron en el nuevo cliente al honorable Lucas Standifer, el recién nombrado comisario del Estado en el departamento de Seguros, Estadística e Historia.

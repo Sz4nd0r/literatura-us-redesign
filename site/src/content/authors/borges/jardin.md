@@ -8,9 +8,7 @@ tags:
   - jardin
   - borges
 ---
-*# El jardín de senderos que se bifurcan*
 *Jorge Luis Borges*
-*# El jardín de senderos que se bifurcan*
 *Jorge Luis Borges*
 
 En la página 242 de la Historia de la Guerra Europea de Lidell Hart, se lee que una ofensiva de trece divisiones británicas (apoyadas por mil cuatrocientas piezas de artillería) contra la línea Serre-Montauban había sido planeada para el 24 de julio de 1916 y debió postergarse hasta la mañana del día 29. Las lluvias torrenciales (anota el capitán Lidell Hart) provocaron esa demora —nada significativa, por cierto. La siguiente declaración, dictada, releída y firmada por el doctor Yu Tsun, antiguo catedrático de inglés en la Hochschule de Tsingtao, arroja una insospechada luz sobre el caso.

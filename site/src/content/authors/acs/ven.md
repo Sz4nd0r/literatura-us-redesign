@@ -8,7 +8,6 @@ tags:
   - ven
   - acs
 ---
-*# “Ven enseguida, es Juana otra vez*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Los cuentos de Juana (Con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
 *—Ven enseguida, es Juana otra vez”.*
@@ -115,7 +114,6 @@ El otro alcatraz, que en su huida ya volaba al ras del mar, cayó sin gracia, ap
 
 (Ahora comenzaremos a hablar. Hablaremos hasta cuando tengamos que entrar porque los jejenes nos vuelven loco. Hablaremos de Juana: siempre lo mismo. Juana saldrá de su cuarto. Hablaremos todavía unas horas más. Yo no me quedo a comer. Esta vez no me quedo a comer).
 
-# Otra Vez Juana... Final.
 
 Ya comenzaba a oscurecer cuando Ricardo dijo:
 

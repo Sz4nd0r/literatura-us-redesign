@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Martínez Moreno*
 *(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
-*# La Otra Mitad*
 *(1966)*
 *(Mexico: Joaquin Mortiz, 1966, 344 págs)*
 

@@ -8,7 +8,6 @@ tags:
   - undia
   - garciamarquez
 ---
-*# Un día de estos*
 *Gabriel*
 *García Márquez (n. 1947)*
 

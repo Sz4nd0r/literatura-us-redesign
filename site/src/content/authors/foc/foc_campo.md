@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# La Buena Gente Del Campo*
 *(“Good Country People”)*
 *(originalmente publicado en Harper’s Bazaar, vol. 89, junio de 1955)*
 

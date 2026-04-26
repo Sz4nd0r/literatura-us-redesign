@@ -520,7 +520,6 @@ En la cocina, desierta, el negro permaneció unos momentos más sentado en el tr
 —¡Uff! —dijo—. Ojalá tuviésemos en el dominio un manantial del que manara eso. Tol ganao terminaría pisoteado, seguro.
 Pestañeó ante la puerta, aguzó el oído y avanzó, con aire astuto, inquieto, alerta. Alcanzó el rincón y levantó el tablón suelto agachándose con cuidado, apoyándose contra la pared. Sacó el caneco, con lo que perdió el equilibrio y se roció el contenido del mismo por la cara, una cara ridícula, de pasmarote, por el sobresalto. Se incorporó y se sentó en el suelo, con el caneco entre las rodillas antes de levantarlo y beber. Dio un trago largo.
 —¡Uff! —dijo—. En el dominio esto había que dárselo a los cerdos. Esta escoria de montañeses, este hatajo de ignorantes… —volvió a beber, y con el caneco bien sujeto ante los labios asomó en su semblante una expresión de preocupación primero, de consternación después. Dejó el caneco en el suelo y quiso ponerse en pie, pero cayó encima del recipiente y por fin se levantó, agachado, tambaleándose, babeando, con la misma expresión de consternación dolida en el rostro. Entonces cayó de bruces al suelo, derribando el caneco.
-# Viii
 Se agacharon donde estaba el negro, hablando uno con el otro a media voz, Weddel con la camisa de pliegues en la pechera, el padre y el chico.
 —Vamos a tener que espabilarlo —dijo el padre.
 Pusieron en pie al negro. Con su única mano, Weddel le enderezó la cabeza de un tirón y lo zarandeó.

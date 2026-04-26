@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Tiempos Revueltos*
 *(“Furious Seasons”)*
 *Originalmente publicado en Selection (invierno 1960-1961);*
 *Furious Seasons and Other Stories (1977);*

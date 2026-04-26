@@ -8,7 +8,6 @@ tags:
   - resena
   - jose
 ---
-*# Reseña de Presagios de la noche*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

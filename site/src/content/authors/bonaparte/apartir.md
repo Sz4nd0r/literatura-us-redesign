@@ -12,7 +12,6 @@ tags:
 *Gautreaux Piñeyro*
 *(Sabana de Chavón, La*
 *Romana, 1937-)*
-*# A Partir De Esta Noche*
 *Todas las noches eran iguales*
 *para María. Y aunque cada día se preguntaba lo mismo y tomaba*
 *decisiones para ejecución inmediata, todas las noches eran iguales,*

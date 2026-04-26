@@ -11,7 +11,6 @@ tags:
 *Roberto Bolaño*
 *(Santiago,*
 *Chile, 1953 - Barcelona, 2003)*
-*# Últimos Atardeceres En La Tierra*
 *(Putas*
 *asesinas, 2001)*
 *La situación es*

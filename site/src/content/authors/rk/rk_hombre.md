@@ -99,8 +99,6 @@ Poniendo a Dios por testigo de este Contrato entre tú y yo… Amén, etcétera.
 (Dos): que en tanto resolvamos este asunto ni yo ni tú nos acercaremos al alcohol o a ninguna mujer, negra, blanca o morena, para no mezclarnos nocivamente ni con lo uno ni con la otra.
 (Tres): que nos conduciremos con Dignidad y Discreción, y si uno de los dos tiene problemas, el otro permanecerá a su lado.
 Firmado con fecha de hoy por ti y por mí.
-# Peachey Taliaferro Carnehan
-# ## Daniel Dravot
 Ambos caballeros sin domicilio establecido…
 —El último artículo era innecesario —dijo Carnehan, sonrojándose ligeramente—; pero es lo habitual. Ahora ya sabe qué clase de hombres son los vagabundos… Tú y yo somos vagabundos, Dan, hasta que salgamos de la India. ¿Cree que firmaríamos un contrato así si no habláramos en serio? Prometemos alejarnos de las dos cosas por las que merece la pena vivir.
 —No creo que puedan disfrutar de la vida por mucho tiempo si se embarcan en esa estúpida aventura. No prendan fuego a la oficina —les advertí—. Y salgan de aquí antes de las nueve.

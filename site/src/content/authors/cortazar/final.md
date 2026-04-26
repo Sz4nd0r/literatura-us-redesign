@@ -8,7 +8,6 @@ tags:
   - final
   - cortazar
 ---
-*# Final del juego*
 *Julio Cortázar*
 
 Argentino los días de calor, esperando que mamá y tía Ruth empezaran su siesta para escaparnos por la puerta blanca. Mamá y tía Ruth estaban siempre cansadas después de lavar la loza, sobre todo cuando Holanda y yo secábamos los platos porque entonces había discusiones, cucharitas por el suelo, frases que sólo nosotras entendíamos, y en general un ambiente en donde el olor a grasa, los maullidos de José y la oscuridad de la cocina acababan en una violentísima pelea y el consiguiente desparramo.

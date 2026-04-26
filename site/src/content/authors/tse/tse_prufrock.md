@@ -11,7 +11,6 @@ tags:
 *T.S. Eliot*
 *(Missouri,*
 *USA, 1888-Londes, 1965)*
-*# Prufrock Y Otras Observaciones*
 *(1917)*
 *Para Jean Verdenal, 1889-1915,*
 *mort aux Dardanelles[1]*
@@ -21,7 +20,6 @@ tags:
 *tratando l’ombra come cosa salda.*
 
 LA
-# ## Canción De Amor De J. Alfred Prufrock[2]
 S’i credesse che mia risposta fosse
 a persona che mai tornase al mondo,
 questa fiamma staria senza più scosse;
@@ -159,7 +157,6 @@ cuando el viento sopla el agua negra y blanca.
 Nos hemos demorado en las estancias del mar
 con chicas marinas coronadas de algas rojas y pardas
 hasta que voces humanas nos despiertan y nos hundimos en el agua.
-# ## ## Retrato De Una Dama[5]
 Has cometido…
 fornicación: pero fue en otro país,
 y además, la zorra está muerta.[6]
@@ -291,7 +288,6 @@ o si sabio o necio, tarde o temprano…
 Esta música triunfa con una «agónica caída»
 (ahora que hablamos de agonías).
 ¿Y tendría yo derecho a sonreír?
-# ## ## ## Preludios[7]
 I
 Cae la tarde de invierno
 en callejones que huelen a cocina.

@@ -8,7 +8,6 @@ tags:
   - obitua
   - jose
 ---
-*# Obituario*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

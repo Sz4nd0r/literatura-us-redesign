@@ -11,7 +11,6 @@ tags:
 *Roberto Bolaño*
 *(Santiago,*
 *Chile, 1953 - Barcelona, 2003)*
-*# Encuentro Con Enrique Lihn*
 *(Putas asesinas, 2001)*
 *para Celina Manzini*
 

@@ -42,7 +42,6 @@ En 1972, Salinger intercambió 25 cartas con Joyce Maynard, una estudiante de la
 La última entrevista de Salinger fue en junio de 1980 con Betty Eppes de The Baton Rouge Advocate. Eppes logró grabar el audio de la entrevista, así como tomar varias fotografías de Salinger, ambas sin su conocimiento o consentimiento.
 Salinger tuvo una relación sentimental, durante varios años en los años ochenta, con la actriz de televisión Elaine Joyce. La relación terminó cuando Salinger conoció a Colleen O’Neill, una enfermera, con quien se casó alrededor de 1988. O’Neill era cuarenta años menor que él.
 Salinger murió, de causas naturales, en su casa, en Cornish, New Hampshire, el 27 de enero de 2010. Tenía 91 años.
-# Índice:
 —El guardián entre el centeno (1951)
 Nine Stories (1953):
 —Un día perfecto para el pez plátano

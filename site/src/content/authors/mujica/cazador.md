@@ -8,7 +8,6 @@ tags:
   - cazador
   - mujica
 ---
-*# XXXIII. El cazador de fantasmas (1821)*
 *Manuel Mujica Lainez*
 
 De todo hay en la extravagante Corte de Río de Janeiro: hasta un cazador de fantasmas, hasta un hombrecito calvo, muy viejo, muy movedizo, que vive cazando fantasmas. Es un antiguo criado de la Reina doña María de Braganza, la loca. Se llama Silvestre y vino con ella de Portugal hace trece años. Ya en aquel viaje vergonzoso, en aquella fuga, dicen que cazó un espectro que se escondía en la cubierta de la nao, dentro de una de las sacudidas carrozas de la recepción de doña Mariana de Austria, bajo los almohadones de terciopelo. Lo encerró en una bolsa de esas que él mismo asegura y remienda, y durante el largo viaje lo guardó celosamente.

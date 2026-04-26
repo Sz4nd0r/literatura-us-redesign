@@ -8,7 +8,6 @@ tags:
   - rey
   - sergio
 ---
-*# Los graneros del Rey*
 *Sergio Ramírez (n. 1942)*
 *Los graneros del Rey Cuentos (Managua, Nicaragua: Editorial Nicaragüense, 1963); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A pesar de que en las entrevistas de prensa y en los boletines oficiales del gobierno de S. M. se decía siempre con mucha seguridad que la prosperidad del país aumentaba cada día, aseveración probada repetidas veces con las cifras de la producción agrícola, con los altos índices industriales, todo debido a los métodos técnicos empleados, al interés de los funcionarios de estado y a la hábil dirección de S. M., el pueblo, inexplicablemente, padecía hambre y sufrimiento y, como consecuencia, desnutrición, muerte, enfermedades endémicas.*
 

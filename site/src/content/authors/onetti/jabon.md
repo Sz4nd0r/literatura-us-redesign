@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Jabón*
 *Originalmente publicado en Nueva Estafeta (Madrid), 1979*
 
 No hizo ninguna seña para que Saad detuviera el coche. La figura estaba quieta y paciente, tal vez aburrida, al borde del camino, junto a un árbol del que empezaba a surgir la primavera como pequeñas lanzas de un verde aún indeciso.

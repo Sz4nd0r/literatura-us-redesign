@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# La Salida Del Tren*
 *(“A partida do trem”)*
 *(Otro título en español: “La partida del tren”)*
 *Onde estivestes de noite (1974)*

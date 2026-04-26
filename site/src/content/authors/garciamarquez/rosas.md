@@ -8,7 +8,6 @@ tags:
   - rosas
   - garciamarquez
 ---
-*# Rosas artificiales*
 *Gabriel*
 *García Márquez (n. 1947)*
 

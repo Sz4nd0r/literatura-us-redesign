@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Los Niños En El Bosque*
 *(Tiempo de abrazar y los cuentos de 1933 a 1950, 1974)*
 *Cuentos completos, 2004 (Anexo: Cuentos inéditos y fragmentos)*
 
@@ -376,7 +375,6 @@ Y salen los carros de incendio a correr desbocados por las calles ciegas, entrel
 El hombre del bostezo en el diván se quedó con los ojos en la ventana, claros, mojados y llenos de sonrisa. Fumando, habló y también reía con la boca. Le llamaron los ojos el silencio del otro y entonces dio vuelta la cabeza.
 Lo vio de pie, en camisa, empuñando el mentón para mejor mirar y pensar el cuadro que brillaba inconcluso. La mano libre remojaba distraída los pinceles en el cacharro de aguarrás.
 Dijo el hombre desde su pereza estirada:
-# # # ## —¿Y?
 Sin dejar el cuadro, la cabeza inclinada para darse la luz conveniente, fue contestando:
 —Pensaba en el cuadro y en la mentira; la mentira cínica y visible. ¿Usted qué dice de la mentira?
 —¿La mentira, así, en general?

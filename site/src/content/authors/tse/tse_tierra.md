@@ -11,13 +11,10 @@ tags:
 *T.S. Eliot*
 *(Missouri,*
 *USA, 1888-Londes, 1965)*
-*# La Tierra Baldía[1] (1922)*
 
 Nam Sibyllam quidem Cumis ego ipse oculis meis vidi in ampulla pendere, et cum illi pueri dicerent Σίβυλλα τί θέλεις; respondebat illa άποθανείν θέλω[2]
 Para Ezra Pound[3]
 il miglior fabbro
-# ## I. El Entierro De Los
-# ## ## Muertos[4]
 Abril es el más cruel de los meses, pues engendra
 lilas en el campo muerto, confunde
 memoria y deseo, revive
@@ -94,7 +91,6 @@ Aquel cadáver que plantaste el año pasado en tu jardín,
 ¡Ah, mantén alejado al Perro, que es amigo del hombre[22],
 o lo desenterrará de nuevo con las pezuñas!
 ¡Tú, hypocrite lecteur, mon semblable, mon frère!»[23]
-# ## ## ## Ii. Una Partida De Ajedrez[24]
 El sitial en que ella se sentaba, cual trono bruñido[25],
 resplandecía en el mármol, donde el espejo
 con soportes labrados de racimos de uva

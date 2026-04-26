@@ -8,7 +8,6 @@ tags:
   - vientre
   - benedetti
 ---
-*# Gracias vientre leal*
 *Mario Benedetti (1920 - 2009)*
 *Con y sin nostalgia, 1977) “A nadie”, había dicho el Colorado, “A nadie, ni siquiera a tu mujer. ¿Estamos?” y él había contestado: “Estamos”. “Ni el menor indicio, ¿eh? Bastante caro hemos pagado ya esos y otros liberalismos. Y la acción de mañana es particularmente riesgosa. Aun extremando las medidas de seguridad, vos y Alfredo van a correr mucho peligro. Eso lo sabes, ¿verdad?” “Está bien, ésta bien”, había dicho él. El Colorado había resoplado entes de concretar: “Bueno, a las siete te recogerá Alfredo en Durazno y Convención”.*
 *Ahora Marta le servía lo que ella denominaba “costillitas de cerdo a la riojana, versión libre”. Siempre, para bromear, le ponía un papelito sobre el plato con el menú del día. Ñoquis a la romana. Escalope a la Viena. Creme de parmentiere. Y así por el estilo. Esto de “a la riojana” le había quedado de cierta vez que fueron a Buenos Aires y a él le había gustado aquella combinación. Era la época en que todavía podían ir de compras cada tres meses, y de paso veían cine, teatro, exposiciones. A ellos, que en Montevideo vivían rodeados de padres, suegros, tíos, primos, sobrinos, aquellas escapadas les servían como una puesta al día de su mejor intimidad. Se sentían más unidos, más pareja, caminando del brazo por Corrientes que en su propia casa donde había ojos en todos los rincones y en todos los retratos.*

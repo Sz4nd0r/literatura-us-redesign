@@ -307,7 +307,6 @@ El mismo ruido se repitió dos veces a intervalos regulares y luego una voz este
 El señor Huddlestone alzó la cabeza, los párpados le temblaron y un momento después se desplomó inconsciente debajo de la mesa. Northmour y yo corrimos a la armería y cogimos un fusil cada uno. Clara estaba de pie con la mano en la garganta.
 Nos quedamos esperando, pues creímos llegada la hora del ataque, pero pasaron los segundos y, a excepción de las olas, todo siguió silencioso en los alrededores del pabellón.
 —Deprisa —dijo Northmour—, subámoslo al piso de arriba antes de que vengan.
-# Viii
 En el que se narra el final del hombre alto
 Entre los tres, subimos como pudimos a Bernard Huddlestone al piso de arriba y lo tumbamos en «la habitación de mi tío». En ningún momento del dificultoso traslado recobró la conciencia y, cuando lo acostamos, no movió ni un dedo. Su hija le desabrochó la camisa y empezó a refrescarle la frente y el pecho, mientras Northmour y yo corríamos a la ventana. El tiempo seguía despejado; la luna, que estaba casi llena, había salido e iluminaba con claridad las dunas, pero, por mucho que forzamos la vista, no vimos que se moviera ni una hoja. Había unos cuantos puntos más o menos oscuros e inidentificables en la enorme extensión irregular: puede que fuesen hombres agazapados o simples sombras, era imposible estar seguro.
 —Gracias a Dios que Aggie no tiene que venir esta noche —dijo Northmour.

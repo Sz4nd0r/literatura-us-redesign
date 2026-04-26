@@ -8,7 +8,6 @@ tags:
   - yk_hacia
   - yk
 ---
-# Lo que su esposo no hacía
 
 **Yasunari Kawabata**
 

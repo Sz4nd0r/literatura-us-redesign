@@ -8,7 +8,6 @@ tags:
   - puerto
   - arturo
 ---
-*# La noche en el puerto*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Red. Cuentos* (1936)*
 

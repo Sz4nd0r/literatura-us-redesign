@@ -11,7 +11,6 @@ tags:
 *Roberto Bolaño*
 *(Santiago,*
 *Chile, 1953 - Barcelona, 2003)*
-*# El Viejo De La Montaña*
 *(El secreto del mal, 2007, póstumo, Anagrama)*
 
 Siempre hay casualidades. Un día Belano conoce a Lima y se hacen amigos. Ambos viven en México DF y su amistad se cimenta, como suele ocurrir entre los jóvenes poetas, en el rechazo a ciertas normas, en la afinidad con ciertas lecturas. He dicho que son jóvenes. En realidad, son muy jóvenes, y también son, a su manera, vigorosos y creen en el poder lenitivo de la literatura. Recitan a Homero y Frank O’Hara, a Arquíloco y John Giorno, y sus vidas discurren, aunque ellos no lo saben, en el borde del abismo. Un día, esto ocurre en 1975, Belano dice que William Burroughs ha muerto y Lima, al escucharlo, pa-lidece intensamente y dice que no puede ser, que Burroughs está vivo. Belano no insiste; dice que él cree que Burroughs está muerto pero que probablemente se equivoque. ¿Cuándo murió?, dice Lima. Hace poco, creo, dice Belano cada vez menos convencido, lo leí en alguna parte. En este punto de la historia se produce algo que podemos llamar silencio. O vacío.Un vacío, en cualquier caso, muy breve, pero que en la percepción de Belano se prolonga misteriosamente hasta las postrimerías del siglo.

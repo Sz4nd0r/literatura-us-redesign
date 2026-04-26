@@ -25,7 +25,6 @@ La lealtad del Grundig W2A portátil sirve como testigo de la verdad de
 este relato que me fue referido, por primera vez, entre el atardecer y la
 medianoche de un día de verano, en el Bar Ramos de Corrientes y
 Montevideo.
-# # # # R. P.
 Cinta A
 —lado i
 Estoy seguro que él nunca le dijo:

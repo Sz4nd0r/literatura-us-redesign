@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# La Cara De La Desgracia*
 *(1960)*
 *Para Dorotea Muhr — Ignorado perro de la dicha.*
 *1*

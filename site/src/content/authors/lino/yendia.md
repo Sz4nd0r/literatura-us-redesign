@@ -10,7 +10,6 @@ tags:
 ---
 *Lino Novás Calvo*
 *(Grañas de Sor, Galicia, España, 1903 - Nueva York, 1983)*
-*# La Noche De Ramón Yendía*
 *La luna nona y otros cuentos (1942)*
 *(Buenos Aires: Ediciones Nuevo Romance, 1942, pp. 77-110)*
 

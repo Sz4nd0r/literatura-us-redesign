@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Wanda*
 *([Wanda], 1941)*
 *Tan sólo hay un borrador sin título.*
 *Tutti i racconti (2002)*

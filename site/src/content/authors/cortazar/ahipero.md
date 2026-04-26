@@ -8,9 +8,7 @@ tags:
   - ahipero
   - cortazar
 ---
-*# Ahí pero dónde, cómo*
 *Julio Cortázar*
-*# Ahí pero dónde, cómo*
 *Julio Cortázar*
 
 Un cuadro de René Magritte representa una pipa que ocupa el centro de la tela. Al pie de la pintura su título: Esto no es una pipa. A Paco, que gustaba de mis relatos. (Dedicatoria de Bestiario, 1951) No depende de la voluntad es él bruscamente: ahora (antes de empezar a escribir; la razón de que haya empezado a escribir) o ayer, mañana, no hay ninguna indicación previa, él está o no está; ni siquiera puedo decir que viene, no hay llegada ni partida; él es como un puro presente que se manifiesta o no en este presente sucio, lleno de ecos de pasado y obligaciones de futuro A vos que me leés, ¿no te habrá pasado eso que empieza en un sueño y vuelve en muchos sueños pero no es eso, no es solamente un sueño?

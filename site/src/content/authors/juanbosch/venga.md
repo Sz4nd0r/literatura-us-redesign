@@ -8,7 +8,6 @@ tags:
   - venga
   - juanbosch
 ---
-*# Los vengadores*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la revista Bahoruco, semanario ilustrado [Santo Domingo], Año II, Núm 87 (9 de abril de 1932), págs. 6 y 20; Obras completas, Vol. II, “Narrativa” II (Santo Domingo: Comisión Permanente de Efemérides Patrias, 2009, 519 págs.), págs. 305-309. —Ese viejo es un gran sinvergüenza, y tó el que saque la cara por él, un lambón! ¡Como lo oye! Los ojos de Casimiro se pegaron a su interlocutor.*
 

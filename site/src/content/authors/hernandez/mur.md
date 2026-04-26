@@ -11,7 +11,6 @@ tags:
 *Felisberto*
 *Hernández*
 *(Uruguay, 1902-1964)*
-*# Mur*
 *(Originalmente publicado en*
 *la revista Escritura, abril, 1948)*
 *Diario del sinvergüenza y últimas invenciones*

@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# Lo Real*
 *[También: “Lo que deba hacerse”]*
 *(“The Real Thing”, 1889)*
 *Originalmente publicado en Black and White (Inglaterra, abril 1892);*

@@ -8,7 +8,6 @@ tags:
   - madre
   - ciro
 ---
-*# La Madre de las Enfermedades*
 *Ciro Alegría*
 
 Madre de las Enfermedades. Vive en las aguas profundas y sale a la superficie en las noches oscuras, tempestuosas o lluviosas, para hacer el mal. Va dando voces desde el agua, por ríos, quebradas, lagos y lagunas. Da voces cuando ve lanchas, balsas y canoas, o también casas en las orillas. Con la entonación del grito del sapo y algo más, llama: «¡Uf!», «¡uf!»… Puede también que su voz parezca el aullido del viento, o el de algún otro animal, y hasta la llamada confusa de un ser humano. Si sale a tierra, la Unguymaman llama de casa en casa, sin tocar la puerta, con la misma voz. Es una voz a la que se puede reconocer por su tono lúgubre y aleve.

@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# La Novia Robada*
 *Originalmente publicado en Papeles. Revista del Ateneo (Caracas), 1968*
 
 En Santa María nada pasaba, era en otoño, apenas la dulzura brillante de un sol moribundo, puntual, lentamente apagado. Para toda la gama de sanmarianos que miraban el cielo y la tierra antes de aceptar la sinrazón adecuada del trabajo.

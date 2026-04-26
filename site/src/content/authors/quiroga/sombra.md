@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# La Meningitis Y Su Sombra*
 *(Cuentos de amor, de*
 *locura y de muerte, 1917)*
 *No vuelvo de mi sorpresa. ¿Qué diablos quieren decir la carta de Funes,*

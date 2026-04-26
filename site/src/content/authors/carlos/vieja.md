@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Fuentes*
 *(Ciudad de Panamá, 1928 - México D.F., 2012)*
-*# Vieja Moralidad*
 *(1964)*
 *Cantar de ciegos (México: Editorial Joaquín Mortiz - Serie El volador, 1964)*
 *A Carlos Velo*

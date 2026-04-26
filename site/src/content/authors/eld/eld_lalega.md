@@ -8,7 +8,6 @@ tags:
   - eld_lalega
   - eld
 ---
-*# La Legación Extranjera*
 *“The Foreign Legation”*
 *Vidas de los poetas (Lives of the Poets: Six Stories and a Novella, 1984)*
 

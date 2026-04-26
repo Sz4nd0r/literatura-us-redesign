@@ -8,7 +8,6 @@ tags:
   - baruch
   - julio
 ---
-*# Nada que hacer, monsieur Baruch*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 Nada que hacer, monsieur Baruch Los cautivos (no se publicó como un libro individual, pero fue publicado en 1972 como parte del segundo tomo de) La palabra del mudo. Cuentos 1952-1972, tomo II. (Lima: Milla Batres Editorial, 1973, 291 págs.) El cartero continuaba echando por debajo de la puerta una publicidad a la que monsieur Baruch permanecía completamente insensible. En los últimos tres días había deslizado un folleto de la Sociedad de Galvanoterapia en cuya primera página se veía la fotografía de un hombre con cara de cretino bajo el rótulo “Gracias al método del doctor Klein ahora soy un hombre feliz”; había también un prospecto del detergente Ayax proponiendo un descuento de cinco centavos por el paquete familiar que se comprara en los próximos diez días; se veía por último programas ilustrados que ofrecían las memorias de sir Winston Churchill pagaderas en catorce mensualidades, un equipo completo de carpintería doméstica cuya pieza maestra era un berbiquí eléctrico y finalmente un volante de colores particularmente vivos sobre “El arte de escribir y redactar”, que el cartero lanzó con tal pericia que estuvo a punto de caer en la propia mano de monsieur Baruch.

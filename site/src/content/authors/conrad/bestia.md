@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# La Bestia*
 *(1906)*
 *(“The Brute: Tale of a Bloodthirsty Brig”)*
 *Originalmente publicado en The Daily Chronicle [Londres],*

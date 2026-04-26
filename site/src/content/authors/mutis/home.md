@@ -8,7 +8,6 @@ tags:
   - home
   - mutis
 ---
-# Un homenaje y siete nocturnos
 **Álvaro Mutis**
 
 *Edición original: México, Ediciones El Equilibrista, 1987; Pamplona, Editorial Pamiela, 1987. Después de escuchar la música de Mario Lavista.*

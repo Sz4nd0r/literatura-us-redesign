@@ -8,9 +8,7 @@ tags:
   - dellector
   - borges
 ---
-*# La supersticiosa ética del lector*
 *Jorge Luis Borges*
-*# La supersticiosa ética del lector*
 *Jorge Luis Borges*
 
 Los que adolecen de esa superstición entienden por estilo no la eficacia o la ineficacia de una página, sino las habilidades aparentes del escritor: sus comparaciones, su acústica, los episodios de su puntuación y de su sintaxis. Son indiferentes a la propia convicción o propia emoción: buscan tecniquerías (la palabra es de Miguel de Unamuno) que les informarán si lo escrito tiene el derecho o no de agradarles.

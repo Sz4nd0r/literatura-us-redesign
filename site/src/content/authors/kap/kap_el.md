@@ -10,7 +10,6 @@ tags:
 ---
 *Katherine Anne Porter*
 *(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
-*# Él*
 *“He”*
 *Originalmente publicado en New Masses magazine (Octubre 1927)*
 *Flowering Judas and Other Stories (1930)*

@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# La Vida Que Salvéis Puede Ser La Vuestra*
 *(“The Life You Save May Be Your Own”)*
 *(originalmente publicado en Kenyon Review, vol. 15, Spring 1953)*
 *Incluido en Prize Stories 1954: The O. Henry Awards,*

@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# El Posible Baldi*
 *Originalmente publicado en La Nación (Buenos Aires), 1936*
 *Baldi se detuvo en la isla de*
 *cemento que sorteaban veloces los vehículos, esperando la pitada del*

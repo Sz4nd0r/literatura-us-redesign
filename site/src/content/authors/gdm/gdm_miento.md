@@ -11,7 +11,6 @@ tags:
 *Guy de Maupassant*
 *(Francia,*
 *1850-1893)*
-*# Arrepentimiento*
 *(1883)*
 *(“Regret”)*
 *[Otros títulos en español: “Añoranza”, “La Felicidad perdida”]*

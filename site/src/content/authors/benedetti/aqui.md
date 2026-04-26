@@ -8,7 +8,6 @@ tags:
   - aqui
   - benedetti
 ---
-*# Aquí se respira bien*
 *Mario Benedetti (1920 - 2009)*
 *Nos sentamos en éste? —pregunta el Viejo. —Mejor aquél. Tiene más sombra. Por más que nadie intenta arrebatárselo, Gustavo se cree obligado a correr para asegurarse el usufructo del banco. El padre llega después, sin apuro, con el saco en el brazo. —Se respira bien en este rinconcito—dice, y para demonstrarlo resopla ostensiblemente. Luego se acomoda, saca la tabaquera y arma un cigarrillo entre las piernas abiertas. A las diez de la mañana de un miércoles, el Prado está tranquilo.*
 

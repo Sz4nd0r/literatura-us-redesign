@@ -8,7 +8,6 @@ tags:
   - contest
   - liliana
 ---
-*# Contestador*
 *Liliana Heker*
 
 La crueldad de la vida (Buenos Aires: Alfaguara, 2001, 183 págs.) Los artefactos no me son propicios. Puedo resolver con cierta elegancia un sistema de ecuaciones con incógnitas y ni siquiera le temo al producto vectorial, pero basta que ensaye multiplicar veintitrés por ocho en una vulgar calculadora de bolsillo para que cifras altamente improbables invadan la pantallita y, pese a mis intentos desesperados, perseveren en quedarse ahí.

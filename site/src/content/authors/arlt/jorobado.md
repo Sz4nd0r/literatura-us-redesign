@@ -11,7 +11,6 @@ tags:
 *Roberto*
 *Arlt*
 *(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
-*# El Jorobadito*
 *## El jorobadito*
 *(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)*
 *Los diversos y exagerados rumores*

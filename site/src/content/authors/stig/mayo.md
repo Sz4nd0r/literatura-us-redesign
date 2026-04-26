@@ -10,7 +10,6 @@ tags:
 ---
 *Stig Dagerman*
 *(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
-*# Érase Una Vez Un Mayo…*
 *(“Det var en gång en maj”)*
 *Nattens lekar. Samlade noveller och prosafragment*
 *(Stockholm: Norstedts förlag, 2014, 574 págs.)*

@@ -8,7 +8,6 @@ tags:
   - caliban3
   - roberto
 ---
-*# Nuestro símbolo*
 *Roberto Fernández*
 *Retamar*
 

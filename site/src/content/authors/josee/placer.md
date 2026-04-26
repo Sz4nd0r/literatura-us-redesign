@@ -8,7 +8,6 @@ tags:
   - placer
   - josee
 ---
-*# El principio del placer*
 *José Emilio Pacheco (n. 2004)*
 *El principio del placer El principio del placer (México: Editorial Joaquin Mortiz, 1972, 163 págs.); (Mé́xico : Era, 1972, 140 págs.) Para Arturo Ripstein No lo van a creer, dirán que soy un tonto, pero de chico mis ilusiones eran volar, hacerme invisible y ver películas en mi casa. Me decían: espérate a que venga la televisión, será como un cine en tu cuarto. Ahora ya estoy grande y me río de todo eso. Claro, hay televisores por todas partes y sé que nadie puede volar a menos que se suba a un aeroplano. La fórmula de la invisibilidad aún no se descubre. Me acuerdo de la primera vez.*
 

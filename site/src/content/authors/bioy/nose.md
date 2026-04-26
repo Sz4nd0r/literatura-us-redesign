@@ -8,7 +8,6 @@ tags:
   - nose
   - bioy
 ---
-*# Los milagros no se recuperan*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Los milagros no se recuperan Originalmente publicado en Confirmado (Nº 100, 18 de mayo de 1967, págs. 83-6) El gran Serafín (Buenos Aires: Emecé, 1967, 190 págs.) En Constitución, frente al quiosco de revistas –en aquella época permitían la esperanza de un buen libro para el viaje— encontré a un mozo Greve, que había sido condiscípulo mío en el Instituto Libre. Me preguntó qué andaba haciendo. —Tomo el tren para Las Flores –le dije—, pero por un increíble error he llegado con una anticipación de una hora y cinco. —No soy quién para corregirte –contestó—.

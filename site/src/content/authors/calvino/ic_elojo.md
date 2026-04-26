@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# El Ojo Del Amo*
 *Ultimo viene il corvo (1949)*
 
 —El ojo del amo —le dijo su padre, señalándose un ojo, un ojo viejo entre los párpados ajados, sin pestañas, redondo como el ojo de un pájaro—, el ojo del amo engorda el caballo.

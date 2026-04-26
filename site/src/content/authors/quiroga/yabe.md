@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# El Paso Del Yabebirí*
 *(Cuentos de la selva,*
 *1918)*
 *En el río Yabebirí, que está en*
@@ -296,7 +295,6 @@ de tigres, ni todos los tigres del mundo van a pasar por aquí!
 Así respondieron
 las rayas. Entonces los tigres rugieron por última vez:
 —¡Paso pedimos!
-# ## —¡Ni Nunca!
 Y la batalla
 comenzó entonces. Con un enorme salto los tigres se lanzaron al agua. Y
 cayeron todos sobre un verdadero piso de rayas. Las rayas les acribillaron

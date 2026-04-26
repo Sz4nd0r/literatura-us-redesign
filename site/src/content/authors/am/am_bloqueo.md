@@ -11,7 +11,6 @@ tags:
 *Alberto*
 *Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# Un Horrible Bloqueo De La Memoria*
 *La cosa e altri racconti (1983)*
 
 ¿Ha sucedido o no ha sucedido? En mi cabeza se ha formado un vacío ambiguo, que podría deberse igualmente al trauma de lo que ha ocurrido, sea el cambio que significa lo que está por ocurrir; y no acierto a llenar ese vacío. Sin embargo, la cosa en cuestión me concierne directa e inmediatamente: si no sucedió hace quince minutos, debe suceder dentro de quince minutos. Pero las dos posibilidades tienen en común un mismo sentimiento de impaciencia casi frenética, que me impide esperar que los hechos me proporcionen la explicación definitiva que necesito. No puedo esperar ni siquiera un minuto no sólo porque debo prepararme para enfrentar dos situaciones muy distintas, o sea, aquella de lo ya ocurrido y aquella de lo no ocurrido todavía, sino también y sobre todo porque debo indispensablemente superar lo antes posible esta especie de bloqueo que me impide hacer algo para mí fundamental: tomar conciencia. En efecto, precisamente de eso se trata, y no hay quien no vea la enorme diferencia que hay entre tomar conciencia antes de la acción y tomar conciencia después de la acción. Pero ¿cómo se hace para tomar conciencia cuando la acción está, por así decirlo, en la punta de la lengua y no se decide a adoptar el aspecto sea de lo ya visto, ya hecho, ya padecido, sea el de lo todavía no visto, todavía no hecho, todavía no padecido?

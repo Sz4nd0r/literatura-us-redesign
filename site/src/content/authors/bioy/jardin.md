@@ -8,7 +8,6 @@ tags:
   - jardin
   - bioy
 ---
-*# El jardín de los sueños*
 *Adolfo Bioy Casares (1914 - 1999)*
 *Originalmente publicado en el periódico La Nación (29 de junio de 1969); Historias de amor (Buenos Aires: Emecé, 1972, 259 págs.) Quizá por la suavidad de la voz y por los diminutivos que infundían en las palabras un tono de melosa blandura, me dispuse a oír alguna de esas benévolas trivialidades que suele dictar la cortesía. Mi compañero de mesa —un colega bastante oscuro, que redactaba noticias policiales ¿o políticas? en uno de los dos vespertinos del lugar— me prevenía de un peligro verdaderamente espantoso que en el término de pocas horas caería sobre mí.*
 

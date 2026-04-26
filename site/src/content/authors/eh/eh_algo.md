@@ -8,7 +8,6 @@ tags:
   - eh_algo
   - eh
 ---
-# Algo que tú nunca serás
 
 *Ernest Hemingway*
 *(Oak Park, Illinois, E.U., 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*

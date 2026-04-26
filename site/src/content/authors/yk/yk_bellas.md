@@ -8,7 +8,6 @@ tags:
   - yk_bellas
   - yk
 ---
-# La casa de las bellas durmientes
 
 **Yasunari Kawabata**
 

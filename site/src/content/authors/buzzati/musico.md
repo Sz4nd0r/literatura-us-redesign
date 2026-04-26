@@ -10,7 +10,6 @@ tags:
 ---
 *Dino Buzzati*
 *(Belluno, Italia, 1906 - Milán, 1972)*
-*# El Músico Envidioso*
 *(“Il musicista invidioso”) (1951)*
 *Originalmente publicado en el periódico Corriere della Sera (10 de junio de 1951);*
 *i>El desplome de la Baliverna*

@@ -8,7 +8,6 @@ tags:
   - lejos
   - josee
 ---
-*# Morirás lejos*
 *José Emilio Pacheco (n. 2004)*
 *Conmigo llevo la tierra y la muerte QUEVEDO / SÉNECA ![1.Salonica](/assets/images/lejos_1.gif) SALÓNICA Con los dedos anular e índice entreabre la persiana metálica: en el parque donde hay un pozo cubierto por una torre de manipostería, el mismo hombre de ayer está sentado en la misma banca leyendo la misma sección, “El aviso oportuno”, del mismo periódico: El Universal. Juegan fútbol algunos niños. El cuidador del parque habla con un barrendero.*
 

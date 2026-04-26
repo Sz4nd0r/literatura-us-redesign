@@ -8,7 +8,6 @@ tags:
   - minuto
   - oscar
 ---
-*# Decisión en el último minuto*
 *Óscar Collazos (1942 - 2015)*
 *Originalmente publicado en la Revista Diners, N. 435 (junio de 2006) A Guido Tamayo, que sabe de esto. A Delio Maravilla Gamboa, mi primer ídolo. …por amor propio, ¿me entiende? No metí ese gol por amor propio. El técnico me había condenado a ver el partido desde la banca, precisamente ese, el partido en que nos jugábamos la clasificación a la semifinal de la Copa, me había suspendido por tres fechas porque yo les había dicho a los periodistas que entre las directivas del club había personas que sabían más de negocios que de fútbol. No se imagina usted la que se armó. Mi declaración fue reproducida por televisión y radio, fue noticia en los periódicos y escándalo entre los dueños del balón, que no son propiamente los jugadores sino los que tienen metida la plata en los equipos. —Me piden que te sancione por tres fechas —me dijo el Profe Marrugo—.*
 

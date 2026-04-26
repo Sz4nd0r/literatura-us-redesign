@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# Un Anarquista*
 *(1906)*
 *(“An Anarchist”)*
 *Originalmente publicado en Harper’s Magazine,*

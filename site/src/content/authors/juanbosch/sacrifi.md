@@ -8,7 +8,6 @@ tags:
   - sacrifi
   - juanbosch
 ---
-*# El sacrificio*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en el periódico Listín Diario [Santo Domingo] (21 de junio de 1931); Obras completas, Vol. II, “Narrativa” II (Santo Domingo: Comisión Permanente de Efemérides Patrias, 2009, 519 págs.), págs. 247-250. Amaneció plomizo el día. Parecía que alguien hubiese pasado por los cielos una gran brocha embadurnada en gris. A ras de mar los encajes amarillentos de la niebla ponían su nota de demacración. Se perseguían las olas, furiosa cada una por alcanzar la otra, con una soberbia que aullaba. En la tierra, un poco adentradas, viejas barcas cansadas ofrecían a los cielos sus vientres hinchados que la carcoma hoyó. Y dormían de lado las embarcaciones jóvenes recibiendo caricias saladas.*
 

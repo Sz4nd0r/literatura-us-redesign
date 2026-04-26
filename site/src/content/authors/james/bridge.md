@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# Flickerbridge*
 *(“Flickerbridge”, 1902)*
 *Originalmente publicado en Scribner’s Magazine (febrero de 1902)*
 *The Better Sort (Lo más selecto), 1903*

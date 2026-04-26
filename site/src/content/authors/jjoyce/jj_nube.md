@@ -11,7 +11,6 @@ tags:
 *James*
 *Joyce*
 *(1882-1941)*
-*# Una Nubecilla*
 *(“A Little Cloud”)*
 *(Dubliners, 1914)*
 *Ocho años atrás había*

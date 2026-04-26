@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# El Primer Beso*
 *(“O primeiro beijo”)*
 *Felicidade clandestina (1971)*
 

@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# A Mí Qué Me Importa El Carnaval*
 *La cosa e altri racconti (1983)*
 *¡El carnaval! ¡A mí qué me importa el carnaval! ¡El carnaval a mi edad, en mi situación! Mientras pienso estas cosas en la oscuridad, tratando de dormirme y sin conseguirlo, un recuerdo me acosa: el de la muchachita que encuentro todas las mañanas (ella va a la escuela, yo a buscar el diario) y siempre tiene un aire afligido, mortificado, asustado. Es una muchachita muy común, rubia, de pelo largo y lacio, ojos azul lavado, rostro pálido y descolorido. Y bien, hoy, después del desayuno, mientras efectuaba mi habitual paseo profiláctico por las Zattere, la encontré completamente transformada no sólo en su aspecto físico sino también, por así decirlo, en su carácter, y comprendí que esa transformación se debía exclusivamente al carnaval, o sea, al hecho de haberse disfrazado. Estaba de arlequín, cubierta de rombos de colores, con medias blancas y escarpines negros. Al verme, me dirigió de pronto una sonrisa de reconocimiento candorosamente provocativa, me disparó encima una nube de papel picado y después escapó, con risa sofocada, por una callecita vecina. Pensé y volví a pensar en este encuentro, preguntándome qué había ocurrido para que esta niña, tan triste y tímida, se hubiera vuelto alegre, descarada; y concluí que el carnaval había «obrado». La cara afligida que ella mostraba de costumbre al pasar era en realidad una máscara; la máscara de arlequín era, en cambio, su verdadero rostro.*
 

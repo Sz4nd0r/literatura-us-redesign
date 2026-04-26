@@ -8,7 +8,6 @@ tags:
   - nocida
   - tellez
 ---
-*# Dirección desconocida*
 *Hernando Téllez (1908 - 1966)*
 
 Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) Esta noche, mientras afuera sopla el viento, el buen Jacques ha tomado una resolución. Hace días viene meditándola y, por fin, se dispone a cumplirla. Escribirá una carta, una larga carta a papá, pues tiene muchas cosas que decirle. Bob y Lissete están dormidos en la pieza contigua. Mamá vela en la alcoba. Jacques se ha acomodado en la silla de papá, frente al viejo escritorio. El papel también es de papá, y la pluma y la tinta.

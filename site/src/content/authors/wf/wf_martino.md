@@ -207,7 +207,6 @@ En medio de esa reunión de holgados vestidos de verano, de respiraciones viejas
 Como si no fuera ella, sino otra persona, se vio abrir la nota y leerla de nuevo. No le llevó apenas tiempo:
 Lily:
 No se preocupe por mí durante un rato más. Me quedaré aquí sentado hasta la hora de la cena. No se preocupe por mí.
-# # # # J. M.
 —No se preocupe por mí —dijo—. Por mí… —fue al vestíbulo, donde el negro viejo faenaba con la escoba—. ¿Y dices que esto te lo dio el señor Jarrod?
 —Sí, señora. Me lo dio deprisa y corriendo. Y cuando me quise dar cuenta… ¡bruum!, ya habían salido la señorita Louise y él a todo meter por el camino, hacia la carretera, como una patrulla en busca de negros fugitivos.
 —¿Y se fueron camino de Meridian?

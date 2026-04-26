@@ -8,7 +8,6 @@ tags:
   - genio
   - liliana
 ---
-*# Retrato de un genio*
 *Liliana Heker*
 *Retrato de un genio Los que vieron la zarza (Mencion única, VII Concurso Hispanoamericano de Literatura “Casa de las Americas”, 1966) (Buenos Aires: Editorial J. Alvarez, 1966, 154 págs.) A mi hermana Sussy Si una consigue no pensar mientras golpea exactamente cien veces la pared con la ventana, el tiempo pasa rápido, muy rápido, y puede ser que cuando menos se lo espere Lucía se despierte y adiós problemas. Así como está Mariana, acostada en la cama, hay que mantener el brazo muy estirado hacia arriba para alcanzar el marco de la ventana, pero no se lo debe soltar por nada del mundo a pesar de que es cansador mover el brazo así, contando siete ocho nueve, y, al mismo tiempo, haciendo fuerza para no pensar en nada.*
 

@@ -8,7 +8,6 @@ tags:
   - niko
   - sergio
 ---
-*# Heiliger Nikolaus*
 *Sergio Ramírez (n. 1942)*
 *Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Charles Atlas también muere (Barcelona: Mondadori, 1993, 121 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) Para la Dorel Cuando Frau Schleting se acercó con los brazos extendidos para llevarlo a bailar, supo que era el principio del desastre que había estado temiendo pero que ya nadie podía evitar. Si hubiera podido cobrar su paga de cien marcos y largarse apenas terminado su trabajo, ahora estaría aquí en la enmohecida soledad de su cuarto fumando el último Krone antes de arrebujarse en el edredón descosido para dormirse, sin temor a nada, más que a sus días sin fortuna que continuarían iguales. La pirámide de regalos era demasiado grande, esa había sido la primera desventaja.*
 

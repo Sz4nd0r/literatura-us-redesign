@@ -10,7 +10,6 @@ tags:
 ---
 *Saul Bellow*
 *(Lachine, Canada, 1915 - Brookline, Massachusetts, 2005)*
-*# La Bandeja De Plata*
 *(“A Silver Dish”)*
 *Originalmente publicado en la revista The New Yorker (25 de septiembre de 1978)*
 *Him with His Foot in His Mouth and Other Stories (1984)*

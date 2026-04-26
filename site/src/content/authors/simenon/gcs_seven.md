@@ -332,7 +332,6 @@ Al llegar a la escalera, oí al director de la P.J. salir de la oficina de G.7. 
 No pretenderé que este asunto me impresionó al punto de quitarme el apetito. Los dramas que más nos afectan tienen pocas veces el poder de sacarnos de nuestras pequeñas preocupaciones cotidianas.
 Sin embargo, me quedaba un vago resentimiento y una sospecha que no quería articular en voz alta.
 Los diarios del día siguiente me indignaron con esta publicación:
-# Un Asesinato En Asnières
 —En la noche del miércoles al jueves, el llamado Iván Nicolaievitch Morotzov, ex general del ejército ruso, fue asesinado por un desconocido, en el chalet que ocupaba solo, en el muelle del Sena. Se supone que se trata de una venganza política.
 ¡Y G.7 no protestaba, no mandaba su rectificación!
 Volvía a imaginarlo en el muelle, junto a mí, bajo la lluvia, toda la noche… Imaginaba al general en el cafetín italiano… Después su lámpara que se apagaba en el primer piso.
@@ -480,7 +479,6 @@ Repetí, inclinándome:
 —¿Todavía no has comprendido? —murmuró G.7—. Colócate en el lugar de ese hombre. Un padre, no lo olvides, que adora a esa hija. Esa adoración es lo único que tiene en el mundo, ese pequeño rincón limpio en su corazón.
 ”Gastó el dinero que Sonia le daba. Ha vivido de ella, ha mendigado en su puerta…
 —Sonia trabajó y él, durante ese tiempo…
-# # # ## —¿Y?
 —Vamos…
 —¿Dónde?
 —Allí, a Asnières.

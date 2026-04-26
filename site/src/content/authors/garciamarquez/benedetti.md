@@ -8,7 +8,6 @@ tags:
   - benedetti
   - garciamarquez
 ---
-*# García Márquez o la vigilia dentro del sueño*
 *Gabriel*
 *García Márquez (n. 1947)*
 

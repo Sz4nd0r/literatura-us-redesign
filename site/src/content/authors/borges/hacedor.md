@@ -8,9 +8,7 @@ tags:
   - hacedor
   - borges
 ---
-*# El hacedor*
 *Jorge Luis Borges*
-*# El hacedor*
 *Jorge Luis Borges*
 
 Los rumores de la plaza quedan atrás y entro en la Biblioteca. De una manera casi física siento la gravitación de los libros, el ámbito sereno de un orden, el tiempo disecado y conservado má- gicamente. A izquierda y a la derecha, absortos en su lúcido sueño, se perfilan los rostros momentáneos de los lectores, a la luz de las lámparas estudiosas, como en la hipálage de Milton. Recuerdo haber recordado ya esa figura, en este lugar, y después aquel otro epíteto que también define por el contorno, el árido camello del Lunario, y después aquel hexámetro de la Eneida, que maneja y supera el mismo artificio: Ibant obscuri sola sub norte per umbras.

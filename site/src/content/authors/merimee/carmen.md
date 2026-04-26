@@ -18,7 +18,6 @@ tags:
 *(París: Michel Lévy Frères, 1846 [1847], 363 págs.), págs. 1-180.*
 *La mujer es hiel. Pero tiene dos buenos momentos: uno en el lecho, el*
 *otro en la muerte.*
-*# Paladas*
 
 I
 Siempre había sospechado que los geógrafos no saben lo que dicen cuando sitúan el campo de batalla de Munda en el país de los Bastuli-Pœni, cerca de la moderna Monda, a unas dos leguas al norte de Marbella. Según mis propias conjeturas sobre el texto del autor anónimo de Bellum Hispaniense, y algunos datos recopilados en la excelente biblioteca del duque de Osuna, creía que había que buscar en los alrededores de Montilla el lugar memorable donde, por última vez, César se jugó el todo por el todo contra los campeones de la república. Encontrándome en Andalucía a comienzos del otoño de 1830, hice una excursión bastante larga para aclarar las dudas que aún me quedaban. Una memoria, que publicaré próximamente, no dejará ya, así lo espero, la menor duda en el ánimo de los arqueólogos de buena fe. En espera de que mi disertación resuelva al fin el problema geográfico del que están pendientes todos los eruditos europeos, deseo contaros una breve historia que no prejuzga nada sobre la interesante cuestión del emplazamiento de Munda.

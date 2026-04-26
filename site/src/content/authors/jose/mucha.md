@@ -8,7 +8,6 @@ tags:
   - mucha
   - jose
 ---
-*# La muchacha que conocí en Guadeloupe*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

@@ -10,11 +10,9 @@ tags:
 ---
 *José Donoso*
 *(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
-*# Coronación*
 *(1957)*
 *(Santiago: Nascimento, 1957)*
 *Para CARMEN ORREGO MONTES*
-*# ## Primera Parte*
 *El Regalo*
 *1*
 

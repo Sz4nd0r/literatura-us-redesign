@@ -8,9 +8,7 @@ tags:
   - llamado
   - cortazar
 ---
-*# Lugar llamado Kindberg*
 *Julio Cortázar*
-*# Lugar llamado Kindberg*
 *Julio Cortázar*
 
 Lina que lo recibe en la palma de la mano como si fuera un homenaje, y lo es, y entonces le sopla por encima vaya a saber por qué pero tan bonito ver que el flequillo de Lina se alza un poco y tiembla como si el soplido devuelto por la mano y por el pan fuera a levantar el telón de un diminuto teatro, casi como si desde ese momento Marcelo pudiera ver salir a escena los pensamientos de Lina, las imágenes y los recuerdos de Lina que sorbe su sopa sabrosa soplando siempre sonriendo. Y no, la frente lisa y aniñada no se altera, al principio es sólo la voz que va dejando caer pedazos de persona, componiendo una primera aproximación a Lina chilena, por ejemplo, y un tema canturreado de Archie Shepp, las uñas un poco comidas pero muy pulcras contra una ropa sucia de auto-stop y dormir en granjas o albergues de la juventud. La juventud, se ríe Lina sorbiendo la sopa como una osita, seguro que no te la imaginas: fósiles, fíjate, cadáveres vagando como en esa película de miedo de Romero.

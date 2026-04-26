@@ -10,7 +10,6 @@ tags:
 ---
 *Alejo Carpentier*
 *(La Habana, 1904-París, 1980)*
-*# El Estudiante*
 *(1927)*
 *Guerra del tiempo y otros relatos (2001)*
 *Sobre mi mesa hay un cuadro*

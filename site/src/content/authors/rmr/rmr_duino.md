@@ -8,11 +8,9 @@ tags:
   - rmr_duino
   - rmr
 ---
-# Las elegías de Duino
 
 **Rainer Maria Rilke**
 
-*# Las Elegias De Duino (1922)*
 *Versión y notas de José Joaquín Blanco*
 *Publicado en La iguana del ojete (Invierno, 1993)*
 *(Propiedad de la princesa Marie von Thurn und Taxis-Hohenlohe) [1]*

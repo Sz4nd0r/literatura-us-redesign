@@ -8,7 +8,6 @@ tags:
   - blanco
   - julio
 ---
-*# El libro en blanco*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 El libro en blanco Cuentos de circunstancias (aunque no apareció en la primera edición, fue añadido a la edición de los Cuentos completos, Madrid: Santillana, 1994, 749 págs., pág. 96-101; y a la compilación La palabra del mudo, Barcelona: Seix Barral, 2010, 1035 págs., pág. 146-153) (Lima: Editorial Nuevos Rumbos, 1958, 96 págs.) De pura casualidad me encontré con Francesca en el Boulevard Saint-Germain y como hacía dos o tres años que no la veía y como según me explicó se había mudado a un departamento a dos pasos de allí subimos a su piso a tomar una copa.

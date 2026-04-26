@@ -10,7 +10,6 @@ tags:
 ---
 *João Guimarães Rosa*
 *(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
-*# João Guimarães Rosa, O La Otra Orilla*
 *Por Luis Harss*
 *Los nuestros (1966)*
 

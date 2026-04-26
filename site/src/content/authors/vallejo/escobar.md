@@ -12,8 +12,6 @@ tags:
 *(Perú,*
 *1892-Paris, 1938)*
 *LA*
-*# Perspectiva Personal*
-*# ## En Los Heraldos Negros*
 *## ## ALBERTO*
 *## ## ESCOBAR*
 *Originalmente*

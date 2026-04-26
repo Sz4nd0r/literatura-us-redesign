@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# El Álbum*
 *Originalmente publicado en Sur (Buenos Aires), 1953*
 
 La vi desde la puerta del diario, apoyado en la pared, bajo la chapa con el nombre de mi abuelo, Agustín Malabia, fundador. Había venido a traer un artículo sobre la cosecha o la limpieza de las calles de Santa María, una de esas irresistibles tonterías que mi padre llama editoriales y que una vez impresas quedan macizas, apenas ventiladas por cifras, pesando sensiblemente en la tercera página, siempre arriba y a la izquierda.

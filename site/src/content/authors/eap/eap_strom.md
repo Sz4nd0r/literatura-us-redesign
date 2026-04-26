@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# Un Descenso Al Maelström*
 *(“A Descent into the Maelström”, 1841)*
 *Originalmente publicado en Graham’s Magazine (mayo 1841)*
 *Tales*

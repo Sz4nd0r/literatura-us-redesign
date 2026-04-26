@@ -8,9 +8,7 @@ tags:
   - realidad
   - borges
 ---
-*# La postulación de la realidad*
 *Jorge Luis Borges*
-*# La postulación de la realidad*
 *Jorge Luis Borges*
 
 Berkeley no admiten la menor réplica y no producen la menor convicción; yo desearía, para eliminar los de Croce, una sentencia no menos educada y mortal. La de Hume no me sirve, porque la diáfana doctrina de Croce tiene la facultad de persuadir, aunque esta sea la única. Su defecto es ser inmanejable; sirve para cortar una discusión, no para resolverla. Su fórmula –recordará mi lector– es la identidad de lo estético y de lo expresivo. No la rechazo, pero quiero observar que los escritores de hábito clásico más bien rehuyen lo expresivo. El hecho no ha sido considerado hasta ahora; me explicaré. El romántico, en general con pobre fortuna, quiere incesantemente expresar; el clásico prescinde contadas veces de una petición de principio.

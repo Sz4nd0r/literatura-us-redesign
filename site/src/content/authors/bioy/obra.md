@@ -8,7 +8,6 @@ tags:
   - obra
   - bioy
 ---
-*# La obra*
 *Adolfo Bioy Casares (1914 - 1999)*
 *El lado de la sombra (Buenos Aires: Emecé, 1962, 192 págs.) Haciendo torres sobre tierna arena. LOPE DE VEGA Como si no bastaran las promesas del más allá, queremos perdurar en nuestra tierra, tan vilipendiada y tan querida. Casi todo el mundo comparte el afán por sobrevivir en obras, en hijos, de cualquier modo. Sin duda nos mueve un instinto y en ese punto al menos igualamos en inteligencia a dos insectos, la hormiga y la abeja, y a un roedor, el castor o castor fiber. Si reflexionáramos un minuto acerca de la inmortalidad deparada por libros, obras de arte, inventos, función pública, saborearíamos la amargura de quien se dejó atrapar en una estafa. Yo anhelo la inmortalidad de mi conciencia y no soy tan vanidoso para contentarme con sobrevivir en media docena de volúmenes alineados en un anaquel; pero desde luego me aferró con uñas y dientes a esa inmortalidad de la media docena, mi robusto bastión contra los embates del tiempo, y no es menos verdad que me hago cruces, metafóricamente hablando, ante quienes día a día se afanan en trabajos que día a día se desvanecen. ¿Cómo entender a tanto artista, cuyos productos afrontan pruebas que barrerían con los cuadros del Museo de Arte Moderno, por no decir nada de muchos libritos de los poetas?*
 

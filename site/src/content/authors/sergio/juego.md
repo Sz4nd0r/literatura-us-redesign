@@ -8,7 +8,6 @@ tags:
   - juego
   - sergio
 ---
-*# Juego perfecto*
 *Sergio Ramírez (n. 1942)*
 
 Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Charles Atlas también muere (Barcelona: Mondadori, 1993, 121 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) Siempre que subía tan apresurado por la boca de la gradería solo tenía ojos para el bullpen, ver si al muchacho se lo habían sacado a calentar, si al fin el manager se decidiría a ponerlo esa noche de abridor.

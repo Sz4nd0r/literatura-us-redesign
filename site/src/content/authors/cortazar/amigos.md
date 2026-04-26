@@ -8,9 +8,7 @@ tags:
   - amigos
   - cortazar
 ---
-*# Los amigos*
 *Julio Cortázar*
-*# Los amigos*
 *Julio Cortázar*
 
 Final del juego, 1956) En ese juego todo tenía que andar rápido. Cuando el Número Uno decidió que había que liquidar a Romero y que el Número Tres se encargaría del trabajo, Bel­trán recibió la información pocos minutos más tarde. Tranquilo pero sin perder un instante, salió del café de Corrientes y Libertad y se metió en un taxi. Mien­tras se bañaba en su departamento, escuchando el no­ticioso, se acordó de que había visto por última vez a Romero en San Isidro, un día de mala suerte en las carreras. En ese entonces Romero era un tal Romero, y él un tal Beltrán; buenos amigos antes de que la vida los metiera por caminos tan distintos.

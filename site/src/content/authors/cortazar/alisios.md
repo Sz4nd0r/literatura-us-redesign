@@ -8,9 +8,7 @@ tags:
   - alisios
   - cortazar
 ---
-*# Vientos Alisios*
 *Julio Cortázar*
-*# Vientos Alisios*
 *Julio Cortázar*
 
 Alguien que anda por ahí, 1977) Vaya a saber a quién se le había ocurrido, tal vez a Vera la noche de su cumpleaños cuando Mauricio insistía en que empezaran otra botella de champaña y entre copa y copa bailaban en el salón pegajoso de humo de cigarro y medianoche, o quizá a Mauricio en ese momento en que Blues in Thirds les traía desde tan antes el recuerdo de los primeros tiempos, de los primeros discos cuando los cumpleaños eran más que una ceremonia cadenciosa y recurrente.

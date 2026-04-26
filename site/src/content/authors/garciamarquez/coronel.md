@@ -8,7 +8,6 @@ tags:
   - coronel
   - garciamarquez
 ---
-# El coronel no tiene quien le escriba
 
 *Gabriel García Márquez*
 

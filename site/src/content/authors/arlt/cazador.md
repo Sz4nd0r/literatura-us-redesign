@@ -163,10 +163,8 @@ Finalmente, después
 de muchas conferencias, tratos y disputas, como se acostumbra en Oriente,
 Taman le alquiló al primo Guillermo Emilio su sobrino con las siguientes
 condiciones, de cuya puntual enumeración fui testigo:
-# Taman. —
 Convenimos tú y yo en que no le pegarás al niño con el puño ni con un
 bastón.
-# ## Guillermo. —
 Únicamente le pegaré cuando haga falta.
 TAMAN. — Pero ni
 con el puño ni con el bastón.
@@ -181,7 +179,6 @@ GUILLERMO. — Sí;
 menos cuando esté de guardia.
 TAMAN. — No serás
 con él cruel ni autoritario.
-# ## ## Guillermo.
 (impaciente). — ¡No pretenderás que le trate como si fuera mi esposa
 preferida!
 TAMAN. — Bueno,

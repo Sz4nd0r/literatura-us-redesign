@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# El Solitario*
 *(Cuentos de amor, de*
 *locura y de muerte, 1917)*
 *Kassim era un hombre enfermizo, joyero de profesión, bien que no tuviera*

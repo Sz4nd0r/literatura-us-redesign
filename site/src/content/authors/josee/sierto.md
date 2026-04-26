@@ -8,7 +8,6 @@ tags:
   - sierto
   - josee
 ---
-*# Las batallas en el desierto*
 *José Emilio Pacheco (n. 2004)*
 *Las batallas en el desierto (México, D.F.: Ediciones Era, 1981, 68 págs.) A la memoria de José Estrada, Alberto Isaac y Juan Manuel Torres, Y a Eduardo Mejía The past is a foreign country. They do things differently there. L. P. Hartley: The Go-Between I. El mundo antiguo Me acuerdo, no me acuerdo: ¿qué año era aquél? Ya había supermercados pero no televisión, radio tan sólo: Las aventuras de Carlos Lacroix, Tarzán, El Llanero Solitario, La Legión de los Madrugadores, Los Niños Catedráticos, Leyendas de las calles de México, Panseco, El Doctor I.Q., La Doctora Corazón desde su Clínica de Almas.*
 

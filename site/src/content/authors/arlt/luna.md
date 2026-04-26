@@ -11,7 +11,6 @@ tags:
 *Roberto*
 *Arlt*
 *(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
-*# La Luna Roja*
 *Originalmente publicado en El Hogar*
 *[Buenos Aires] (16 de noviembre de 1932);*
 *El jorobadito*

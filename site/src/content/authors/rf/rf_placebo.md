@@ -158,7 +158,6 @@ Lo peor de este mundo es un hombre que hace el amor callado. Tú no dices ni una
 Palabras eróticas. No le pongas hielo.
 ¿Por ejemplo?
 Me da vergüenza decirlo. Quizá dentro de poco. El alcohol excita a las mujeres. También está en la revista.
-# # # # ¿Y...?
 Eres demasiado gentil, sudas mucho, tiemblas.
 Se había dado cuenta que temblaba. Sentí mi corazón pesado.
 Hércules, Hércules, Hércules.

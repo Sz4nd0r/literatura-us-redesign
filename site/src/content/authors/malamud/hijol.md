@@ -10,7 +10,6 @@ tags:
 ---
 *Bernard Malamud*
 *(26 de abril, 1914 – 18 de marzo, 1986)*
-*# Mi Hijo El Asesino*
 *(1968)*
 *(“My Son the Murderer”)*
 *Originalmente publicado en la revista Esquire (noviembre 1968);*

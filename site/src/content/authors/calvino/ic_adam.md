@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Una Tarde, Adán*
 *Ultimo viene il corvo (1949)*
 
 El nuevo jardinero era un chico de pelo largo, sujeto con una cinta. Iba subiendo por la alameda con la regadera llena, y tendía un brazo para equilibrar la carga del otro. Regaba las capuchinas muy lentamente, como si vertiera café con leche: en el suelo, al pie de las plantitas, se dilataba una mancha oscura: cuando la mancha era grande y blanda, levantaba la regadera y pasaba a otra planta. El de jardinero debía de ser un buen trabajo, porque se podía hacer todo con calma. Maria-nunziata lo miraba por la ventana de la cocina. Era un chico ya mayor y sin embargo llevaba todavía pantalones cortos. Y ese pelo largo: parecía una chica. Dejó de enjuagar los platos y golpeó en el vidrio.

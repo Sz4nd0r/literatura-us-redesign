@@ -8,29 +8,114 @@ tags:
   - aceite
   - julio
 ---
-*# El tonel de aceite*
+
+## El tonel de aceite
 *Julio Ramón Ribeyro (1987 - 1994)*
 
-El tonel de aceite Cuentos de circunstancias (Lima: Editorial Nuevos Rumbos, 1958, 96 págs.) En la semioscuridad de la cocina, iluminada tan sólo por los carbones rojos que ardían bajo las parrillas, la vieja Dorotea y su sobrino Pascual se miraban silenciosamente. Ella permanecía en pie, las crenchas canosas dominadas por el pañolón negro y el semblante cobrizo torcido en una mueca inexpresiva y vegetal. Su sobrino, sentado en cuclillas, elevaba hacia ella sus ojos despavoridos, mientras sus dedos, apoyados en el suelo, rascaban nerviosamente la tierra. La mirada de la tía, cayéndole oblicuamente, lo tenía atrapado e inmóvil.
+*El tonel de aceite Cuentos de circunstancias (Lima: Editorial Nuevos Rumbos, 1958, 96 págs.)*
 
-Hacía un cuarto de hora que estaban así, como hechizados, sin pronunciar palabra. —Así que fue con el hacha de Eleuterio —murmuró ella. El muchacho no replicó. Se limitó a bajar la cabeza en son de asentimiento, mientras su pecho se rajaba en débiles sollozos. —¡Hijo de mala perra! —bramó la tía, agitando un brazo huesudo surcado de venas negras—. ¡Y después te vienes a refugiar en mi casa! ¿Por qué no has huido para las sierras? ¡Hubieras podido coger una mula de donde el aguazal y arrear para las montañas!
+En la semioscuridad de la cocina, iluminada tan sólo por los carbones rojos que ardían bajo las parrillas, la vieja Dorotea y su sobrino Pascual se miraban silenciosamente. Ella permanecía en pie, las crenchas canosas dominadas por el pañolón negro y el semblante cobrizo torcido en una mueca inexpresiva y vegetal. Su sobrino, sentado en cuclillas, elevaba hacia ella sus ojos despavoridos, mientras sus dedos, apoyados en el suelo, rascaban nerviosamente la tierra. La mirada de la tía, cayéndole oblicuamente, lo tenía atrapado e inmóvil.
 
-Valor tienes para subirte al terrado a robarme las semillas, pero no para marcharte solo por los peñascales. El muchacho, con la cabeza cada vez más caída, gemía convulsivamente, dejando al descubierto una nuca sucia y desnutrida. Dorotea lo observó con una expresión de infinito desprecio en sus ojos acerados. Había vuelto a cruzar los brazos y su boca trazaba un surco abyecto. —¿Y todo fue por la Antoña? —interrogó nuevamente. El muchacho asintió con la cabeza. —Todo por la Antoña, una chica piojosa que aún no puede ser madre —masculló la tía, recuperando luego su antiguo hieratismo.
+Hacía un cuarto de hora que estaban así, como hechizados, sin pronunciar palabra.
 
-Pascual elevó un ojo furtivo hacia ella y lo bajó sin replicar. El silencio fue invadiendo nuevamente la cocina. De cuando en cuando se escuchaba la crepitación de una chispa en la parrilla o el balido de un carnero en el galpón. La noche se iba cerrando en el descampado. Pascual, de pronto, levantó la faz lívida manchada de lágrimas sucias, y abriendo los labios, dejó escapar un gruñido. —¡Tengo miedo, tía Dorotea! —exclamó—. ¡Los guardias ya deben de conocer todo! ¡Esteban tenía un tío cabo! ¡Me perseguirán! —¡Calla, deslenguado! —interrumpió la vieja—. ¡Pueden oírte en el rancho de Pedro Limayta! —y bajando la voz, hasta hacerla sibilante, añadió—: Y ¿dónde quieres que te esconda, pedazo de mugre? Ya sabes que si te encuentran aquí, la que va a pagar todo soy yo.
+—Así que fue con el hacha de Eleuterio —murmuró ella.
 
-Recuerda lo que le pasó a la tía Domitila por esconder en su lugar al bribón de Domingo, que se había robado dos vacas. ¡Y sólo por dos vacas! —La tía Dorotea dio un paso hacia él, un paso mecánico, como el de un muñeco de madera—. ¡Debes irte de aquí! ¡No debes dejar una sola huella! Entiéndetelas tú, y si te pescan, cuidado con decir que anduviste rondando por acá. Te daré una barra de pan, y date por bien servido. ¡Anda, levántate! La noche se ha vencido. El sobrino no replicó.
+El muchacho no replicó. Se limitó a bajar la cabeza en son de asentimiento, mientras su pecho se rajaba en débiles sollozos.
 
-Tenía el cuello estirado hacia adelante en una incómoda posición, y un dedo ligeramente erecto. Parecía estar a punto de caerse de bruces; sin embargo, se mantenía en equilibrio como por arte de magia. —¿Qué? —preguntó la vieja, doblándose hacia él. —¡Psht! —susurró Pascual, mientras su rostro, primitivamente tenso, se iba transfigurando por el terror. Claramente se escuchó el trotar de unas cabalgaduras. —¡Allí están! —bramó, y, levantándose de un brinco, se arrojó de espaldas contra la pared, quedando allí con los ojos muy abiertos. La tía Dorotea se aproximó a la ventana.
+—¡Hijo de mala perra! —bramó la tía, agitando un brazo huesudo surcado de venas negras—. ¡Y después te vienes a refugiar en mi casa! ¿Por qué no has huido para las sierras? ¡Hubieras podido coger una mula de donde el aguazal y arrear para las montañas! Valor tienes para subirte al terrado a robarme las semillas, pero no para marcharte solo por los peñascales.
 
-Empujando el postigo oteó hacia el campo. En el rancho de Pedro Limayta habían desmontado dos guardias. Los vio conversar con el viejo labriego, y luego volver a montar sus caballos rurales. La tía se aproximó a su sobrino, que continuaba pegado a la pared, como si lo hubieran cosido con alfileres. Cruzó su rostro repetidas veces con su mano huesuda, hasta que le partió los labios. —¿Y ahora? —exclamó—. ¿Ves en el lío que me has metido? ¿Qué les voy a decir? ¡Salta por la ventana, huye a campo traviesa, despéñate por los riscos!… Los cascos de los caballos resonaron en las piedras del galpón.
+El muchacho, con la cabeza cada vez más caída, gemía convulsivamente, dejando al descubierto una nuca sucia y desnutrida. Dorotea lo observó con una expresión de infinito desprecio en sus ojos acerados. Había vuelto a cruzar los brazos y su boca trazaba un surco abyecto.
 
-Algunos carneros balaron, asustados. —¡Ya es tarde! —maldijo la tía Dorotea, y recorrió con sus ojos vivaces las cuatro paredes de la cocina. Junto a la puerta divisó el tonel de aceite, que en la noche anterior lo habían llenado. —¡Mira! —dijo al sobrino, tirándolo del brazo con sus garras—. ¡Métete allí dentro, rápido! Cuando abran la puerta, hundes la cabeza. Yo te avisaré con un golpe cuando se hayan ido. ¡Cuidadito nomás con chistar! ¡Anda! —añadió, al ver que Pascual permanecía sin aliento.
+—¿Y todo fue por la Antoña? —interrogó nuevamente.
 
-Cuando los guardias entraron divisaron a la tía Dorotea, sentada al lado de la cocina, con la mirada perdida en las llamitas azules. —¡Levántese! —ordenó uno de ellos, mientras el otro, con su fusil preparado, husmeaba por los ángulos oscuros. La tía Dorotea no se movió. —¿Dónde está su sobrino? —Yo no tengo sobrinos —replicó ella, sin dejar de mirar los carbones. —¿Y Pascual Molina? —No lo conozco. Uno de los guardias la cogió por la espalda y la levantó de un zamacón. —¡Usted nos engaña! ¡Pedro Limayta me dijo que lo vio entrar antes del anochecer! —¡No me toque! —rugió la vieja, con un tono tan feroz que el guardia retrocedió—. ¡No me vuelva a tocar! —añadió, y por su boca brotó un espumarajo de saliva turbia—. Si creen que está aquí, búsquenlo. ¡Pero yo no lo conozco!
+El muchacho asintió con la cabeza.
 
-Uno de los guardias encendió un cabo de vela en la cocina y salió por los alrededores. El otro quedó junto a Dorotea, mirando a todo sitio con desconfianza. —¿Adónde da esa ventana? —preguntó. —Al rancho de Limayta —replicó la vieja. —¿Y ese tragaluz? —Al terrado. El guardia divisó el tonel de aceite. —¿Qué cosa hay allí? —preguntó aproximándose. —Aceite. El guardia se inclinó sobre el borde y observó su superficie lisa. —¿Está bueno? —preguntó metiendo el dedo, y como observara que en el rostro de la vieja no se movía una arruga, añadió para congraciarse—: Ya vendré por aquí para que me regale un poquito. En ese momento apareció el otro guardia. —No hay nadie —dijo, echándose la carabina a la espalda—.
+—Todo por la Antoña, una chica piojosa que aún no puede ser madre —masculló la tía, recuperando luego su antiguo hieratismo.
 
-Ese viejo de Limayta, con los tragos que se echa, está viendo siempre fantasmas. Los dos guardias miraron a la tía Dorotea, esperando tal vez unas palabras de ella. Pero la vieja seguía impasible, con los brazos tenazmente cruzados, como si se amarrara con su propia carne. —Bueno —dijo un guardia, levantando el ala de su sombrero—. Está visto que aquí no hay nada. —Buenas noches —añadió el otro, abriendo la puerta. —Se ha librado usted de una buena —añadió el primero, cruzando el umbral. La tía Dorotea no replicó nada.
+Pascual elevó un ojo furtivo hacia ella y lo bajó sin replicar. El silencio fue invadiendo nuevamente la cocina. De cuando en cuando se escuchaba la crepitación de una chispa en la parrilla o el balido de un carnero en el galpón. La noche se iba cerrando en el descampado. Pascual, de pronto, levantó la faz lívida manchada de lágrimas sucias, y abriendo los labios, dejó escapar un gruñido.
 
-Cuando cerraron la puerta, tampoco se movió. Esperó con el oído atento a que subieran a sus caballos. Cuando el ruido de los cascos repicó y fue lentamente debilitándose, el surco de sus labios se distendió brotando de ellos una sonrisa primitiva, ácida, como arrancada a bofetones. Cogiendo un mazo se aproximó al tonel, y dio con él un golpe en su armadura. —¡Ya puedes salir! —gritó—. ¡Ya se fueron! La superficie del aceite vibró un rato al influjo del golpe y fue quedando luego definitivamente quieta. (Madrid, 1953)
+—¡Tengo miedo, tía Dorotea! —exclamó—. ¡Los guardias ya deben de conocer todo! ¡Esteban tenía un tío cabo! ¡Me perseguirán!
+
+—¡Calla, deslenguado! —interrumpió la vieja—. ¡Pueden oírte en el rancho de Pedro Limayta! —y bajando la voz, hasta hacerla sibilante, añadió—: Y ¿dónde quieres que te esconda, pedazo de mugre? Ya sabes que si te encuentran aquí, la que va a pagar todo soy yo. Recuerda lo que le pasó a la tía Domitila por esconder en su lugar al bribón de Domingo, que se había robado dos vacas. ¡Y sólo por dos vacas!
+
+—La tía Dorotea dio un paso hacia él, un paso mecánico, como el de un muñeco de madera—. ¡Debes irte de aquí! ¡No debes dejar una sola huella! Entiéndetelas tú, y si te pescan, cuidado con decir que anduviste rondando por acá. Te daré una barra de pan, y date por bien servido. ¡Anda, levántate! La noche se ha vencido.
+
+El sobrino no replicó. Tenía el cuello estirado hacia adelante en una incómoda posición, y un dedo ligeramente erecto. Parecía estar a punto de caerse de bruces; sin embargo, se mantenía en equilibrio como por arte de magia.
+
+—¿Qué? —preguntó la vieja, doblándose hacia él.
+
+—¡Psht! —susurró Pascual, mientras su rostro, primitivamente tenso, se iba transfigurando por el terror.
+
+Claramente se escuchó el trotar de unas cabalgaduras.
+
+—¡Allí están! —bramó, y, levantándose de un brinco, se arrojó de espaldas contra la pared, quedando allí con los ojos muy abiertos.
+
+La tía Dorotea se aproximó a la ventana. Empujando el postigo oteó hacia el campo. En el rancho de Pedro Limayta habían desmontado dos guardias. Los vio conversar con el viejo labriego, y luego volver a montar sus caballos rurales. La tía se aproximó a su sobrino, que continuaba pegado a la pared, como si lo hubieran cosido con alfileres. Cruzó su rostro repetidas veces con su mano huesuda, hasta que le partió los labios.
+
+—¿Y ahora? —exclamó—. ¿Ves en el lío que me has metido? ¿Qué les voy a decir? ¡Salta por la ventana, huye a campo traviesa, despéñate por los riscos!…
+
+Los cascos de los caballos resonaron en las piedras del galpón. Algunos carneros balaron, asustados.
+
+—¡Ya es tarde! —maldijo la tía Dorotea, y recorrió con sus ojos vivaces las cuatro paredes de la cocina. Junto a la puerta divisó el tonel de aceite, que en la noche anterior lo habían llenado.
+
+—¡Mira! —dijo al sobrino, tirándolo del brazo con sus garras—. ¡Métete allí dentro, rápido! Cuando abran la puerta, hundes la cabeza. Yo te avisaré con un golpe cuando se hayan ido. ¡Cuidadito nomás con chistar! ¡Anda! —añadió, al ver que Pascual permanecía sin aliento.
+
+Cuando los guardias entraron divisaron a la tía Dorotea, sentada al lado de la cocina, con la mirada perdida en las llamitas azules.
+
+—¡Levántese! —ordenó uno de ellos, mientras el otro, con su fusil preparado, husmeaba por los ángulos oscuros.
+
+La tía Dorotea no se movió.
+
+—¿Dónde está su sobrino?
+
+—Yo no tengo sobrinos —replicó ella, sin dejar de mirar los carbones.
+
+—¿Y Pascual Molina?
+
+—No lo conozco.
+
+Uno de los guardias la cogió por la espalda y la levantó de un zamacón.
+
+—¡Usted nos engaña! ¡Pedro Limayta me dijo que lo vio entrar antes del anochecer!
+
+—¡No me toque! —rugió la vieja, con un tono tan feroz que el guardia retrocedió—. ¡No me vuelva a tocar! —añadió, y por su boca brotó un espumarajo de saliva turbia—. Si creen que está aquí, búsquenlo. ¡Pero yo no lo conozco!
+
+Uno de los guardias encendió un cabo de vela en la cocina y salió por los alrededores. El otro quedó junto a Dorotea, mirando a todo sitio con desconfianza.
+
+—¿Adónde da esa ventana? —preguntó.
+
+—Al rancho de Limayta —replicó la vieja.
+
+—¿Y ese tragaluz?
+
+—Al terrado.
+
+El guardia divisó el tonel de aceite.
+
+—¿Qué cosa hay allí? —preguntó aproximándose.
+
+—Aceite.
+
+El guardia se inclinó sobre el borde y observó su superficie lisa.
+
+—¿Está bueno? —preguntó metiendo el dedo, y como observara que en el rostro de la vieja no se movía una arruga, añadió para congraciarse—: Ya vendré por aquí para que me regale un poquito.
+
+En ese momento apareció el otro guardia.
+
+—No hay nadie —dijo, echándose la carabina a la espalda—. Ese viejo de Limayta, con los tragos que se echa, está viendo siempre fantasmas.
+
+Los dos guardias miraron a la tía Dorotea, esperando tal vez unas palabras de ella. Pero la vieja seguía impasible, con los brazos tenazmente cruzados, como si se amarrara con su propia carne.
+
+—Bueno —dijo un guardia, levantando el ala de su sombrero—. Está visto que aquí no hay nada.
+
+—Buenas noches —añadió el otro, abriendo la puerta.
+
+—Se ha librado usted de una buena —añadió el primero, cruzando el umbral.
+
+La tía Dorotea no replicó nada. Cuando cerraron la puerta, tampoco se movió. Esperó con el oído atento a que subieran a sus caballos. Cuando el ruido de los cascos repicó y fue lentamente debilitándose, el surco de sus labios se distendió brotando de ellos una sonrisa primitiva, ácida, como arrancada a bofetones. Cogiendo un mazo se aproximó al tonel, y dio con él un golpe en su armadura.
+
+—¡Ya puedes salir! —gritó—. ¡Ya se fueron!
+
+La superficie del aceite vibró un rato al influjo del golpe y fue quedando luego definitivamente quieta.
+
+*(Madrid, 1953)*

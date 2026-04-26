@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# Misterio En São Cristovão*
 *(“Mistério em São Cristóvão”)*
 *Originalmente publicado en Alguns contos (1952);*
 *reimpreso en Laços de família (1960)*

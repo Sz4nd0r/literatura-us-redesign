@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# La Última Belleza*
 *(“The Last of the Belles”)*
 *Originalmente publicado en The Saturday Evening Post, 201 (2 de marzo de 1929);*
 *Taps at Reveille*

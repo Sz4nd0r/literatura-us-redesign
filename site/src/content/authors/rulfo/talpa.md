@@ -11,7 +11,6 @@ tags:
 *Juan*
 *Rulfo*
 *(México, 1918-1986)*
-*# Talpa*
 *Originalmente publicado en*
 *la revista América*
 *Nº 62, enero, 1950*

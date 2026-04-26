@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# Una Conquista*
 *(El desierto y otros cuentos, 1924)*
 *ÉL:*
 *Cada cuatro o cinco días, y desde*
@@ -181,7 +180,6 @@ donde la dueña de casa nos sirve el café. Y retirándose:
 —Los
 hombres deben estar un momento solos —me mira ella radiante, con un nuevo
 hoyuelo en la sonrisa.
-# ## Ella:
 Desde
 aquí, por la puerta entreabierta, los veo bien. No hago el menor movimiento.
 Epamí me da la espalda, y lee. Está leyendo su novelita, por fin... y es feliz,

@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Final De Agosto*
 *(“Fine d’agosto”, 1941)*
 *Originalmente publicado en Il Messaggero de Roma (31 de agosto de 1941);*
 *reproducido en Feria d’agosto*

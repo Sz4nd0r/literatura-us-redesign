@@ -8,7 +8,6 @@ tags:
   - mutis
 ---
 
-# Álvaro Mutis
 
 ![Álvaro Mutis](/assets/images/amutis.jpg)
 

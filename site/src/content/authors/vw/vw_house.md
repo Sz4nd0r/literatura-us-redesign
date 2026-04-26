@@ -10,7 +10,6 @@ tags:
 ---
 *Virginia Woolf*
 *(1882-1941)*
-*# Una Casa Encantada*
 *(1921)*
 *(“A Haunted House”)*
 *Monday or Tuesday*

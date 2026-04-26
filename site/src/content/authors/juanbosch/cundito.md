@@ -8,7 +8,6 @@ tags:
   - cundito
   - juanbosch
 ---
-*# Cundito*
 *Juan Bosch (1909 - 2001)*
 
 Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) —Le dieron una galleta a Cundito —dijo Querito acercándose al grupo. —¿Una galleta? ¿Y quién? —inquirió Chucho. —Genén, el de la vieja Masú —respondió a la vez que buscaba con los ojos dónde sentarse. Quintín clavó la mirada en Querito, se rascó la barba y abrió la boca como deseando hablar; pero pareció arrepentirse y se conformó con lanzar a considerable distancia un negro salivazo.

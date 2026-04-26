@@ -8,7 +8,6 @@ tags:
   - visita
   - oscar
 ---
-*# La visita, siempre aplazada*
 *Óscar Collazos (1942 - 2015)*
 
 Solo dos semanas más tarde parecía salir del abandono en que dejó la casa, habitualmente cuidada. La verdad es que la llegada de nuestro hermano había trastornado el orden de la casa, no tanto porque a mamá se le hubiese ocurrido darle una sorpresa limpiando muebles, remendando colchas, escondiendo trastos de mal ver, simulando un modesto equilibrio entre nuestras escasas posesiones y el aspecto de nuestra vivienda como el artificio que sin saberlo nos impuso, contagiados por la expectativa.

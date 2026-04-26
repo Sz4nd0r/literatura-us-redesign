@@ -8,7 +8,6 @@ tags:
   - funeral
   - willa
 ---
-# El funeral del escultor
 
 **Willa Cather**
 

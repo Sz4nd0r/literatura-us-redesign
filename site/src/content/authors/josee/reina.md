@@ -8,7 +8,6 @@ tags:
   - reina
   - josee
 ---
-*# La reina*
 *José Emilio Pacheco (n. 2004)*
 *El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Emilio Carballido Oh reina rencorosa y enlutada… Porfirio Barba Jacob Adelina apartó el rizador de pestañas y comenzó a aplicarse el rímel. Una línea de sudor manchó su frente. La enjugó con un clínex y volvió a extender el maquillaje. Eran las diez de la mañana. Todo lo impregnaba el calor. Un organillero tocaba el vals Sobre las olas. Lo silenció el estruendo de un carro de sonido en que vibraban voces incomprensibles.*
 

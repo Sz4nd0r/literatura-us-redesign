@@ -10,7 +10,6 @@ tags:
 ---
 *Joyce Carol Oates*
 *(Lockport, New York, 1938-)*
-*# Amante*
 *(“Lover”)*
 *Originalmente publicado en Granta (58: 4 de julio 1997)*
 *Faithless: Tales of Transgression (2001)*

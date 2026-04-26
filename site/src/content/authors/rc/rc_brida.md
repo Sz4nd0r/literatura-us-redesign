@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# La Brida*
 *(“The Bridle”)*
 *Originalmente publicado en The New Yorker (julio 19, 1982);*
 *Cathedral (1983);*

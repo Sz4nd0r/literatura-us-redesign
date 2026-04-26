@@ -8,7 +8,6 @@ tags:
   - leon
   - bioy
 ---
-*# Un león en el bosque de Palermo*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 El lado de la sombra (Buenos Aires: Emecé, 1962, 192 págs.) …Hideous animal, get bence! The Sphinx. Valga de prólogo el doctor Standle-Zanichelli. Todo empezó, pues, en el Club Atlético, el miércoles, al fin de la tarde, minutos antes de que huyera del Jardín Zoológico el león. El cuidador del vestuario, Daniel, estaba cansado: desde la mañana tuvo un día de trajín, con el club repleto. Protestaban los socios por el agua fría, bajaba a cargar la caldera, se fugaban sin pagar la toalla o berreaban porque no estaba arriba para distribuir a cada uno su oblea de jabón rojizo. Ya caía la noche. De puro nervioso, el pobre Daniel andaba soplándose las manos, y de ganas de chupar un mate, tragaba. ¿Por qué la Melania lo cebaría tibio?

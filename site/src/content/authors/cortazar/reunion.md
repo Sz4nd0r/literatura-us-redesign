@@ -8,9 +8,7 @@ tags:
   - reunion
   - cortazar
 ---
-*# Reunión*
 *Julio Cortázar*
-*# Reunión*
 *Julio Cortázar*
 
 Todos los fuegos el fuego, 1966) Recordé un viejo cuento de Jack London, donde el protagonista, apoyado en un tronco de árbol, se dispone a acabar con dignidad su vida. Ernesto «Che Guevara», en La sierra y el llano, La Habana, 1961. Nada podía andar peor, pero al menos ya no estábamos en la maldita lancha, entre vómitos y golpes de mar y pedazos de galleta mojada, entre ametralladoras y babas, hechos un asco, consolándonos cuando podíamos con el poco tabaco que se conservaba seco porque Luis (que no se llamaba Luis, pero habíamos jurado no acordamos de nuestros nombres hasta que llegara el día) había tenido la buena idea de meterlo en una caja de lata que abríamos con más cuidado que si estuviera llena de escorpiones.

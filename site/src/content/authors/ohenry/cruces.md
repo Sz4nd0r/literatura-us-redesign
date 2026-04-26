@@ -441,8 +441,6 @@ sírvase entregar el ganado al portador con
 la seguridad de que el cheque correspondiente le
 será remitido sin tardanza.
 Muy atentamente la saluda,
-# Webber Yeager
-# ## Encargado General De Rancho Seco
 El negocio es el negocio aunque sea —por milagro se
 ha escrito sobre todo— en un reino.
 Aquella misma noche se trasladaron cien cabezas

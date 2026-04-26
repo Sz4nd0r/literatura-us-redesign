@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - 1); ‎Ketchum, Idaho‎, E.U., 1961)*
-*# El Anciano Del Puente*
 *(“Old Man at the Bridge")*
 *Originalmente publicado en Ken Magazine, Vol. 1, Núm. 4 (19 de mayo de 1938);*
 *The Fifth Column and the First Forty-Nine Stories*

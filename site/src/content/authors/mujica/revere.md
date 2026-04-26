@@ -8,7 +8,6 @@ tags:
   - revere
   - mujica
 ---
-*# XII. Las reverencias (1648)*
 *Manuel Mujica Lainez*
 
 Margarita cruza la Plaza Mayor en la silla de manos del gobernador del Río de la Plata. Va al Fuerte, a hacer su reverencia ante la señora Francisca Navarrete, la gobernadora. Su falda de raso amarilla es tan enorme que hubo que abrir las dos portezuelas, para albergar en el vehículo su rígida armazón. Los negros que transportan la caja, entre las varas esculpidas, caminan muy despacio, como si llevaran en andas una imagen religiosa, no sea que el lodo salpique el atavío de la niña.

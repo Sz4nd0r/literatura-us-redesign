@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Van Al Comando*
 *Ultimo viene il corvo (1949)*
 
 El bosque era ralo, casi destruido por los incendios, gris en los troncos quemados, rojizo en las agujas secas de los pinos. El hombre armado y el hombre desarmado venían bajando en zigzag entre los árboles.

@@ -24,7 +24,6 @@ Abbey Grange, Marsham, Kent, 3.30 de la madrugada
 Querido señor Holmes:
 Me encantaría que me prestara su ayuda de inmediato en lo que promete ser un caso muy singular. Es algo que entra dentro de su especialidad. Dejaré libre a la dama, pero me cuidaré de que todo lo demás se mantenga exactamente como lo he encontrado, pero le ruego que no pierda ni un instante, porque es complicado dejar a sir Eustace ahí.
 Sinceramente suyo,
-# Stanley Hopkins
 —Hopkins ha solicitado mis servicios siete veces, y, en cada una de esas ocasiones, su petición ha quedado completamente justificada —dijo Holmes—. Creo que todos sus casos han encontrado sitio en su colección, y, debo admitir, Watson, que tiene cierta capacidad de selección que expía las muchas cosas que desapruebo de sus relatos. Su nefasta costumbre de mirarlo todo desde el punto de vista de la narración, en lugar de verlo como un ejercicio científico, ha arruinado lo que quizá tuvieran de instructivas e incluso clásicas una serie de demostraciones. Pasa por alto un trabajo de suma sutileza y finura para entretenerse en detalles sensacionalistas que tal vez entusiasmen al lector, pero que posiblemente no logren enseñarle nada.
 —¿Por qué no los escribe usted mismo? —le dije con algo de rencor.
 —Lo haré, mi querido Watson, lo haré. Ahora mismo estoy, como sabe, bastante ocupado, pero tengo intención de consagrar mi vejez a la redacción de un libro de texto que abarcará todo el arte de la investigación en un solo volumen. Nuestro presente caso parece ser de asesinato.

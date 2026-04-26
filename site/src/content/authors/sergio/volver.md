@@ -8,7 +8,6 @@ tags:
   - volver
   - sergio
 ---
-*# Volver*
 *Sergio Ramírez (n. 1942)*
 *Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Hortensia Campanella Al atardecer del 5 de agosto de 1942, el tren se acercaba lentamente a Masatepe, el pueblo donde había nacido. Sentado en la banqueta transversal de la góndola, entre las verduleras que regresaban con sus canastos vacíos, era como una extraña aparición con su viejo traje de casimir a rayas y su sombrero de fieltro de anchas alas sesgado sobre la frente, la corbata de pajarita en el cuello almidonado, negro en el reborde, que había acumulado suciedad por días en su deambular por los mercados, los andenes de las estaciones, cantinas y garitos donde cantaba tangos a cambio de los pesos que depositaban en su sombrero.*
 

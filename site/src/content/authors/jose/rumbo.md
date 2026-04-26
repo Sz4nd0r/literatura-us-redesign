@@ -8,7 +8,6 @@ tags:
   - rumbo
   - jose
 ---
-*# Rumbo al mar*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

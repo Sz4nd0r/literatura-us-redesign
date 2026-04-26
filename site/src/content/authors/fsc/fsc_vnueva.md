@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Vida Nueva*
 *(“A New Leaf”)*
 *Originalmente publicado en The Saturday Evening Post, 204 (4 de julio de 1931);*
 *Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald*

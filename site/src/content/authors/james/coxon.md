@@ -10,7 +10,6 @@ tags:
 ---
 *Henry James*
 *(1843-1916)*
-*# El Fondo Coxon*
 *(1894)*
 *(“The Coxon Fund”)*
 *Originalmente publicado en la revista The Yellow Book, Núm. 2 (julio de 1894);*
@@ -271,7 +270,6 @@ Traté de pensar en algún otro gran hombre, pero me di por vencido. Me limité 
 —¿Como un cristal? —dije, enarcando las cejas.
 —Suspendido en el mundo moral, balanceándose y brillando y deslumbrando desde allí arriba. Esta muchacha es monstruosamente lista.
 —¡Monstruosamente! —Exclamé pensativo.
-# ## Viii
 George Gravener no siguió a su prometida a América, pues a finales de septiembre, cuando la actividad de la Cámara había disminuido, me lo encontré en el vagón de un tren. Él venía de Escocia, y yo acababa de dejar a unos familiares que vivían cerca de Durham. No había muchos pasajeros en dirección a Londres; y cuando entré en el compartimento, me dijo que llevaba un buen rato solo. Viajamos juntos el resto del trayecto, y aunque él tenía un libro en el regazo y las fauces abiertas de su maletín me amenazaban con los blancos dientes de un montón de papeles mezclados, inevitablemente al final mantuvimos una agradable conversación. Me di cuenta de que no estaba del todo bien, pero no mencioné nada hasta que, como en anteriores ocasiones, algo que dijo motivó una pregunta, pues, de no hacerla, corría el riesgo de la descortesía. Comentó que estaba preocupado por su buena amiga lady Coxon, que yacía gravemente enferma en Clockborough, lejos de su sobrina, que seguía en Estados Unidos.
 —¿La señorita Anvoy sigue en América?
 —Su padre está totalmente arruinado. Ha perdido, en verdad, una fortuna.
@@ -448,7 +446,6 @@ Lo sabía. El sobre pesaba demasiado.
 Me estremecí de emoción. Pregunté:
 —¿Y por qué no se la mandan a ella directamente?
 —Pues porque se aloja con los Mulville —disparó la señora Saltram.
-# # ## ## —¿Y?
 Mi visitante vaciló, y yo pensé en cuán grotesco e inconscientemente perverso era su papel. Yo era el único, excepto George Gravener y los Mulville, que sabía del extraño botín de sir Gregory Coxon, del que ahora era dueña la señorita Anvoy. La torpeza de los seres humanos quedaba notablemente ilustrada por el momento que habían elegido para mandarle su mensaje en una botella. Mientras, la señora Saltram replicó:
 —Quizá los Pudney no querían que los Mulville vieran el sobre, puesto que conocen la escritura del señor Pudney.
 Al principio no entendía nada; luego lo vi claro.

@@ -258,7 +258,6 @@ Me trataba como a un lacayo, es decir, como a una criatura de condición inferio
 ama.
 Zinaida Fiódorovna me consideraba un ser inferior, sin darse cuenta de que si alguien estaba humillado en la casa, ese alguien era ella. Ignoraba que yo, un criado, sufría por ella, y me preguntaba a mí mismo veinte veces al día qué le depararía el porvenir y cómo terminaría todo aquello. Las cosas empeoraban visiblemente. A partir de la tarde en que hablaron del trabajo, Orlov, poco amigo de lágrimas, temía y rehuía las conversaciones. Cuando Zinaida Fiódorovna comenzaba a discutir, o a implorar, o a llorar, él recurría a cualquier pretexto para irse a su gabinete o a la calle. Cada vez con más frecuencia, pernoctaba fuera, y era raro que almorzase en casa. Los jueves, él mismo pedía a sus amigos que le llevasen a cualquier parte. Zinaida Fiódorovna seguía soñando con una cocina, un piso nuevo y un viaje al extranjero, sin que los sueños se realizasen nunca. La comida, como antes, se traía de un restaurante; el problema de la vivienda no quería Orlov que se plantease hasta regresar del viaje al extranjero; y respecto a este viaje decía que no podría efectuarse hasta que le creciese el pelo, pues no era posible andar por hoteles y servir a una idea sin poseer una larga melena.
 Para colmo, muchas tardes comenzó a venir Kukushkin en ausencia de Orlov. Su comportamiento no tenía nada de extraño; pero a mí no se me iba de la memoria la conversación en que dijo que intentaría quitarle la amante a Orlov. Zinaida Fiódorovna le agasajaba con té y con vino; y él, con su risilla de conejo, tratando de agradar, afirmaba que el matrimonio civil era mejor que el eclesiástico en todos los sentidos y que todas las personas decentes debieran venir a postrarse a los pies de Zinaida Fiódorovna.
-# Viii
 Las fiestas de Navidad transcurrieron aburridas, con lúgubres augurios. En vísperas de Año Nuevo, Orlov anunció, inesperadamente, que sus jefes le habían comisionado, con poderes especiales, a disposición de un senador que estaba efectuando una inspección en cierta provincia.
 —Maldita la gana que tengo de ir, pero cualquiera se niega —dijo, como disgustado—. Debo resignarme; no hay nada que hacer.
 Los ojos de Zinaida Fiódorovna enrojecieron ante tal noticia.
@@ -430,7 +429,6 @@ El ladrón pendiente de la cruz supo recobrar su gozo y su esperanza, audaz y re
 No escribí más. Las ideas y los pensamientos formaban un enjambre en mi cerebro, pero todos ellos se diluían, resistiéndose a ser colocados en renglones. Sin terminar la carta, firmé, poniendo mi título, nombre y apellido, y me dirigí al gabinete. Estaba oscuro. Busqué a tientas la mesa y coloqué la carta en ella. Probablemente, en tales operaciones debí tropezar con un mueble y hacer ruido.
 —¿Quién anda ahí? —llegó una voz, alterada, desde la sala.
 En aquel mismo instante, el reloj de la mesa dio suavemente la una de la noche.
-# ## Xiii
 Anduve cosa de medio minuto tanteando la puerta, hasta que la abrí lentamente y penetré en la sala. Zinaida Fiódorovna, que se hallaba tendida en el diván, se incorporó sobre un codo y me miró. No atreviéndome a abordarla, pasé de largo ante ella, que me siguió con la vista. Después de permanecer de pie un momento al otro extremo de la sala, volví a pasar a su lado. Me miró, atenta y perpleja, e incluso con miedo. Por último, me detuve y le dije, haciendo un esfuerzo:
 —Él no regresará.
 Se levantó presurosa, y fijó en mí una mirada de incomprensión.
@@ -488,7 +486,6 @@ Le conté, una vez más, con más pormenores y detenimiento que la víspera, qui
 —Allí todo ha terminado para mí. ¿Sabe? No he podido contenerme y le he escrito una carta. Esta es la contestación.
 En una hoja que me dio, vi unos renglones escritos por la mano de Orlov:
 No quiero justificarme. Sin embargo, reconozca que ha sido usted quien se ha equivocado, y no yo. Le deseo que sea feliz y le ruego que olvide pronto a este que la aprecia,
-# # ## ## G. O.
 PS. —Le envío su ropa.
 Los baúles y las cestas enviados por Orlov estaban en el recibidor de la casa, y entre ellos se encontraba también mi pobre maleta.
 —De manera que… —comenzó diciendo Zinaida Fiódorovna, pero no terminó.

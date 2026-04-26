@@ -199,7 +199,6 @@ Se sacó del bolsillo una gran hoja de papel, enteramente cubierta de fechas y n
 —No estaba ni estoy muy seguro de cuál, pero tenía la certeza de que el barco era de origen norteamericano.
 —¿Y luego?
 —Busqué en los archivos de Dundee, y, cuando averigüé que el Lone Star había estado allí en enero del 85, mi sospecha se convirtió en certeza. Entonces indagué qué barcos estaban atracados ahora en el puerto de Londres.
-# # # # —¿Y…?
 —El Lone Star había llegado la semana pasada. He ido al muelle Albert y he sabido que había zarpado esta mañana con la marea, de regreso a Savannah. He telegrafiado a Gravesend y me han dicho que había pasado por allí hacía un rato, y, como sopla el viento del este, no me cabe duda de que ahora debe haber rebasado los peligrosos Goodwins y no debe distar mucho de la isla de Wight.
 —¿Y qué piensa hacer usted?
 —Oh, ya los tengo en mis manos. He averiguado que él y los dos oficiales son los únicos americanos que hay a bordo. Los otros son finlandeses y alemanes También sé que los tres estuvieron fuera del barco la noche pasada. Me lo contó el estibador que se ha ocupado del cargamento. Cuando el velero llegue a Savannah, el vapor correo habrá llevado esta carta, y el telégrafo habrá informado a la policía de que estos tres caballeretes son reclamados aquí bajo acusación de asesinato.

@@ -17,8 +17,6 @@ tags:
 *(Milán: Arnoldo Mondadori Editore, 1966, 451 págs.)*
 
 Una mañana, el célebre pintor Lucio Predonzani, cuarenta y seis años, quién se había retirado hacía mucho tiempo a su casa de campo en Vimercate, quedó petrificado al abrir su periódico cotidiano, porque acababa de ver en la tercera página, abajo a la derecha, a cuatro columnas, el siguiente titular:
-# El Arte Italiano De Duelo
-# ## El Pintor Predonzani Ha Muerto
 Y a continuación una pequeña nota en cursiva:
 Vimercate, febrero 21.
 Luego de una breve enfermedad frente a la cuál los médicos se mostraron impotentes, la vida del pintor Lucio Predonzani se extinguió hace dos días. El difunto había expresado la voluntad de que su deceso no fuera anunciado sino luego de las exequias.

@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# El Huevo Y La Gallina*
 *(“O ovo e a galinha”)*
 *A legião estrangeira (1964)*
 *Por la mañana en la cocina, sobre la mesa, veo el huevo.*

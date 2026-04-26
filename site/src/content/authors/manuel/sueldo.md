@@ -8,7 +8,6 @@ tags:
   - sueldo
   - manuel
 ---
-*# Poco sueldo*
 *Manuel Rojas*
 *Originalmente publicado en el periódico La Nación [Santiago de Chile] (7 de april de 1929); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.) Las oficinas de administración de aquella empresa se componen de tres habitaciones que ocupan el lado derecho de los bajos del edificio. El izquierdo está ocupado por las de la gerencia. Entre las primeras y las segundas hay un amplio vestíbulo con techo de vidrio. Al fondo del vestíbulo está la escalera que conduce al segundo piso, en el cual están instalados los talleres y la sala de máquinas.*
 

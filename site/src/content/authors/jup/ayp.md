@@ -10,7 +10,6 @@ tags:
 ---
 *John Updike*
 *(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
-*# # A&P (1961)*
 *Originalmente publicada en la revista The New Yorker (22 de julio de 1961)*
 *Pigeon Feathers*
 *(Nueva York: Alfred A. Knopf, 1962, 296 págs.)*

@@ -8,7 +8,6 @@ tags:
   - bajo
   - bioy
 ---
-*# Bajo el agua*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Bajo el agua Una muñeca rusa (Buenos Aires: Tusquets Editores, 1991, 184 págs.) Cuando sané, por fin, de la hepatitis, el médico me recomendó que por unos días me fuera a las sierras, a la costa o al campo, a cualquier parte donde estuviera tranquilo y respirase aire puro. Tomé el teléfono y anuncié a la señora de Pons que sólo el 20 de mayo tendría lista la escritura. Thompson me dijo: —Pero, Martelli, ¿por qué te comprometes a estar acá en una fecha determinada? Yo me ocupo de la escritura… —¿Sabes lo que pasa? La señora… —¿Es de tu ramillete de viejas exclusivas?

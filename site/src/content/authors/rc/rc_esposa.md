@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# La Esposa Del Estudiante*
 *(“The Student's Wife”)*
 *Originalmente publicado en Carolina Quarterly (1964)*
 *Will You Please Be Quiet, Please? (1976)*

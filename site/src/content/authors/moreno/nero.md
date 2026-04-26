@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Martínez Moreno*
 *(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
-*# El Prisionero*
 *(1968)*
 *La sirena y otros relatos*
 *(Montevideo: Centro Editor de América Latina, 1968)*

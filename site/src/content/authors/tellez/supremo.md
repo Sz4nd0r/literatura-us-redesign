@@ -8,7 +8,6 @@ tags:
   - supremo
   - tellez
 ---
-*# Visita al juez supremo*
 *Hernando Téllez (1908 - 1966)*
 
 Visita al juez supremo Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) La explosión fue terrible. Exactamente como había sido prevista por la Gran Central de Control. Las ondas letales se difundieron sin obstáculo por todo el haz de la tierra. Eva Rodríguez —lo refirió a Dios un poco más tarde— se encontraba lista para salir a la calle. En el saloncito del pequeño departamento que ocupaba en la planta baja de un moderno edificio del centro de la ciudad, la esperaba su amante, el bueno, el simpático Adán. Adán Martínez.

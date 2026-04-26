@@ -17,10 +17,7 @@ tags:
 *The Open Boat and Other Tales of Adventure*
 *(Nueva York:*
 *Doubleday & McClure, 1898, 336 págs.)*
-*# Una Historia Que Habla De La Experiencia*
-*# ## De Cuatro Hombres Que Se Hundieron*
 
-# ## ## En El Bote Commodore
 I
 Ninguno de ellos supo en ese momento el color del cielo. Sus ojos miraron
 hacia arriba pero fueron rápidamente desviados a las corrientes y olas que

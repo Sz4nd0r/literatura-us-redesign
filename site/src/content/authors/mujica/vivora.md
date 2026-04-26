@@ -8,7 +8,6 @@ tags:
   - vivora
   - mujica
 ---
-*# XXIII. La vívora (1780)*
 *Manuel Mujica Lainez*
 
 El anciano militar escucha la lectura con los ojos entrecerrados. Le fatiga el duro estilo de los documentos, y de tanto en tanto su mirada se distrae hacia el rayo de sol que cae oblicuamente en mitad de la celda. Es como una trémula columna azul que se desgarra y luego vuelve a formarse, como una diminuta Vía Láctea en la que se agitan millones y millones de corpúsculos. Junto a la mesa que preside el dominico, el hijo del teniente de maestre de campo se apasiona sobre los papeles.

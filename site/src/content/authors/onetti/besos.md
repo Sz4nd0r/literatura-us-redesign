@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Los Besos*
 *Originalmente publicado en Cuentos completos (Alfaguara), 1994*
 
 Los había conocido y extrañado de su madre. Besaba en las dos mejillas o en la mano, a toda mujer indiferente que le presentaran, había respetado el rito prostibulario que prohibía unir las bocas; novias, mujeres, le habían besado con lenguas en la garganta y se habían detenido, sabias y escrupulosas, para besarle el miembro. Saliva, calor y deslices, como debe ser.

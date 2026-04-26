@@ -11,7 +11,6 @@ tags:
 *Emilio*
 *Díaz Valcárcel*
 *(Trujillo Alto, Puerto Rico, 1929 - San Juan, 2015)*
-*# La Evasión*
 *Proceso en diciembre*
 *(Madrid: Taurus Ediciones, 1963, 148 págs.)*
 *Con los codos en tierra alzaba de*

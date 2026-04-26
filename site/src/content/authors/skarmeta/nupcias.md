@@ -11,7 +11,6 @@ tags:
 *Antonio*
 *Skármeta*
 *(Antofagasta, Chile, 1940 -)*
-*# Nupcias*
 *El entusiasmo*
 *(Santiago de Chile: Zig-Zag, 1967, 181 págs.)*
 *Hacía mucho calor en el tren*

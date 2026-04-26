@@ -10,7 +10,6 @@ tags:
 ---
 *Isaac Babel*
 *(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
-*# Mis Primeros Honorarios*
 *(“Мой первый гонорар”)*
 
 Publicado póstumamente en Воздушные пути [Nueva York], Núm. 3 (1953), págs. 35-44;

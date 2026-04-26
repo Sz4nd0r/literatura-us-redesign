@@ -8,7 +8,6 @@ tags:
   - nieve
   - mutis
 ---
-# La nieve del Almirante
 **Álvaro Mutis**
 *La nieve del Almirante (Madrid: Alianza Editorial, 1986, 146 págs.) A Ernesto Volkening (Amberes, 1908 - Bogotá, 1983) En recuerdo y homenaje a su amistad sin sombras, a su lección inolvidable. N'accomplissant que ce qu'il doit, Chaque pêcheur pêche pour soi: Et le premier recueille, en les mailles qu'il serre, Tout le fretin de sa misère; Et celui-ci ramène, à l'étourdie, Le fond vaseux des maladies; Et tel ouvre ses nasses Aux deuils passants qui le menacent; Et celui-là ramasse, aux bords, Les épaves de son remords. ÉMILE VERHAEREN, Les pêcheurs DIARIO DEL GAVIERO Marzo 15 Los informes que tenía indicaban que buena parte del río era navegable hasta llegar al pie de la cordillera. No es así, desde luego.*
 

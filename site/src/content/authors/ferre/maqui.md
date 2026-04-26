@@ -8,7 +8,6 @@ tags:
   - maqui
   - ferre
 ---
-*# Maquinolandera*
 *Rosario Ferré (2001 - 1972)*
 
 Nosotros los condenados, los jusmeados por los jocicos jediondos, los jodidos por las jetas joseadoras de los agentes de la ley. Nosotros, los cucaracheados por los escondrijos, los evacuados por los canales de los arrabales donde nos solemos estar. Nosotros, Ray, Roberto, Willi y Eddi, Dios los cría y ellos se juntan, bajo el mando de Ismael. Ismael el bendito porque Dios lo escucha, tiende su lomo frente a él y le dice pégame, pégame duro mi amor, qué rico suena mi tambor.

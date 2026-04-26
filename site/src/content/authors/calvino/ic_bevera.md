@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# El Hambre En Bévera*
 *Ultimo viene il corvo (1949)*
 
 En 1944 el frente se detuvo allí como en el 40, sólo que esta vez la guerra no terminaba y no había modo de que se desplazara. La gente no quería hacer como en el 40: cargar cuatro trapos y las gallinas en una carreta y partir con el mulo delante y la cabra atrás. En el 40, cuando volvieron, habían encontrado todos los cajones por el suelo y excrementos humanos en las cacerolas, porque ya se sabe que los italianos, cuando son soldados y pueden hacer daño, no distinguen amigos de enemigos. De modo que no se movieron, con los cañonazos franceses que llegaban día y noche a clavarse en las casas, y los de los alemanes silbando sobre sus cabezas.

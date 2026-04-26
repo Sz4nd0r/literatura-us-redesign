@@ -8,7 +8,6 @@ tags:
   - letras
   - benedetti
 ---
-*# Letras de emergencia*
 *Mario Benedetti (1920 - 2009)*
 *Letras de emergencia (1969-1973) VERSOS PARA CANTAR a nacha guevara y alberto favero NOTA Con una sola excepción («Las ocho viudas»), estos «Versos para cantar» han sido incorporados al repertorio de uno u otro de los siguientes cantantes populares: Nacha Guevara, Daniel Viglietti, Los Olimareños, Numa Moraes, Gianfranco Pagliaro, Soledad Bravo, Carlos Fasano, Dianne Denoir y Washington Carrasco. Integran el repertorio de Nacha Guevara las siguientes canciones: «Alguien», «Seré curioso» (con el título «¿De qué se ríe?»), «Tu quebranto», «Tango para un fin de siesta» (con el título: «Fin de siesta»); «La secretaria ideal» (con el título: «Yo soy la secretaria»), «Allá enfrente», «Me sirve y no me sirve», «Vamos juntos», «Las palabras», «Cielito de los muchachos» (con el el título: «Triunfo de los muchachos»), «Oríentalito» (con el título: «Argentinito») y «Vidalita por las dudas».*
 

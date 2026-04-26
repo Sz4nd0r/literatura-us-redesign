@@ -8,7 +8,6 @@ tags:
   - isabel
   - garciamarquez
 ---
-*# Monólogo de Isabel viendo llover en Macondo*
 *Gabriel*
 *García Márquez (n. 1947)*
 

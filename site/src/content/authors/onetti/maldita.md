@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Maldita Primavera*
 *Originalmente publicado en Cuentos completos (Alfaguara), 1994*
 
 Aquella mañana temprano Aránzuru abrió la gran ventana sobre los olores del jardín y un viento leve y caprichoso le tocó la cara y le revolvió el pelo.

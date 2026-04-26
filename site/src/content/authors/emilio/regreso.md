@@ -11,7 +11,6 @@ tags:
 *Emilio*
 *Díaz Valcárcel*
 *(Trujillo Alto, Puerto Rico, 1929 - San Juan, 2015)*
-*# El Regreso*
 *Proceso en diciembre*
 *(Madrid: Taurus Ediciones, 1963, 148 págs.)*
 *Se detuvo frente al balconcito sin*

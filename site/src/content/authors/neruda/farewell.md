@@ -13,8 +13,6 @@ tags:
 *(1904–1973)*
 *Crepusculario*
 *(1919)*
-*# Farewell Y Los Sollozos*
-*# ## Farewell*
 *1*
 *Desde el fondo de ti, y*
 *arrodillado,*
@@ -66,7 +64,6 @@ Yo me voy. Estoy triste: pero siempre estoy triste.
 Vengo desde tus brazos. No sé hacia dónde voy.
 ...Desde tu corazón me dice adiós un niño.
 Y yo le digo adiós.
-# ## ## El Padre
 Tierra de sembradura inculta y
 brava,
 tierra en que no hay esteros ni caminos
@@ -90,7 +87,6 @@ Escucharé en la noche tus palabras, ... niño, mi niño...
 Y
 en la noche inmensa
 seguiré con mis llagas y tus llagas.
-# ## ## ## El Ciego De La Pandereta
 Ciego, ¿siempre será tu ayer
 mañana
 ¿Siempre estará tu pandereta pobre

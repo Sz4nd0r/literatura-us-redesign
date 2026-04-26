@@ -10,7 +10,6 @@ tags:
 ---
 *Tobias Wolff*
 *(Birmingham, Alabama, 1945 –)*
-*# El Otro Miller*
 *(1986)*
 *(“The Other Miller”)*
 *Originalmente publicado en la revista Atlantic Monthly (junio 1986, Vol. 257, Issue 6, pág. 56);*

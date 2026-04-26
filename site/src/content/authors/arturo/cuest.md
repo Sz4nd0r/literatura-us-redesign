@@ -8,7 +8,6 @@ tags:
   - cuest
   - arturo
 ---
-*# La cuestión*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Los ganadores* (1980)*
 *Si usted insiste en negar nos veremos obligados a emplear otros métodos.*

@@ -8,7 +8,6 @@ tags:
   - fabula
   - benedetti
 ---
-*# Fábula con Papa*
 *Mario Benedetti (1920 - 2009)*
 
 Papa estaba allí, solo y bostezando, con su atuendo blanquísimo, recostado en la pared de ladrillos. Siempre supe que lo iba a encontrar, pero no pensé que sería tan pronto. Tenía los ojos cerrados, o quizá entrecerrados, como los de un miope al que el sol le molesta. Pero estaba nublado. —Hola, Santidad —dije tentativamente. Levantó con pereza una mano en signo de saludo. Estaba cansado y sin carisma. Me dio un poco de vergüenza haberlo sorprendido en una soledad tan privada.

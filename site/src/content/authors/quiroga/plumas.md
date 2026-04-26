@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# El Almohadón De Plumas*
 *(Cuentos de amor, de*
 *locura y de muerte, (1917)*
 *Su luna de miel fue un largo*

@@ -10,7 +10,6 @@ tags:
 ---
 *Joyce Carol Oates*
 *(Lockport, New York, 1938-)*
-*# Mágico, Sombrío, Impenetrable*
 *—Lovely, Dark, Deep*
 *Originalmente publicado en Harper’s (noviembre 2013)*
 *Lovely, Dark, Deep (2014)*

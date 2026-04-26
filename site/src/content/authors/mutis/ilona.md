@@ -8,7 +8,6 @@ tags:
   - ilona
   - mutis
 ---
-# Ilona llega con la lluvia
 **Álvaro Mutis**
 *Ilona llega con la lluvia (Madrid: Alianza Editorial, 1986, 146 págs.) Para mi hermano Leopoldo Qedeshím qedeshóth, personaja, teóloga loca, bronce, aullido de bronce, ni Agustín de Hipona que también fue liviano y pecador en África hubiera hurtado por una noche el cuerpo a la diáfana fenicia. Yo pecador me confieso a Dios. GONZALO ROJAS, “Qedeshím qedeshóth” Son amour désintéressé du monde m'enrichit et m'insufflá une force invincible pour les jours difficiles. GORKI, Enfance AL LECTOR Prefería Maqroll el Gaviero, para relatar a sus amigos, aquellos episodios de su vida adornados con cierto dramatismo, con cierta tensión que podía llegar, a veces, hasta una evidente vena lírica, cuando no desembocar en un misterio con su correspondiente interrogación metafísica y por ende, de imposible respuesta.*
 

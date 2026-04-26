@@ -158,7 +158,6 @@ Tomo el libro que tiene su retrato en la tapa. “Cualquier cosa, toque el timbr
 Leo el libro, en mi cuarto. Es una serie de declaraciones sobre el viejo, de amigos, colegas de profesión, figurones diciendo qué hombre tan formidable fue. Todos dicen las mismas cosas sobre la inteligencia, la generosidad, la cultura, el espíritu público del Dr. Baglioni.
 A la hora del almuerzo el viejo no me habla sobre el libro. En la tarde le doy el Meritene con leche. En la comida me pregunta si leí el libro.
 —Sí.
-# # # # —¿Y?
 —¿Y qué?
 —Quiero tu opinión.
 —Creo que es una mierda. Un montón de babosadas.

@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Bichicome*
 *Originalmente publicado en Cuentos completos (Alfaguara), 1994*
 
 Ella tendría cinco o seis años cuando empecé a enterarme verdaderamente de su existencia. Hasta entonces era la primera hija de los Torres, una criatura tan bella que parecía hecha con manos de artista, pero no de la manera acostumbrada: Una enanita cargosa que estaba aprendiendo a hablar y oía conversaciones sin entender, ya con una mirada fija en los rostros parlantes de los mayores.

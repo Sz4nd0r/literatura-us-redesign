@@ -8,7 +8,6 @@ tags:
   - plata
   - mujica
 ---
-*# IX. Los pelícanos de plata (1615)*
 *Manuel Mujica Lainez*
 
 Hay tres cirios titilantes sobre la mesa y el fondo del aposento se ilumina con las ascuas del hornillo, bajo la imagen de San Eloy. El platero enciende dos velas más. Ahora la habitación resplandece como un altar, alrededor del santo patrono de los orífices. Melchor ajusta el mango de madera al sello y lo hace girar entre los dedos finos, entornando los ojos para valorar cada detalle. Está satisfecho con su trabajo y los ediles tendrán que estarlo también. En el círculo de plata maciza, abre sus alas el pelícano heráldico.

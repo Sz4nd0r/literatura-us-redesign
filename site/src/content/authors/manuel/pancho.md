@@ -8,7 +8,6 @@ tags:
   - pancho
   - manuel
 ---
-*# Pancho Rojas*
 *Manuel Rojas*
 *Originalmente publicado en Occidente [Santiago de Chile], 1951; Antología de cuentos (Santiago de Chile: Zig-Zag, 1957, 148 págs.), págs. 61-66. Para Enrique Espinola No podría decir a qué hora murió Pancho Rojas. Sospecho que murió al amanecer, instante que me parece el más angustioso para morir: irse cuando nace el nuevo día, un nuevo día que uno no vivirá, debe ser más duro que irse al caer la tarde, cuando se espera el sueño y cuando sueño y muerte se confunden. Y no es por crueldad que me inclino a creer que murió al venir el día: la violenta posición de su cuerpo, que parecía hundido en la tierra, así me lo hizo suponer. No murió apaciblemente. Al encontrarlo, boca abajo, sobre el pasto lleno todavía de rodo, y levantar su cabeza para mirarlo, tuve un estremecimiento: la cara estaba cubierta de pequeñas hormigas rojas, algunas de ellas amontonadas sobre los cerrados párpados” trabajando tal vez para atravesarlos y llegar a las pupilas.*
 

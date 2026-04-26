@@ -8,7 +8,6 @@ tags:
   - chucho
   - juanbosch
 ---
-*# Chucho*
 *Juan Bosch (1909 - 2001)*
 *Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.) Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 286 págs.), (Santo Domingo: Colección Pensamiento Dominicano, 1975, 278 pgs.) Precisamente a este lugar quería llegar Chucho. Ya estaba solo. A los tres días no había visto una cara. No se oía otra cosa que el mugido del viento entre los troncos y, a veces, el ronroneo de algún arroyo.*
 

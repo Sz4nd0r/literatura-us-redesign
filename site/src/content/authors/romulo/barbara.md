@@ -8,7 +8,6 @@ tags:
   - barbara
   - romulo
 ---
-*# Doña Bárbara*
 *Rómulo Gallegos (n. 1969)*
 *Un bongo remonta el Arauca bordeando las barrancas de la margen derecha. Dos bogas lo hacen avanzar mediante una lenta y penosa maniobra de galeotes. Insensibles al tórrido sol, los broncíneos cuerpos sudorosos, apenas cubiertos por unos mugrientos pantalones remangados a los muslos, alternativamente afincan en el limo del cauce largas palancas, cuyos cabos superiores sujetan contra los duros cojinetes de los robustos pectorales, y encorvados por el esfuerzo, le dan impulso a la embarcación, pasándosela bajo los pies de proa a popa, con pausados pasos laboriosos, como si marcharan por ella. Y mientras uno viene en silencio, jadeante sobre su pértiga, el otro vuelve al punto de partida reanudando la charla intermitente con que entretienen la recia faena, o entonando, tras un ruidoso respiro de alivio, alguna intencionada copla que aluda a los trabajos que pasa un bonguero, leguas y leguas de duras remontadas, a fuerza de palancas o coleándose, a tres, de las ramas de la vegetación ribereña. En la paneta gobierna el patrón, viejo baquiano de los ríos y caños de la llanura apureña, con la diestra en la horqueta de la espadilla, atento al riesgo de las chorreras que se forman por entre los carameros que obstruyen el cauce, vigilante al aguaje que denunciare la presencia de algún caimán en acecho. A bordo van dos pasajeros.*
 

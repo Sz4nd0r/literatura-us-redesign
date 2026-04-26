@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# Piotr Petróvich Karatáiev*
 *(1847)*
 *(“Петр Петрович Каратаев”)*
 *Originalmente publicado en la revista Современник [El Contemporáneo]*

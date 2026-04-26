@@ -8,7 +8,6 @@ tags:
   - dios
   - liliana
 ---
-*# La muerte de Dios*
 *Liliana Heker*
 
 La muerte de Dios La muerte de Dios (Buenos Aires: Aguilar, Altea, Taurus, Alfaguara, 2011, 208 págs.) Primer despertar El día empieza con Mariana en la oscuridad pidiéndole a Dios que llueva. Es un pedido inusual, de algún modo indigno de ella: no suele molestarlo por cuestiones climáticas y menos con requerimientos tan precisos como ése. Casi como ponerlo a prueba: una falta de respeto. Pero ocurre que ayer ha jurado entre lágrimas que, ya que no la dejan ir al pícnic de primavera al que la invitó Té Salomón, va a quedarse encerrada todo el santo día. ¡Como una ostra!, gritó al final —cosa que la dejó perpleja ya que nunca en su vida había empleado esa expresión y para colmo (advirtió a pesar de la furia) era inexacta porque lo encerrado es la perla, no la ostra—, así que ahora no puede volverse atrás. En voz muy baja (Lucía duerme en la otra cama), insiste: Diosecito de mi vida, ayudame, vos sabés que los domingos de sol me dan miedo. Lo del miedo la sobresalta: como si algo ajeno a su voluntad lo hubiese clavado en su cabeza.

@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
-*# En Otro País*
 *(1927)*
 *(“In Another Country”)*
 *Originalmente publicado en Scribner’s Magazine (abril de 1927);*

@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# El Loro Pelado*
 *(Cuentos de la selva,*
 *1918)*
 *Había una vez una bandada de loros*
@@ -213,7 +212,6 @@ Y Llegó un momento
 en que el loro no pudo acercarse más, porque si no, caía en la boca del
 tigre, y entonces gritó:
 —¡Rica, papa!...
-# ## ¡Atención!
 —¡Más cer-ca
 aún!—rugió el tigre, agachándose para saltar.
 —¡Rico, té con

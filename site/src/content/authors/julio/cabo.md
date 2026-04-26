@@ -8,7 +8,6 @@ tags:
   - cabo
   - julio
 ---
-*# Explicaciones a un cabo de servicio*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 Explicaciones a un cabo de servicio Cuentos de circunstancias (Lima: Editorial Nuevos Rumbos, 1958, 96 págs.) Yo tomaba un pisco donde el gordo mientras le daba vueltas en la cabeza a un proyecto. Le diré la verdad: tenía en el bolsillo cincuenta soles… Mi mujer no me los quiso dar, pero usted sabe, al fin los aflojó, la muy tonta… Yo le dije: “Virginia, esta noche no vuelvo sin haber encontrado trabajo”. Así fue como salí: para buscar un trabajo… pero no cualquier trabajo… eso, no… ¿Usted cree que un hombre de mi condición puede aceptar cualquier trabajo?… Yo tengo cuarenticinco años, amigo, y he corrido mundo… Sé inglés, conozco la mecánica, puedo administrar una hacienda, he fabricado calentadores para baños, ¿comprende? En fin, tengo experiencia… Yo no entro en vainas: nada de jefes, nada de horarios, nada de estar sentado en un escritorio, eso no va conmigo… Un trabajo independiente para mí, donde yo haga y deshaga, un trabajo con iniciativa, ¿se da cuenta?

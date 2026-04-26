@@ -8,7 +8,6 @@ tags:
   - gallo
   - arturo
 ---
-*# La Misa de Gallo*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Treinta hombres y sus sombras* (1949)*
 *La noticia la trajo, inesperadamente, Antonio el becerrero.*

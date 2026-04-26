@@ -12,7 +12,6 @@ tags:
 *Ibargüengoitia*
 *(Guanajuato, México, 1928*
 *—Madrid, 1983)*
-*# La Ley De Herodes*
 *Sarita me sacó del fango, porque*
 *antes de conocerla el porvenir de la Humanidad me tenía sin cuidado.*
 *Ella me mostró el camino del espíritu, me hizo enten­der que todos*

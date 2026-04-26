@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# La Langa*
 *(“La Langa”, 1941)*
 *Originalmente publicado en Il Messaggero de Roma (5 de octubre de 1941)*
 *y en Il Secolo XIX de Génova (1 de noviembre de 1941);*

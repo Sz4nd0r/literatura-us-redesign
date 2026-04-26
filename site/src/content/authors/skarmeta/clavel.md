@@ -11,14 +11,12 @@ tags:
 *Antonio*
 *Skármeta*
 *(Antofagasta, Chile, 1940 - Santiago, Chile 2024)*
-*# Hombre Con El Clavel En La Boca*
 *No pasó nada y otros relatos*
 *(Santiago de Chile: Pehuén, 1985, 110 págs.)*
 *Sinto ânsias, desejos*
 *Mas não com meu ser todo. Alguma cousa*
 *No íntimo meu, alguma coisa ali,*
 *Fria, pesada, muda permanece.*
-*# ## Fernando Pessoa*
 
 La muchacha bordeó los árboles con el impulso veloz de una mujer sola en un lugar público, entre digno, cauteloso y distraído, como si la soledad fuera una vergüenza y las bocas de todos los hombres estuvieran a punto de llegar a lamerle el cuello o morderle los labios.
 Fingió ese aspecto de llevar un destino hasta que hubo atravesado el ancho de la plaza. Cuando llegó al límite, se detuvo concediéndose un largo respiro. Los hombros libraron su rigidez, la barbilla cayó tumbada por una sonrisa, y los codos se aliviaron en un gesto alentador para sí misma. Se había sorprendido otra vez hija de las tensiones y formalidades que despreciaba, de la desconfianza, de la miseria de artificios en la cara, del egoísmo de inútiles dignidades. Pensó: «Igual caminaba desde la salida del colegio hasta la casa. Igual iba al cine los domingos. Todas caminábamos igual. Como si la soledad nos transformara en putas».

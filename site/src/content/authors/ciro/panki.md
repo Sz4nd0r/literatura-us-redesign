@@ -8,7 +8,6 @@ tags:
   - panki
   - ciro
 ---
-*# Panki y el guerrero*
 *Ciro Alegría*
 
 Da miedo tal laguna sombría y sola, cuya oscuridad apenas refleja los árboles, pero más temor infundía cuando aquella panki, tan descomunal como otra no se ha visto, aguaitaba desde allí.

@@ -11,7 +11,6 @@ tags:
 *Juan*
 *Rulfo*
 *(México, 1918-1986)*
-*# Anacleto Morones*
 *(El Llano en llamas,*
 *1953)*
 *¡Viejas, hijas del demonio! Las vi*

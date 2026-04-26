@@ -8,9 +8,7 @@ tags:
   - clone
   - cortazar
 ---
-*# Clone*
 *Julio Cortázar*
-*# Clone*
 *Julio Cortázar*
 
 Queremos tanto a Glenda, 1980) Todo parece girar en torno a Gesualdo, si tenía derecho a hacer lo que hizo o si se vengó en su mujer de algo que hubiera debido vengar en sí mismo. Entre dos ensayos, bajando al bar del hotel para descansar un rato, Paola discute con Lucho y Roberto, los otros juegan canasta o suben a sus habitaciones. Tuvo razón, se obstina Roberto, entonces y ahora es lo mismo, su mujer lo engañaba y él la mató, un tango más, Paolita. Tu grilla de macho, dice Paola, los tangos, claro, pero ahora hay mujeres que también componen tangos y ya no se canta siempre la misma cosa.

@@ -11,7 +11,6 @@ tags:
 *Antonio*
 *Skármeta*
 *(Antofagasta, Chile, 1940 - Santiago, Chile 2024)*
-*# Basketball*
 *Premio de Casa de las Américas, 1968*
 *(Buenos Aires: Editorial Sudamericana, 1969, 139 págs.)*
 *(La Habana: Premio Casa de Las Americas, 1969, 133 págs.)*

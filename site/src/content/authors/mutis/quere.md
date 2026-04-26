@@ -8,7 +8,6 @@ tags:
   - quere
   - mutis
 ---
-*# Intermedio en Querétaro*
 *Álvaro Mutis*
 *Originalmente publicado en Novedades (24 de julio de 1982); La muerte del estratega: narraciones, prosas, y ensayos [Algunos textos periodísticos] (México : Fondo de Cultura Económica, 1988, 214 págs.); Estación México. Notas 1943-2000 Compilación y edición de Santiago Mutis Durán (Barcelona: Taurus, 2011, págs. 56-57) Para Francisco Cervantes El canto gozoso, insistente, casi sensual de las mirlas lo fue sacando lentamente del profundo sueño en el que había caído poco después de medianoche.*
 

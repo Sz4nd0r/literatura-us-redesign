@@ -8,7 +8,6 @@ tags:
   - caliban6
   - roberto
 ---
-*# Del Mundo Libre*
 *Roberto Fernández*
 *Retamar*
 *Apuntes sobre la cultura de nuestra América DEL MUNDO LIBRE Pero la parte de mundo libre que le toca a la América latina tiene hoy figuras mucho más memorables: pienso en Jorge Luis Borges, por ejemplo, cuyo nombre parece asociado a ese adjetivo; pienso en el Borges que hace poco tiempo dedicara su traducción —presumiblemente buena— de las Hojas de hierba de Walt Whitman, al presidente de los Estados Unidos, Richard Nixon. Es verdad que este hombre escribió en 1926: A los criollos les quiero hablar: a los hombres que en esta tierra se sienten vivir y morir, no a los que creen que el sol y la luna están en Europa.*

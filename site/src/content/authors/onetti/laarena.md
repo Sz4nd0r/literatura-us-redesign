@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# La Casa En La Arena*
 *Originalmente publicado en La Nación (Buenos Aires), 1949*
 
 Cuando Díaz Grey aceptó con indiferencia haber quedado solo, inició el juego de reconocerse en el único recuerdo que quiso permanecer en él, cambiante, ya sin fecha. Veía las imágenes del recuerdo y se veía a sí mismo al transportarlo y corregirlo para evitar que muriera, reparando los desgastes de cada despertar, sosteniéndolo con imprevistas invenciones, mientras apoyaba la cabeza en la ventana del consultorio, mientras se quitaba la túnica al anochecer, mientras se aburría sonriente en las veladas del bar del hotel. Su vida, él mismo, no era ya más que aquel recuerdo, el único digno de evocación y de correcciones, de que fuera falsificado, una y otra vez, su sentido.

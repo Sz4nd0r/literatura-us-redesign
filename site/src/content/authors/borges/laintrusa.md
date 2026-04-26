@@ -8,9 +8,7 @@ tags:
   - laintrusa
   - borges
 ---
-*# La intrusa*
 *Jorge Luis Borges*
-*# La intrusa*
 *Jorge Luis Borges*
 
 El informe de Brodie, 1970) 2 Reyes, i, 26. Dicen (lo cual es improbable) que la historia fue referida por Eduardo, el menor de los Nelson, en el velorio de Cristian, el mayor, que falleció de muerte natural, hacia mil ochocientos noventa y tantos, en el partido de Moran. Lo cierto es que alguien la oyó de alguien, en el decurso de esa larga noche perdida, entre mate y mate, y la repitió a Santiago Dabove, por quien la supe. Años después, volvieron a contármela en Turdera, donde había acontecido. La segunda versión, algo mas prolija, confirmaba en suma la de Santiago, con las pequeñas variaciones y divergencias que son del caso. La escribo ahora porque en ella se cifra, si no me engaño, un breve y trágico cristal de la índole de los orilleros antiguos. Lo haré con probidad, pero ya preveo que cederé a la tentación literaria de acentuar o agregar algún pormenor. En Turdera los llamaban los Nilsen. El párroco me dijo que su predecesor recordaba, no sin sorpresa, haber visto en la casa de esa gente una gastada Biblia de tapas negras, con caracteres góticos; en las últimas páginas entrevió nombres y fechas manuscritas.

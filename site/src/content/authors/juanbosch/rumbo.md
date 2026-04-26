@@ -8,7 +8,6 @@ tags:
   - rumbo
   - juanbosch
 ---
-*# Rumbo al puerto de origen*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la Revista Bohemia Año 42, Núm. 51 (17 de diciembre de 1950), págs. 28, 30 y 248; La muchacha de La Guaira (Santiago, Chile: Editorial Nascimento, 1955, 197 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) Habiendo hecho sus cálculos con toda corrección, Juan de la Paz llegó a la altura de Punta del Este a las seis de la tarde, minutos más, minutos menos. El mar había sido un plato y probablemente seguiría siéndolo toda la noche. Así se explica que a Juan de la Paz le resultara fácil ver, a la pálida y agobiante luz de la hora, el aleteo de la paloma sobre el agua.*
 

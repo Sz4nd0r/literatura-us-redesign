@@ -8,7 +8,6 @@ tags:
   - mucura
   - sergio
 ---
-*# La múcura que está en el suelo*
 *Sergio Ramírez (n. 1942)*
 *Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Juanita Bermúdez La orquesta ya comienza a tocar, Celina, te ha estado mirando desde hace rato y parece que quiere venir a sacarte a bailar. Suena el solo agudo de la trompeta, un alarido que ya no va a descansar, repiten sus acordes los trombones, golpea sus compases el bongó, raspa insolente el quijongo y ahora entra rompiendo sus cadenas de cautivo que llora de alegría el clarinete, lo acompaña en su escape por los túneles cantando libertad el saxofón, qué lluvia más sensual de maracas y la esquila que repica encaprichada, aquí se acabó la bestia y se acabó la cría y no hay madre que te envuelva en su regazo, ni la misma que te parió.*
 

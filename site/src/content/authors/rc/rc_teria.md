@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Parece Una Tontería*
 *(“A Small, Good Thing”)*
 *Originalmente publicado en Columbia (1981)*
 *e incorporado, como “The Bath”, en una versión más abreviada,*

@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
-*# El Mar Cambia*
 *(1931)*
 *[Otro título en español: “Un cambio radical”]*
 *(“The Sea Change”)*

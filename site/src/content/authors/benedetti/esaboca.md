@@ -8,7 +8,6 @@ tags:
   - esaboca
   - benedetti
 ---
-*# Esa boca*
 *Mario Benedetti (1920 - 2009)*
 
 Su entusiasmo por el circo se venía arrastrando desde tiempo atrás. Dos meses, quizá. Pero cuando siete años son toda la vida y aún se ve el mundo de los mayores como una muchedumbre a través de un vidrio esmerilado, entonces dos meses representan un largo, insondable proceso. Sus hermanos mayores habían ido dos o tres veces e imitaban minuciosamente las graciosas desgracias de los payasos y las contorsiones y equilibrios de los forzudos.

@@ -11,7 +11,6 @@ tags:
 *Onelio Jorge Cardoso*
 *(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)*
 *El caballo de coral (1959)*
-*# El Caballo De Coral*
 *(Santa Clara: Departamento de Cultura del Gobierno Municipal Revolucionario, 1960, 70 pp.)*
 
 Éramos cuatro a bordo y vivíamos de pescar langostas. El Eumelia tenía un solo palo y cuando de noche un hombre llevaba entre las manos o las piernas el mango del timón, tres dormíamos hacinados en el oscuro castillo de proa y sintiendo cómo con los vaivenes del casco nos llegaba el agua sucia de la cala a lamernos los tobillos.

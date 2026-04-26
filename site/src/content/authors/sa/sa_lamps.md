@@ -10,7 +10,6 @@ tags:
 ---
 *Sherwood Anderson*
 *(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
-*# Lámparas Apagadas*
 *(“Unlighted Lamps”)*
 *Originalmente publicado, como “The Triumph of the Egg”,*
 *en la revista The Dial, Vol. 68, Núm. 3 (marzo de 1920);*

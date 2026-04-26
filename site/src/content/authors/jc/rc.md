@@ -27,7 +27,6 @@ Después de ser hospitalizado tres veces entre junio de 1976 y febrero o marzo d
 En el otoño de 1978, con un nuevo puesto de docente en la Universidad de Texas en El Paso, Carver comenzó a ver a Tess Gallagher, una escritora de Port Angeles, que se convertiría en su esposa cerca del final de su vida. Carver la había conocido en una conferencia de escritores en Dallas, Texas, y a partir de enero de 1979, Carver y Gallagher vivieron juntos en El Paso, Texas y en Tucson, Arizona . En 1980, los dos se mudaron a Syracuse, Nueva York, donde Gallagher había sido nombrado coordinadora del programa de escritura creativa en la Universidad de Syracuse; Carver enseñó como profesor en el departamento de inglés.
 En 1982, Carver y su primera esposa, Maryann, se divorciaron. En 1988, seis semanas antes de su muerte, Carver y Gallagher se casaron en Reno, Nevada.
 El 2 de agosto de 1988, Carver murió en Port Angeles, Washington, de cáncer de pulmón. Tenía 50 años.
-# Índice:
 Narrativa:
 Will You Please Be Quiet, Please? (1976):
 —Gordo

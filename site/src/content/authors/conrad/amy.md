@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# Amy Foster*
 *(1901)*
 *(“Amy Foster”)*
 *Originalmente publicado en el periódico Illustrated London News, en tres entregas:*

@@ -8,7 +8,6 @@ tags:
   - noche
   - joseluis
 ---
-*# La noche que volvimos a ser gente*
 *José Luis*
 *González (1926 - 1997)*
 

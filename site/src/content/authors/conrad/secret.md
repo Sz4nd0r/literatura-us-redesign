@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# El Cómplice Secreto*
 *(1910)*
 *(“The Secret Sharer”)*
 *Originalmente publicado en Harper’s Magazine, en dos entregas:*

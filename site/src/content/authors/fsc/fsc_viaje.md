@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Corto Viaje A Casa*
 *(“A Short Trip Home”)*
 *Originalmente publicado en The Saturday Evening Post, 200 (17 de Diciembre de 1927);*
 *Taps at Reveille*

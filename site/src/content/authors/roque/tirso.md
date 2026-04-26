@@ -11,8 +11,6 @@ tags:
 *Roque*
 *Dalton*
 *(El Salvador, 1935-1975)*
-*# Cuatro Etapas En La*
-*# ## Literatura De Roque Dalton*
 *(Conferencia dictada en el Ateneo de Madrid, España*
 *durante el VI Congreso Mundial de Poetas*
 *Julio 1983)*

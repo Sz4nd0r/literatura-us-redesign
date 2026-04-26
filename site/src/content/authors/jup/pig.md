@@ -10,7 +10,6 @@ tags:
 ---
 *John Updike*
 *(Shillington, Pensilvania, 1932 - Danvers, Massachusetts, 2009)*
-*# Pigmalión*
 *(“Pygmalion”)*
 *Originalmente publicado en la revista The Atlantic (julio de 1981);*
 *Trust Me (1987)*

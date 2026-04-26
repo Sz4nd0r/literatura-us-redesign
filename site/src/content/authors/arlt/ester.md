@@ -11,7 +11,6 @@ tags:
 *Roberto*
 *Arlt*
 *(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
-*# Ester Primavera*
 *Originalmente publicado en el periódico La Nación*
 *[Buenos Aires] (9 de septiembre de 1928);*
 *El jorobadito*

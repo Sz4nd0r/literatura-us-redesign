@@ -8,7 +8,6 @@ tags:
   - transpa
   - benedetti
 ---
-*# Transparencia*
 *Mario Benedetti (1920 - 2009)*
 *Con y sin nostalgia, 1977) A Diana y Juan, y a su rebanada de felicidad Desde la muerte de Jorge, Claudia venía todas las tardes a recostarse en esta baranda, como si le agradara contemplar el río de gente. Hombres maduros con su valijita rectangular de casi ejecutivos, lentos viejos en la etapa del bastón, muchachas de espléndido vaivén, señoras con perro, trabajadores de overall, policías, mendigos, todos concurrían y transcurrían. En aquella esquina clave, donde tantas veces había esperado a Jorge cuando salía del Banco a encontrarse con ella, Claudia sabía, estaba absolutamente segura, que en algún instante [nunca era el mismo] aparecería Jorge, la imagen de Jorge, caminando entre los otros, pero mucho más simpático y apuesto que los demás.*
 

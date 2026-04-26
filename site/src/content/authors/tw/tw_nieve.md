@@ -10,7 +10,6 @@ tags:
 ---
 *Tobias Wolff*
 *(Birmingham, Alabama, 1945 –)*
-*# Cazadores En La Nieve*
 *(1980)*
 *(“Hunters in the Snow”)*
 *Originalmente publicado en la revista TriQuarterly, 48: Western Stories (primavera 1980);*

@@ -10,7 +10,6 @@ tags:
 ---
 *Carson McCullers*
 *(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
-*# Un Árbol, Una Roca, Una Nube*
 *—A Tree. A Rock. A Cloud*
 *Originalmente publicado en Harper’s Bazaar (November 1942)*
 *incluído en The O. Henry Prize Stories (1943)*

@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Angustia En El Cuartel*
 *Ultimo viene il corvo (1949)*
 
 El mal le empezó así: ver el caballo frisón en la escalera, cargado de alambres afilados, y pensar que tenía un significado amenazador y alusivo a su futuro. Pero antes ya, más de una vez, había bastado para atormentarlo la vista de su catre de campaña, de su desgraciado, esquelético catre que parecía querer anunciar algo, algo que él no entendía, un mensaje de desesperación, de impotencia. Cuatro cinco seis catres, después el suyo, después otros dos tres cuatro catres. Eran pensamientos sin sentido, comprendió.

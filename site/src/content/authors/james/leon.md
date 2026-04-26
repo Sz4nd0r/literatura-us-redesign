@@ -822,7 +822,6 @@ diciendo:
 dejara quedarme con el álbum, para enseñárselo al señor Paraday. Le
 aseguré que iría personalmente a devolvérselo.
 —¡Bueno, encontrará la dirección en un papel que hay dentro! —dijo, suspirando con resignación ante la puerta.
-# Viii
 Me ruboriza confesarlo, pero aquel mismo día invité al señor
 Paraday a que transcribiera en el álbum uno de sus fragmentos más
 característicos. Le referí cómo me había librado de la extraña muchacha

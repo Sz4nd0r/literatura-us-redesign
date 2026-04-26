@@ -10,7 +10,6 @@ tags:
 ---
 *Sherwood Anderson*
 *(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
-*# El Regreso*
 *(1925)*
 *(“The Return”)*
 *Originalmente publicado en The Century Magazine,*

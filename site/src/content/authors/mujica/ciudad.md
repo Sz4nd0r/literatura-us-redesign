@@ -8,7 +8,6 @@ tags:
   - ciudad
   - mujica
 ---
-*# XVII. La ciudad encantada (1709)*
 *Manuel Mujica Lainez*
 *Levanta los ojos don Bruno de los papeles y mira hacia afuera por la ventana con viruela de moscas. Es la hora de la siesta y el calor se aplasta sobre el campo. Vapores dorados oscilan en los confines de la llanura, como un largo y tenue incendio. Para descansar de la vibración quemante, toma un trozo de cristal verde y observa al través los manchones de vacunos que motean los pastos.*
 

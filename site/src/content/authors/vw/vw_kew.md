@@ -10,7 +10,6 @@ tags:
 ---
 *Virginia Woolf*
 *(1882-1941)*
-*# Jardines De Kew*
 *(1919)*
 *(“Kew Gardens”)*
 *[Edición privada, con illustraciones de Vanessa Bell, 1919];*

@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# A Tu Edad*
 *(“At Your Age”)*
 *Originalmente publicado en The Saturday Evening Post, 202 (7 de agosto de 1929);*
 *The Price Was High: The Last Uncollected Stories of F. Scott Fitzgerald*
@@ -51,7 +50,6 @@ Como un hombre de mundo que encontrara a un semejante, el señor Jaques se sent�
 —¿Sólo en las fiestas?
 —Bueno, es que siempre anda por ahí con Randy Cambell.
 —¿Qué Cambell?
-# # # ## —D.B.
 En la última década habían llegado nuevos apellidos a la ciudad.
 —Es una aventura de chico y chica —la frase le gustó a Jaques, e intentó repetirla—: La típica aventura de chico y chica, esas aventuras de chico y chica... —renunció y encendió varios cigarrillos más, apagando la primera tanda encima de las rodillas de Tom.
 —¿Bebe?

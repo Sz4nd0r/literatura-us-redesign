@@ -8,7 +8,6 @@ tags:
   - chaco
   - julio
 ---
-*# El chaco*
 *Julio Ramón Ribeyro (1987 - 1994)*
 *Tres historias sublevantes (Lima: J. Mejía Baca, 1964, 99 págs.) A Alida Cordero Sixto llegó de las minas hace meses, junto con otros mineros huaripampinos. Venían a ver su pueblo, las retamas, las vacas que dejaron en el pastizal y a partir nuevamente hacia La Oroya, el caserío de las chimeneas, después de reposarse. Pero sólo venían a morir, como dijo Pedro Limayta, pues tenían los pulmones quemados de tanto respirar en los socavones. Y en verdad que se fueron muriendo, poco a poco, en las sementeras, tosiendo sobre las acequias, y se quedaron torcidos en el suelo, entre nosotros, que no sabíamos qué bendición echarles. Así se fueron todos, menos Sixto Molina.*
 

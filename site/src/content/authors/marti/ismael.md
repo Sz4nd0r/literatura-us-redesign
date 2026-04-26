@@ -11,9 +11,7 @@ tags:
 *José*
 *Martí*
 *(1853—1895)*
-*# Ismaelillo*
 *(1882)*
-*# ## Prólogo*
 *Hijo:*
 *Espantado de todo me*
 *refugio en tí.*
@@ -28,7 +26,6 @@ Con esos arreos de gala te me has aparecido. Cuando he cesado de verte en
 una forma, he cesado de pintarte. Esos riachuelos han pasado por mi
 corazón.
 ¡Lleguen al tuyo!
-# ## ## Príncipe Enano
 Para
 un príncipe enano
 Se hace esta fiesta.
@@ -94,7 +91,6 @@ Por esta cueva!
 A él, a él ofrezca!
 Para un príncipe enano
 Se hace esta fiesta.
-# ## ## ## Sueño Despierto
 Yo
 sueño con los ojos
 Abiertos, y de día

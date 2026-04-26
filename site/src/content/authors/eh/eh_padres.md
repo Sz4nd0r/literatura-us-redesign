@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
-*# Padres E Hijos*
 *(“Fathers and Sons”)*
 *Winner Take Nothing*
 *(Nueva York: Scribner’s Sons, 1933, 244 págs.)*

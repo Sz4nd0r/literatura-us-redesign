@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Casa En El Mar*
 *([Casa al mare], 1940)*
 *Inacabado y sin título, publicado en Tutti i racconti (2002)*
 *Aquel trozo de mar violáceo delante de la ventana refrescaba todo el cuarto.*

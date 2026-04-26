@@ -8,7 +8,6 @@ tags:
   - corazonada
   - benedetti
 ---
-*# Corazonada*
 *Mario Benedetti (1920 - 2009)*
 
 La puerta tenía un gran barrote de bronce y pensé que iba a ser bravo sacarle lustre. Después abrieron y me atendió la ex, la que se iba. Tenía cara de caballo y cofia y delantal. “Vengo por el aviso”, dije. “Ya lo sé”, gruñó ella y me dejó en el zaguán, mirando las baldosas. Estudié las paredes y los zócalos, la araña de ocho bombitas y una especie de cancel. Después vino la señora, impresionante. Sonrió como una Virgen pero sólo como. “Buenos días”. “¿Su nombre?” “Celia”. “¿Celia qué?” “Celia Ramos”. Me barrió de una mirada. La tipeja. “¿Referencias?” Dije tartamudeando la primera estrofa: “Familia Suárez, Maldonado 1346, teléfono 90948.

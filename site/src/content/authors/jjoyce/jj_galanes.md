@@ -10,7 +10,6 @@ tags:
 ---
 *James Joyce*
 *(1882-1941)*
-*# Dos Galanes*
 *(“Two Gallants”)*
 *(Dubliners, 1914)*
 *La tarde de*

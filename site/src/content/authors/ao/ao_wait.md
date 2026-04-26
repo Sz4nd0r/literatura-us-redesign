@@ -8,7 +8,6 @@ tags:
   - ao_wait
   - ao
 ---
-# Esperando
 
 **Amos Oz**
 

@@ -8,7 +8,6 @@ tags:
   - acabo
   - benedetti
 ---
-*# Se acabó la rabia*
 *Mario Benedetti (1920 - 2009)*
 
 Aunque la piernadel hombre apenas se movía, Fido, debajo de la mesa, apreciaba grandemente esa caricia en los alrededores del hocico. Esto era casi tan agradable como recoger pedacitos de carne asada directamente de las manos del amo. Hacía ya dos años que, en contra de su vocación y de su contextura (patas gruesas y firmes, cogote robusto, orejas afiladas), Fido se había convertido en un perro de apartamento, condición que parecía avenirse mejor con los cuzcos afeminados, histéricos y meones, que desprestigiaban el segundo piso.

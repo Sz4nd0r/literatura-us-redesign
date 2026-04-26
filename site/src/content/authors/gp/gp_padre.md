@@ -10,7 +10,6 @@ tags:
 ---
 *Grace Paley*
 *(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
-*# Conversación Con Mi Padre*
 *(“A Conversation with My Father”)*
 *Originalmente publicado en New American Review (1972)*
 *Enormous Changes at the Last Minute (1974)*

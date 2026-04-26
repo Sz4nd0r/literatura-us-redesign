@@ -8,7 +8,6 @@ tags:
   - mauser
   - augusto
 ---
-*# Cigarrillos “Máuser*
 *Augusto Roa Bastos (1917 - 2005)*
 
 El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) 1 Ese paquete de cigarrillos, no de tabaco, más vale de crespa pólvora amarilla, tóxico trueno silencioso de nicotina en la boca de un chico de doce años, marcó el fin de la iniciación. Pero aun sin ese paquete de etiqueta verde, con el máuser pintado a través, sin esos cigarrillos fumados a escondidas en el monte, sin el latrocinio de la negra que era ya solamente también el resultado de la obra comenzada, de su salvaje salacidad, la historia hubiera acabado allí de cualquier manera. Un poco más tarde, por cualquier otro motivo.

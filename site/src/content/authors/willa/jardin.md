@@ -8,7 +8,6 @@ tags:
   - jardin
   - willa
 ---
-# La cabaña del jardín
 
 **Willa Cather**
 

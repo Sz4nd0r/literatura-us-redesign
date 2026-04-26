@@ -60,7 +60,6 @@ Su aire amistoso alentó al italiano. Habló de sus proyectos con candor. Su asp
 Charsky se despidió del improvisador afablemente, habiendo apuntado su dirección, y aquella misma tarde empezó a organizar la velada.
 II
 Soy zar, soy esclavo, soy gusano, soy dios.
-# Derzhavin
 [Oda “Dios”, 1784]
 Al día siguiente Charsky buscó la habitación número 35 en el sucio y oscuro pasillo de la taberna. Se paró ante la puerta y llamó. Le abrió el italiano del día anterior.
 —¡Victoria! —le dijo Charsky—. Ya está todo resuelto. La princesa *** le presta su sala; ayer en una recepción recluté a medio Petersburgo; haga que impriman las entradas y los anuncios. Le garantizo, si no el triunfo, sí una ganancia segura…

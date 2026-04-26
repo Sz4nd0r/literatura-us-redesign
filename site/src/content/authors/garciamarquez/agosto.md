@@ -8,7 +8,6 @@ tags:
   - agosto
   - garciamarquez
 ---
-*# Espantos de agosto*
 *Gabriel*
 *García Márquez (n. 1947)*
 

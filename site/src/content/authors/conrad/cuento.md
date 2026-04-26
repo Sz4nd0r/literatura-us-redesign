@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# El Cuento*
 *(1917)*
 *(“The Tale”)*
 *Originalmente publicado en The*

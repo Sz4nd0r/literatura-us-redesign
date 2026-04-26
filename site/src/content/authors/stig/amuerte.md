@@ -10,7 +10,6 @@ tags:
 ---
 *Stig Dagerman*
 *(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
-*# El Condenado A Muerte*
 *(“Den dödsdömde”)*
 *Nattens lekar. Noveller.*
 *(Stockholm: Norstedts, 1947, 312 págs.)*
@@ -56,8 +55,6 @@ El condenado a muerte miró entonces con curiosidad a la mujer que se sentaba a 
 Dentro de la chambre séparée había una chambre intime, una delicada lucecita conducía allí. Incitado por las risas y las bromas de los demás a costa del beso, se levantó y sintió la grata penumbra que envolvía todo, se avergonzó de los hirientes pensamientos que acababa de tener y le pareció que un manto cálido cubría un mundo de espinas. Ella llevaba la llave de la puerta en un lazo rojo colgado del cuello y nada más entrar encendió una lámpara de pared y cerró la puerta. Era un curioso cuarto con un amplio diván y una gruesa alfombra roja en el suelo. La mujer se sentó en el diván y encendió meditabunda un pitillo sin que él se decidiera a entrar.
 Se quedó de espaldas contra la puerta, conturbado por algún espantoso detalle del cuarto, algo impropio había en el cuarto y mientras seguía ignorándolo una deslumbrante cuña de terror invadió su ánimo embriagado; y después supo lo que era: el cuarto carecía de ventanas, estaba encerrado en una celda oscura, no podía salir, no había ninguna abertura por la que arrojarse. Fuera del cuarto murmuraban, hojeaban periódicos, podía imaginarse cómo desplegaban sus periódicos sobre la mesa y con ojos como platos absorbían todos los detalles sensacionalistas del caso.
 Primero los titulares:
-# ## El Desmayo Del Verdugo Salvó
-# ## ## Al Inocente Condenado A Muerte.
 Y luego los subtítulos:
 Sensacional desenlace del crimen de la mujer casada.
 Hallado culpable su amante.

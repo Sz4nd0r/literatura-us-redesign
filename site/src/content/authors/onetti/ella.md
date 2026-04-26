@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Ella*
 *Originalmente publicado en Cuentos completos (Alfaguara), 1994*
 
 Cuando Ella murió después de largas semanas de agonía y morfina, de esperanzas, anuncios tristes desmentidos con violencia, el barrio norte cerró sus puertas y ventanas, impuso silencio a su alegría festejada con champán. El más inteligente de ellos aventuró: «Qué quieren que les diga. Para mí, y no suelo equivocarme, esto es como el principio del fin».

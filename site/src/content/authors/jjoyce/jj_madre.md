@@ -11,7 +11,6 @@ tags:
 *James*
 *Joyce*
 *(1882-1941)*
-*# Una Madre*
 *(“A Mother”)*
 *(Dubliners, 1914)*
 *El señor Holohan, vicesecretario*

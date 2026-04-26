@@ -8,7 +8,6 @@ tags:
   - toros
   - mujica
 ---
-*# IV. Los toros (1702)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) El fragor llena las calles angostas. Tan intenso es, que se diría que van a resquebrajarse los muros, a derrumbarse los techos, a volar hacia los picos nevados los frágiles balconcillos, cuando las calles, incapaces de contener el alud feroz que por ellas se vuelca, revienten en mil pedazos, hendidas. El estrépito de las pezuñas y los mugidos locos retumban en los últimos aposentos y en los patios más distantes.

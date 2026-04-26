@@ -13,8 +13,6 @@ tags:
 *(1904–1973)*
 *Crepusculario*
 *(1919)*
-*# Ventana Al Camino*
-*# ## Campesina*
 *Entre los surcos tu cuerpo moreno*
 *es un racimo que a la tierra llega.*
 *Torna los ojos, mírate los senos,*
@@ -32,10 +30,8 @@ La palabra de qué concepto pleno
 será tu cuerpo? ¡No lo he de saber!
 Torna los ojos, mírate los senos,
 tal vez no alcanzarás a florecer.
-# ## ## Agua Dormida
 Quiero saltar al agua para caer al
 cielo.
-# ## ## ## Sinfonía De La Trilla
 Sacude las épicas eras
 un loco viento festival.
 ¡Ay

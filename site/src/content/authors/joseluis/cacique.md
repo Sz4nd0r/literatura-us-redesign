@@ -8,7 +8,6 @@ tags:
   - cacique
   - joseluis
 ---
-*# El cacique*
 *José Luis*
 *González (1926 - 1997)*
 *En la sombra. . Prólogo de Carmen Alicia Cadilla (San Juan, Puerto Rico: Imprenta Venezuela, 1943, 110 págs.) A Abelardo Díaz Alfaro Don Rafa era un tipo repugnante: bajito, ventrudo y cabezón. Sobre las mejillas siempre mal afeitadas se entreabrían apenas los ojitos aviesos y sanguíneos; entre la nariz aplastada y roja y la boca sensual, de gruesos labios manchados por el tabaco, se alborotaba la pelambre del bigote cimarrón.*

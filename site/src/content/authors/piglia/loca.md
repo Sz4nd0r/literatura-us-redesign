@@ -12,7 +12,6 @@ tags:
 *Piglia*
 *(Adrogué, Buenos Aires,*
 *1941 — Buenos Aires, 2017)*
-*# La Loca Y El Relato Del Crimen*
 *Nombre falso*
 *(Buenos Aires: Siglo XXI Editores, 1975, 172 págs.)*
 *I*

@@ -8,7 +8,6 @@ tags:
   - rostro
   - mutis
 ---
-*# El último rostro*
 *Álvaro Mutis*
 
 De un manuscrito anónimo de la Biblioteca del Monasterio del Monte Athos, siglo XI. Las páginas que van a leerse pertenecen a un legajo de manuscritos vendidos en la subasta de un librero de Londres pocos años después de terminada la segunda guerra mundial. Formaron parte estos escritos de los bienes de la familia Nimbourg-Napierski, el último de cuyos miembros murió en Mers-el Kebir combatiendo como oficial de la Francia libre.

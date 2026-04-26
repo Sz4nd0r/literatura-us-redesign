@@ -8,7 +8,6 @@ tags:
   - fuegos
   - cortazar
 ---
-*# Todos los fuegos el fuego*
 *Julio Cortázar*
 
 Es el momento de la sorpresa prometida; el procónsul baja el brazo, mira a su mujer que le devuelve la sonrisa inexpresiva de las fiestas.

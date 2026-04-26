@@ -10,7 +10,6 @@ tags:
 ---
 *Stig Dagerman*
 *(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
-*# El Hombre Que No Quería Llorar*
 *(“Mannen som inte ville gråta”)*
 *Nattens lekar. Noveller.*
 *(Stockholm: Norstedts, 1947, 312 págs.)*

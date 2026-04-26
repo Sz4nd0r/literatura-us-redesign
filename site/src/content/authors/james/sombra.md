@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# La Sombra De Una Historia*
 *(“The Story in It”, 1901)*
 *Originalmente publicado en The Anglo-American Magazine (enero de 1902)*
 *The Better Sort (Lo más selecto), 1903*

@@ -11,7 +11,6 @@ tags:
 *Juan*
 *Rulfo*
 *(México, 1918-1986)*
-*# Macario*
 *Originalmente publicado en*
 *la revista América*
 *Nº 48, junio, 1946*

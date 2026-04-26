@@ -10,7 +10,6 @@ tags:
 ---
 *Guillermo Cabrera Infante*
 *(Gibara, Cuba, 1929 - Londres, 2005)*
-*# Balada De Plomo Y Yerro*
 *(1952)*
 *Así en la paz como en la guerra*
 *(La Habana: Ediciones R, 1960)*

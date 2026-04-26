@@ -153,7 +153,6 @@ dolor, amor, la furia del vino encarcelado
 que desde su bodega sumergida subiera
 y otra vez en mi boca sentí un sabor de llama,
 de sangre y de claveles, de piedra y quemadura.
-# Viii
 Si no fuera porque tus ojos tienen
 color de luna,
 de día con arcilla, con trabajo, con fuego,
@@ -233,7 +232,6 @@ y el fuego genital transformado en delicia
 corre por los delgados caminos de la sangre
 hasta precipitarse como un clavel nocturno,
 hasta ser y no ser sino un rayo en la sombra.
-# ## Xiii
 La luz que de tus pies sube a tu
 cabellera,
 la turgencia que envuelve tu forma delicada,
@@ -297,7 +295,6 @@ de tanta luz ardiente como miel en la sombra
 tu corazón quemado por largos rayos rojos,
 y así recorro el fuego de tu forma besándote,
 pequeña y planetaria, paloma y geografía.
-# ## ## Xvii
 No te amo como si fueras rosa de
 sal, topacio
 o flecha de claveles que propagan el fuego:
@@ -313,7 +310,6 @@ así te amo porque no sé amar de otra manera,
 sino así de este modo en que no soy ni eres,
 tan cerca que tu mano sobre mi pecho es mía,
 tan cerca que se cierran tus ojos con mi sueño.
-# ## ## ## Xviii
 Por las montañas vas como viene la
 brisa
 o la corriente brusca que baja de la nieve

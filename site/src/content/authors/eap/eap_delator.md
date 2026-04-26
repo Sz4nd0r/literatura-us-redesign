@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# El Corazón Delator*
 *(“The Tell-Tale Heart”, 1843)*
 *Originalmente publicado in The Pioneer: Literary and Critical Magazine*
 *(Philadelphia: vol 1, núm. 1, January 1843)*

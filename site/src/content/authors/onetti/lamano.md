@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# La Mano*
 *Originalmente publicado en Cuentos completos (Alfaguara), 1994*
 
 A los pocos días de entrar en la fábrica, cuando pasaba para ir al baño, oyó que algunas compañeras murmuraban y del murmullo le quedó el desprecio:

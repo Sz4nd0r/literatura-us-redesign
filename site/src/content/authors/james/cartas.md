@@ -16,11 +16,8 @@ tags:
 *The Diary of a Man of Fifty and A Bundle of Letters*
 *(Nueva York: Harper & Brothers, 1880, págs. 71–135)*
 *I*
-*# Miss Miranda Hope, París, A Mrs. Abraham C. Hope.*
-*# ## Bangor, Maine (Eeuu)*
 *5 de septiembre de 1879.*
 
-# ## ## Mi Querida Madre:
 Te escribí por última vez el martes de la semana pasada, pero
 aunque todavía mi carta no puede estar en tu poder, de todas maneras empiezo
 otra, no sea que las noticias se me acumulen demasiado. Celebro que las
@@ -129,7 +126,6 @@ para aprender idiomas y ver Europa por mí misma”; y alguna vez esto parece
 apaciguarlos. Querida madre, hago durar mi dinero sabiamente, y todo esto es
 de lo más interesante.
 II
-# ## ## ## De La Misma A La Misma
 16 de septiembre.
 Después de mi última carta he dejado mi agradable hotel y ahora me
 alojo con una familia francesa... que, no obstante, también es agradable. Es

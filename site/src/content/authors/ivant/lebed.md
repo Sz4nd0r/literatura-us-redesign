@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# Lebedián*
 *(1848)*
 *(“Лебедянь”)*
 *Originalmente publicado en la revista Современник [El Contemporáneo]*

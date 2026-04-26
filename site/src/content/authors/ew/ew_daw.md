@@ -10,7 +10,6 @@ tags:
 ---
 *Eudora Welty*
 *(Jackson, Mississippi, 1909-2001)*
-*# Lily Daw Y Las Tres Damas*
 *(“Lily Daw and the three ladies”)*
 *A Curtain of Green and Other Stories, 1941*
 

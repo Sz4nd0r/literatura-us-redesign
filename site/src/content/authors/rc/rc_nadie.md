@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Nadie Decía Nada*
 *(“Nobody Said Anything”)*
 *Originalmente publicado en Seneca Review (1970)*
 *Will You Please Be Quiet, Please? (1976)*

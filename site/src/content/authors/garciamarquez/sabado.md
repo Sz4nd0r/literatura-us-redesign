@@ -8,7 +8,6 @@ tags:
   - sabado
   - garciamarquez
 ---
-*# Un día después del sábado*
 *Gabriel*
 *García Márquez (n. 1947)*
 

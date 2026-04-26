@@ -8,7 +8,6 @@ tags:
   - encanta
   - willa
 ---
-# El peñasco encantado
 
 **Willa Cather**
 

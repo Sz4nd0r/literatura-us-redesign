@@ -9,7 +9,6 @@ tags:
   - medina
   - jose
 ---
-# Reflejos de la idiosincrasia dominicana en los cuentos de José Alcántara Almánzar
 
 *José Alcántara
       Almánzar (n. 1946)*

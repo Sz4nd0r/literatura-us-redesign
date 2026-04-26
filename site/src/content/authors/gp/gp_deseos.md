@@ -10,7 +10,6 @@ tags:
 ---
 *Grace Paley*
 *(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
-*# Deseos*
 *(“Wants”)*
 *Originalmente publicado en The Atlantic (1971)*
 *Enormous Changes at the Last Minute (1974)*

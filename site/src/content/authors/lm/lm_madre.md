@@ -10,7 +10,6 @@ tags:
 ---
 *Lorrie Moore*
 *(Glens Falls, NY, 1957 –)*
-*# Una Madre Estupenda*
 *(1992)*
 *(“Terrific Mother”)*
 *Originalmente publicado en la revista The Paris Review, 124 (otoño 1992);*

@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Bancarrota Emocional*
 *(“Emotional Bankruptcy”)*
 *Originalmente publicado en The Saturday Evening Post, 204 (15 de agosto de 1931);*
 *The Basil and Josephine Stories*

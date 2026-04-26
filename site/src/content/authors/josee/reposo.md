@@ -8,7 +8,6 @@ tags:
   - reposo
   - josee
 ---
-*# El reposo del fuego*
 *José Emilio Pacheco (n. 2004)*
 
 El reposo del fuego [1963-1964] (México, D.F.: Fondo de Cultura Económica, 1966, 79 págs.) I Nada altera el desastre... Nada altera el desastre: llena el mundo la caudal pesadumbre de la sangre. ¿Filo de qué inminencia, o ya frontera del viento que amanece y nos aguarda? Con un hosco rumor desciende el aire y baja inconsolable, desmedido a la más pétrea hoguera Y se abandona Y hoja al aire, tristísima, la hoguera contempla la incendiaria sed del tiempo, su víspera de ruina, los cantiles de las ciudades tremolando pálidas. Qué península azul, qué bamboleo es la llama internándose en la noche rodeada de negror y en todas partes sin embargo tan pálida y altiva y fija y ya serena y como muerta.

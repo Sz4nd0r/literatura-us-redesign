@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# Una Vista Del Bosque*
 *(“A View of the Woods”, 1957)*
 *(originalmente publicado en*
 *Partisan Review, vol. 24, otoño de 1957;*

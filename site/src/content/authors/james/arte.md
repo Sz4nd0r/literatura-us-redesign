@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# El Arte De La Novela*
 *No*
 *habría puesto yo un título tan amplio a estas pocas observaciones, que*
 *por fuerza están faltas de perfección, sobre una materia cuyo estudio*

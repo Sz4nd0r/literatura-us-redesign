@@ -8,7 +8,6 @@ tags:
   - plata
   - bioy
 ---
-*# La aventura de un fotógrafo en La Plat*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Alrededor de las cinco, después de un viaje en ómnibus, tan largo como la noche, Nicolasito Almanza llegó a La Plata. Se había internado una cuadra en la ciudad, desconocida para él, cuando lo saludaron. No contestó, por tener la mano derecha ocupada con la bolsa de la cámara, los lentes y demás accesorios, y la izquierda, con la valija de la ropa. Recordó entonces una situación parecida. Se dijo: «Todo se repite», pero la otra vez tenía las manos libres y contestó un saludo que era para alguien que estaba a sus espaldas.

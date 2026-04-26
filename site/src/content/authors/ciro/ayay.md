@@ -8,7 +8,6 @@ tags:
   - ayay
   - ciro
 ---
-*# Leyenda del ayaymama*
 *Ciro Alegría*
 
 Era un hombre fuerte y valiente que siempre andaba por el riñón del bosque en los trajines de la caza y la guerra. Donde ponía el ojo clavaba la flecha y esgrimía con inigualada potencia el garrote de madera dura como la piedra. Patos silvestres, tapires y venados caían con el cuerpo traspasado y más de un jaguar que trató de saltarle sorpresivamente rodó por el suelo con el cráneo aplastado de un mazazo.

@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
-*# La Breve Vida Feliz De Francis Macomber*
 *(“The Short Happy Life of Francis Macomber”)*
 *Originalmente publicado en la revista Cosmopolitan (septiembre de 1936);*
 *The Fifth Column and the First Forty-Nine Stories*

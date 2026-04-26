@@ -11,7 +11,6 @@ tags:
 *César*
 *Vallejo*
 *(Perú, 1892-Paris, 1938)*
-*# César Vallejo*
 *José Carlos Mariátegui*
 *(7 Ensayos de*
 *Interpretación de la Realidad Peruana)*

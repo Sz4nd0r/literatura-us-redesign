@@ -10,7 +10,6 @@ tags:
 ---
 *Eudora Welty*
 *(Jackson, Mississippi, 1909-2001)*
-*# La Llave*
 *(“The Key”)*
 *A Curtain of Green and Other Stories, 1941*
 *La sala de espera de la pequeña y remota estación*

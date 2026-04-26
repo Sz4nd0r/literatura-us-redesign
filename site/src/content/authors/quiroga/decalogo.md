@@ -46,7 +46,6 @@ No
 adjetives sin necesidad. Inútiles serán cuantas colas de color adhieras
 a un sustantivo débil. Si hallas el que es preciso, él solo tendrá un
 color incomparable. Pero hay que hallarlo.
-# Viii
 Toma
 a tus personajes de la mano y llévalos firmemente hasta el final, sin ver
 otra cosa que el camino que les trazaste. No te distraigas viendo tú lo

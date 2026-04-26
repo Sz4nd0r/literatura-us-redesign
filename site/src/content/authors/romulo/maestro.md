@@ -8,7 +8,6 @@ tags:
   - maestro
   - romulo
 ---
-*# El Maestro*
 *Rómulo Gallegos (n. 1969)*
 *Originalmente publicado en Actualidades (27 de julio de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) Había en la ciudad un hombre a quien todo el mundo conocía y celebraba; llamábanlo “El Maestro”. Era un truhán desarrapado, gran bebedor y amigo de exhibir a todo trance su trasnochada erudición. Arrastraba por plazas y cantinas su bohemianismo nocherniego y en el día recogíase a dormir sus borracheras en la caseta donde el vigilante de un paseo guardaba sus herramientas, cerca de las jaulas de los tigres. De las piltrafas destinadas a éstos reservábale el guarda algunos trozos, que él guisaba en la tarde, cuando se levantaba, con abundante cantidad de ajos, diciendo que para que no fuese de bofes y asaduras todo el mal olor que aquello exhalaba. Y mientras engullía su pitanza, peroraba invariablemente así: —He aquí el tributo de la ciudad que me alimenta en este jardín, como antaño hiciera Atenas con sus héroes en el Pritaneo. La municipalidad me sostiene lo mismo que a las fieras, porque ellas y yo desempeñamos una idéntica función social, imprescindible para la ética colectiva; recordarle a nuestros semejantes cuanto tienen de felinos y de simios.*
 

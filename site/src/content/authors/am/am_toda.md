@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# Toda Mi Vida He Tartamudeado*
 *La cosa e altri racconti (1983)*
 *Salgo de casa mirando a derecha e izquierda, para ver si “él” está. Vivo en una de esas calles cerradas, es decir, sin salida a otra calle, y a la cual dan los jardines de no más de tres o cuatro residencias. A lo largo de la acera no se ven estacionados más que un par de automóviles, y son automóviles de lujo, como es de lujo todo el barrio. “Él”, en cambio, utiliza para seguirme un coche barato que, adecuado para mimetizarse en el tráfico urbano, aquí, en esta calle de millonarios, se destaca tanto como el automóvil de un millonario en una calle de gente pobre.*
 

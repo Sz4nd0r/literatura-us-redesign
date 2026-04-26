@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Veintiséis Y Una (Poema)*
 *(1899)*
 *(“Двадцать шесть и одна. Поэма”)*
 *Originalmente publicado en la revista Жизнь, San*

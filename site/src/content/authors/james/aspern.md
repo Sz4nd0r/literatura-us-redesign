@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# Los Papeles De Aspern*
 *(“The Aspern Papers”, 1888)*
 *Originalmente publicado en The Atlantic Monthly, vol. 61, N. 365-367 (marzo, abril y mayo, 1888)*
 *The Aspern Papers; Louisa Pallant; The Modern Warning, dos tomos, 1888*
@@ -595,7 +594,6 @@ Cuando entramos en el gabinete, la señorita Tita me dijo que ahora ella se las 
 —¿Es eso de lo que ella le habla a usted? —dijo la señorita Bordereau.
 —¡Imagínese: su tía quiere saberlo!
 Tuve que separarme de la señorita Tita con esas palabras sólo, aunque me habría gustado enormemente añadir: «¡Por lo más sagrado, véngame a ver esta noche al jardín!
-# ## Viii
 Según resultó, no hacía falta tal cosa, pues tres horas después, cuando había terminado de cenar, apareció la sobrina de la señorita Bordereau, sin hacerse anunciar, en la puerta abierta del cuarto donde me servían mis sencillas comidas. Recuerdo bien que no sentí sorpresa al verla, lo que no es prueba de que no creyera en su timidez. Esta era inmensa, pero en un caso en que hubiera particular motivo para la osadía, jamás la habría impedido correr a mis habitaciones. Vi que ahora estaba muy llena de una razón especial, que la impulsaba adelante, y la hizo agarrarme del brazo, cuando me levanté a recibirla.
 —¡Mi tía está muy mal; creo que se muere!
 —Jamás —respondí, con amargura—, ¡no tenga miedo!

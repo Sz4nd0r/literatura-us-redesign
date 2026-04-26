@@ -8,7 +8,6 @@ tags:
   - fausto
   - bioy
 ---
-*# Las vísperas de Fausto*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Esa noche de junio de 1540, en la cámara de la torre, el doctor Fausto recorría los anaqueles de su numerosa biblioteca. Se detenía aquí y allá; tomaba un volumen, lo hojeaba nerviosamente, volvía a dejarlo. Por fin escogió los Memorabilia de Jenofonte. Colocó el libro en el atril y se dispuso a leer. Miró hacia la ventana. Algo se había estremecido afuera. Fausto dijo en voz baja: Un golpe de viento en el bosque. Se levantó, apartó bruscamente la cortina.

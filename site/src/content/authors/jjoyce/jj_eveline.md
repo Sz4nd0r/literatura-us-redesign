@@ -11,7 +11,6 @@ tags:
 *James*
 *Joyce*
 *(1882-1941)*
-*# Eveline*
 *Sentada ante la ventana, miraba*
 *cómo la noche invadía la avenida. Su cabeza se apoyaba contras las*
 *cortinas de la ventana, y tenía en la nariz el olor de la polvorienta*

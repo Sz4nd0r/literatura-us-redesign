@@ -47,7 +47,6 @@ Jimmy siempre había tenido curiosidad por esos pueblos mineros oscuros y bastan
 Ella escribió un poema con una nota breve: si el editor de la revista Commentator pensaba que contenía versos sin valor, simplemente podía destruirlos. Jimmy, como editor de Commentator, pensó que los versos eran bastante buenos y admiró la brevedad de la nota. Pero no estaba seguro de editar el poema. La contestó: ¿tenía la señora Pinnegar algo que alegar?
 Después siguió una correspondencia. Y finalmente, a petición, esta nota de la señora Pinnegar:
 Me pregunta por mí. Pero ¿qué podría decir? Soy una mujer de treinta años, con una hija de ocho, y estoy casada con un hombre que vive conmigo en la misma casa pero que está con otra mujer. Intento escribir poesía, si eso es poesía, porque no tengo otro modo de expresarme, y aunque no le importe a nadie excepto a mí, siento que tengo que expresarme, al menos para salvarme de algún cáncer o de las enfermedades que padecen las mujeres. Fui maestra antes de casarme y obtuve el título en el Rotherham College. Si pudiera, volvería a la enseñanza y viviría sola. Pero las profesoras casadas ya no pueden volver a trabajar, no se les permite.
-# El Minero
 Por su esposa
 La máquina de vapor está haciendo ruido
 y el traqueteo, el traqueteo de las bandejas del carbón
@@ -66,7 +65,6 @@ Me casé con él y debería saberlo.
 La madre tierra desde las entrañas del carbón
 le parió para el dolor elevado.
 Este era el poema del que el editor del Commentator dudaba. También pensaba que la señora Pinnegar no parecía del tipo rústico y no sofisticado. Había algo más que le atraía: algo desesperado en la mujer, algo trágico.
-# ## El Siguiente Acontecimiento
 Si al atardecer, cuando llega el ocaso,
 me preguntas cómo ha sido el día,
 no lo sabré. Los tambores lejanos
@@ -334,7 +332,6 @@ orilla / colgábamos nuestras cítaras]. ¡Buena suerte! Pero para un hombre que
 Esto era todo lo que Severn tenía que decir. Pero Jimmy se fue a casa con las piernas temblando. El domingo por la mañana escribió una carta preocupada. No sabía cómo empezar: “Querida señora Pinnegar” y “Querida Emily” parecían demasiado distantes o demasiado atrevidos respectivamente. Por eso se lanzó sin ningún tipo de “querida”.
 Quiero que tengas esto antes de venir. Quizá nos hemos precipitado. Tan solo te ruego que decidas finalmente por ti misma antes de venir. No vengas, por favor, a menos que estés absolutamente segura. Si estás mínimamente insegura, espera un poco, hasta que lo tengas claro, de un modo u otro. Por mi parte, si no vienes lo entenderé. Pero, por favor, envíame un telegrama. Si vienes, seréis bien recibidas tú y la niña.
 Tuyo siempre,
-# # ## ## J. F.
 Pagó a un hombre el billete de ida y vuelta y tres libras extra, para ir el domingo y entregar esa carta. El hombre regresó por la tarde. Había entregado la carta. No había respuesta.
 ¡Horrible la noche del domingo; tensa la mañana del lunes!
 Un telegrama: “Llego a Marylebone a las 12.50 con Jane. Tuya siempre. Emily”.

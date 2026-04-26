@@ -13,8 +13,6 @@ tags:
 *(1904–1973)*
 *Cien sonetos de amor*
 *(1960)*
-*# Noche*
-*# ## Lxxix*
 *De noche, amada, amarra tu corazón*
 *al mío*
 *y que ellos en el sueño derroten las tinieblas*
@@ -31,7 +29,6 @@ con las alas de un cisne sumergido,
 para que a las preguntas estrelladas del cielo
 responda nuestro sueño con una sola llave,
 con una sola puerta cerrada por la sombra.
-# ## ## Lxxx
 De viajes y dolores yo regresé,
 amor mío,
 a tu voz, a tu mano volando en la guitarra,
@@ -47,7 +44,6 @@ hasta que se doblegue mi cabeza soñando:
 que todos los desvelos de mi vida tejieron
 esta enramada en donde tu mano vive y vuela
 custodiando la noche del viajero dormido.
-# ## ## ## Lxxxi
 Ya eres mía. Reposa con tu sueño
 en mi sueño.
 Amor, dolor, trabajos, deben dormir ahora.

@@ -10,7 +10,6 @@ tags:
 ---
 *Miguel Ángel Asturias*
 *(Ciudad de Guatemala, 1899 - Madrid, 1974)*
-*# El Señor Presidente*
 *(1946)*
 *(Buenos Aires: Losada, 1946, 267 págs.)*
 *Primera parte*

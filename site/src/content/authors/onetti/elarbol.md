@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# El Árbol*
 *Originalmente publicado en Cuadernos de Marcha (Montevideo), 1986*
 
 Cuando aquella mañana de cielo feliz, la muchacha, violín en mano, llamó a la puerta de la casita jardín de los Risi, un hombre de paisano, un poco mulato, abrió de un tirón y la obligó a pasar.

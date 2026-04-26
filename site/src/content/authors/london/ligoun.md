@@ -15,7 +15,6 @@ tags:
 *Children of the Frost*
 *(Nueva York: Macmillan Company, 1902, 261 págs.)*
 *—Sangre por sangre, rango por rango”.*
-*# Código Thlinket*
 *—Escucha ahora cómo murió Ligoun…*
 
 El orador se detuvo en plena frase y me echó una mirada de entendimiento. Alcé la botella entre nuestros ojos y el fuego de la hoguera, indiqué con el pulgar hasta donde podía beber y se la pasé. Porque, ¿acaso no se trataba de Palitlum, el Bebedor? Me había contado varias historias y yo llevaba mucho tiempo esperando a que aquel escribiente sin escritos me hablase de todo lo relacionado con Ligoun, porque él, entre todos los seres vivos, era quien mejor lo sabía.

@@ -8,7 +8,6 @@ tags:
   - polvo
   - josee
 ---
-*# El polvo azul*
 *José Emilio Pacheco (n. 2004)*
 
 El polvo azul La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) El hombre se incorporó del piso que había estado observando: —Las deyecciones son recientes. Aquí vive una familia. El campo de acción de los ratones nunca es mayor de cuatro o cinco metros. No se aventuran fuera de sus dominios. —Entonces los otros cuartos también están invadidos. —Allí medran ratones que no han pisado nunca este suelo… Hizo bien en llamarnos antes de que los estragos fueran irreparables.

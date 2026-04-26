@@ -10,7 +10,6 @@ tags:
 ---
 *Alejo Carpentier*
 *(La Habana, 1904-París, 1980)*
-*# Los Fugitivos*
 *(1946)*
 *Originalmente publicado en el diario El Nacional*
 *(Caracas, 4 de agosto de 1946, p. 9)*
@@ -54,6 +53,5 @@ De pronto, el hombre apareció. Olía a negro. Unas cadenas rotas, que le colgab
 —¡Perro! —alborozó el negro—. ¡Perro!
 Perro se le acercó lentamente. Le olió los pies, aunque sin dejarse tocar. Daba vueltas en torno a él, moviendo la cola. Cuando era llamado, huía. Y cuando no era llamado parecía buscar aquel sonido de voz humana que había entendido un poco, en otros tiempos, pero que ahora le sonaba tan raro, tan peligrosamente evocador de obediencia. Al fin Cimarrón dio un paso, adelantando una mano blanda hacia su cabeza. Perro lanzó un extraño grito, mezcla de ladrido sordo y de aullido, y saltó al cuello del negro.
 Había recordado, de súbito, una vieja consigna dada por el mayoral del ingenio, el día que un esclavo huía al monte.
-# ## Viii
 Como no olía a hembra y los tiempos eran apacibles, los jíbaros durmieron el hartazgo durante dos días. Arriba, las auras pasaban sobre las ramas, esperando que la jauría se marchara sin concluir el trabajo. Perro y la perra gris se divertían como nunca, jugando con la camisa listada de Cimarrón. Cada uno halaba por su lado, para probar la solidez de los colmillos. Cuando se desprendía una costura, ambos rodaban por el polvo. Y volvían a empezar, con el harapo cada vez más menguado, mirándose a los ojos, las narices casi juntas. Al fin, se dio la orden de partida. Los ladridos se perdieron en lo alto de las crestas arboladas.
 Durante muchos años, los monteros evitaron, de noche, aquel atajo dañado por huesos y cadenas.

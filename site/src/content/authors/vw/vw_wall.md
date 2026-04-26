@@ -10,7 +10,6 @@ tags:
 ---
 *Virginia Woolf*
 *(1882-1941)*
-*# La Marca En La Pared*
 *(1917)*
 *(“The Mark on the Wall”)*
 *Two Stories*

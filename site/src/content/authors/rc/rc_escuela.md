@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Escuela Nocturna*
 *(“Night School”)*
 *Originalmente publicado en North American Review*
 *(1971)*

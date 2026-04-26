@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# ¿Por Qué No Bailan?*
 *(“Why Don’t You Dance?”)*
 *Originalmente publicado en Quarterly West (1978);*
 *What We Talk About When We Talk About Love (1981);*

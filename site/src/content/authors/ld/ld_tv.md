@@ -8,7 +8,6 @@ tags:
   - ld_tv
   - ld
 ---
-# Televisión
 
 *Lydia Davis*
 

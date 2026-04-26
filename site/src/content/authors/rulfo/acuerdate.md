@@ -11,7 +11,6 @@ tags:
 *Juan*
 *Rulfo*
 *(México, 1918-1986)*
-*# Acuérdate*
 *(El Llano en llamas,*
 *1953)*
 *Acuérdate de Urbano Gómez, hijo*

@@ -89,7 +89,6 @@ Lo dijo en un susurro, mientras acariciaba despacio la mano de él.
 Ella había apoyado la cabeza en el hombro de él. La cadencia de sus voces se había suavizado hasta el punto de que cada palabra era una caricia. El jesuíta se movió nervioso.
 —¿Luego? —repitió ella.
 —Continuaremos Yukón arriba y pasaremos por tierra los rápidos de White Horse y el Cañón Box.
-# # # # —¿Y?
 —El río Sixty Mile. Después los lagos, Chilkoot, Dyea y llegaremos al mar.
 —Pero, querido, yo no puedo impulsar una barca con una pértiga.
 —¡No seas boba! Contrataré a Charley el de Sitka. Conoce los tramos buenos de los ríos y los mejores campamentos y es el mejor viajero que conozco, aunque sea indio. Tú solo tendrás que sentarte en el medio de la chalana, cantar canciones, hacer de Cleopatra y pelearte con… no, tenemos suerte, es demasiado pronto para los mosquitos.

@@ -8,7 +8,6 @@ tags:
   - ausente
   - joseluis
 ---
-*# El ausente*
 *José Luis*
 *González (1926 - 1997)*
 *En la sombra. Prólogo de Carmen Alicia Cadilla (San Juan, Puerto Rico: Imprenta Venezuela, 1943, 110 págs.) Muchos en el lugar lo recordaban. Y eso que hacía diez años que nadie lo veía. Diez largos años en los que doña Casiana había mantenido vivo, a fuerza de lágrimas, el recuerdo del hijo ausente. Siempre pareció que el muchacho iba a darse bueno. A los once años dejó la escuela para ayudar al padre en las talas. El hombre iba delante, tras el arado y los bueyes lentos, viejos ya. El muchacho lo seguía, depositando la siemiente en la húmeda desgarradura de los surcos.*

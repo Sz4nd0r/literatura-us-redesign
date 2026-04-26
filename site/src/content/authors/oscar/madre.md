@@ -8,7 +8,6 @@ tags:
   - madre
   - oscar
 ---
-*# Amor de madre*
 *Óscar Collazos (1942 - 2015)*
 
 Amor de madre Adiós Europa, adiós (Bogotá: Planeta Colombiana Editorial S.A. (Seix Barral], 2000, 130 págs.) Lo primero que pudo ver la madre al llegar fue el increíble desorden de trastos en la sala, no puede ser, reguero de objetos que normalmente ocupaban un lugar inalterable en la casa. Desconcertada, no pudo pensar en un primer momento en otra cosa que no fuese una calamidad, la miserable llegada de los cacos, mientras se llevaba las manos a la cabeza sin saber por dónde empezar.

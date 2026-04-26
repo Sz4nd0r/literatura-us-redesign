@@ -8,7 +8,6 @@ tags:
   - fabiola
   - julio
 ---
-*# La señorita Fabiola*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La palabra del mudo) La palabra del mudo. Cuentos 1952-1977, tomo III. (Lima: Milla Batres Editorial, 1977, 220 págs.) Yo aprendí el abecedario en casa, con mamá, en una cartilla a cuadrados rojos y verdes, pero quien realmente me enseñó a leer y escribir fue la señorita Fabiola, la primera maestra que tuve cuando entré al colegio. Es por ello que la tengo tan presente y que me animo a contar algo de su vida, su triste, oscura y abnegada vida de mujercita fea y pobre, tan parecida a tantas otras vidas, de la que nada sabemos.

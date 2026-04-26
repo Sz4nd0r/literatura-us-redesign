@@ -8,9 +8,7 @@ tags:
   - cuerdas
   - borges
 ---
-*# Para las seis cuerdas*
 *Jorge Luis Borges*
-*# Para las seis cuerdas*
 *Jorge Luis Borges*
 
 Toda lectura implica una colaboración y casi una complicidad. En el Fausto, debemos admitir que un gaucho pueda seguir el argumento de una ópera cantada en un idioma que no conoce; en el Martín Fierro, un vaivén de bravatas y de quejumbres, justificadas por el propósito político de la obra, pero del todo ajenas a la índole sufrida de tos paisanos y a los precavidos modales del payador. En el modesto caso de mis milongas, el lector debe suplir la música. ausente por la imagen de un hombre que canturrea, en el umbral de su zaguán o en un almacén, acompañándose con la guitarra. La mano se demora en las cuerdas y las palabras cuen­tan menos que los acordes. He querido eludir la sensiblería del inconsolable “tango-canción” y el manejo sistemático del lunfardo, que infunde un aire artificioso a las sencillas coplas.

@@ -8,7 +8,6 @@ tags:
   - rastro
   - garciamarquez
 ---
-*# El rastro de tu sangre en la nieve*
 *Gabriel*
 *García Márquez (n. 1947)*
 

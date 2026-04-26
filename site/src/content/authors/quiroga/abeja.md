@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# La Abeja Haragana*
 *(Cuentos de la selva,*
 *1918)*
 *Había una vez en una colmena una*

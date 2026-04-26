@@ -8,7 +8,6 @@ tags:
   - morel
   - bioy
 ---
-*# La invención de Morel*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Stevenson y estatuye en la página 96, que «es muy difícil que hoy quepa inventar una aventura capaz de interesar a nuestra sensibilidad superior», y en la 97, que esa invención «es prácticamente imposible». En otras páginas, en casi todas las otras páginas, aboga por la novela «psicológica» y opina que el placer de las aventuras es inexistente o pueril. Tal es, sin duda, el común parecer de 1882, de 1925 y aun de 1940.

@@ -13,7 +13,6 @@ tags:
 *III. La negativa*
 *Los años duros (1966)*
 *Hay golpes en la vida tan fuertes... ¡Yo no sé!*
-*# Vallejo*
 
 Era por el claro de la quijada, allí donde no le nacía barba, por donde pasaba una y otra vez la yema del dedo. Miraba al que tenía sentado frente a sí y no lo miraba. Su vista iba más allá, al candil, a las mohosas tablas de la casucha, tras las tablas, aunque no había ventanas, al camino, a los oscuros lomos de la noche.
 —¿Qué decías, Méndez? —preguntó con voz lenta, sin dejar de acariciarse el rostro.

@@ -8,7 +8,6 @@ tags:
   - polvo
   - ferre
 ---
-*# El jardín de polvo*
 *Rosario Ferré (2001 - 1972)*
 
 Voy cruzando lentamente por debajo de los árboles de mano de Eusebia, es hoy, la piel de los nísperos se ha rajado con el calor por debajo de la capa de polvo que los cubre dejando al descubierto la carne reluciente de venado, las cucarachas de ébano. Las abejas se introducen en las heridas de azúcar negra, la leche de los anones se cuaja sobre las escamas verdes con la lentitud de siempre. No hay nadie hoy. Sólo el jardinero arando como siempre el polvo.

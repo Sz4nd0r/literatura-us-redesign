@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Vaska El Rojo*
 *(1900)*
 *(“Васька красный”)*
 *[Obras reunidas], Vol. III*

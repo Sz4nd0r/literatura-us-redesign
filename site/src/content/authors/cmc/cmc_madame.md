@@ -10,7 +10,6 @@ tags:
 ---
 *Carson McCullers*
 *(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
-*# Madame Zilensky Y El Rey De Finlandia*
 *—Madame Zilensky and the King of Finland*
 *Originalmente publicado en The New Yorker, 20 de diciembre de 1941*
 *The Ballad of the Sad Café and Other Stories (1951)*

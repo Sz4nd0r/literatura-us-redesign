@@ -8,9 +8,7 @@ tags:
   - segunda
   - cortazar
 ---
-*# Segunda vez*
 *Julio Cortázar*
-*# Segunda vez*
 *Julio Cortázar*
 
 Alguien que anda por ahí, 1977) No más que los esperábamos, cada uno tenía su fecha y su hora, pero eso sí, sin apuro, fumando despacio, de cuando en cuando el negro López venía con café y entonces dejábamos de trabajar y comentábamos las novedades, casi siempre lo mismo, la visita del jefe, los cambios de arriba, las performances en San Isidro. Ellos, claro, no podían saber que los estábamos esperando, lo que se dice esperando, esas cosas tenían que pasar sin escombro, ustedes proceden tranquilos, palabra del jefe, cada tanto lo repetía por las dudas, ustedes la van piano piano, total era fácil, si algo patinaba no se la iban a tomar con nosotros, los responsables estaban arriba y el jefe era de ley, ustedes tranquilos, muchachos, si hay lío aquí la cara la doy yo, lo único que les pido es que no se me vayan a equivocar de sujeto, primero la averiguación para no meter la pata y después pueden proceder nomás.

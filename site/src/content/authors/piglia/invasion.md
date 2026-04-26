@@ -12,7 +12,6 @@ tags:
 *Piglia*
 *(Adrogué, Buenos Aires,*
 *1941 - Buenos Aires, 2017)*
-*# La Invasión*
 *(La invasión, 1967)*
 *Con el golpe del cerrojo los*
 *adivinó atrás, al fondo de la celda.*

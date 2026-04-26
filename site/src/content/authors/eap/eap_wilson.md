@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# William Wilson*
 *(“William Wilson”, 1839)*
 *Originalmente publicado en The Gift: A Christmas and New Year’s Present for 1840*
 *(Philadelphia: Carey & Hart, 1839)*

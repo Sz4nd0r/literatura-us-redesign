@@ -8,7 +8,6 @@ tags:
   - elresg
   - juanbosch
 ---
-*# El resguardo*
 *Juan Bosch (1909 - 2001)*
 *Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.) Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 286 págs.), (Santo Domingo: Colección Pensamiento Dominicano, 1975, 278 pgs.) Cuando Tino se acercaba al sitio empezó a sentir angustia. —Vea —dijo—, me siento tembloroso. Tino tenía una cara ingenua, sin pelos; sonreía mucho y enseñaba los ojos hasta el fondo. El otro, en cambio, era flaco, velludo y torvo. —A la mujer no se le pone tanto caso —comentó brevemente.*
 *Tino inició una risita. —Eso dice usté ahora… Deje que usté la vea. ¡Una mata de pelo, y un andar! —Entonces no me diga que le tiene miedo. Tino empezaba a sentirse molesto. —Unq, unq; si no es eso. Es como que el corazón me da que ‘ta con alguno. —Se la quita. —¿Quién? ¿Yo? El otro, con su media risa cortante, insinuó: —A usté le jiede la sangre. Tino era muy calmoso y no se ofendía fácilmente. —Vea, amigo: me tiro con el diablo, no digo yo; pero ¿y si ella se quiere con otro? El compañero hablaba sordamente: —Yo no más por la mujer que me gusta peleo. —Usté como que tiene la sangre liviana —comentó Tino. —Ello sí —aprobó su amigo.*

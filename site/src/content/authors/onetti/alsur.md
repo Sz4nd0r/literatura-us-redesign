@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Regreso Al Sur*
 *Originalmente publicado en La Nación (Buenos Aires), 1946*
 
 Cuando estuvo solo en el rincón del café, Oscar volvió a pensar en la cabeza pálida de tío Horacio en la camilla, que parecía haber aceptado definitivamente la expresión de leve interés y cortesía con que se enmascaraba al escudar hablar de personas y cosas que habían estado o atravesado el sur de Buenos Aires, la zona extranjera que se iniciaba en la calle Rivadavia, y a partir del Carnaval de 1938. Tío Horacio alzaba las cejas y casi sonreía para esperar el fin de aquellas conversaciones. Recordando su rostro muerto, era nuevamente imposible adivinar en qué sentido y con qué intención el odio y el desprecio actuaban sobre las imágenes y los seres del barrio sur, cuál había sido la deformación obtenida o —tal vez no era más que esto— en qué tono de luz el odio y el desprecio envolvían para tío Horario los paisajes proscritos del Sur.

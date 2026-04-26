@@ -12,7 +12,6 @@ tags:
 *Ibargüengoitia*
 *(Guanajuato, México, 1928*
 *—Madrid, 1983)*
-*# Falta De Espíritu Scout*
 *La ley de Herodes y otros cuentos (1967)*
 *—Si tú vas al Jamboree —me dijo el maestro Nicodemus—, yo no voy.*
 *Yo lo miraba estúpidamente. Nunca me imaginé que se fuera a poner así.*

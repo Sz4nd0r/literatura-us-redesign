@@ -13,7 +13,6 @@ tags:
 *(1904–1973)*
 *Cien sonetos de amor*
 *(1960):*
-*# Tarde*
 *LIV*
 *Espléndida razón, demonio claro*
 *del racimo absoluto, del recto mediodía,*
@@ -62,7 +61,6 @@ eres, y yo te miro recostada en la tierra.
 Veo el sol trasmigrar racimos a tu rostro,
 mirando hacia la altura reconozco tus pasos.
 Matilde, bienamada, diadema, bienvenida!
-# ## Lvii
 Mienten los que dijeron que yo
 perdí la luna,
 los que profetizaron mi porvenir de arena,
@@ -78,7 +76,6 @@ yo reclamé el jazmín que dejaban tus huellas,
 yo me perdí de noche sin luz bajo tus párpados
 y cuando me envolvió la claridad
 nací de nuevo, dueño de mi propia tiniebla.
-# ## ## Lviii
 Entre los espadones de fierro
 literario
 paso yo como un marinero remoto
@@ -95,7 +92,6 @@ hacia los almacenes lluviosos de mi infancia,
 hacia los bosques fríos del Sur indefinible,
 hacia donde mi vida se llenó con tu aroma.
 LIX
-# ## ## ## (G. M.)
 Pobres poetas a quienes la vida y
 la muerte
 persiguieron con la misma tenacidad sombría

@@ -8,7 +8,6 @@ tags:
   - luna
   - jose
 ---
-*# Noche de luna gris*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

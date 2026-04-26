@@ -8,7 +8,6 @@ tags:
   - sierva
   - bioy
 ---
-*# La sierva ajena*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 En alguna parte leí que un apretado tejido de infortunios labra la historia de los hombres, desde la primera aurora, pero a mí me agrada suponer que hubo períodos tranquilos y que por un inapelable golpe de azar me toca vivir el momento, confuso y épico, de la culminación. Dirán, tal vez, que éste es el clamor, nada filosófico, de un sujeto oscuro y apocado; yo replicaría que, justamente, porque soy un sujeto oscuro y apocado, es curioso, aun significativo, que pueda testimoniar sobre más de un hecho tremendo.

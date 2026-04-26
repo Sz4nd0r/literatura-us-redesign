@@ -8,7 +8,6 @@ tags:
   - profes
   - julio
 ---
-*# El profesor suplente*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 El profesor suplente Las botellas y los hombres (originalmente publicado, por error, como Los hombres y las botellas) (Lima: Populibros Peruanos, 1964, 135 págs.) Hacia el atardecer, cuando Matías y su mujer sorbían un triste té y se quejaban de la miseria de la clase media, de la necesidad de tener que andar siempre con la camisa limpia, del precio de los transportes, de los aumentos de ley, en fin, de lo que hablan a la hora del crepúsculo los matrimonios pobres, se escucharon en la puerta unos golpes estrepitosos y cuando la abrieron irrumpió el doctor Valencia, bastón en mano, sofocado por el cuello duro. —¡Mi querido Matías! ¡Vengo a darte una gran noticia! De ahora en adelante serás profesor. No me digas que no… ¡espera!

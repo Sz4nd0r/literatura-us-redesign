@@ -8,7 +8,6 @@ tags:
   - aglenda
   - cortazar
 ---
-*# Queremos tanto a Glenda*
 *Julio Cortázar*
 
 En aquel entonces era difícil saberlo. Uno va al cine o al teatro y vive su noche sin pensar en los que ya han cumplido la misma ceremonia, eligiendo el lugar y la hora, vistiéndose y telefoneando y fila once o cinco, la sombra y la música, la tierra de nadie y de todos allí donde todos son nadie, el hombre o la mujer en su butaca, acaso una palabra para excusarse por llegar tarde, un comentario a media voz que alguien recoge o ignora, casi siempre el silencio, las miradas vertiéndose en la escena o la pantalla, huyendo de lo contiguo, de lo de este lado.

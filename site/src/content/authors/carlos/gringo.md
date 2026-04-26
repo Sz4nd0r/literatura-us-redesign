@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Fuentes*
 *(Ciudad de Panamá, 1928 - México D.F., 2012)*
-*# Gringo Viejo*
 *(1985)*
 *(México D.F.: Fondo De Cultura Económica, 1985)*
 *A William Styron, cuyo padre*
@@ -18,11 +17,9 @@ tags:
 *Guerra civil norteamericana*
 *Mas, ¿Quien conoce el destino de sus huesos,*
 *O cuantas veces va a ser enterrado?*
-*# ## Thomas Browne*
 
 Lo que tú llamas morirse
 es simplemente el último dolor
-# ## ## Ambrose Bierce
 I
 Ella se sienta sola y recuerda.
 Vio una y otra vez los espectros de Arroyo y la mujer con cara de luna y el gringo viejo, cruzando frente a su ventana. No eran fantasmas. Sencillamente, habían movilizado sus propios pasados, con la esperanza de que ella haría lo mismo reuniéndose con ellos.

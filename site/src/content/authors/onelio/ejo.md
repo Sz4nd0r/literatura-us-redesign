@@ -10,7 +10,6 @@ tags:
 ---
 *Onelio Jorge Cardoso*
 *(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)*
-*# El Cangrejo Volador*
 *Iba caminando*
 *(La Habana: Ediciones Granma, 1966, 121 pp.)*
 

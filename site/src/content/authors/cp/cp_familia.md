@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# La Familia*
 *(“La famiglia”, 1941)*
 *Tan sólo hay un borrador*
 *Tutti i racconti (2002)*

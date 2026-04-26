@@ -8,7 +8,6 @@ tags:
   - romana
   - bioy
 ---
-*# Historia romana*
 *Adolfo Bioy Casares (1914 - 1999)*
 *Historias de amor (Buenos Aires: Emecé, 1972, 259 págs.) A las diez y media, todas las mañanas, yo bajaba del hotel Gassion; mis vecinas venían del hotel de France. En el boulevard des Pyrénées, en distintos bancos, frente a las mismas montañas, uno leyendo Daisy Miller, otras repitiendo lecciones, nos entibiábamos al sol. Mis vecinas eran cinco niñas y una gobernanta. Quien mirara a las niñas distraídamente, podía tomarlas por una serie de ejemplares (de tamaño diverso, de edades que variaban entre los nueve y los diecinueve años) de una misma persona, sumisa, rubia, espigada, con ojos grises, con uniforme azul. De la gobernanta —mujer provecta y de mal genio— guardo un recuerdo indefinido.*
 

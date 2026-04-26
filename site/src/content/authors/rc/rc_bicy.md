@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Bicicletas, Músculos, Cigarrillos*
 *(“Bicycles, Muscles, Cigarets”)*
 *Originalmente publicado en Kansas Quarterly (1973)*
 *Will You Please Be Quiet, Please? (1976)*

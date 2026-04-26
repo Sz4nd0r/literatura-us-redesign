@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Fuentes*
 *(Ciudad de Panamá, 1928 - México D.F., 2012)*
-*# Carlos Fuentes, O La Nueva Herejía*
 *Luis Harss, Los nuestros*
 *(Buenos Aires: Editorial Sudamericana, 1966)*
 

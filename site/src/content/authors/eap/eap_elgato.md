@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# El Gato Negro*
 *(“The Black Cat”, 1843)*
 *Originalmente publicado en United States Saturday Post*
 *(que luego sería The Saturday Evening Post), (August 19, 1843)*

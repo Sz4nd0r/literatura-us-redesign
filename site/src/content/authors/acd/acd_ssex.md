@@ -20,7 +20,6 @@ tags:
 Holmes terminó de leer detenidamente una nota que le había llegado con las últimas cartas. Luego, con una risita sarcástica, que en él era lo más parecido a una risa, me la pasó.
 —Creo que se encuentra en el límite de la combinación de lo moderno con lo medieval, de lo práctico con la fantasía más desenfrenada —dijo—. ¿Qué le parece, Watson?
 Leí lo que sigue:
-# 46, Old Jewry
 19 de noviembre
 Asunto: Vampiros.
 Estimado señor:
@@ -28,7 +27,6 @@ Nuestro cliente, el señor Robert Ferguson, de Ferguson & Muirhead, comerciantes
 Atentamente,
 Morrison, Morrison & Dodd
 El representante,
-# # # ## E. J. C.
 —Matilda Briggs no es el nombre de una joven, Watson —comentó Holmes en tono nostálgico—. Era un barco relacionado con la rata gigante de Sumatra, una historia para la que la gente no está todavía preparada. Pero ¿qué sabemos nosotros de vampiros? ¿Es de nuestra competencia? Cualquier cosa es preferible a la inactividad, pero parece que nos vemos mezclados en un cuento de los hermanos Grimm. Alargue el brazo, Watson, y veamos qué tiene la V que decir.
 Me eché atrás en mi asiento y bajé el enorme libro de consulta al que se refería. Holmes lo puso encima de su rodilla y sus ojos se movían despacio y con cariño por los antiguos casos recogidos en él, que se entremezclaban con la información reunida durante toda una vida.
 —Viaje del Gloria Scott —leyó—. Feo asunto. Me parece recordar que lo dejó por escrito, Watson, aunque no me siento capaz de felicitarle por el resultado. Victor Lynch, el falsificador. Veneno de un lagarto: el monstruo de Gila. ¡Un caso muy notable! Vittoria, la belleza del circo. Vanderbilt y el ratero. Víboras. Vigor, el asombro de Hammersmith. Bueno, bueno, con mi vieja enciclopedia. Es insuperable. Escuche esto, Watson. Vampirismo en Hungría. Aquí hay otra entrada, Vampiros en Transilvania.

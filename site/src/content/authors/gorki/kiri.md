@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Kirilka*
 *(1899)*
 *[“Cirilo”]*
 *(“Кирилка”)*

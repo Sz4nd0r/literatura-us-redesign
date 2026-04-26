@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Los Exhombres*
 *(1897)*
 *(“Бывшие люди”)*
 *Originalmente publicado, con el subtítulo Очерк [“Ensayo”], en dos entregas,*

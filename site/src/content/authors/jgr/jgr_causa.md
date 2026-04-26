@@ -10,7 +10,6 @@ tags:
 ---
 *João Guimarães Rosa*
 *(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
-*# Causa De Almirante*
 *(“Azo de Almirante”)*
 *Tutaméia (Terceiras Estórias)*
 *(Rio de Janeiro: José Olympio, 1967);*

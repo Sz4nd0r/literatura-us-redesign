@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# El Síncope Blanco*
 *(El desierto y otros cuentos, 1924)*
 *Yo*
 *estaba dispuesto a cualquier cosa; pero no a que me dieran cloroformo.*
@@ -92,8 +91,6 @@ edificio —señaló el guardián con su palo corto.
 Miré
 sorprendido hacia el templo griego, y con mayor sorpresa aún leí en el
 frontispicio, en grandes caracteres de luz tamizada:
-# ## Síncope
-# ## ## Azul
 —Este es
 su domicilio, por ahora —agregó el guardián—. Todos los que durante una operación
 de cloroformo caen en síncope, esperan allí. Vamos andando, porque usted hace
@@ -108,7 +105,6 @@ Es la misma cosa, casi... Lea el letrero... Nunca he
 visto uno de ustedes, los cloroformizados, que lea los letreros. ¿Qué dice ese?
 Puede leerlo bien, sin embargo.
 Y leí:
-# ## ## ## Síncope
 ## ## ## ## BLANCO
 —Así es
 —confirmó el hombre—. Síncope blanco. Los que entran allí no salen más, porque

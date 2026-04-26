@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Los Amigos*
 *Originalmente publicado en Nueva Estafeta (Madrid), 1979*
 
 Desde que la vio salir con la madre de la iglesia catedral, desapareció de la reunión de los viernes en el Tupi-Nambá. Si hacíamos preguntas a su vecina nos contestaba que no estaba enfermo, que ella lo oía moverse en el sótano que habitaba y que ahora que llegaba la buena estación volvía a salir después de la siesta con el caballete y la caja sucia de colores a buscar callecitas inéditas en el barrio sur.

@@ -8,7 +8,6 @@ tags:
   - babas
   - cortazar
 ---
-# Las babas del diablo
 
 *Julio Cortázar*
 

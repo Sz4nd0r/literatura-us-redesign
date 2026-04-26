@@ -8,7 +8,6 @@ tags:
   - solar
   - bioy
 ---
-*# El solar*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Si estas líneas le enturbian, como un mal sueño, instantes de un día cualquiera, perdóneme. Escribo para entender mi situación, para aquilatar los peligros y para que el miedo no me paralice. Cuando le haya explicado todo —bastaran muy pocas palabras— acaso yo recupere la calma que tanto necesito: sin ella no he de escapar. Pienso en vidas afortunadas, la suya entre otras, como quien entrevé la luz del sol desde un sótano oscuro. Es de noche y largas horas faltan para el amanecer.

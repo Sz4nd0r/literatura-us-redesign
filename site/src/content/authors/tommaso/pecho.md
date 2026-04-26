@@ -160,7 +160,6 @@ Y ahora, habiendo por fin oído, a mí sólo me habría faltado decir: “¡Anim
 —Bello, joven… amado. Aún iba a la escuela. Todavía llevaba apoyados en las caderas paquetes de inútiles libros, pero ya tenía estos muslos largos, mi talle ya se había soltado, mi pecho ya se había hinchado. Mi pecho, ya ve, éste… Y lo amaba por su belleza, por la terca voluntad de dominio que encerraba en sí, pero también por su extraviado deseo, es decir, por mí misma. Lo amaba sin conocerme, sin valorar el infranqueable estridor que puede producirse entre nosotros y los demás, como si el hecho de que yo fuera de un cierto modo debiera resultarme garantía suficiente de mi derecho a la vida, de mi felicidad… Aquella noche llovía. También él llevaba sus libros, que dejó en el mostrador de un puesto de periódicos cerrado bajo cuyo tejado habíamos buscado refugio. Y me miró. Y yo, ignorante, yo, ignorante… No lejos, entre los plátanos del jardín público, el quiosco de la música. Lo alcanzamos. Anochecía. Anocheció del todo durante nuestros escarceos. Y quiso desnudarme el pecho, este pecho.
 —¿Qué dijo?
 —¡Nada, nada! ¿Qué tenía que decir? Es más, me besó hasta donde yo le permití hacerlo.
-# # # # —¿Y?
 —¡Santo Dios! Sus preguntas no tienen ningún sentido. Nada, sólo que sus besos me bastaron para siempre.
 —¿Por qué? Dígamelo todo.
 —¡Qué bueno es usted! Sin duda quiere librarme de mí misma… Sus besos estaban llenos de asco, eso fue todo, y yo los sentí de ese modo. ¡Nada más, nada más! —rió locamente—. Y desapareció o, más bien, yo desaparecí.

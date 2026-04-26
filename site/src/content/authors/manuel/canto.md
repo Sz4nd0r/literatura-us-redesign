@@ -8,7 +8,6 @@ tags:
   - canto
   - manuel
 ---
-*# Canto y baile*
 *Manuel Rojas*
 *Originalmente publicado en el periódico La Nación [Santiago de Chile] (21 de julio de 1929); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.), págs. 57-77. Los muebles de aquel salón de baile eran tapizados con brocato color rojo; rojo era también el papel que cubría las paredes y roja la alfombra que, después de orillar de encarnado las patas de las sillas y sillones, terminaba súbitamente ante el piano. En las ropas de las mujeres de aquel salón de baile predominaba igualmente el color rojo.*
 *Los espejos, cuatro grandes, colocados uno encima del piano, otro al fondo, en la pared contraria a la que ocupaba el primero, y dos frente a frente en las paredes restantes, recogían y multiplicaban aquel tono como una sinfonía en rojo, tal vez si conscientemente organizada por la dueña de casa, que no ignoraría, ya que eso formaba parte de su conocimiento del negocio, que el color rojo influye en los nervios, excitando a los apacible y enloqueciendo a los irritables. El piano, negro, alto, profundo, destacándose entre el rojo, semejaba un catafalco contrariado, constreñido, a pesar de su seriedad, a presenciar aquella orgía ultrarroja. A su lado había una mesilla vacilante con cubierta de lata, donde las mujeres acostumbraban a tamborilear con la palma de las manos para evitar el baile.*

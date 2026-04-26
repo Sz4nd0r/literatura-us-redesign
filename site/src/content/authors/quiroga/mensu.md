@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# Los Mensú*
 *(Cuentos de amor, de*
 *locura y de muerte, 1917)*
 

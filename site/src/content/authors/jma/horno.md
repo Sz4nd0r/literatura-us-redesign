@@ -8,7 +8,6 @@ tags:
   - horno
   - jma
 ---
-*# El horno viejo*
 *José María Arguedas (1937 - 1917)*
 *Amor mundo y todos los cuentos (Lima: Francisco Moncloa Editores S.A., 1967, 207 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Dormía bien en la batea grande que había pertenecido al horno viejo. A su lado, sobre pellejos, dormía la sirvienta Facunda. Cerca del fogón, en una tarima hecha de adobes que en el día era utilizada como apoyo para los peones, dormía la cocinera, doña Cayetana. —Apesta a indio y cebolla —dijo el caballero, en la puerta de la cocina.*
 

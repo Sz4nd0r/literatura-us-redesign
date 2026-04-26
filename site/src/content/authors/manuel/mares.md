@@ -8,7 +8,6 @@ tags:
   - mares
   - manuel
 ---
-*# Mares libres*
 *Manuel Rojas*
 *Originalmente publicado en el periódico El Mercurio (Santiago de Chile) (26 de agosto de 1951); Antología de cuentos (Santiago de Chile: Zig-Zag, 1957, 148 págs.), págs. 112-122. La Skúa, entre pardo y ocre sucio la color, vivísimo el ojo, ancha de pecho, pico de matarife, vuela y revuela sobre la bahía. Desde donde vuela y revuela todo lo vigila y todo lo ve; ningún movimiento se le escapa. Distingue a los peces bajo el agua y a los pájaros sobre ella y sabe quién se lanza sobre la presa, qué presa y si tiene suerte..., la presa o el pájaro. Si el bocado es bueno y el pescador lo consigue, siente un estremecimiento y las alas tienden a lanzarla hacia el afortunado.*
 *Pero se retiene. ¿Por qué? De todas las aves que vuelan sobre la bahía o que están inmóviles en alguna parte de ella, la Skúa, bien llamada Gaviota Salteadora es la más desalmada, ningún pájaro puede pescar a su vista ni el más miserable de los peces sin correr el riesgo que ella se lo arrebate a picotazos. A pesar de ello. representa allí, en este momento, a su especie. ¿Cómo? Es difícil explicarlo. Sólo se podría hacerlo si se recuerda que muy rara vez o nunca las especies escogen con tino a sus representamos.*

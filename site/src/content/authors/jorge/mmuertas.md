@@ -12,7 +12,6 @@ tags:
 *Ibargüengoitia*
 *(Guanajuato, México, 1928*
 *—Madrid, 1983)*
-*# Manos Muertas*
 *La ley de Herodes y otros cuentos (1967)*
 
 ¿Cómo llegó? ¿De dónde vino? Nadie lo sabe. El primer signo que tuve de su presencia fueron las pan tálelas.

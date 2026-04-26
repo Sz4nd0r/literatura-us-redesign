@@ -10,7 +10,6 @@ tags:
 ---
 *Tobias Wolff*
 *(Birmingham, Alabama, 1945 –)*
-*# El Mentiroso*
 *(1980)*
 *(“The Liar”)*
 *Originalmente publicado en la revista Atlantic Monthly (febrero 1980, Vol. 245, Issue 2, pág. 80);*

@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# La Miel Silvestre*
 *(Cuentos de amor, de*
 *locura y de muerte, (1917)*
 *Tengo en el Salto Oriental dos*

@@ -8,7 +8,6 @@ tags:
   - carru
   - julio
 ---
-*# El carrusel*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La palabra del mudo) La palabra del mudo. Cuentos 1952-1977, tomo III. (Lima: Milla Batres Editorial, 1977, 220 págs.) El primer día que llegué a Fráncfort tomé un hotel cerca de la estación del ferrocarril, dejé mi equipaje y salí a dar una vuelta, sin plano ni plan preciso. Nada es más agradable que recorrer un poco a la aventura una ciudad que no conocemos, sin saber cuáles son sus calles céntricas, sus monumentos, sus costumbres.

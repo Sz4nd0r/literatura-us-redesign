@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# Más Pobre Que Un Muerto, Imposible*
 *(“You Can’t Be Any Poorer Than Dead”, 1955)*
 *(originalmente publicado en New World Writing, vol. 8, octubre de 1955;*
 *revisado y reescrito como el primer capítulo de The Violent Bear It Away, 1960)*

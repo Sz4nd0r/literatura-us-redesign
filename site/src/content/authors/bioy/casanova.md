@@ -8,7 +8,6 @@ tags:
   - casanova
   - bioy
 ---
-*# Casanova secreto*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Guirnalda con amores (Buenos Aires: Emecé, 1959, 201 págs.); Historias de amor (Buenos Aires: Emecé, 1972, 259 págs.) “Casanova llegó a Constantinopla con una carta de Acquaviva para Claudio Alejandro, conde de Bonneval, que se pasó a los turcos. En Buyuk Dere compartí el cuarto con el veneciano, a quien también frecuenté en Constantinopla, donde almorzábamos y cenábamos juntos. Con toda franqueza discutíamos nuestros vanos intentos de trabar relación con otomanos más o menos notables. En cuanto a Bonneval, me consta que una tarde lo recibió.

@@ -10,20 +10,16 @@ tags:
 ---
 *Carlos Fuentes*
 *(Ciudad de Panamá, 1928 - México D.F., 2012)*
-*# Las Buenas Conciencias*
 *(1959)*
 *(México: Fondo De Cultura Económica, Coleccion Letras Mexicanas #53, 1959, 191 pp.)*
 *A*
-*# ## Luis Buñuel,*
 *gran artista de nuestro tiempo,*
 *gran destructor de las conciencias tranquilas,*
 *gran creador de la esperanza humana.*
 *—Los cristianos hablan con Dios; los burgueses hablan de Dios».*
 
-# ## ## S. Kierkegaard
 —On s’arrange mieux de sa mauvaise conscience que de sa mauvaise
 réputation».
-# ## ## ## Emmanuel Mounier
 Jaime Ceballos no olvidaría esa noche de junio. Recargado contra el muro azul del Callejón, veía alejarse a su amigo Juan Manuel. Con él se iban las imágenes de un hombre delatado, de una mujer solitaria, del pobre comerciante gordo que había muerto ayer. Se iban, sobre todo, las palabras que ahora resonaban sin sentido. «Porque no he venido yo a llamar a los justos, sino a los pecadores». Caían con sus sílabas rotas en un pozo de indiferencia y tranquilidad. Se sentía tranquilo. Tenía que sentirse tranquilo. Ahora Jaime Ceballos repetía su nombre en voz baja. Ceballos. ¿Por qué se llamaba así? ¿Quiénes, y para qué, se habían llamado así antes que él? Eran esos fantasmas amarillos, encorsetados, rígidos que su padre había colgado en las paredes de la alcoba antes de morir. Los Ceballos de Guanajuato. Gente decente. Buenos católicos. Caballeros. No eran fantasmas. Los traía metidos adentro, de buena o mala gana. A los trece años, jugaba todavía en la vieja carroza sin ruedas que la familia conservaba en la caballeriza empolvada. Pero no… primero debía recordarlos tal como se reflejaban desde las paredes de su padre, en los daguerrotipos desteñidos.
 Recordaría. Repetiría los nombres, las historias. La casa, húmeda y sombría. Casa de puertas y ventanas que la muerte, el olvido o la simple falta de acontecimientos iban cerrando, una a una. La casa de los escasos momentos de su adolescencia. El hogar donde quiso ser cristiano. La casa y la familia. Guanajuato. Repetiría los nombres, las historias.
 Caminó de regreso a la casa de sus antepasados. Había salido la luna, y Guanajuato le devolvía un reflejo violento desde las cúpulas y las rejas y los empedrados. La mansión de cantera de la familia Ceballos abría su gran zaguán verde para recibir a Jaime.

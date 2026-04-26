@@ -742,13 +742,11 @@ Aquella noche, mientras comían, la pequeña de Josefina, extrafiada de la serie
 —¿Qué es lo que significa esa nieve maravillosa, Mimi, y por qué molestas al Sr. Lee? —preguntó Josefina.
 —Mamá, es la nieve de las hadas. El Sr. Lee me ha dicho que si puede coger una poquita, se tiene todo lo que se desea. ¿Verdad que es muy bonito?
 Al día siguiente por la mañana, a los primeros albores de la aurora, la nieve rosa brillaba ya en las altas cimas, mientras que el valle permanecía aún envuelto en las sombras grises de la noche. Mimi, su madre y su tía dormían todavía; pero Jorge, acompañado de Falkner, estaba ya en camino. Los dos amigos hacían galopar a sus caballos sobre el suelo endurecido.
-# Viii
 Kate se levantó temprano, pero antes lo hizo su hermana, pues en el momento de ir a salir de su cuarto se encontró a Josefina ya vestida, extraordinariamente pálida y con una carta en la mano.
 —¿Qué hay? —exclamó Kate con ansiedad, y palideciendo por un secreto presentimiento.
 —Se han marchado antes de ser de día. Aquí tienes lo que han dejado.
 Tendió a su hermana la carta abierta. Kate la recorrió rápidamente, y leyó en voz baja:
 Cuando reciban ustedes estas líneas, ya no estaremos aquí. Ned ha encontrado una salida practicable, y hemos resuelto aprovecharla. Ayer por la noche nos faltó el valor para decírselo a ustedes; hoy por la mañana, somos demasiado cobardes para esperarlas y despedirnos. Marchamos como hemos venido, sin prevenir, pero no sin pena. Encontrarán un paquete y una carta en nuestra habitación; sírvanse entregárselos a Hale cuando vuelva. Contienen no solamente una débil prueba de nuestro reconocimiento por sus bondades y cariñosa hospitalidad, sino también la causa indirecta que nos ha procurado gozar los encantos de su compañía. Guárdenlos ustedes en lugar seguro, hasta que puedan ponerlos en manos del destinatario. Besamos los pies de su madre. Ned quería decir algo más, pero el tiempo apremia y no le permito sino besar a Mimi, a la que dirán que vamos a buscar la nieve rosa.
-# ## Jorge Lee
 —No estaba en condiciones de ponerse en camino —dijo tristemente Josefina—, y Dios sabe si ese camino de que habla es verdaderamente practicable.
 —Lo era antes de ayer —dijo Kate—; lo encontré y lo recorrí sin obstáculos hasta el castañar.
 —¡Entonces eres tú la que ha hablado! —exclamó Josefina con acento de amarga queja.
@@ -831,7 +829,6 @@ Josefina entregó la carta a su marido; reinaba un silencio de plomo. Hale leyó
 John Hale:
 Usted se ha constituído voluntariamente en instrumento de la justicia para perseguirnos; nosotros teníamos derecho al campo abierto, a la lucha leal. Usted nos lo ha negado. Una casualidad nos ha traído a su casa de usted, al seno de su familia; aquí combatíamos con armas iguales y hemos sido lealmente vencidos. Le dejamos los billetes de Banco quitados al Coronel Cllnch en la diligencia de las Sierras, dinero que antes fue robado por Harkins a cuarenta y cuatro accionistas de las minas de Excelsior. No nos incumbe a nosotros decir a usted el uso que debe hacer de esa suma; pero si no se ha cansado usted de caminar por la vía de esa justicia que le ha lanzado sobre nuestras huellas, tal vez vuelva á su legítimo propietario.
 Dejamos también a usted otro recuerdo, que le probará que al mezclarnos en sus asuntos hemos tenido la suerte de prestarle un ligero servicio, servicio, por lo demás, tan puramente accidental, como nuestra presencia en esta casa. Encontrará usted en un rincón del armario de su cuarto un par de botas, quitadas de los felones pies de Manuel, su criado, el cual, figurándose que sus amas estaban solas y sin protector, penetró en la casa con un cómplice, en la noche del 21 del corriente, y se vió descubierto, castigado y expulsado por los muy humildes servidores de usted
-# ## ## Jorge Lee Y Eduardo Falkner
 La voz de Hale tembló y sus labios palidecieron al leer las últimas líneas; se volvió hacia su mujer con un brusco mo vimiento de espanto y de protección. Date se dirigió precipitadamente al armario, y aparecieron las botas.
 —¡Ya sospechábamos que había ocurrido algo extraño aquella noche! —exclamaron las señoras de Hale y de Scott.
 —Todo eso está muy bien —dijo Stanner, adelantándose hacia la mesa—. Jorge Lee puede decir lo que guste. Lo importante es que estén aquí los billetes. Sírvase entregármelos.

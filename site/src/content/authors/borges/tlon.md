@@ -8,9 +8,7 @@ tags:
   - tlon
   - borges
 ---
-*# Tlön, Uqbar, Orbis, Tertius*
 *Jorge Luis Borges*
-*# Tlön, Uqbar, Orbis, Tertius*
 *Jorge Luis Borges*
 
 Debo a la conjunción de un espejo y de una enciclopedia el descubrimiento de Uqbar. El espejo inquietaba el fondo de un corredor en una quinta de la calle Gaona, en Ramos Mejía; la enciclopedia falazmente se llama The Anglo-American Cyclopaedia (New York, 1917) y es una reimpresión literal, pero también morosa, de la Encyclopaedia Britannica de 1902. El hecho se produjo hará unos cinco años. Bioy Casares había cenado conmigo esa noche y nos demoró una vasta polémica sobre la ejecución de una novela en primera persona, cuyo narrador omitiera o desfigurara los hechos e incurriera en diversas contradicciones, que permitieran a unos pocos lectores – a muy pocos lectores – la adivinación de una realidad atroz o banal.

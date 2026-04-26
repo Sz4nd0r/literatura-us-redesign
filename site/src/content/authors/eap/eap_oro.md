@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# El Escarabajo De Oro*
 *(“The Gold-Bug”, 1843)*
 *Originalmente publicado en Dollar Newspaper*
 *(Philadelphia), 21 y 28 de junio 1843;*

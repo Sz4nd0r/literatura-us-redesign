@@ -8,7 +8,6 @@ tags:
   - pulsera
   - mujica
 ---
-*# XVIII. La pulsera de cascabeles (1720)*
 *Manuel Mujica Lainez*
 
 Por el ventanuco enrejado, Bingo espía a los negreros ingleses. Sus figuras se recortan en la barranca del Retiro, con fondo de crepúsculo, más allá de las higueras y de los naranjos. Fuman sus largas pipas de tierra blanca, con los sombreros echados hacia atrás, y sus casacas color pasa, color aceituna, color miel y color tabaco se empañan y confunden sus tonos frente al esclavo que llora.

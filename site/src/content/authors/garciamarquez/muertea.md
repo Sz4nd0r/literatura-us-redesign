@@ -8,7 +8,6 @@ tags:
   - muertea
   - garciamarquez
 ---
-*# Crónica de una muerte anunciada*
 *Gabriel*
 *García Márquez (n. 1947)*
 

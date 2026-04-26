@@ -10,7 +10,6 @@ tags:
 ---
 *Richard Ford*
 *(Jackson, Mississippi, 1944-)*
-*# Caridad*
 *(“Charity”)*
 *Originalmente publicado en Tin House (Portland, Oregon), (Vol. II, No. 3, 2002)*
 *A Multitude of Sins (2002)*

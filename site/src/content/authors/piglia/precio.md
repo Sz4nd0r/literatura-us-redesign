@@ -12,7 +12,6 @@ tags:
 *Piglia*
 *(Adrogué, Buenos Aires,*
 *1941 — Buenos Aires, 2017)*
-*# El Precio Del Amor*
 *Nombre falso*
 *(Buenos Aires: Siglo XXI Editores, 1975, 172 págs.)*
 *a Andrés Rivera*

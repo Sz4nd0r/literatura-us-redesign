@@ -10,7 +10,6 @@ tags:
 ---
 *Joyce Carol Oates*
 *(Lockport, New York, 1938-)*
-*# Fea*
 *(“Ugly”)*
 *Originalmente publicado, como «Ugly Girl») en The Paris Review(N. 143, verano 1997)*
 *Faithless: Tales of Transgression (2001)*

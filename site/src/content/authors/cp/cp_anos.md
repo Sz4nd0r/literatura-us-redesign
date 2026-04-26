@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Años*
 *(“Anni”, 1946)*
 *Sólo hay un texto mecanografiado con correcciones de puño y letra del autor*
 *Tutti i racconti (2002)*

@@ -10,7 +10,6 @@ tags:
 ---
 *Carson McCullers*
 *(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
-*# El Aliento Del Cielo*
 *—Breath from the Sky*
 *Originalmente publicado en Redbook (October 1971)*
 *The Mortgaged Heart (1972)*
@@ -81,7 +80,6 @@ Cuando la señora Lane regresó, se había puesto los guantes blancos para traba
 —¿Has telefoneado al doctor Reece?
 Las comisuras de la boca de la interpelada se movieron infinitesimalmente como si acabara de tragar.
 —Sí.
-# # # ## —¿Y...?
 —Piensa que lo mejor es... no retrasar la marcha demasiado. Tanto esperar... Cuanto antes te instales, mejor será.
 —¿Cuándo entonces? —Sintió que le temblaba el pulso en las puntas de los dedos como una abeja en una flor; que vibraba sobre el cristal frío.
 —¿Qué te parece pasado mañana?

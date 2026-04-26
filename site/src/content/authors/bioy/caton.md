@@ -8,7 +8,6 @@ tags:
   - caton
   - bioy
 ---
-*# Catón*
 *Adolfo Bioy Casares (1914 - 1999)*
 *Davel era un galán de segunda, imitador de John Gilbert, otro galán de segunda. A mi entender, el hecho de que tuviera tantos admiradores probaba la arbitrariedad de la fama; que lo llamaran El Rostro, la ironía del destino. Yo solía agregar, como quien señala una consecuencia: «Al aplicar el apodo, nuestro público se limita a copiar a un público más vasto, que llama El Perfil a no sé qué actor de Hollywood».*
 

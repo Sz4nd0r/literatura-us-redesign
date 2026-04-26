@@ -8,7 +8,6 @@ tags:
   - pedro
   - manuel
 ---
-*# Pedro el pequenero*
 *Manuel Rojas*
 
 Pedro el pequenero El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.) —Este era un rey que tenía… —¡Ya salió con la tonada de siempre! Este era un rey que tenía. —Cuente algo que no sea de reyes, pues, señor. —Sí, pues, don Vicho, ya nos tiene guatones con los reyes y los príncipes. —Vaya, niños, todavía que uno hace el favor de contarles un cuento, se regodean. ¡No cuento nada, también! —No se enoje, abuelo. —Cuente otra cosa, pues. —Aquel del minero que se —halló un chivatito de oro en la mina. —No, ése es muy aburridor. El viejo, ante la protesta formal de su acostumbrado auditorio, inclinó la cabeza y estuvo un rato recordando.

@@ -8,7 +8,6 @@ tags:
   - galera
   - mujica
 ---
-*# XXVIII. La galera (1803)*
 *Manuel Mujica Lainez*
 
 Catalina ha perdido la cuenta. Lo mismo pueden ser cinco que diez, que quince; lo mismo puede haber transcurrido un mes desde que partieron de Córdoba, arrastrados por ocho mulas dementes. Ciento cuarenta y dos leguas median entre Córdoba y Buenos Aires, y aunque Catalina calcula que ya llevan recorridas más de trescientas, sólo ochenta separan en verdad a su punto de origen y la Guardia de la Esquina, próxima parada de las postas.

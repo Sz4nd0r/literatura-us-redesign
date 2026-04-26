@@ -8,7 +8,6 @@ tags:
   - ao_heirs
   - ao
 ---
-# Herederos
 
 **Amos Oz**
 

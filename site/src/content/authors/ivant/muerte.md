@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# La Muerte*
 *(1848)*
 *(“Смерть”)*
 *Originalmente publicado en la revista Современник [El Contemporáneo]*

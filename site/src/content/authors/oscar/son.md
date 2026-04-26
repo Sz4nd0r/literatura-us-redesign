@@ -8,7 +8,6 @@ tags:
   - son
   - oscar
 ---
-*# Son de máquina*
 *Óscar Collazos (1942 - 2015)*
 
 Son de máquina Son de máquina (Bogotá: Editorial Testimonio, 1967, 80 págs.) … pero al cabo es en nosotros donde sucede el encuentro y de nada sirve prepararlo ni esperarlo. Cita, Álvaro Mutis Mirando hacia el bar, repasando la hilera de botellas y reparando en las etiquetas pegadas, Ernesto, vestido con traje gris-claro de pana, trataba de reconocer el sitio mientras esperaba la llegada de sus amigos, “seguramente siguen viniendo”, hacía tres años los había dejado, esperando ser reconocido y saludado con grandes abrazos, así que la espera, ya larga, empezaba a ser fastidiosa: volaban moscas sobre la mesa y se asentaban en su descuidada viscosidad, y ya era notorio un malestar que se expresaba en la manera de subir el vaso a los labios, en la manera de mover las rodillas en un abaniqueo nervioso, ese movimiento que la mesera evidenció y siguió, provocada por la suerte de su cliente. “Otro cuba libre”, ordenó él, y la mesera volvió (vieja, rechoncha, anchas nalgas bamboleantes y pesadas), sin dejar de mirarle las piernas nerviosas, fijándose en la pinta que llevaba el cliente, “no debe ser de aquí: es vaporino”, pensó, y se imaginó uno de los barcos enormes de la Greislain anclados en la bahía.

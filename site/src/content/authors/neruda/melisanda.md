@@ -13,8 +13,6 @@ tags:
 *(1904–1973)*
 *Crepusculario*
 *(1919)*
-*# Pelleas Y Melisanda*
-*# ## Melisanda*
 *Su cuerpo es una hostia fina,*
 *mínima y leve.*
 *Tiene azules los ojos y las manos de nieve.*
@@ -28,12 +26,10 @@ Melisanda se pone de rodillas —y ruega.
 Los árboles se inclinan hasta tocar su frente.
 Los pájaros se alejan en la tarde doliente.
 Melisanda, la dulce, llora junto a la fuente.
-# ## ## El Encantamiento
 Melisanda, la dulce, se ha
 extraviado de ruta,
 Pelleas, lirio azul de un jardín imperial,
 se la lleva en los brazos, como un cesto de fruta.
-# ## ## ## El Coloquio Maravillado
 Pelleas.
 Iba yo por la senda, tú venías por ella,
 mi amor cayó en tus brazos, tu amor tembló en los míos.

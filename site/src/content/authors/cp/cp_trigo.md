@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# El Campo De Trigo*
 *(“Il campo di grano”, 1938)*
 *Publicado póstumamente en Notte di feria*
 *(1956)*

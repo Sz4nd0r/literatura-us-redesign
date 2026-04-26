@@ -8,7 +8,6 @@ tags:
   - vos
   - liliana
 ---
-*# Un secreto para vos*
 *Liliana Heker*
 
 Un secreto para vos Las peras del mal (Buenos Aires: Editorial de Belgrano, 1982, 145 págs.) Al principio, en Maison Saint-Simon no quisieron saber nada con Albertina. Era natural: la sola idea de tener una mujer con ese aspecto dentro de Saint-Simon parecía una profanación. Albertina era grandota, oscura y algo deforme, en cuanto a su rostro (según comentó cierta tarde una de las muchachas de Bijouterie) debía estar copiado del de un guerrero azteca. La secretaria de Madame Celine sopesó los inconvenientes nomás la vio; un poco divertida y otro poco preocupada fue a advertir a la señora. La propia Madame Celine bajó a conocerla y, aun antes de verle la cara, movió la cabeza negativamente. —Lo siento, querida —le dijo después de escucharla un rato—.

@@ -8,7 +8,6 @@ tags:
   - masom
   - benedetti
 ---
-*# Más o menos custodio*
 *Mario Benedetti (1920 - 2009)*
 
 Quien primero le habló del Ángel fue el tío Sebastián. Mucho antes de que el Ángel apareciera. Quien primero negó al Ángel fue el tío Eduardo. Pero Ana María estaba en la edad de creer en los ángeles, de modo que se dejó convencer por el tío Sebastián, que además de tío por parte de madre, era cura por parte de Dios padre. Y sencillamente ella se puso a esperar al Ángel. Sebastián decía que debía llamarlo Ángel de la Guarda, pero Ana María le quitaba el apellido, lo llamaba Ángel y punto.

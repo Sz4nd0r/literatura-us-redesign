@@ -21,7 +21,6 @@ En su segundo viaje europeo conoció a Victor Hugo y leyó Les Misérables. Mien
 Tolstói regresó a Yasnaya Polyana y fundó 13 escuelas para los hijos de los campesinos de Rusia, que acababan de emanciparse de la servidumbre en 1861. Tolstói describió los principios de la escuela, en su ensayo, de 1862, “La escuela en Yasnaya Polyana”.
 La muerte de su hermano Nikolay en 1860 lo impactó, y decidió casarse. El 23 de septiembre de 1862, se casó con Sophia Andreevna Behrs, que era 16 años mayor que él, la hija de un médico de la corte. Tuvieron 13 hijos, ocho de los cuales sobrevivieron la infancia. Además, su esposa se convirtió en su secretaria, editora y gerente financiera. El apoyo de su esposa fue esencial en la escritura de Guerra y paz (1869) y Anna Karenina (1877): ella las copiaba y las escribía a mano, una y otra vez, mientras Tolstói las editaba.
 En 1910, Tolstói finalmente reunió el valor para separarse de su esposa, y se había ido de casa en pleno invierno, en plena noche. Tolstoy murió en 1910, a la edad de 82 años: murió de neumonía en la estación de tren de Astapovo, después de un viaje en tren hacia el sur.
-# Índice:
 Cuentos:
 Dios ve la verdad pero no la dice cuando quiere (1872)
 El prisionero del cáucaso (1872)

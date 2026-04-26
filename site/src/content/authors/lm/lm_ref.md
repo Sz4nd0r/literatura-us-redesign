@@ -10,7 +10,6 @@ tags:
 ---
 *Lorrie Moore*
 *(Glens Falls, NY, 1957 –)*
-*# Referencial*
 *(2012)*
 *(“Referential”)*
 *Originalmente publicado en la revista The New Yorker (28 de mayo de 2012);*

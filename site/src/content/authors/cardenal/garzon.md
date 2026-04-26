@@ -75,7 +75,6 @@ verlos. Pero ya lo he dicho, lo que uno le entrega a Dios, Dios se lo
 devuelve. Después, y a través de caminos extraños, salí de allí y
 fundé una pequeña comunidad justamente en un lago de Nicaragua".
 SAN
-# Juan
 Quizá
 renunció a más de lo que se le pedía. Quizá la renuncia es también
 una forma de orgullo. Uno debe despojarse de todo para retener a Dios.
@@ -107,7 +106,6 @@ un carácter religioso, como el de los fariseos. Recuerde el Evangelio:
 `Te agradezco Señor, no parecerme a este pecador'. Resulta terrible la
 vanidad de los eclesiásticos y de los políticos, que viene a ser lo
 mismo".
-# ## Sandinismo
 Cardenal
 también fue político, además de eclesiástico. Por dos veces converso.
 Sacerdote y marxista, monje y ministro de Cultura en el Gobierno de Daniel
@@ -146,7 +144,6 @@ quienes colocaron al entusiasta cura al frente de un ministerio, tan
 dispuesto entonces a la lucha como ahora a la denuncia. "Quizá. Para
 algunos resultaba incómodo, pero también necesario. La enemistad, los
 celos... Un factor humano inevitable".
-# ## ## Poemas
 Otro
 factor humano, se habla más de Cardenal, de lo que dice y lo que hace,
 que de su obra, por mucho que el Cardenal escritor haya estado alguna vez
@@ -162,7 +159,6 @@ descubrirle...
 realidad esa intención no es nueva, sigo una recomendación de Ezra
 Pound. No hay mejor humor que el que va contra uno mismo. No me gusta
 estar presentándome siempre de la mejor manera posible.
-# ## ## ## Soberbia
 No
 le gusta pero no puede evitarlo, ni cuando habla ni cuando escribe. No por
 soberbia, que ya pone buen cuidado Cardenal en apartarla, vade retro, sino

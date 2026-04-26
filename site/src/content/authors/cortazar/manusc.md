@@ -8,7 +8,6 @@ tags:
   - manusc
   - cortazar
 ---
-*# Manuscrito hallado en un bolsillo*
 *Julio Cortázar*
 
 Ahora que lo escribo, para otros esto podría haber sido la ruleta o el hipódromo, pero no era dinero lo que buscaba, en algún momento había empezado a sentir, a decidir que un vidrio de ventanilla en el metro podía traerme la respuesta, el encuentro con una felicidad, precisamente aquí donde todo ocurre bajo el signo de la más implacable ruptura, dentro de un tiempo bajo tierra que un trayecto entre estaciones dibuja y limita así, inapelablemente abajo.

@@ -8,7 +8,6 @@ tags:
   - cuento
   - benedetti
 ---
-*# Cuento, nouvelle y novela: Tres géneros narrativos*
 *Mario Benedetti (1920 - 2009)*
 
 Sobre artes y oficios: ensayo (Montevideo: Editorial Alfa, 1968, pág. 14 y siguientes). La mayor parte de los editores, que no tienen por qué ser demasiado escrupulosos en cuanto a distinciones genéricas, han ido estableciendo entre lectores y críticos la costumbre de ordenar las obras narrativas de un modo casi mecánico, teniendo en cuenta para ello sólo la extensión, el número de páginas. Si una revista literaria publica un relato no mayor de veinte páginas de formato común (unas 6 000 palabras), se trata —claro— de un cuento.

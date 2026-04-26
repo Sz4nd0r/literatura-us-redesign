@@ -8,9 +8,7 @@ tags:
   - veneno
   - cortazar
 ---
-*# Los venenos*
 *Julio Cortázar*
-*# Los venenos*
 *Julio Cortázar*
 
 Final del juego, 1956) El sábado tío Carlos llegó a mediodía con la máquina de matar hormigas. El día antes había dicho en la mesa que iba a traerla, y mi hermana y yo esperábamos la máquina imaginando que era enorme, que era terrible. Conocíamos bien las hormigas de Bánfield, las hormigas negras que se van comiendo todo, hacen los hormigueros en la tierra, en los zócalos, o en ese pedazo misterioso donde una casa se hunde en el suelo, allí hacen agujeros disimulados pero no pueden esconder su fila negra que va y viene trayendo pedacitos de hojas, y los pedacitos de hojas eran las plantas del jardín, por eso mamá y tío Carlos se habían decidido a comprar la máquina para acabar con las hormigas. Me acuerdo que mi hermana vio venir a tío Carlos por la calle Rodríguez Peña, desde lejos lo vio venir en el tílbury de la estación, y entró corriendo por el callejón del costado gritando que tío Carlos traía la máquina. Yo estaba en los ligustros que daban a lo de Lila, hablando con Lila por el alambrado, contándole que por la tarde íbamos a probar la máquina, y Lila estaba interesada pero no mucho, porque a las chicas no les importan las máquinas y no les importan las hormigas, solamente le llamaba la atención que la máquina echaba humo y que eso iba a matar todas las hormigas de casa. Al oír a mi hermana le dije a Lila que tenía que ir a ayudar a bajar la máquina, y corrí por el callejón con el grito de guerra de Sitting Bull, corriendo de una manera que había inventado en ese tiempo y que era correr sin doblar las rodillas, como pateando una pelota.

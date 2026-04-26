@@ -10,7 +10,6 @@ tags:
 ---
 *Miguel Ángel Asturias*
 *(Ciudad de Guatemala, 1899 - Madrid, 1974)*
-*# El Papa Verde*
 *(1954)*
 *(Buenos Aires: Losada, 1954, 319 págs.)*
 *Primera parte*

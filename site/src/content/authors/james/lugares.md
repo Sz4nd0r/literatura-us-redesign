@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# El Mejor De Los Lugares*
 *(“The Great Good Place”, 1900)*
 *Originalmente publicado en Scribner’s Magazine (enero 1900)*
 *The Soft Side (1900)*

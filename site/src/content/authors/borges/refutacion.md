@@ -8,9 +8,7 @@ tags:
   - refutacion
   - borges
 ---
-*# Nueva refutación del tiempo*
 *Jorge Luis Borges*
-*# Nueva refutación del tiempo*
 *Jorge Luis Borges*
 
 Vor mir war keine Zeit, nach mir wird keine seyn. Mit mir gebiert sie sich, mit mir geht sie auch ein. Daniel von Czepko: Sexcenta monodisticha sapientum, iii. (1655). nota preliminar Publicada al promediar el siglo XVIII, esta refutación (o su nombre) perduraría en las bibliografías de Hume y acaso hubiera merecido una línea de Huxley o de Kemp Smith. Publicada en 1947 —después de Bergson—, es la anacrónica reductio ad absurdum de un sistema pretérito o, lo que es peor, el débil artificio de un argentino extraviado en la metafísica.

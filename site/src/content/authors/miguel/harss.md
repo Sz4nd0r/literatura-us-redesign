@@ -10,7 +10,6 @@ tags:
 ---
 *Miguel Ángel Asturias*
 *(Ciudad de Guatemala, 1899 - Madrid, 1974)*
-*# Miguel Ángel Asturias, O La Tierra Florida*
 *Luis Harss: Los nuestros*
 *(Buenos Aires: Editorial Sudamericana, 1966)*
 

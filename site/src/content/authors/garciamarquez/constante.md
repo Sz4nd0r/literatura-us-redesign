@@ -8,7 +8,6 @@ tags:
   - constante
   - garciamarquez
 ---
-*# Muerte constante más allá del amor*
 *Gabriel*
 *García Márquez (n. 1947)*
 

@@ -12,7 +12,6 @@ tags:
 *Ibargüengoitia*
 *(Guanajuato, México, 1928*
 *—Madrid, 1983)*
-*# La Vela Perpetua*
 *—Julia y tú —me dijo uno que*
 *ahora tiene fama de buen novelista—, han sido muy buenos amigos y*
 *volverán a serlo. Esto no es más que un pleito pasajero.*

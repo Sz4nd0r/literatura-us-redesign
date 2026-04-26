@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# El Alma Del Guerrero*
 *(1917)*
 *(“The Watrior’s Soul”)*
 *Originalmente publicado en la revista Land and Water,*

@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Vándalos*
 *(“Vandals”)*
 *Originalmente publicado, en forma ligeramente diferente, en*
 *Esquire Magazine, 132, n.° 4 (octubre de 1999), págs. 160-165;*

@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# El Rincón Feliz*
 *(“The Jolly Corner*
 *Originalmente publicada en The English Review (December, 1908)*
 *I*

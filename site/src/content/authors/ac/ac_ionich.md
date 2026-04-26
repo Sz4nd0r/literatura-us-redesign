@@ -166,7 +166,6 @@ Al cabo de tres días Pava le trajo una carta de Yekaterina Ivánovna.
 No viene a vernos, ¿por qué? —escribió ella—. Temo que usted haya cambiado de actitud hacia nosotros. Temo, y me resulta horrible sólo pensarlo. Tranquilíceme, venga y diga que todo está bien.
 Necesito hablar con usted.
 Suya
-# # # # E. T.
 —Dile, querido, que hoy no puedo ir, estoy muy ocupado. Díle que iré dentro de tres días.
 Pero pasaron tres días, pasó una semana y él no fue. Al pasar delante de la casa de los Turkin, recordaba que hacía falta acercarse aunque sólo fuera un minuto, pero lo pensaba y… no iba.
 Y ya no fue nunca más a casa de los Turkin.

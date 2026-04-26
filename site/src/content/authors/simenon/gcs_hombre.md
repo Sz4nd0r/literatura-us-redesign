@@ -27,7 +27,6 @@ Los caminos del Bois estaban desiertos, blancos y duros como el mármol. Unas di
 Maigret, con aire malhumorado, giraba la cabeza como un oso, observándolo todo: los edificios nuevos del Boulevard Richard Wallace, todavía con los postigos cerrados, unos obreros en bicicleta que venían de Puteaux, un tranvía iluminado, dos porteras que caminaban con las manos violáceas de frío.
 —¿Todo a punto? —preguntó.
 La víspera, había permitido a los periódicos que publicaran la información siguiente:
-# El Crimen De Bagatelle
 En esta ocasión la policía no ha tardado mucho en aclarar un asunto que parecía ofrecer dificultades insuperables. Como es sabido, el lunes por la mañana un guarda del Bois de Boulogne descubrió en uno de los senderos, a unos cien metros de la Porte de Bagatelle, el cadáver de un hombre que pudo ser identificado inmediatamente.
 Se trata de Ernest Borms, médico vienés muy conocido que vivía en Neuilly desde hacía varios años. Borms vestía esmoquin. Alguien debió de atacarle en la noche del domingo al lunes cuando volvía a su piso, en el Boulevard Richard-Wallace.
 Una bala disparada a quemarropa con un revólver de pequeño calibre lo alcanzó en el corazón.
@@ -153,7 +152,6 @@ Humildemente, el hombre alzó la mano y dijo:
 —¡Eh, eh!
 Los demás lo miraron. ¿O sea que aún tenía algunos céntimos para comprarse un periódico?
 Maigret también llamó al vendedor, desplegó la hoja y, aliviado, encontró en primera página lo que buscaba, la fotografía de una mujer joven, bella, sonriente.
-# ## Inquietante Desaparición
 Se nos comunica que desde hace cuatro días ha desaparecido una joven polaca, Madame Dora Strevzki, que no ha vuelto a su domicilio en Passy, Rue de la Pompe, número 17.
 A ello se añade el significativo hecho de que el marido de la desaparecida, Monsieur Stephan Strevzki, también desapareció de su domicilio la víspera, es decir, el lunes, y la portera, que ha avisado a la policía, declara….
 Al hombre solo le faltaban por recorrer cinco o seis metros, en la fila que lo arrastraba, para tener derecho a su escudilla de sopa humeante. En ese momento salió de la cola, cruzó la calzada, donde estuvo a punto de que lo atropellara un autobús, y llegó a la otra acera, para encontrarse justo ante Maigret.

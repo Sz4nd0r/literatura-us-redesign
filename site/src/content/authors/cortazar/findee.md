@@ -8,7 +8,6 @@ tags:
   - findee
   - cortazar
 ---
-*# Fin de etapa*
 *Julio Cortázar*
 *Tal vez se detuvo ahí porque el sol ya estaba alto y el mecánico placer de manejar el auto en las primeras horas de la mañana cedía paso a la modorra, a la sed. Para Diana ese pueblo de nombre anodino era otra pequeña marca en el mapa de la provincia, lejos de la ciudad en la que dormiría esa noche, y la plaza que las copas de los plátanos protegían del calor de la carretera se daba como un paréntesis en el que entró con un suspiro de alivio, frenando al lado del café donde las mesas desbordaban bajo los árboles. El camarero le trajo un anisado con hielo y le preguntó si más tarde querría almorzar, sin apuro porque servían hasta las dos.*
 

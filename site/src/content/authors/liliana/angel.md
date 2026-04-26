@@ -8,7 +8,6 @@ tags:
   - angel
   - liliana
 ---
-*# Trayectoria de un ángel*
 *Liliana Heker*
 
 Trayectoria de un ángel Los que vieron la zarza (Mencion única, VII Concurso Hispanoamericano de Literatura “Casa de las Americas”, 1966) (Buenos Aires: Editorial J. Alvarez, 1966, 154 págs.) “La belleza es la maravilla de las maravillas. Sólo los superficiales no juzgan por las apariencias. El verdadero misterio del mundo es lo visible, no lo invisible.” Oscar Wilde No sé si está bien que hable de Adriana. ¿Acaso yo puedo recordarla como otros dicen que la recuerdan?

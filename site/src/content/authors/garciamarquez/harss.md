@@ -8,7 +8,6 @@ tags:
   - harss
   - garciamarquez
 ---
-*# Gabriel García Márquez, o la cuerda floja*
 *Gabriel*
 *García Márquez (n. 1947)*
 

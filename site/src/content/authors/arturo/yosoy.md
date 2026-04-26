@@ -8,7 +8,6 @@ tags:
   - yosoy
   - arturo
 ---
-*# Yo soy Martín*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Las lanzas coloradas y cuentos selectos* (1979)*
 

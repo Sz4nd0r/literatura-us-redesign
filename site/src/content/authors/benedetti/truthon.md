@@ -8,7 +8,6 @@ tags:
   - truthon
   - benedetti
 ---
-*# Truth on the rocks*
 *Mario Benedetti (1920 - 2009)*
 
 Truth on the rocks (Despistes y franquezas, 1989) Amílcar, viejo compinche: Te extrañará recibir esta carta quilométrica, pero a alguien tengo que contarle mi historia y por algo sos mi amigo, ¿no? Vos bien sabés que técnicamente nunca he sido un borracho. Y eso está avalado por un dato irrefutable: apenas me he mamado cinco veces en mis cuarenta años de vida. Y además he decidido que la quinta fuera también la última.

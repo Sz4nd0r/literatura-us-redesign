@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# La Cita*
 *(“The Assignation”, 1835)*
 *Originalmente publicado, anónimo, como “The Visionary”, en Godey’s Lady’s Book (enero 1834);*
 

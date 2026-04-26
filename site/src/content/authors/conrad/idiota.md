@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# Los Idiotas*
 *(1896)*
 *(“The Idiots”)*
 *Originalmente publicado en la revista The Savoy [Londres],*

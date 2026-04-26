@@ -8,7 +8,6 @@ tags:
   - almeyra
   - bioy
 ---
-*# Homenaje a Francisco Almeyra*
 *Adolfo Bioy Casares (1914 - 1999)*
 *Originalmente publicado en la revista Sur (Núm. 229, julio-agosto 1954) Publicado independientemente como libro: Buenos Aires: Editorial Destiempo, 1954) Historia prodigiosa (México: Obregón S.A., Colección Literaria Obregón, No.4, 1956, 151 págs.) Thaes afereode, thisses swa maeg. DEOR. I Una muchacha alada, con una estatuita de la Victoria en la mano, o con un ramillete de flores, o con una flor de loto, o con una granada entreabierta y casi madura; un ancla, el arco iris, el color verde, son antiguas alegorías de la esperanza; pero a mí me parece que nada la representa mejor que un joven poeta. No pienso en Chatterton, que resplandece y cae como un ángel quemado, ni en Novalis, ni en Keats, ni en Shelley, ni en Espronceda, destinos en los que siempre palpitará la juventud, la muerte y la poesía; pienso en todos los jóvenes, gloriosamente oscuros, que trémulos y reverentes componen versos; como la esperanza, ellos no requieren para el fervor la confirmación del resultado y, también como la esperanza, muchas veces no cumplen lo que prometen.*
 

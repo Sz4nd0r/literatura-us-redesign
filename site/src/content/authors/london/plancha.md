@@ -1174,7 +1174,6 @@ son más que polvo. ¿Y ahora, qué vas a decirme? —añadió, apoyando la mano
 triángulo.
 Y en aquel mismo instante, el lápiz comenzó a
 escribir. A ambos les sorprendió la rapidez. El mensaje era muy breve:
-# —¡Cuidado! ¡Cuidado! ¡Cuidado!
 Chris quedó aturdido, pero, sin embargo, acabó
 por reír.
 —Parece una comedia de magia. La muerte nos

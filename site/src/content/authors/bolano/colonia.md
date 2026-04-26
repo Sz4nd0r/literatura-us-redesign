@@ -11,7 +11,6 @@ tags:
 *Roberto Bolaño*
 *(Santiago,*
 *Chile, 1953 - Barcelona, 2003)*
-*# La Colonia Lindavista*
 *(El secreto del mal, 2007, póstumo, Anagrama)*
 
 Cuando llegamos a México, en 1968, pasamos los primeros días en casa de un amigo de mi madre y luego alquilamos un departamento en la colonia Lindavista. He olvidado el nombre de la calle, aunque a veces creo que se llamaba Aurora, pero puede que me confunda. En Blanes viví durante unos años en un piso de la calle Aurora, por lo que me parece poco probable que también en México hubiera vivido en otra calle Aurora, si bien es cierto que este nombre es bastante usual y que muchas calles de muchas ciudades lo llevan. La calle Aurora de Blanes, en cualquier caso, no tenía más de veinte metros y se podría decir que más que calle era un callejón. La Aurora de la colonia Lindavista, si realmente se llamó así, era una calle estrecha pero grande, al menos de cuatro cuadras, y allí vivimos durante el primer año de nuestra larga estancia en México.

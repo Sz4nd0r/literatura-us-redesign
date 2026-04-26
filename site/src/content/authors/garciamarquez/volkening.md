@@ -8,7 +8,6 @@ tags:
   - volkening
   - garciamarquez
 ---
-*# Gabriel García Márquez o el trópico desembrujado*
 *Gabriel*
 *García Márquez (n. 1947)*
 

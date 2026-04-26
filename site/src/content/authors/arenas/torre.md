@@ -10,7 +10,6 @@ tags:
 ---
 *Reinaldo Arenas*
 *(Aguas Claras, Cuba, 1943 - Nueva York, 1990)*
-*# La Torre De Cristal*
 *Adiós a Mamá (De La Habana a Nueva York) (1995)*
 
 Desde su llegada a Miami, luego de una verdadera odisea para poder abandonar su país de origen, el conocido escritor cubano Alfredo Fuentes no había vuelto a escribir ni una línea.

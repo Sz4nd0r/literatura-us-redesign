@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Martínez Moreno*
 *(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
-*# Coca*
 *(1970)*
 *(Caracas: Monte Avila, 1970, 222 págs)*
 *El Abogado*

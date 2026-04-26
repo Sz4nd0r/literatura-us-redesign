@@ -11,7 +11,6 @@ tags:
 *Antonio*
 *Skármeta*
 *(Antofagasta, Chile, 1940 - Santiago, Chile 2024)*
-*# Borges*
 *Libertad de movimiento*
 *(Santiago de Chile: Sudamericana, 2015, 159 págs.)*
 

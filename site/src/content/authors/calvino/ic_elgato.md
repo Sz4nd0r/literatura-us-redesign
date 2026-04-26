@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# El Gato Y El Policía*
 *Ultimo viene il corvo (1949)*
 
 Desde hacía un tiempo habían empezado en la ciudad las batidas en busca de armas escondidas. Los policías subían a las camionetas con cascos de cuero que les daban fisonomías uniformes e inhumanas, y recorrían los barrios pobres haciendo sonar la sirena rumbo a la casa de algún peón o algún obrero, a revolver la ropa blanca en los cajones y desmontar estufas. En esos días una angustia violenta se adueñaba del ánimo del agente Baravino.

@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Primer Amor*
 *(“Primo amore”, 1937)*
 *Originalmente publicado en Feria d’agosto (1946)*
 *Tutti i racconti (2002)*

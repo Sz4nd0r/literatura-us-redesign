@@ -8,7 +8,6 @@ tags:
   - atajo
   - bioy
 ---
-*# El atajo*
 *Adolfo Bioy Casares (1914 - 1999)*
 *El gran serafín (Buenos Aires: Emecé, «Selección Emecé de obras contemporáneas», 190 págs.) A las tres o cuatro horas de viaje, por la ruta interminablemente rectilínea, la vieja señora reblandecida, pero tan imperiosa como en sus mejores tiempos, ordena al chauffeur: «Agarre por el campo, corte camino.» G. MESSINA: Desde el pescante. Aquel mediodía de junio, al cruzar la puerta cancel, Guzmán claramente notó la angustia: una opresión leve y pasajera que de un año a esta parte lo acometía cuando estaba por salir de viaje.*
 

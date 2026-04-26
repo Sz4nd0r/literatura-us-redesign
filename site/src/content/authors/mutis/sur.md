@@ -8,7 +8,6 @@ tags:
   - sur
   - mutis
 ---
-*# Intermedio en el Atlántico Sur*
 *Álvaro Mutis*
 *Intermedio en el Atlántico Sur La muerte del estratega: narraciones, prosas, y ensayos [Algunos textos periodísticos] (México : Fondo de Cultura Económica [Tierra Firme], 1988, 214 págs.) Para Santiago Mutis D. En la pequeña pero confortable cabina del segundo de a bordo del Torrens, un esbelto velero de tres mástiles y 1.134 toneladas, dos hombres dialogan en medio del vasto silencio de una noche estrellada como sólo se ven en el hemisferio sur. El barco, uno de los últimos en hacer el servicio mixto de carga y pasajeros entre Australia y Londres, navega en silencio, con viento favorable, rumbo a la capital del Imperio. El segundo de a bordo, que tiene el grado de capitán se ha visto obligado a tomar este trabajo con un salario de 8 libras al mes, debido a la escasez de plazas disponibles para el mando de un navío. Es un hombre de pequeña estatura, ademanes nerviosos y aristocráticos, cabellos negros y ojos del mismo color que se mantienen en una continua y escrutadora movilidad.*
 

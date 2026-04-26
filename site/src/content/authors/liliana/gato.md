@@ -8,7 +8,6 @@ tags:
   - gato
   - liliana
 ---
-*# Mujer con gato*
 *Liliana Heker*
 
 Mujer con gato Cuentos reunidos (Buenos Aires: Editorial Alfaguara, 2016, 497 págs. El hombre que está asomado a la ventana envidia a la mujer que, en el jardín de la planta baja, canturrea ante la mirada atenta del gato. Qué feliz es, piensa el hombre. Ignora que la mujer no es feliz: con excepción del gato, acaba de perder todo lo que amaba, y sospecha (alguna vez lo ha leído) que los gatos se apartan de la desdicha.

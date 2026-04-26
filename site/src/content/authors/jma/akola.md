@@ -8,7 +8,6 @@ tags:
   - akola
   - jma
 ---
-*# Los comuneros de Ak’ola*
 *José María Arguedas (1937 - 1917)*
 *Originalmente publicado en La Calle [Lima], año 1, n.º 5 (13 de abril de 1934); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) —Hoy día —se dijo don Ciprián, principal de Ak’ola y Lukanas. Sentado sobre el poyo del corredor de su casa miraba salir uno tras otro a sus cuatro concertados: José Delgado, Juan Kispe, Antonio Wallpa, Francisco Rondón. —Son unos bestias, indios… —y dijo un calificativo sucio.*
 *Era jueves, víspera del yaku punchau (día del agua). Todos los comuneros de Ak’ola se reunían el jueves a las cinco de la tarde en el puente de madera que atraviesa el riachuelo de Wallpamayu a la salida del pueblo. Una vez completos, ochenta más o menos, con el varayok’ y el tayta [el más influyente de los comuneros] a la cabeza se iban a tapar Jatunk’ocha. Llegaban casi al anochecer a la laguna y cerraban la compuerta en nombre del taytacha San José, patrón de Ak’ola; emparedaban el boquete con tres o cuatro piedras y taconeaban las rendijas con champa barrosa. A la mañana siguiente empujaban las piedras con un fierro largo y puntiagudo y botaban las champas; el agua derrumbaba entonces las piedras y saltaba a la cequia bulliciosa y negrusca.*

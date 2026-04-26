@@ -12,7 +12,6 @@ tags:
 *(Ciudad de Guatemala, 1899 - Madrid, 1974)*
 *1. Week-end en Guatemala*
 *(1956)*
-*# Week-End En Guatemala*
 *(Buenos Aires: Editorial Goyanarte, 1956, 228 págs.)*
 *—1 —*
 
@@ -229,7 +228,6 @@ No aterrizaban del todo y ya una tropa de sombras blancas, como enfermos de un a
 —5 —
 —¡Anterior volumen indíqueme, otro no!… ¡Anterior volumen indíqueme, otro no!… —se oyó la cháchara monocorde de un radioaficionado de Panamá (que tenía su transmisor en el Teatro Cometa)… Aquí Panamá, aquí Panamá, aquí Panamá llamando a Luis Morh a Guatemala… llamando a Guatemala… Guatemala… ¡Anterior volumen indíqueme, otro no! ¡Anterior volumen indíqueme, otro no!…
 En Guatemala, calle del Cementerio, al fondo de un jardín cerrado por una puertecita que de tanto llevar sol parecía de hueso muerto, despintando el rótulo «Se venden flores», en una casa de dos aleros, entre enredaderas y alambres, un radioaficionado capta: «Anterior volumen indíqueme, otro no» y deduce, escribiéndolo de corrido y extrayendo la primera letra de cada palabra:
-# ## ¡Avión!
 Cambio… cambio… cambio… le estaba pidiendo Panamá…, y se oyó Guatemala…
 … Le estoy dando el cambio… Panamá… Panamá… Panamá… le estoy dando el cambio… aquí Guatemala… aquí Guatemala… Guatemala le está reportando… ha tomado nota de su pedido… «anterior volumen indíqueme, otro no»… pero le voy a dar de nuevo la palabra… cambio… cambio… Panamá… cambio… cambio… le voy a dar de nuevo la palabra, porque es inútil que le dé el volumen que me pide, sin saber en qué onda ha salido… si ha salido en la de costumbre, porque no es cuestión de volumen.
 …Ya sé, ya sé, pero recuerde que soy aficionado y no sé muy bien eso de volúmenes y salidas de ondas… lo cierto es que la mía salió y llegó allá con usted… y voy a fijarme bien en qué onda salió… pero habiéndome captado usted, yo ya sé que salió… aunque creo que carga mal mi condensador… ¿carga mal?… no está cargando… no carga nada… me oye, Guatemala, Guate… Guate… Guate… me oye…

@@ -8,7 +8,6 @@ tags:
   - rrobo
   - juanbosch
 ---
-*# El algarrobo*
 *Juan Bosch (1909 - 2001)*
 
 Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 286 págs.), págs. 151-156. El hombre que estaba allá adentro, en el corazón del monte, oía sólo dos cantos: el suyo y el del hacha. De mañana empezó a tumbar la yaya y a los primeros golpes aletearon los pajaritos. Piaron y se fueron. El hombre, duro, oscuro y desnudo de cintura arriba, los siguió con la vista. Por entre los claros de las hojas había manchas azules. “Aoé, tolalááá...” El canto triste del hombre resonaba en el monte.

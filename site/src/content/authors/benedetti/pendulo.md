@@ -8,7 +8,6 @@ tags:
   - pendulo
   - benedetti
 ---
-*# Péndulo*
 *Mario Benedetti (1920 - 2009)*
 
 La muerte y otras sorpresas, 1968) El primero de sus llantos fue poderoso y traspasó fácilmente las cuatro paredes, cubiertas de pálidas guirnaldas. Después de todo, nacer siempre ha sido importante, aunque el nacido sólo sea capaz de advertir esa importancia con mucho atraso. Por lo pronto, tampoco el médico partero parecía advertirlo, ya que su profesionalísimo alarde de sostener con una sola mano aquel cuerpecito de un remolacha tenue, no se correspondía con el significado metafísico del momento. En el lecho, la madre se desprendía de los últimos gajos de sufrimiento para así poder arrellanarse en su incipiente felicidad. Él le dedicó la segunda de sus miradas (la primera había encontrado el blanco cielo raso), pero aún ignoraba que aquello era su madre, la oscura cueva de donde había emergido. Lo metieron en el baño con infinitas precauciones, y sintió el agua en las manos diminutas. Se hundía, se hundía, pero al fin dominó el calambre y salió a flote. La costa estaba cerca, pero él no hacía pie y aquel torniquete podía volver en cualquier momento. En consecuencia, empezó a bracear lentamente, sin dejarse dominar por los nervios y tratando de respirar en el ritmo debido.

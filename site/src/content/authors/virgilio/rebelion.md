@@ -12,7 +12,6 @@ tags:
 *Díaz Grullón*
 *(República Dominicana,*
 *1924-2001)*
-*# La Rebelión*
 *—¿Por qué no te casas, tía*
 *Julia?*
 *—Porque nadie ha*

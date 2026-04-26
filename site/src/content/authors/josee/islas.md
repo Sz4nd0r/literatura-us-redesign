@@ -8,7 +8,6 @@ tags:
   - islas
   - josee
 ---
-*# Islas a la deriva*
 *José Emilio Pacheco (n. 2004)*
 
 Islas a la deriva [1973-1975] (México, D.F.: Siglo XXI Editores, 1976, 159 págs.); (México, D. F.: Ediciones Era, 1985, 92 págs.); Islas a la deriva: Poemas, 1973-1975 (México, D. F.: Ediciones Era, 2006, 103 págs., nueva versión); Islas a la deriva. Poesía III (1973-1978) (Madrid: Visor, 2011, 196 págs.) I. Prólogo Horas altas En esta hora fluvial hoy no es ayer y aún parece muy lejos la mañana Hay un azoro múltiple extrañeza de estar aquí de ser en un ahora tan feroz que ni siquiera tiene fecha ¿Son las últimas horas de este ayer o el instante en que se abre otro mañana? Se me ha perdido el mundo y no sé cuándo comienza el tiempo de empezar de nuevo Vamos a ciegas en la oscuridad Caminamos a oscuras en el fuego. El mar sigue adelante Entre tanto guijarro de la orilla no sabe el mar en dónde deshacerse ¿Cuándo terminará su infernidad que lo ciñe a la tierra enemiga como instrumento de tortura y no lo deja agonizar no le otorga un minuto de reposo?

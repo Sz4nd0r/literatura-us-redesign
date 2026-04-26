@@ -8,9 +8,7 @@ tags:
   - banda
   - cortazar
 ---
-*# La banda*
 *Julio Cortázar*
-*# La banda*
 *Julio Cortázar*
 
 Final del juego, 1956) A la memoria de René Crevel, que murió por cosas así. En febrero de 1947, Lucio Medina me contó un divertido episodio que acababa de sucederle. Cuando en septiembre de ese año supe que había renunciado a su profesión y abandonado el país, pensé oscuramente una relación entre ambas cosas. No sé si a él se le ocurrió alguna vez el mismo enlace. Por si le es útil a la distancia, por si aún anda vivo en Roma o en Birmingham, narro su simple historia con la mayor cercanía posible.

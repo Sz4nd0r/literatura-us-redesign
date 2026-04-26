@@ -8,7 +8,6 @@ tags:
   - hedor
   - sergio
 ---
-*# Del hedor de los cadáveres*
 *Sergio Ramírez (n. 1942)*
 
 Del hedor de los cadáveres De tropeles y tropelías (San Salvador: Editorial Universitaria, 1972); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) La música de marchas fúnebres ejecutadas al amanecer por todos los rumbos de la ciudad y el murmullo de gente que cruzaba por las calles oscuras, rezando en coro para dirigirse a las iglesias que doblaban sus campanas, anunciaron que había muerto en palacio la madre de S. E. La República se sumió en el luto y ondeó un mar de banderas a media asta durante todos los días que el cuerpo yacente y vestido con ropas de ángel fue paseado en una urna por los parajes de la ciudad, sin que se hablara en definitiva de su entierro.

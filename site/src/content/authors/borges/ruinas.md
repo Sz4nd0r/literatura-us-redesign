@@ -8,7 +8,6 @@ tags:
   - ruinas
   - borges
 ---
-# Las ruinas circulares
 
 *Jorge Luis Borges*
 

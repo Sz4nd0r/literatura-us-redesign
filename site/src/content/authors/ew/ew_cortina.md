@@ -10,7 +10,6 @@ tags:
 ---
 *Eudora Welty*
 *(Jackson, Mississippi, 1909-2001)*
-*# Una Cortina De Follaje*
 *(“A Curtain of Green”)*
 *A Curtain of Green and Other Stories, 1941*
 

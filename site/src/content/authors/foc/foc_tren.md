@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# El Tren*
 *(“The Train”, 1953)*
 *(uno de los seis cuentos de la tesis para maestría The Geranium: A Collection of Short Storiesi> de O’Connor)*
 *(revisado más tarde para el primer capítulo de la novela Wise Blood)*

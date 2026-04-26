@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Esperando La Muerte En Un Hotel*
 *Ultimo viene il corvo (1949)*
 
 A cierta hora de la mañana empezaban a llegar las mujeres de los prisioneros y se ponían a hacer gestos, levantando la cara hacia las ventanas. Desde el último piso ellos se asomaban para preguntar, para responder; y las manos de las mujeres, abajo, y las manos de los hombres, arriba, parecían querer unirse a través de esos metros de aire vacío. En el gran hotel, poco antes degradado a cuartel y prisión, no había objetos, como rejas o murallas, que sirvieran al alma para concretar ese sentido de libertad perdida. Para ahuyentar su angustia sólo quedaba aquella vertical lejanía entre unos y otros, breve pero desesperada, desde los que tenían los pies en los arriates, todavía dueños de sí mismos, hasta los otros, los que habían llevado allí arriba, como a países de donde no se vuelve.

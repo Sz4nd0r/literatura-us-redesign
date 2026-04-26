@@ -10,7 +10,6 @@ tags:
 ---
 *Dino Buzzati*
 *(Belluno, Italia, 1906 - Milán, 1972)*
-*# La Noticia*
 *(“La notizia”)*
 *Originalmente publicado en el periódico Corriere della Sera (9 de diciembre de 1956);*
 *Sessanta racconti*

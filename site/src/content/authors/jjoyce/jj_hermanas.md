@@ -10,7 +10,6 @@ tags:
 ---
 *James Joyce*
 *(1882-1941)*
-*# Las Hermanas*
 *(“The sisters”)*
 *(Dubliners, 1914)*
 *No había esperanza*
@@ -146,7 +145,6 @@ crespón. Yo también me acerqué para leerla.
 El Reverendo James Flynn (quien perteneció a la
 parroquia de la Iglesia de Santa Catalina,
 en la calle Meath) de sesenta y cinco años de edad.
-# # # ## R. I. P.
 Leer
 el letrero me convenció de que se había muerto y
 me perturbó darme cuenta de que tuve que

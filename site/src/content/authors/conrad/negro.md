@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# El Oficial Negro*
 *(1884, 1908)*
 *(“The Black Mate”)*
 *Originalmente publicado en The London Magazine,*

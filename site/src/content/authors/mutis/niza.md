@@ -8,7 +8,6 @@ tags:
   - niza
   - mutis
 ---
-*# Intermedio en Niza*
 *Álvaro Mutis*
 *La muerte del estratega: narraciones, prosas, y ensayos [Algunos textos periodísticos] (México : Fondo de Cultura Económica, 1988, 214 págs.); Los rostros del estratega (México, D.F.: Fondo de Cultura Económica, 1997, 77 págs.) Para Diego García Elío Los imperiales han acampado en las afueras de la ciudad. El César Carlos V se retira después de haber intentado privar a su rival, Francisco I, de las hermosas tierras de Provenza. El Emperador está en su tienda, a la caída de la tarde y despacha algunos asuntos con los enviados que han llegado de tierras alemanas con noticias sobre la sorda conspiración de los electores escuchados con todo el interés que el asunto demandaba. El César tiene su espíritu en otra parte.*
 

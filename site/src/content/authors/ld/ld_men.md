@@ -8,7 +8,6 @@ tags:
   - ld_men
   - ld
 ---
-# Hombres
 
 *Lydia Davis*
 

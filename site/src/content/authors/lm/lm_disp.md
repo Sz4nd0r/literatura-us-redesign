@@ -10,7 +10,6 @@ tags:
 ---
 *Lorrie Moore*
 *(Glens Falls, NY, 1957 –)*
-*# Dispuesta*
 *(1990)*
 *(“Willing”)*
 *Originalmente publicado en la revista The New Yorker (14 de mayo de 1990, pág. 39);*

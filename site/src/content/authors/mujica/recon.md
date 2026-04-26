@@ -8,7 +8,6 @@ tags:
   - recon
   - mujica
 ---
-*# VIII. Los reconquistadores (1806)*
 *Manuel Mujica Lainez*
 *Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) El olor del churrasco crucificado en el asador consolaba y aguijaba simultáneamente el hambre de Bertrand Suliac. Por la abertura de la choza se veían, más allá de los talas y del ombú rocoso, más allá de las densas cortinas de lluvia, las iluminadas ventanas de la quinta. Sus marcos aprisionaban fugazmente, como dentro del varillaje de una galería de cuadros históricos, las figuras de los militares: el capitán de navío Santiago de Liniers, de rojo y azul flordelisado de oro; el coronel Agustín de Pinedo, con la chupa encarnada de los dragones de Buenos Aires; el capitán Juan Gutiérrez de la Concha. A veces asomaba entre ellos, con ademanes desmedidos, François-de-Paule Hippolyte Mordeille, el corsario francés.*
 

@@ -8,7 +8,6 @@ tags:
   - huerta
   - jma
 ---
-*# La huerta*
 *José María Arguedas (1937 - 1917)*
 
 Amor mundo y todos los cuentos (Lima: Francisco Moncloa Editores S.A., 1967, 207 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) —La mujer sufre. Con lo que le hace el hombre, pues, sufre. —¿Con qué dices, de lo que el hombre le hace? —De noche, en la cama. O en cualquier parte sucia. —Eres criatura. Ella goza más que el hombre. Más goza, por eso acepta también quedarse con el hijo sin que el hombre le ayude en nada.

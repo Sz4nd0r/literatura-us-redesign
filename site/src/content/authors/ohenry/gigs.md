@@ -112,8 +112,6 @@ y mentales, concuerdan en su divorcio, según lo aconsejan
 la paz y dignidad del Estado. Acuerdo, pues, divorciarlos
 y deseo que los ayude Dios.
 Y para que conste, expido y firmo el presente documento.
-# Benaja Widdup
-# ## Juez De Paz Del Distrito De Piedmont, Tennessee.
 El juez se preparó a entregar uno de los documentos a
 Ransie. La voz de Ariela aplazó la operación. Los dos
 hombres la miraron. La bronca masculinidad del marido

@@ -8,7 +8,6 @@ tags:
   - enemigo
   - josee
 ---
-*# El enemigo muerto*
 *José Emilio Pacheco (n. 2004)*
 
 El enemigo muerto Originalmente publicado en la revista Estaciones, Año 4, Núm. 16 (invierno de 1959), págs. 405-409; La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) La semana pasada el ilustre escritor leyó una conferencia en el Centro de Estudios Pro Integración Latinoamericana. Hoy ha decidido repetirla en otra ciudad. De acuerdo con sus órdenes he pasado la tarde mecanografiando el texto corregido. No tardará en llegar y en reprenderme por una coma sobrante o la omisión de una mayúscula.

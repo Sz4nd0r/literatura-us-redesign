@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Último Beso*
 *(“Last Kiss”)*
 *Originalmente publicado en Collier’s Magazine (16 de abril 1949);*
 *Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald*

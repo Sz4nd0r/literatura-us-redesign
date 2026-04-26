@@ -8,7 +8,6 @@ tags:
   - rival
   - mujica
 ---
-*# XVI. Rival (1895)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Pepa, la niña muda, pasaba las tardes de verano en el umbral de la cocina haciendo muñecas. En invierno se sentaba junto al fogón en un banquito, y fabricaba los diminutos seres de ojos de vidrio y pelo de estopa. Una vez por semana, la cocinera Rosalía se trasladaba resollando hasta el pueblo de San Isidro, para venderlos.

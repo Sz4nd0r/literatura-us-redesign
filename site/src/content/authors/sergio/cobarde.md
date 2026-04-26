@@ -8,7 +8,6 @@ tags:
   - cobarde
   - sergio
 ---
-*# El cobarde*
 *Sergio Ramírez (n. 1942)*
 
 En medio sol, el bus se estiraba sin prisa como un garrobo por la aburrida carretera; el aparato tenía dos horas de sudar sobre el asfalto y por fin el muchacho vio alzarse después de una vuelta una gran antena de radio, y más allá el cementerio, con cruces, como todos los cementerios; el trasto se fue parando poco a poco, el colector del bus se apeó, le dio un peso al guardia y el bus siguió adelante. La ciudad sudaba por todos sus campanarios y el muchacho comenzó a distribuir su mirada: la calle se fue haciendo más profunda hacia adelante y otro muchacho que iba sentado a su lado lo codeó y le dijo: —esa es la 21—, y dos guardias nacionales metieron a empujones a un hombre a una casa enorme, que parece que en un tiempo fue iglesia.

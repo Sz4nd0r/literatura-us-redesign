@@ -8,7 +8,6 @@ tags:
   - pigmalion
   - benedetti
 ---
-*# Vení Pigmalión*
 *Mario Benedetti (1920 - 2009)*
 *Despistes y franquezas, 1989) A las diez de la mañana el Jefe de Redacción lo había llamado a su despacho y él captó de inmediato que el gesto era severo. Gilardi, voy a encargarle una nota importante, espero que no me decepcione. Como único comentario, él apretó los labios, sabedor de que eso no lo comprometía a nada. El 8 de marzo de 1971, empezó el jefe, o sea dentro de tres días, se cumple el primer aniversario de la muerte del diputado Mateo Prado, quien, como usted sabe, gozó siempre, dentro y fuera de su partido, de una justa fama de hombre probo, inteligente y honesto.*
 

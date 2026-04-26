@@ -8,7 +8,6 @@ tags:
   - enigma
   - jose
 ---
-*# Enigma*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

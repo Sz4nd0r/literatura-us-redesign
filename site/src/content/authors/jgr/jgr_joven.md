@@ -10,7 +10,6 @@ tags:
 ---
 *João Guimarães Rosa*
 *(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
-*# Un Joven Muy Blanco*
 *(“Um moço muito branco”)*
 *Primeiras estórias*
 *(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*

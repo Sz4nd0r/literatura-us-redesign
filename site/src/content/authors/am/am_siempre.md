@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# Siempre Escucho En Sueños Pisadas En La Escalera*
 *La cosa e altri racconti (1983)*
 
 Tengo por costumbre, como tantos, dormir después del almuerzo. Puesto que como y bebo mucho, me duermo fácilmente; duermo en mi estudio, una magnífica bohardilla cuyas ventanas dan vista a la ciudad entera. Apenas me despierto salto del diván, me preparo un café bien fuerte y después, sin perder un minuto, me pongo a la mesa de trabajo, frente a la máquina de escribir. Soy de profesión guionista; en este preciso momento escribo los diálogos para una película de tema difícil: el terrorismo. ¿Qué relación hay entre el tema de este film y un sueño que, desde hace algún tiempo, vuelvo a soñar? Lo ignoro, pero tal vez, contando el sueño, llegue a comprenderlo. De modo que el sueño es el siguiente: me parece que alguien sube lentamente por la escalera de madera, de peldaños sumamente, sonoros, que lleva a la bohardilla. Son pisadas reflexivas, titubeantes, cuyo paso es acentuado por una intención amenazadora. Las pisadas se detienen, se reanudan, se detienen de nuevo, vuelven a reanudarse, se detienen definitivamente tras la puerta. Tras una larga pausa de silencio, una mano golpea. En ese instante me despierto, voy a la puerta, la abro; no hay nadie.

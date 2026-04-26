@@ -38,7 +38,6 @@ Cuando, por fin, volví junto al cadáver, me encontré con que se había congre
 —Me alegraría mucho contar con su consejo, señor Holmes. Esto es un asunto demasiado grande para mí y, si me equivoco, tendré noticias de la jefatura de Lewes.
 Le aconsejé que mandara llamar a su superior inmediato y a un médico. También que no permitiera que movieran nada y que se hicieran tan pocas huellas nuevas como fuera posible hasta que estos llegaran. Entretanto, registré los bolsillos del difunto. Tenía un pañuelo, una navaja grande y un pequeño tarjetero plegable. De este sobresalía un trozo de papel que desdoblé y tendí al agente. Habían escrito con letra femenina y descuidada lo siguiente:
 Allí estaré, no te quepa duda.
-# Maudie
 Interpreté que se trataba de un asunto amoroso, una cita, aunque no decía nada de cuándo ni de dónde. El agente lo volvió a meter en el tarjetero y lo guardó de nuevo con las demás cosas en los bolsillos del Burberry. Entonces, como no había indicios de nada más, regresé caminando a casa a desayunar, tras habernos puesto de acuerdo en que se inspeccionaría concienzudamente la base del acantilado.
 Stackhurst fue por mi casa una o dos horas después para contarme que habían trasladado el cuerpo a Los Gables, desde donde se llevaría a cabo la investigación. Me traía algunas otras noticias fiables y concluyentes. Como me esperaba, no se había encontrado nada en las pequeñas cuevas que había al pie del acantilado. Por otra parte, había estado examinando los papeles del escritorio de McPherson y había varias cartas que dejaban constancia de una correspondencia íntima con una tal señorita Maud Bellamy, de Fulworth. Habíamos establecido, por tanto, la identidad de la autora de la nota.
 —La policía se ha quedado con las cartas —me explicó—. No he podido traerlas. Pero no cabe duda de que era una relación amorosa seria. Sin embargo, no veo motivo alguno para asociar esa relación con este terrible suceso, excepto porque ciertamente se había citado con la señorita a McPherson.
@@ -104,7 +103,6 @@ Entonces, les hablé de la nota que habíamos encontrado en el bolsillo del fall
 El mensaje decía:
 Amor:
 El martes en la playa, en el sitio de siempre, justo después de que se ponga el sol. Es el único momento en que me puedo escapar.
-# # # ## F. M.
 —El martes es hoy, tenía intención de reunirme con él esta noche.
 Le di la vuelta al papel.
 —Esto no ha llegado por carta. ¿Cómo lo recibió?

@@ -8,7 +8,6 @@ tags:
   - dosveces
   - juanbosch
 ---
-*# La muerte no se equivoca dos veces*
 *Juan Bosch (1909 - 2001)*
 
 La muerte no se equivoca dos veces La muchacha de La Guaira (Santiago, Chile: Editorial Nacimiento, 1955, 197 págs.) Más cuentos escritos en el exilio (Santo Domingo: Editorial Librería Dominicana, Colección Pensamiento Dominicano, 32, 1964, 285 pgs.) Al ingeniero le molestó el tono que usaba el cabo para interrogarle, pues aunque dijera cosas que el cabo no podía comprender —y que el propio ingeniero no podía explicar—, mal que bien él era persona conocida en la zona, y más conocidos todavía eran Manuel Sierra y Ángel Pascual, que daban fe de su conducta.

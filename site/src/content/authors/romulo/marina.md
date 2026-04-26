@@ -8,7 +8,6 @@ tags:
   - marina
   - romulo
 ---
-*# Marina*
 *Rómulo Gallegos (n. 1969)*
 *Originalmente publicado en Actualidades (11 de mayo de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I La costa, calcinada por el sol, se extiende larga y solitaria entre unos cerros de tierra roja y árida como el yermo y el mar azul, de un azul pastoso que, en violento contraste, luce sombrío bajo el resplandor del cielo blanquecino y ardiente como una cúpula de zinc. Más allá de los cocales, más allá de los uveros, cerca de la mole blanca del cabo, en un paraje desolado y aspérrimo donde sólo medran recios cardonales y breñas rastreras, cerca de la desembocadura de un torrente que en la estación de las lluvias baja las montañas arrastrando un fango rojizo, hay una vivienda solitaria con techumbre de palmas y cercado de tunas bravas que la guarecen de los vientos del mar.*
 

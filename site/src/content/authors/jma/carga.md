@@ -8,7 +8,6 @@ tags:
   - carga
   - jma
 ---
-*# El cargador*
 *José María Arguedas (1937 - 1917)*
 *Originalmente publicado en Suplemento dominical de La Prensa [Lima] (17 de mayo de 1935); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Me han cambiado de ayudante: el nuevo se llama Severino, es hijo de un árabe y de una criolla. Severino es moreno, de ojos pequeños y muy negros, usa bigotes, su cara está bien afeitada, es bajo. Sus cejas espesas y algo erizadas, la córnea amarilla y turbia, y su costumbre de mirar con las pupilas siempre al centro de los ojos, le dan cierto aire de locura, de duda, de extravío en la expresión. —Yo, hijito, soy bueno con los buenos y canalla con los de mal corazón. Tú eres bueno, jefe. En la cara se ve si la gente es buena o mala.*
 

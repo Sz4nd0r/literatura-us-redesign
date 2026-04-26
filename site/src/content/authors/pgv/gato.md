@@ -8,7 +8,6 @@ tags:
   - gato
   - pgv
 ---
-*# El corazón del gato Ebenezer*
 *Pedro Gómez Valderrama*
 
 Desde la ventana alcanzaba a divisar las velas de los barcos que venían de Inglaterra a Escocia, y es fama que, de pechos sobre la ventana, acariciando su hermoso gato negro que jamás la abandonaba, pasaba las tardes nostálgicamente mirando el mar y lamentando su temprana viudez, consolada sólo de tarde en tarde, a pesar de su cara hermosa y su natural despierto y vivo. Pero los ojos del pueblo la seguían muy de cerca, y marcaban desalentadamente cada nueva caída.

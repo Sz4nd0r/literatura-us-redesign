@@ -8,7 +8,6 @@ tags:
   - lluvia
   - arturo
 ---
-*# La lluvia*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Red. Cuentos* (1936)*
 *Originalmente publicado en la revista Elite (1935); Red. Cuentos (Caracas: Editorial Elite, 1936, 218 págs.); La lluvia y otros cuentos (Santiago de Chile: Zig-Zag, 1967) La luz de la luna entraba por todas las rendijas del rancho y el ruido del viento en el maizal, compacto y menudo como de lluvia. En la sombra acuchillada de láminas claras oscilaba el chinchorro lento del viejo zambo; acompasadamente chirriaba la atadura de la cuerda sobre la madera y se oía la respiración corta y silbosa de la mujer que estaba echada sobre el catre del rincón. La patinadura del aire sobre las hojas secas del maíz y de los árboles sonaba cada vez más a lluvia, poniendo un eco húmedo en el ambiente terroso y sólido. Se oía en el hondo, como bajo piedra, el latido de la sangre girando ansiosamente. La mujer sudorosa e insomne prestó oído, entreabrió los ojos, trató de adivinar por las rayas luminosas, atisbó un momento, miró el chinchorro quieto y pesado, y llamó con voz agria. —¡Jesuso!*

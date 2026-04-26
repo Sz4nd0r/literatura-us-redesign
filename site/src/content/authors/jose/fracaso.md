@@ -8,7 +8,6 @@ tags:
   - fracaso
   - jose
 ---
-*# El fracaso*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# El Barril De Amontillado*
 *(“The Cask of Amontillado”, 1846)*
 *Originalmente publicado in Godey’s Lady’s Book (noviembre 1846)*
 

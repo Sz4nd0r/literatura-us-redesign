@@ -10,7 +10,6 @@ tags:
 ---
 *Tobias Wolff*
 *(Birmingham, Alabama, 1945 –)*
-*# El Hermano Rico*
 *(1986)*
 *(“The Rich Brother”)*
 *Originalmente publicado en la revista Vanity Fair (junio 1986);*

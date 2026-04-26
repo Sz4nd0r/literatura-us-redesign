@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# El Espectro*
 *(El desierto y otros cuentos, 1924)*
 *Todas las noches, en el Grand*
 *Splendid de Santa Fe, Enid y yo asistimos a los estrenos*

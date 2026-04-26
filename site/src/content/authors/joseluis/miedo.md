@@ -8,7 +8,6 @@ tags:
   - miedo
   - joseluis
 ---
-*# Miedo*
 *José Luis*
 *González (1926 - 1997)*
 

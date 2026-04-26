@@ -8,7 +8,6 @@ tags:
   - zarpa
   - josee
 ---
-*# La zarpa*
 *José Emilio Pacheco (n. 2004)*
 *El principio del placer (México: Editorial Joaquin Mortiz, 1972, 163 págs.); (Mé́xico : Era, 1972, 140 págs.) A Fernando Burgos Padre, las cosas que habrá oído en el confesionario y aquí en la sacristía… Usted es joven, es hombre. Le será difícil entenderme. No sabe cuánto me apena quitarle tiempo con mis problemas, pero ¿a quién si no a usted puedo confiarme? De verdad no sé cómo empezar. Es pecado alegrarse del mal ajeno.*
 

@@ -8,7 +8,6 @@ tags:
   - acade
   - pgv
 ---
-*# Los papeles de la Academia Utópica*
 *Pedro Gómez Valderrama*
 *Los papeles de la Academia Utópica La procesion de los ardientes (Bogotá: Miguel Arbeláez Sarmiento, 1973, 180 págs.) I BREVE INFORMACIÓN SOBRE LA CORPORACIÓN La academia utópica de Berlín ha desarrollado una labor meritoria en la investigación filosófica e histórica del tema de la Utopía. Ha producido, incluso, controversias considerables en el mundo intelectual, como por ejemplo la que se creó en torno a “La Ciudad de Dios” de San Agustín, y a su descalificación como utopía, por mayoría de votos y por razones raciales. La Academia tiene muchos aspectos de Club inglés, en cuanto a la vida de relación de sus socios. Es sabido que las Academias parecen ser la versión alemana del club inglés.*
 

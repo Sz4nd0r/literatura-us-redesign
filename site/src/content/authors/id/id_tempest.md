@@ -10,7 +10,6 @@ tags:
 ---
 *Isak Dinesen*
 *(1885–1962)*
-*# Tempestades*
 *—Tempests*
 *Anecdotes of Destiny (1958)*
 *I. La visión de la tempestad*

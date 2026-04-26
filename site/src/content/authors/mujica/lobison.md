@@ -8,7 +8,6 @@ tags:
   - lobison
   - mujica
 ---
-*# II. El lobisón (1633)*
 *Manuel Mujica Lainez*
 *Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Por el camino de la costa, viene la cabalgata. Pica el sol. Pican también los terciopelos fatigados. La polvareda hace toser a los viajeros. El calor cruel del mediodía, los tábanos voraces, la reverberación de la planicie, la vegetación calcinada, prolongan la tortura. No ha llovido en dos meses. A la izquierda, el río del cual les separa la altura de la barranca, parece de estaño. Se dijera que vibra, con sorda crepitación de lava.*
 

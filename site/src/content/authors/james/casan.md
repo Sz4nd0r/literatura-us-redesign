@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# La Casa Natal*
 *(“The Birthplace”, 1903)*
 *The Better Sort (Lo más selecto), 1903*
 *I*

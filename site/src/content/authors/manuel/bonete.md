@@ -8,7 +8,6 @@ tags:
   - bonete
   - manuel
 ---
-*# El bonete maulino*
 *Manuel Rojas*
 
 Hombres del sur: cuentos (Santiago de Chile: Zig-Zag, 1926, 219 págs.) Durante una correría que hice por las orillas del Río Claro hasta su unión con el Maule, atravesando a caballo arte de la provincia de Talca, marchando a través de bosques de avellanos y de boldos, por caminos solitarios, en cuyas márgenes hay minas de oro abandonadas, llegamos una tarde, y casi anochecido, mi amigo Segundo y yo, a un negocio, mitad almacén y mitad tienda, con un mucho de cantina, situado en la unión de dos caminos. La casa, o mejor dicho el rancho, pues tal era, tenía todo el aire y el aspecto que anticipadamente nos imaginamos al hablar de los negocios de campo: murallas de barro, un techo estilo mediagua, un alero inclinado más de lo normal, una vara en que amarrar las cabalgaduras y varios perros.

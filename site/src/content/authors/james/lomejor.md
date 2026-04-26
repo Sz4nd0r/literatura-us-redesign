@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# Lo Mejor De Todo*
 *(“The Real Right Thing” (1899)*
 *Originalmente publicado en Collier’s weekly, vol. 24, 16 (December 1899)*
 *The Soft Side (1900)*

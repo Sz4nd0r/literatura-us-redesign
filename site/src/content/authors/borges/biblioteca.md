@@ -8,7 +8,6 @@ tags:
   - biblioteca
   - borges
 ---
-# La biblioteca de Babel
 
 *Jorge Luis Borges*
 

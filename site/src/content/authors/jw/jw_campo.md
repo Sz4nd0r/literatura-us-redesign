@@ -10,7 +10,6 @@ tags:
 ---
 *Joy Williams*
 *(Chelmsford, Massachusetts, 1944 –)*
-*# El Campo*
 *(“The Country”)*
 *Originalmente publicado en Tin House (primavera de 2014);*
 *The Visiting Privilege. New and Collected Stories*
@@ -34,9 +33,6 @@ Hay tanto mal en el mundo, tantísimo mal. Creo que Jeanette es mala, aunque tal
 Salgo del patio y emprendo la caminata hasta mi casa. No es especialmente agradable, pero no hay camino alternativo o, para ser más precisos, las alternativas son igualmente descorazonadoras. Enderezan y amplían el trazado de las carreteras por todas partes, con los consiguientes árboles arrancados y lavabos portátiles para los operarios.
 Emprendo mi singladura a través del primer cruce monstruoso, donde un cartel anuncia la inminente llegada de una heladería llamada MEJOR QUE EL SEXO. Me gustaría mudarme al campo, pero el chico se niega. Además, «el campo» sólo existe ya en nuestras fantasías. Cuando era niño, el campo era donde a menudo terminaban las mascotas de la casa aquejadas de un exceso de vitalidad. Uno de nuestros perros, Tank, al que le gustaba escaparse, comerse la ropa y la tierra de las macetas, fue enviado al campo, donde dispondría de más espacio para correr, jugar y hacer sus trastadas bajo la vigilancia de un granjero comprensivo. Cuando regresé esa tarde del colegio, me dijeron que Tank se estaba adaptando a su nuevo hogar. Las explicaciones y promesas de mis padres se volvieron tan prolijas que supe que me estaban ocultando algo terrible.
 Encima de mí, las vallas publicitarias anuncian ferias de armas, planes de telefonía móvil y bufetes de abogados especializados en denuncias por alcoholemia. Hace poco me planteé alquilar una valla, pero rechazaron mi solicitud.
-# ## La Mayor Prosperidad Toca A Su Término,
-# ## ## Disolviéndose En La Nada; El Más Poderoso
-# ## ## ## Imperio Es Presa De Un Súbito Estupor
 ## ## ## ## EN MEDIO DEL BRILLAR DE SUS LUCES DE FIESTA.
 ## ## ## ## RABINDRANATH TAGORE
 Eso es lo que habría dicho mi valla.

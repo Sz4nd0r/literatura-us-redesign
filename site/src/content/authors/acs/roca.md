@@ -8,7 +8,6 @@ tags:
   - roca
   - acs
 ---
-*# Cuando Julio Roca era editor de “Diario del Caribe*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Los cuentos de Juana (con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
 

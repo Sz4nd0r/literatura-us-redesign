@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# El Corazón Del Parque*
 *(“The Heart of the Park”)*
 *(originalmente publicado en Partisan Review, vol. 16, February 1949.*
 *Reescrito y revisado para Wise Blood (1952)*

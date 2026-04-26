@@ -8,7 +8,6 @@ tags:
   - lumbi
   - mujica
 ---
-*# I. Lumbi (1583)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Había caminado la noche entera sin darse descanso. Al alba, se tumbó entre unos pajonales frente al río. Estaba en la región que empezaba a llamarse Montes Grandes, por sus arboledas. Durmió horas y horas hasta que la despertaron, con el alto sol, los pájaros que cantaban y reñían en la barranca. Lumbi estiró su largo cuerpo y, alzándose sobre un codo, se contempló durante buen espacio, como absorta.

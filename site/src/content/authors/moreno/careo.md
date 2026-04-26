@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Martínez Moreno*
 *(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
-*# El Careo*
 *(1964)*
 *Los aborigenes*
 *(Montevideo: Alfa, 1964)*

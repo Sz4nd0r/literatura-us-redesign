@@ -8,7 +8,6 @@ tags:
   - barra
   - jma
 ---
-*# El barranco*
 *José María Arguedas (1937 - 1917)*
 *Originalmente publicado en 3 [Lima], Núm. 2, VIII (1939), págs. 14-17; El forastero (Montevideo: Sandino, 1972, 89 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) En el barranco de K’ello-k’ello se encontraron, la tropa de caballos de don Garayar y los becerros de la señora Grimalda. Nicacha y Pablucha gritaron desde la entrada del barranco: —¡Sujetaychis! ¡Sujetaychis! (¡Sujetad!).*
 

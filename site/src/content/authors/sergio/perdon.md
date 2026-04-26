@@ -8,7 +8,6 @@ tags:
   - perdon
   - sergio
 ---
-*# Perdón y olvido*
 *Sergio Ramírez (n. 1942)*
 
 Guadalupe son las viejas películas mexicanas. Puede verse hasta tres en cada sesión, y las colecciona con la misma avidez con que de niño yo coleccionaba figuras de jugadores de beisbol de las Grandes Ligas. Por lo general hay alguien que viene de México y le trae un casete con alguna que no tiene, o las graba del cable, y si no, no le importa repetir. Tu pasión malsana, le digo a veces, buscando una de esas camorras bufas que se desatan entre los dos; pero como me lo hace ver ella sin más necesidad que un fulgor burlón de su mirada, no tengo ninguna autoridad moral para criticarla. La verdad es que nunca falto a sus sesiones de cine casero que duran hasta la medianoche, o más allá.

@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# Freya De Las Siete Islas*
 *(1912)*
 *(“Freya of the Seven Islands”)*
 *Originalmente publicado en The Metropolitan Magazine [Nueva York],*

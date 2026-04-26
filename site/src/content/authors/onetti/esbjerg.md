@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Esbjerg, En La Costa*
 *Originalmente publicado en La Nación (Buenos Aires), 1946*
 
 Menos mal que la tarde, se ha hecho menos fría y a veces el sol, aguado, ilumina las calles y las paredes; porque a esta hora deben estar caminando en Puerto Nuevo, junto al barco o haciendo tiempo de un muelle a otro, del quiosco de la Prefectura al quiosco de los «sándwiches». Kirsten, corpulenta, sin tacos, un sombrero aplastado en su pelo amarillo; y él, Montes, bajo, aburrido y nervioso, espiando la cara de la mujer, aprendiendo sin saberlo nombres de barcos, siguiendo distraído las maniobras con los cabos.

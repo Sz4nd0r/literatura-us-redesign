@@ -8,7 +8,6 @@ tags:
   - rivales
   - jose
 ---
-*# Rivales*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

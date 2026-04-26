@@ -10,7 +10,6 @@ tags:
 ---
 *Lorrie Moore*
 *(Glens Falls, NY, 1957 –)*
-*# Pérdidas De Papel*
 *(2006)*
 *(“Paper Losses”)*
 *Originalmente publicado en la revista The New Yorker (6 de noviembre de 2006);*

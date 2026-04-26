@@ -8,7 +8,6 @@ tags:
   - encru
   - romulo
 ---
-*# La encrucijada*
 *Rómulo Gallegos (n. 1969)*
 *Originalmente publicado en la revista Actualidades (30 de marzo de 1919); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) Ante el escritorio donde la hermana, después de poner orden en la baraúnda de la papelada, acababa de colocar un búcaro colmado de frescas rosas. Reinaldo se disponía a la tarea de aquel día, que al despertar había saludado como a uno de los más felices de su vida.*
 

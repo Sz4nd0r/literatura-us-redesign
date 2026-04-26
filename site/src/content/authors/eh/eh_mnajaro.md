@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(1899-1961)*
-*# Las Nieves Del Kilimanjaro*
 *El*
 *Kilimanjaro es una montaña cubierta de nieve de 5895 metros de altura,*
 *y dicen que es la más alta de África. Su nombre es, en masai, «Ngáje*

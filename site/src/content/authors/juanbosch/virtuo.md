@@ -8,7 +8,6 @@ tags:
   - virtuo
   - juanbosch
 ---
-*# Un hombre virtuoso*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la Revista Carteles (7 de julio de 1940), págs. 69 y 71; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) Con voz premiosa, don Juan Ramón llamó a su mujer. Tenía ya largo rato sentado a la puerta de su casa, observando hacia la de enfrente. Parecía un gato en acecho. La mujer llegó secándose las manos con el delantal. —Siéntate aquí, porque yo tengo que ir al patio.*
 

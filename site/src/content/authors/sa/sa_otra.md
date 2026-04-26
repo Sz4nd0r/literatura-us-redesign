@@ -10,7 +10,6 @@ tags:
 ---
 *Sherwood Anderson*
 *(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
-*# La Otra Mujer*
 *(“The Other Woman”)*
 *Originalmente publicado en la revista The Little Review (mayo/junio de 1920);*
 *The Triumph of the Egg*

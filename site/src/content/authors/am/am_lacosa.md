@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# La Cosa*
 *La cosa e altri racconti (1983)*
 *Queridísima Nora:*
 

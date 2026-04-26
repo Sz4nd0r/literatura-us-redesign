@@ -8,7 +8,6 @@ tags:
   - cartas
   - cortazar
 ---
-# Cartas de Mamá
 
 *Julio Cortázar*
 

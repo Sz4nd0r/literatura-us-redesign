@@ -11,7 +11,6 @@ tags:
 *J.*
 *D. Salinger*
 *(Nueva York, 1919 - Cornish, New Hampshire, 2010)*
-*# El Hombre Que Ríe*
 *(“The Laughing Man”)*
 *Nine Stories (1953)*
 

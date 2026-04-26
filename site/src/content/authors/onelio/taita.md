@@ -11,7 +11,6 @@ tags:
 *Onelio Jorge Cardoso*
 *(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)*
 *Taita, diga usted cómo (1942)*
-*# Taita, Diga Usted Cómo*
 *Prólogo de José Antonio Portuondo*
 *Viñetas de Jorge Rigol*
 *(México, D.F.: Colección Lunes, Taller Bartolomé Costa, 1945, 60 pp.)*

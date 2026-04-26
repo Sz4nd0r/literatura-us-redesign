@@ -8,7 +8,6 @@ tags:
   - ultra
   - mutis
 ---
-*# Reseñas de los hospitales de Ultramar*
 *Álvaro Mutis*
 *Originalmente publicado en la revista Mito (año I, Núm. 2, 1955); Memoria de los Hospitales de Ultramar (Xalapa: Universidad Veracruzana, 1957); Summa de Maqroll el Gaviero (Poesía 1948-1970) (Barcelona. Seix Barral, 1973, 173 págs.) Al alba guardaban las grandes jaulas con aves. Historia de la Medicina en las Indias Orientales Van der Hoyster, 1735 Los altos muros grises elevaban su fábrica contra el cielo, anunciando la presencia consoladora de aquellos edificios hechos al dolor y antesala de la muerte.*
 

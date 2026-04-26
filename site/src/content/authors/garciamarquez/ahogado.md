@@ -8,7 +8,6 @@ tags:
   - ahogado
   - garciamarquez
 ---
-# El ahogado más hermoso del mundo
 
 *Gabriel García Márquez*
 

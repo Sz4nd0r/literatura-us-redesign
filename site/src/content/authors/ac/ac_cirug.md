@@ -10,7 +10,6 @@ tags:
 ---
 *Antón Chéjov*
 *(Ucrania, 1860 - Alemania, 1904)*
-*# Cirugía*
 *(1884)*
 *(“Хирургия”)*
 *Originalmente publicado, con el subtítulo “Escena”,*

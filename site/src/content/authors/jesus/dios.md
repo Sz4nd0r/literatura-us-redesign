@@ -10,7 +10,6 @@ tags:
 ---
 *Jesús Díaz*
 *(La Habana, 1941 - Madrid, 2002)*
-*# ¡No Hay Dios Que Resista Esto!*
 *Los años duros (1966)*
 *Para Ileana, su cuento*
 *I*

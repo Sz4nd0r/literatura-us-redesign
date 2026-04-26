@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Compañeros*
 *(1897)*
 *(“Товарищи”)*
 *Originalmente publicado, con el subtítulo de Эпизод	(“Episodio”),*

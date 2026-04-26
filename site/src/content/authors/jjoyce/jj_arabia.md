@@ -11,7 +11,6 @@ tags:
 *James*
 *Joyce*
 *(1882-1941)*
-*# Arabia*
 *North Richmond Street, por ser*
 *un callejón sin salida, era una calle callada, excepto en la hora en*
 *que la escuela de los Hermanos Cristianos soltaba a sus alumnos. Al*

@@ -112,7 +112,6 @@ airosa de un coito semipúblico con Truxon, el gorila del Circo Atayde; y
 , no faltaba más, al Chino Pinto, lanzándose desde tan alto, en un
 paracaídas sospechoso, sobre un territorio tan pequeño como es el de
 nuestro país, etc .
-# Oh Ligarquía
 Dedicado al núcleo de la clase interna
 lacayo-dominante,
 que incluye una apreciación nada personal sobre lo que
@@ -374,7 +373,6 @@ Lograr eso será nuestra gloria mayor.
 Todas las naciones liberadas vendrán entonces a nuestro encuentro, con
 sus propias campanas.
 Fin.
-# ## La Era Martiana (1931-1944)
 II. La Soberanía.
 El guerrillero nicaragüense
 Augusto César Sandino
@@ -417,7 +415,6 @@ Por períodos no mayores
 Martínez,
 Maestro Teósofo y Presidente de la República
 —de 1932 a 1944—.
-# # ## ## Q.D.E.S.G.L.T.]
 —Es bueno que los niños anden
 descalzos. Así reciben mejores los efluvios benéficos del planeta, las
 vibraciones de la tierra. Las plantas y los animales no usan zapatos.

@@ -8,9 +8,7 @@ tags:
   - luna
   - borges
 ---
-*# Luna de enfrente*
 *Jorge Luis Borges*
-*# Luna de enfrente*
 *Jorge Luis Borges*
 
 No he reescrito el libro. He mitigado sus excesos barrocos, he limado asperezas, he tachado sensiblerías y vaguedades y, en el decurso de esta labor a veces grata y otros veces incómoda, he sentido que aquel muchacho que en 1923 lo escribió ya era esencialmente ¿qué significa esencialmente?- el señor que ahora se resigna o corrige. Somos el mismo; los dos descreemos del fracaso y del éxito, de las escuelas literarias y de sus dogmas; los dos somos de Schopehauer, de Stevenson y de Whitman.

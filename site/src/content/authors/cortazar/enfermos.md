@@ -8,7 +8,6 @@ tags:
   - enfermos
   - cortazar
 ---
-*# La salud de los enfermos*
 *Julio Cortázar*
 *Cuando inesperadamente tía Clelia se sintió mal, en la familia hubo un momento de pánico y por varias horas nadie fue capaz de reaccionar y discutir un plan de acción, ni siquiera tío Roque que encontraba siempre la salida más atinada. A Carlos lo llamaron por teléfono a la oficina, Rosa y Pepa despidieron a los alumnos de piano y solfeo, y hasta tía Clelia se preocupó más por mamá que por ella misma.*
 

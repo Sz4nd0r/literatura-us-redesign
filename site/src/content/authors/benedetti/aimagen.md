@@ -8,7 +8,6 @@ tags:
   - aimagen
   - benedetti
 ---
-*# A imagen y semejanza*
 *Mario Benedetti (1920 - 2009)*
 
 La muerte y otras sorpresas, 1968) Era la última hormiga de la caravana, y no pudo seguir la ruta de sus compañeras. Un terrón de azúcar había resbalado desde lo alto, quebrándose en varios terroncitos. Uno de éstos le interceptaba el paso. Por un instante la hormiga quedó inmóvil sobre el papel color crema. Luego, sus patitas delanteras tantearon el terrón. Retrocedió, después se detuvo. Tomando sus patas traseras como casi punto fijo de apoyo, dio una vuelta alrededor de sí misma en el sentido de las agujas de un reloj. Sólo entonces se acercó de nuevo.

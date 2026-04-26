@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# Daisy Miller*
 *(“Daisy Miller”, 1878)*
 *Originalmente publicado en The Cornhill magazine en dos ediciones:*
 

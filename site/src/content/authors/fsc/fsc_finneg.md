@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Financiando A Finnegan*
 *(“Financing Finnegan”)*
 *Originalmente publicado en Esquire, 9 (January 1938),*
 *The Stories of F. Scott Fitzgerald*
@@ -50,7 +49,6 @@ Tuve que reconocer que había sido una solución valiente.
 —¿Y afectó a su obra? —pregunté—. ¿No tuvieron ustedes que leer sus cuentos al revés, como en chino?
 —Eran más bien confusos, sí, durante algún tiempo —admitió—, pero ya se ha recuperado. He recibido varias cartas suyas donde ya se adivina al Finnegan de siempre: rebosante de vida y esperanza y proyectos para el futuro...
 Recuperó la mirada perdida y yo encaucé la conversación hacia asuntos que me interesaban más. Sólo cuando regresamos a su oficina volvió a surgir el tema, y me sonroja escribir esto porque debo confesar algo que no suelo hacer: leer los telegramas ajenos. Pero entretuvieron al señor Jaggers en el vestíbulo y, cuando entré en su despacho y me senté, me encontré el telegrama delante, abierto.
-# ## Con Cincuenta Podría Al Menos Pagar Mecanógrafa Cortarme El Pelo Y Comprar Lápices Vivir Así Es Imposible Sólo Existo Porque Sueño Con Buenas Noticias Desesperadamente Finnegan.
 No podía creer lo que veían mis ojos: cincuenta dólares, y, según me constaba, el precio de un cuento de Finnegan rondaba los tres mil dólares. George Jaggers me encontró todavía aturdido, con la mirada clavada en el telegrama. Lo leyó y clavó la mirada en mí, destrozado.
 —No veo, en conciencia, manera de mandárselos —dijo.
 Me sorprendió, y miré a mi alrededor para cerciorarme de que estaba en la próspera editorial de Nueva York. Y entonces comprendí: había interpretado mal el telegrama. Finnegan pedía un anticipo de cincuenta mil dólares: una petición que, al margen del escritor que la hiciera, hubiera asombrado a cualquier editor.
@@ -110,7 +108,6 @@ En el despacho parecía reinar cierta confusión. El señor Cannon atendía vari
 —Bueno, yo también me voy —dije.
 —Espere un par de minutos —me rogó—. Sólo me queda contestar este telegrama. Son noticias verdaderamente espléndidas. De las que te suben la moral.
 Era un telegrama procedente de Oslo, Noruega, y antes de empezar a leerlo tuve un presentimiento.
-# ## ## Milagrosamente Sano Y Salvo Aquí Pero Retenido Por Autoridades Ruego Enviar Telegráficamente Dinero Y Pasajes Para Cuatro Personas Más Doscientos Extra A Cuenta Anticipo De Vuelta Mando Entrañables Saludos Del Difunto Finnegan
 —Sí, es espléndido —asentí—. Ahora sí que tiene una buena historia que contar.
 —Eso parece —dijo Cannon—. Señorita Carlsen, póngales un telegrama a los padres de esas chicas. Y sería conveniente que informara al señor Jaggers.
 Y, minutos después, mientras caminábamos por la calle, me di cuenta de que el señor Cannon, como anonadado por la noticia maravillosa, se había sumido en oscuras cavilaciones: no quise molestarlo, pues a fin de cuentas yo no conocía a Finnegan y no podía compartir plenamente la alegría del señor Cannon. Su mutismo se prolongó hasta la puerta de la exposición de lanchas motoras. Se detuvo bajo el letrero y lo miró, como si sólo entonces se hubiera dado cuenta de adonde íbamos.

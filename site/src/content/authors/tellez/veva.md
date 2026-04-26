@@ -8,7 +8,6 @@ tags:
   - veva
   - tellez
 ---
-*# Genoveva me espera siempre*
 *Hernando Téllez (1908 - 1966)*
 
 Genoveva me espera siempre Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) “Toujours J´espere quelqu’un”. U. M. Aparecía a esa hora del lado oscuro de la calle. ¿Esperas a alguien?, le decía yo. Y ella me respondía: yo siempre espero a alguien. Tenía los cabellos químicamente rubios y los ojos verdaderamente glaucos. ¿Cuál es el color auténtico de tu pelo?, le preguntaba yo. Y ella me respondía: negro. Y yo pensaba siempre que eso era una maravilla —ojos glaucos, pelo negro— y que debía dejar desaparecer la pintura de su cabeza para recuperar la verdad.

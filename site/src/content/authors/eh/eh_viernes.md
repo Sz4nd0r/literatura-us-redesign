@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
-*# Hoy Es Viernes*
 *(1926)*
 *(“Today is Friday”)*
 *Originalmente publicado, como un panfleto: Today is Friday (1926);*
@@ -101,4 +100,3 @@ SOLDADO TERCERO: Venga, volvamos a los barracones. Esta noche me encuentro fatal
 SOLDADO SEGUNDO: Llevas aquí demasiado tiempo.
 SOLDADO TERCERO: No, no es eso. Me siento fatal.
 SOLDADO SEGUNDO: Llevas aquí demasido tiempo. Eso es todo.
-# ## Telón

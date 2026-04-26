@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# El Patagonia*
 *(“The Patagonia”, 1988)*
 *Originalmente publicado en English Illustrated Magazine (agosto-septiembre de 1888)*
 *Una vida en Londres y otros relatos (1889)*

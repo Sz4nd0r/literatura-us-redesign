@@ -8,7 +8,6 @@ tags:
   - sol
   - romulo
 ---
-*# Sol de antaño*
 *Rómulo Gallegos (n. 1969)*
 
 Sol de antaño Originalmente publicado, como “Las rosas”, en El Cojo Ilustrado (19 de enero de 1910); Los Aventureros (Caracas: Imprenta Bolívar, 1913, 160 págs.); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.), págs. 47-66. I “Ciego, ni un rayo de luz penetraba en su cerebro y en torno suyo llovía sol profusamente. Estaba de pies, a la vera del camino, extendiendo la mano implorante hacia el ruido de todos los pasos y formaba un claroscuro sugerente y trágico aquella su tiniebla interna en mitad de la campiña coruscante”... Y, terminando de escribir las anteriores palabras, al pie del boceto que del aludido mendigo hiciera al pasar, Hilario Altares, se hundía en la hamaca que acababa de ser colgada para él, en la menos sucia y más ventilada pieza de la posada “El Mamoral”, donde se alojaba aquella mañana cuando el cansancio de las anteriores jornadas forzosas le impidiera continuar el viaje. “Ni un rayo de luz penetraba en su tiniebla...” Murmuró con vago acento, sumergiéndose en la calma bochornosa de la hora, voluptuosamente, entrecerrando los ojos ofuscados por el intenso resplandor que arrojaba el trozo soleado de paisaje que ante él recortaba él marco de la puerta.

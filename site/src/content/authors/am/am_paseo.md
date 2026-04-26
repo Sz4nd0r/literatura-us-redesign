@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# El Paseo Del Mirón*
 *La cosa e altri racconti (1983)*
 
 ¡Crac y crac! La llave gira en la cerradura con la violencia con que gira una llave cuando quiere significar repugnancia y rechazo. Y en efecto, inmediatamente después, para evitar todo equívoco, la voz de la mujer, del otro lado de la puerta, le grita muy explícitamente que no quiere hacer más el amor con él, ni hoy, ni mañana, ni nunca. Ya lo ha gritado otras veces en el primer año que llevan de casados; esto lo colma de una desesperación más intensa que la que le inspiraría un repudio franco y definitivo. De modo que siempre será así; en consecuencia, de estos barrotes estará hecha la jaula donde permanecerán encerrados quién sabe cuánto tiempo. Tras estas reflexiones, sale de la terraza de la villa, atraviesa las dunas, desemboca en la playa y automáticamente se pone a caminar junto al mar.

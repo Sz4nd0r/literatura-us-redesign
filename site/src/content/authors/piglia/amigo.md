@@ -12,7 +12,6 @@ tags:
 *Piglia*
 *(Adrogué, Buenos Aires,*
 *1941 - Buenos Aires, 2017)*
-*# Mi Amigo*
 *(La invasión, 1967)*
 *a*
 *Carlos Piglia, mi hermano*

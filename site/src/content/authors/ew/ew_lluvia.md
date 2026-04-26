@@ -10,7 +10,6 @@ tags:
 ---
 *Eudora Welty*
 *(Jackson, Mississippi, 1909-2001)*
-*# La Lluvia De Oro*
 *(“Shower of Gold”)*
 *The Golden Apples, 1949*
 *I*

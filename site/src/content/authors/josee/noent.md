@@ -8,7 +8,6 @@ tags:
   - noent
   - josee
 ---
-*# No entenderías*
 *José Emilio Pacheco (n. 2004)*
 *El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Margo Glantz Al cruzar de la calle me tomó de la mano. Sentí que estaba húmeda su palma. —Quiero jugar un rato en el parque —me dijo. —No. Tenemos que regresar. Tu mamá nos espera. ¿Ves?, ya no hay nadie. Todos los niños se han dormido. Cambió la señal. Los vehículos se precipitaron. Corrimos para alcanzar la acera del parque. El olor a gasolina quemada se disolvía en la frescura de la hierba y las frondas.*
 

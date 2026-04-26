@@ -10,7 +10,6 @@ tags:
 ---
 *Milan Kundera*
 *(Brno, Czechoslovakia, 1929 - París, Francia, 2023)*
-*# El Falso Autoestop*
 *(Traducción inglesa: “The Hitchhiking Game”)*
 *Smešné lásky (1969)*
 *1*

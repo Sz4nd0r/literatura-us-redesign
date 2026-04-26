@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# Las Moscas*
 *(Más allá y otros cuentos, 1935)*
 *Réplica de “El hombre muerto*
 

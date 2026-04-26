@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
-*# El Señor Y La Señora Elliot*
 *(“Mr. and Mrs. Elliot”)*
 *Originalmente publicado en la revista The Little Review, 10 (otoño 1924 - invierno 1925);*
 *In Our Time*

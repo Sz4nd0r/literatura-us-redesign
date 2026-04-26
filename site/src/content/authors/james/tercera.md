@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# La Tercera Persona*
 *(“The Third Person”, 1900)*
 *Originalmente publicado en The Soft Side (1900)*
 *I*

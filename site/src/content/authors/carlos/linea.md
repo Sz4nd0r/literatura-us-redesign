@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Fuentes*
 *(Ciudad de Panamá, 1928 - México D.F., 2012)*
-*# La Línea De La Vida*
 *(1955)*
 *Originalmente publicado, como un framento de la novela La región más transparente (1958),*
 

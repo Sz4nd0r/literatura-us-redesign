@@ -10,7 +10,6 @@ tags:
 ---
 *João Guimarães Rosa*
 *(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
-*# Desenredo*
 *(“Desenredo”)*
 *Tutameia – Terceiras Estórias (1967);*
 *también: Contos escolhidos. (1976)*

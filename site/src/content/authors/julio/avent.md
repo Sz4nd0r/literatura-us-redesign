@@ -8,7 +8,6 @@ tags:
   - avent
   - julio
 ---
-*# Una aventura nocturna*
 *Julio Ramón Ribeyro (1987 - 1994)*
 *Una aventura nocturna Las botellas y los hombres (originalmente publicado, por error, como Los hombres y las botellas) (Lima: Populibros Peruanos, 1964, 135 págs.) A los cuarenta años, Arístides podía considerarse con toda razón como un hombre “excluido del festín de la vida”. No tenía esposa ni querida, trabajaba en los sótanos del municipio anotando partidas del Registro Civil y vivía en un departamento minúsculo de la avenida Larco, lleno de ropa sucia, de muebles averiados y de fotografías de artistas prendidas a la pared con alfileres.*
 

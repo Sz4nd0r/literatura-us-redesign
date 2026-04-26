@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# Tifón*
 *(1902)*
 *(“Typhoon”)*
 *Originalmente publicado en Pall Mall Magazine, en tres entregas:*

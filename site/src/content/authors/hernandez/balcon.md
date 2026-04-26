@@ -11,7 +11,6 @@ tags:
 *Felisberto*
 *Hernández*
 *(Uruguay, 1902-1964)*
-*# El Balcón*
 *(Originalmente publicado en*
 *el Suplemento Literario*
 *de La Nación de Buenos Aires, 16 de diciembre, 1945)*

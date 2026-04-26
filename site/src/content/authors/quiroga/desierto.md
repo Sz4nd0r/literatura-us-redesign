@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# El Desierto*
 *(El desierto y otros cuentos, 1924)*
 *La canoa se deslizaba costeando el*
 *bosque, o lo que podía parecer bosque en aquella oscuridad. Más por*

@@ -8,7 +8,6 @@ tags:
   - ridder
   - julio
 ---
-*# Ridder y el pisapapeles*
 *Julio Ramón Ribeyro (1987 - 1994)*
 *Ridder y el pisapapeles Los cautivos (no se publicó como un libro individual, pero fue publicado en 1972 como parte del segundo tomo de) La palabra del mudo. Cuentos 1952-1972, tomo II. (Lima: Milla Batres Editorial, 1973, 291 págs.) Para ver a Charles Ridder tuve que atravesar toda Bélgica en tren. Teniendo en cuenta las dimensiones del país, fue como viajar del centro de una ciudad a un suburbio más o menos lejano. Madame Ana y yo tomamos el rápido de Amberes a las once de la mañana y poco antes de mediodía, después de haber hecho una conexión, estábamos en el andén de Blanken, un pueblo perdido en una planicie sin gracia, cerca de la frontera francesa. —Ahora a caminar —dijo madame Ana. Y nos echamos a caminar por el campo chato, recordando la vez que en la biblioteca de madame Ana cogí al azar un libro de Ridder y no lo abandoné hasta que terminé de leerlo. —Y después no quiso leer otra cosa que Ridder.*
 

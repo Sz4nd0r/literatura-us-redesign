@@ -8,7 +8,6 @@ tags:
   - elisa
   - benedetti
 ---
-*# Retrato de Elisa*
 *Mario Benedetti (1920 - 2009)*
 *Francia a los doce años y todavía conservaba un libro encuadernado en piel humana que un coronel argentino le había regalado a su padre en febrero de mil ochocientos setenta y cuatro. Ahora no tenía ni un cobre, vivía de la ominosa caridad de sus yernos, usaba una pañoleta con agujeros de lana negra y su pensión de treinta y dos pesos estaba menguada por dos préstamos amortizables. No obstante, aún quedaba el pasado para enhebrar recuerdo con recuerdo, acomodarse en el lujo que fue, y juntar fuerzas para odiar escrupulosamente su miseria actual. A partir de la segunda viudez, Elisa Montes había aborrecido con toda su increíble energía aquella lenta sucesión de presentes. A los veinte años se había casado con un ingeniero italiano, que le dio cuatro hijos (dos muchachas y dos varones) y murió muy joven, sin revalidar su título ni dejarle pensión.*
 

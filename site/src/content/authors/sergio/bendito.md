@@ -8,7 +8,6 @@ tags:
   - bendito
   - sergio
 ---
-*# Bendito escondido*
 *Sergio Ramírez (n. 1942)*
 
 Reconoce la pulsera, señora? —Claro que sí, por el dije. Una bandada de palomas negras se desató de la copa del guarumo cuando les llegó la pedrada. —Son de San Nicolás, Tito, se echa de ver por lo cenizo —y de nuevo Gabriel recogió una laja fina y la montó en la tiradora. Pero ya todas las palomas habían volado. —Ahora vámonos para la cueva al consejo secreto —y me tomó del brazo para subir al barranco. En lo profundo de la quebrada corría un arroyo casi seco, que desaparecía a trechos en una especie de lodazal para vertirse más adelante en unas pozas de agua pura cubiertas de hojas de almendro rojas y amarillas que las ardillas apartaban con el hocico para beber. Yo escapé de resbalar pero él me sujetó. —No tengás miedo, capitán. ¿Qué no sos capitán? —Sí —dijo Tito con miedo—, sí soy. —Arriba pues —y seguimos subiendo. —¿Qué queda por recuperar? —Solo la plancha eléctrica —dijo el teniente revisando la hoja de denuncia—, parece que fue vendida a un tope, pero ya estamos averiguando. —Esa plancha era cara —dijo la señora. —Valorada en ochenta y cinco córdobas —agregó el marido. —Se hallará —aseguró el teniente—, sigamos.

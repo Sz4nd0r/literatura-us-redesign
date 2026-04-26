@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# Chertopjánov Y Nedopiúskin*
 *(1849)*
 *(“Чертопханов и Недопюскин”)*
 *Originalmente publicado en la revista Современник [El Contemporáneo]*

@@ -8,7 +8,6 @@ tags:
   - zorro
   - ferre
 ---
-*# El abrigo de zorro azul*
 *Rosario Ferré (2001 - 1972)*
 
 El abrigo de zorro azul Papeles de Pandora (México: Editorial Joaquín Mortiz, 1976, 207 págs.) El día que Bernardo se quitó por fin la chaqueta de botones dorados de la academia militar dejó escapar un suspiro de alivio como quien se entrega a las arañas del sueño. De pequeña Marina le repetía al oído que tenía los ojos tan verdes que le daban ganas de arrancárselos de racimo como si fueran uvas. Existía entre ellos una relación misteriosa similar a la que existe entre la mano izquierda y la derecha, el equinoccio y el solsticio, el sístole y la diástole.

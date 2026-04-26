@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# El Padre*
 *(“The Father”)*
 *Originalmente publicado en Toyon (1961)*
 *Will You Please Be Quiet, Please? (1976)*

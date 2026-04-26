@@ -8,7 +8,6 @@ tags:
   - funeral
   - juanbosch
 ---
-*# El funeral*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la Revista Carteles (28 de julio de 1940), págs. 42-43; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) Cuando empezaron a caer las lluvias de mayo el agua fue tanta que se posó en los potreros formando lagunatos.*
 

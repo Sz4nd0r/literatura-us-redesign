@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Konovalov*
 *(1897)*
 *(“Коновалов”)*
 *Originalmente publicado, con el subtítulo de Очерк*
@@ -385,7 +384,6 @@ Remoloneó largo rato en su estera, extendida directamente sobre el suelo, se le
 Después me dormí, y cuando desperté ya no estaba en la panadería y no apareció hasta el atardecer. Daba la impresión de estar completamente cubierto de una especie de polvo y en su nublada mirada algo se había petrificado. Tiró el gorro a la balda, suspiró y se sentó a mi lado.
 —¿Dónde estuviste?
 —Fui a ver a Kapka.
-# # # ## —¿Y?
 —¡Basta, hermano! Es que ya te lo dije…
 —Es evidente que no tienes nada que ver con esa gente… —probé a distraer su ánimo y comencé a hablar del poder de la costumbre y todo lo demás que convenía en esta situación. Konovalov guardaba silencio obstinadamente, mirando al suelo.
 —¡Que no! ¡No tiene que ver con eso! Simplemente soy una persona contagiosa… No es mi destino vivir en el mundo… Un hálito venenoso sale de mí. En cuanto me acerco a una persona, la contagio. Y lo único que puedo aportar a los demás es dolor… Ya que si se piensa, ¿a quién, en toda mi vida, he aportado placer? ¡A nadie! Y vaya, he tenido relación con mucha gente… Soy una persona descompuesta…

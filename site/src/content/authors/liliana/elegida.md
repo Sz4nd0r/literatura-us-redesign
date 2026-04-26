@@ -8,7 +8,6 @@ tags:
   - elegida
   - liliana
 ---
-*# Georgina Requeni o la elegida*
 *Liliana Heker*
 
 Requeni o la elegida Un resplandor que se apagó en el mundo [Incluye: Don Juan de la Casa Blanca, “Georgina Requeni o la elegida” y “Un resplandor que se apagó en el mundo”] (Buenos Aires: Editorial Sudamericana, Colección El Espejo, 1977, 143 págs.) “Pero si no soy nada, si no debo ser nada, ¿por qué esos sueños de gloria desde que tengo uso de razón?”. María Bashkirtseff Una carroza tirada por cuatro caballos blancos está doblando la esquina. El adornado señor que la ocupa se asoma por la ventanilla, se asombra de ver a una chica de seis años caminando sola y sin miedo por una calle tan oscura, y con un seco monosílabo le ordena al cochero que se detenga. —¿Quién eres, hermosa niña? —Soy Georgina Requeni, señor. —¿Y yo? ¿Sabes quién soy yo?

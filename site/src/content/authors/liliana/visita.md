@@ -8,7 +8,6 @@ tags:
   - visita
   - liliana
 ---
-*# El visitante*
 *Liliana Heker*
 *La muerte de Dios (Buenos Aires: Aguilar, Altea, Taurus, Alfaguara, 2011, 208 págs.) A Marcela Furlani, a Julio Rudman ¿Podían encontrarse?, le dijo por teléfono Willy Campana: tenía un asunto que charlar con ella. Y Ema, tragándose las ganas de preguntarle qué lo había llevado a querer verla después de tantos años, le dijo que sí, que por qué no se venía hoy mismo a eso de las cinco, ¿tenía la dirección de su casa? Así de fácil.*
 

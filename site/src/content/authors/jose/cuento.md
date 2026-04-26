@@ -8,7 +8,6 @@ tags:
   - cuento
   - jose
 ---
-*# La aventura del cuento*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

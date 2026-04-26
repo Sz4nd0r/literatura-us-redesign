@@ -8,7 +8,6 @@ tags:
   - trueno
   - augusto
 ---
-*# El trueno entre las hojas*
 *Augusto Roa Bastos (1917 - 2005)*
 
 El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) El ingenio se hallaba cerrado por limpieza y reparaciones después de la zafra. Un tufo de horno henchía la pesada y eléctrica noche de diciembre. Todo estaba quieto y parado junto al río. No se oían las aguas ni el follaje. La amenaza de mal tiempo había puesto tensa la atmósfera como el hueco negro de una campana en la que el silencio parecía freírse con susurros ahogados y secretas resquebrajaduras. En eso surgió de las barrancas la música del acordeón.

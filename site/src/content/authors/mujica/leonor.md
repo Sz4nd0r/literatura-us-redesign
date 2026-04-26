@@ -8,7 +8,6 @@ tags:
   - leonor
   - mujica
 ---
-*# V. Los amores de Leonor Montalvo (1748)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Filomeno Castillo, el pulpero de la calle de San Cosme y San Damián, se pavoneaba como un cortesano. Hasta había trocado el delantal de algodón con el cual disimulaba la falta de ropas más ceñidas y honestas, por unos calzones dignos del primer alcalde.

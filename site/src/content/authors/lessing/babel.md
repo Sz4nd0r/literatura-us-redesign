@@ -66,7 +66,5 @@ Pero me di cuenta de que estas palabras rebotaban en el límpido reflejo de su m
 Una semana después recibí carta de Catherine.
 Muchas gracias por ser tan amable de llevarme a visitar a Philip a su colegio. Fue el mejor día de mi vida. Te estoy profundamente agradecida por haberme llevado. He estado pensando en Refugio de criminales. Es una película que me ha demostrado, sin sombra de duda, que la pena capital es algo malvado y nunca olvidaré lo que aprendí esa tarde, y esa lección me acompañará toda la vida. He estado meditando sobre lo que me dijiste de Isaac Babel, el famoso escritor de cuentos ruso, y ahora veo que la simplicidad deliberada de su estilo es lo que hace que sea, sin asomo de duda, el gran escritor que es, y ahora en mis redacciones del colegio me estoy esforzando en emularlo y en aprender esa sencillez deliberada que es el único fundamento de un estilo realmente brillante.
 Besos,
-# Catherine
 P.S. ¿Ha dicho algo Philip de mi fiesta? Le escribí pero no me ha respondido. Por favor, averigua si va a venir o si solo se ha olvidado de responder mi carta. Espero que venga, porque a veces me da la sensación de que me moriría si no viniera.
 P.P. S. Por favor, no le cuentes lo que te he dicho, porque me moriría si lo supiera.
-# ## Catherine

@@ -31,7 +31,6 @@ poco después de la publicación de Tanglewood Tales for Boys and Girls (1853). 
 La familia regresó a The Wayside en 1860, y ese año se publicó The Marble Faun, su primer libro nuevo en siete años.
 Al comienzo de la Guerra Civil Americana, Hawthorne viajó a Washington, D.C., donde conoció a Abraham Lincoln. Escribió sobre sus experiencias en el ensayo “Chiefly About War Matters”, en 1862.
 Hawthorne sufría dolor en el estómago e insistió en un viaje de recuperación con su amigo Franklin Pierce. Mientras estaba de gira por las Montañas Blancas, murió mientras dormía el 19 de mayo de 1864 en Plymouth, New Hampshire. Tenía 59 años.
-# Índice:
 Cuentos:
 Las esposas de los muertos (1832)
 El velo negro del pastor (1832)

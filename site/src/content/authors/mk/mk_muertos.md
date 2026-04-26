@@ -10,7 +10,6 @@ tags:
 ---
 *Milan Kundera*
 *(Brno, Czechoslovakia, 1929 - París, Francia, 2023)*
-*# Que Los Muertos Viejos Dejen Sitio A Los Muertos Jóvenes*
 *Smešné lásky (1969)*
 *1*
 

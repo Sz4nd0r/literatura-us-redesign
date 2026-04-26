@@ -10,7 +10,6 @@ tags:
 ---
 *Sherwood Anderson*
 *(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
-*# Manos*
 *(1916)*
 *(“Hands”)*
 *Winesburg, Ohio*

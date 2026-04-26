@@ -8,7 +8,6 @@ tags:
   - toro
   - arturo
 ---
-*# Toro sentado*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Los ganadores* (1980)*
 *Un ruido seco como de rama quebrada. A su lado dormía la india con la cara oculta por la revuelta cabellera negra. Se levantó en silencio y atisbo por las rendijas de la ventana cerrada. Un resplandor de luna caía sobre la loma de la casa y ponía más oscura la espesura del bosque. Vio destacarse una sombra desde el borde del claro, avanzar lentamente hacia la casa. Parecía arrastrarse a cuatro patas. De puntillas se fue al otro lado a mirar por la grieta de la puerta.*

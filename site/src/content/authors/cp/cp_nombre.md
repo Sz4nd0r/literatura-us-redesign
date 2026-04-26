@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# El Nombre*
 *(“Il nome”, 1941)*
 *Originalmente publicado en Il Messaggero de Roma y en Il Secolo XIX de Génova (1 de noviembre de 1941),*
 *reproducido en Feria d’agosto (1946)*

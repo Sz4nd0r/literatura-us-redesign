@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Tu Me Dai La Cosa Me, Io Te Do La Cosa Te*
 *Originalmente publicado en Cuentos completos (Alfaguara), 1994*
 
 Los muros de ladrillo de naves interminables y de un pequeño y cuidado cementerio judío era todo el París que les permitía la mezquindad de la ventana.

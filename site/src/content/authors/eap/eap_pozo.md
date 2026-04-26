@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# El Pozo Y El Péndulo*
 *(“The Pit and the Pendulum”, 1842)*
 *Originalmente publicado en The Gift: A Christmas and New Year’s Present for 1843*
 *(Philadelphia: Carey & Hart, 1842);*

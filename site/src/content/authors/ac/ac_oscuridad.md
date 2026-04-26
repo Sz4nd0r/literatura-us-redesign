@@ -10,7 +10,6 @@ tags:
 ---
 *Antón Chéjov*
 *(Ucrania, 1860 - Alemania, 1904)*
-*# En La Oscuridad*
 *(1886)*
 *(“В потемках”)*
 *Originalmente publicado, con el subtítulo “Recuerdos de verano”,*

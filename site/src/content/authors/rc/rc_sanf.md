@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# ¿Qué Hace Usted En San Francisco?*
 *(“What Do You Do in San Francisco?”)*
 *Originalmente publicado en Colorado State Review (1967)*
 *Will You Please Be Quiet, Please? (1976)*

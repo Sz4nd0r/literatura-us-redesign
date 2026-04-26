@@ -8,7 +8,6 @@ tags:
   - galeria
   - joseluis
 ---
-*# La galería*
 *José Luis*
 *González (1926 - 1997)*
 *En este lado (México: Los Presentes, 1954, 180 págs.); En este lado. Edición corregida (La Habana: Nuevo Mundo, 1961, 123 págs.) A César Andreu Iglesias Yo tenía quince años entonces... El licenciado y su familia llegaban todos los domingos, poco antes del mediodía, en el gran Packard color chocolate. Si era día de sol, el automóvil levantaba nubes de polvo sobre el camino casi intransitable que llevaba de la carretera a la casona; si llovía, cada bache representaba un obstáculo temible: en más de una ocasión había sido necesario emplear una yunta de bueyes para arrancarle al lodo su pesada presa: Mi padre, cada domingo, cuando abandonaba su mecedora en la amplia galería y se adelantaba a recibir a los compadres al pie de la escalinata de mampostería, murmuraba con disgusto: —Es una vergüenza ese camino. Va a haber que empedrarlo un día de éstos. (Pero todavía hoy, al cabo de doce años, según me cuentan, el camino sigue sin empedrar.) El licenciado y su mujer salían del Packard, sonrientes. La sonrisa de la mujer del licenciado había que adivinarla bajo el pañuelo con que se venía cubriendo la nariz cuando el día de sol propiciaba la polvareda.*

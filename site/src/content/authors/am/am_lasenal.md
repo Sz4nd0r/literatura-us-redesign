@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# La Señal De La Operación*
 *La cosa e altri racconti (1983)*
 
 Marco se sentó en el lecho y miró en la penumbra la espalda de la mujer, que aún dormía. Una espalda demasiado blanca, de una blancura mantecosa y pulida, como es frecuente en las mujeres rubias y maduras. Dormía doblada sobre sí misma; la espalda, encorvada, daba una impresión de fuerza y a la vez de constricción, como de resorte doblado hasta el límite de la resistencia. Sin embargo, pensó además Marco, era un cuerpo vencido y abatido, cuyo sueño parecía significar postración y derrota.

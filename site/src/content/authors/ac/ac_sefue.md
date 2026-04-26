@@ -10,7 +10,6 @@ tags:
 ---
 *Antón Chéjov*
 *(Ucrania, 1860 - Alemania, 1904)*
-*# Se Fue*
 *(1883)*
 *[Otro título en español: “Se marchó”]*
 *(“Ушла”)*

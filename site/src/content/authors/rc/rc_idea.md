@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# ¡Habráse Visto…!*
 *(“The Idea”)*
 *Originalmente publicado en Northwest Review*
 *(1971-72)*

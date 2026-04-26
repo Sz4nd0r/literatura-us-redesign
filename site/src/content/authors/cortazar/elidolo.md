@@ -8,9 +8,7 @@ tags:
   - elidolo
   - cortazar
 ---
-*# El ídolo de las Cícladas*
 *Julio Cortázar*
-*# El ídolo de las Cícladas*
 *Julio Cortázar*
 
 Final del juego, 1956) —Me da lo mismo que me escuches o no —dijo Somoza—. Es así, y me parece justo que lo sepas. Morand se sobresaltó como si regresara bruscamente de muy lejos. Recordó que antes de perderse en un vago fantaseo, había pensado que Somoza se estaba volviendo loco. —Perdona, me distraje un momento —dijo—. Admitirás que todo esto. En fin, llegar aquí y encontrarte en medio de. Pero dar por supuesto que Somoza se estaba volviendo loco era demasiado fácil. —Sí, no hay palabras para eso —dijo Somoza—.

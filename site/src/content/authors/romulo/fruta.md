@@ -8,7 +8,6 @@ tags:
   - fruta
   - romulo
 ---
-*# La fruta del cercado ajeno*
 *Rómulo Gallegos (n. 1969)*
 
 La fruta del cercado ajeno Originalmente publicado en Actualidades (8 de junio de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) Acodado en la ventanilla del vagón, Reinaldo contemplaba la mancha azul y serena del mar que se extendía al pie de la montaña, ribeteando de blanquísimas espumas la costa yerma y sinuosa. Por su mente pasaban, como bajo arcos de triunfo, ideas de victoria y de dominación; iba a la costa a emprender el más heroico combate de una vida: a luchar contra su propia flaqueza. El mar le inspiraba un miedo bestial y él iba a desafiar sus peligros para vencer definitiva y radicalmente el ciego instinto. Él se había propuesto un hermoso plan de acción y de luchas en las cuales habría de imponer, inexorablemente, el imperativo categórico de su voluntad, y aquella flaqueza de ánimo, si no la combatía y la domeñaba a tiempo, concluiría por reflejar en su espíritu incapacitándole para todo cuanto requiere temple y fortaleza varoniles.

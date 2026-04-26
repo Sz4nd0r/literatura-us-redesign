@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# El Estadio*
 *(“The Bowl”)*
 *Originalmente publicado en The Saturday Evening Post, 200 (21 de enero de 1928);*
 *The Bodley Head Scott Fitzgerald, vol. 6*
@@ -69,9 +68,6 @@ Me alegré de que fuera Dolly y no Jack Devlin, por ejemplo, quien la acompañar
 Quizá consideraba aquel silencio una sutil muestra de respeto, pero, mientras las imágenes de la tarde relampagueaban en su memoria, hubiera recibido con agrado algún elogio al que responder: “¡Tonterías!”. Desdeñadas por completo, las imágenes amenazaban volverse insistentes y molestas.
 Miré hacia el asiento trasero y me sobresaltó un poco encontrar a la señorita Thorne en los brazos de Dolly. Rápidamente volví la cara y decidí dejar que se preocuparan de sí mismos.
 Mientras esperábamos en un semáforo de Broadway vi los titulares de un periódico con el resultado del partido. Aquella página era más real que la propia tarde: sucinta, condensada y clara:
-# ## Princeton Derrota A Yale 10-3
-# ## ## Los Tigres Esquilan A Los Bulldogs Ante Setenta
-# ## ## ## Mil Espectadores
 ## ## ## ## DEVLIN APROVECHA UN ERROR DE YALE
 Si la tarde había sido desordenada, confusa, fragmentaria e inconexa, ahora los hechos se ordenaban apaciblemente en el molde del pasado:
 ## ## ## ## PRINCETON, 10; YALE, 3

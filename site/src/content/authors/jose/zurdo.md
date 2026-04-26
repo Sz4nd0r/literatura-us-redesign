@@ -8,7 +8,6 @@ tags:
   - zurdo
   - jose
 ---
-*# El zurdo*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

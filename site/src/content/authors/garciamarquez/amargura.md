@@ -8,7 +8,6 @@ tags:
   - amargura
   - garciamarquez
 ---
-*# Amargura para tres sonánbulos*
 *Gabriel*
 *García Márquez (n. 1947)*
 

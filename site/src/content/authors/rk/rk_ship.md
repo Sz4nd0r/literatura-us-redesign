@@ -10,7 +10,6 @@ tags:
 ---
 *Rudyard Kipling*
 *(Bombay, India, 1865 - Londres, 1936)*
-*# El Barco Que Se Encontró A Sí Mismo*
 *(1895)*
 *[Otro título en español:*
 *La nave que se encontró a si misma]*

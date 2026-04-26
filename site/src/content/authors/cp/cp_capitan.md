@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# El Capitán*
 *([Il Capitano], 1941)*
 *Borrador sin título, inconcluso*
 *Tutti i racconti (2002)*

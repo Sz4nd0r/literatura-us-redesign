@@ -8,7 +8,6 @@ tags:
   - elotono
   - garciamarquez
 ---
-*# El otoño del patriarca*
 *Gabriel*
 *García Márquez (n. 1947)*
 

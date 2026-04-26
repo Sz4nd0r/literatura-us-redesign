@@ -8,7 +8,6 @@ tags:
   - vine
   - garciamarquez
 ---
-*# «Solo vine a hablar por teléfono*
 *Gabriel*
 *García Márquez (n. 1947)*
 

@@ -8,7 +8,6 @@ tags:
   - maestro
   - pgv
 ---
-*# El maestro de la soledad*
 *Pedro Gómez Valderrama*
 
 El maestro de la soledad (Informe sobre el Caso Crusoe) El Retablo de Maese Pedro (Bogotá: Editorial Iqueima, 1967) El 20 de octubre de 1864, fue presentado a la consideración de la Sociedad Filantrópica y Naturalista de Liverpool, Inglaterra, por uno de sus más prestantes miembros, el informe siguiente: I De la vida de Robinson Crusoe, cuya más conocida narración es la de Daniel Defoe, la época que interesa a esta memoria es la comprendida entre el momento en el cual el personaje, al naufragar, se salva y llega a una isla desierta, cercana a las costas de América del Sur, y el día en que tras de haber tenido veinticinco años de soledad, Robinson ve llegar a la isla un grupo de antropófagos, que se aprestan a sacrificar y devorar dos prisioneros, uno de los cuales se escapa, y es perseguido por dos de los salvajes.

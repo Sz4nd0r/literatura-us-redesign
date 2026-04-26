@@ -8,7 +8,6 @@ tags:
   - llazgo
   - sergio
 ---
-*# El hallazgo*
 *Sergio Ramírez (n. 1942)*
 
 No le gustó la comparación y apenas contestó. —No, nunca me habían dicho… Y siguió limpiando los vasos del bar y acomodándolos en el estante. —Jodido, pero sí es exacto, ¿verdad que es exacto? El tipo le examinaba minuciosamente y llamó a los demás parroquianos para constatar su dicho. Uno de ellos sacó sus anteojos y se los colocó con cuidado y al cabo de un rato todos afirmaban que sí era cierto, con sonrisas de descubrimiento, como si el fenómeno hubiera permanecido entre ellos durante tanto tiempo y hasta ahora alguien diera en el clavo. No había duda que el hombre era idéntico a G. P., como dos gotas de agua. Y a un mozo de bar a quien alguien una vez le dice así de pronto que entre él y G. P. no hay más diferencia que entre dos y par, necesariamente le pone en un problema.

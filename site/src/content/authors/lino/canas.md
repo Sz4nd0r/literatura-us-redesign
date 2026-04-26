@@ -10,7 +10,6 @@ tags:
 ---
 *Lino Novás Calvo*
 *(Grañas de Sor, Galicia, España, 1903 - Nueva York, 1983)*
-*# Cayo Canas*
 *Cayo Canas (1946)*
 *(Buenos Aires - México: Espasa-Calpe Argentina, 1946, 152 págs.)*
 

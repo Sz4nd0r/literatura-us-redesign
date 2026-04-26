@@ -8,9 +8,7 @@ tags:
   - omnibus
   - cortazar
 ---
-*# Ómnibus*
 *Julio Cortázar*
-*# Ómnibus*
 *Julio Cortázar*
 
 Si le viene bien, tráigame El Hogar cuando vuelva —pidió la señora Roberta, reclinándose en el sillón para la siesta. Clara ordenaba las medicinas en la mesita de ruedas, recorría la habitación con una mirada precisa. No faltaba nada, la niña Matilde se quedaría cuidando a la señora Roberta, la mucama estaba al corriente de lo necesario. Ahora podía salir, con toda la tarde del sábado para ella sola, su amiga Ana esperándola para charlar, el té dulcísimo a las cinco y media, la radio y los chocolates. A las dos, cuando la ola de los empleados termina de romper en los umbrales de tanta casa, Villa del Parque se pone desierta y luminosa.

@@ -10,7 +10,6 @@ tags:
 ---
 *Saul Bellow*
 *(Lachine, Canada, 1915 - Brookline, Massachusetts, 2005)*
-*# Memorias De Mosby*
 *(“Mosby’s Memoirs”)*
 *Originalmente publicado en la revista The New Yorker (20 de julio de 1968);*
 *Mosby’s Memoirs and Other Stories*

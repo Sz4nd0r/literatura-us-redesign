@@ -10,7 +10,6 @@ tags:
 ---
 *Reinaldo Arenas*
 *(Aguas Claras, Cuba, 1943 - Nueva York, 1990)*
-*# Con Los Ojos Cerrados*
 *Con los ojos cerrados (1972);*
 *Termina el desfile (1981)*
 

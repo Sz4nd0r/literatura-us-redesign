@@ -8,7 +8,6 @@ tags:
   - soledad2
   - garciamarquez
 ---
-# Cien años de soledad
 ## II
 
 *Gabriel García Márquez*

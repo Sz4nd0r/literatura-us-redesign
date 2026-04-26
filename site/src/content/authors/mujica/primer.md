@@ -8,7 +8,6 @@ tags:
   - primer
   - mujica
 ---
-*# II. El primer poeta (1538)*
 *Manuel Mujica Lainez*
 
 En la tibieza del atardecer, Luis de Miranda, mitad clérigo y mitad soldado, atraviesa la aldea de Buenos Aires, caballero en su mulo viejo. Va hacia las casas de las mujeres, de aquellas que los conquistadores apodan “las enamoradas”, y de vez en vez, para entonarse, arrima a los labios la bota de vino y hace unas gárgaras sonoras.

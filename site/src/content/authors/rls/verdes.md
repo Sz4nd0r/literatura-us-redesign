@@ -17,7 +17,6 @@ tags:
 *(junio, julio, agosto, septiembre y octubre 1878;*
 *New Arabian Nights (vol. I)*
 *(Londres: Chatto & Windus, 1882, 279 págs.)*
-*# [Iii.]*
 *Historia de la casa de las persianas verdes (1878)*
 *(“Story of the House with the Green Blinds”)*
 *Originalmente publicado en la revista semanal London*

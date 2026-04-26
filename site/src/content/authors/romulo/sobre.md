@@ -8,7 +8,6 @@ tags:
   - sobre
   - romulo
 ---
-*# Estrellas sobre el barranco*
 *Rómulo Gallegos (n. 1969)*
 
 Estrellas sobre el barranco Los Aventureros (Caracas: Imprenta Bolívar, 1913, 160 págs.); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.), págs. 47-66. I Llegaron al anochecer bajo una lluvia clamorosa que arrastraba con fragor los pedruscos, cuestas abajo. Los vecinos los oyeron lamentarse de su malaventura cuando bajaban por el sendero que se desgajaba bajo sus pasos: él maldecía el agua y la oscuridad y la flaqueza traicionera de sus piernas; ella le ofrecía sus hombros para que se apoyara y le suplicaba que se callara no fuera a castigarlos Dios.

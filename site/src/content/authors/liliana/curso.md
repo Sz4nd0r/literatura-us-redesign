@@ -8,7 +8,6 @@ tags:
   - curso
   - liliana
 ---
-*# El concurso*
 *Liliana Heker*
 
 La muerte de Dios (Buenos Aires: Aguilar, Altea, Taurus, Alfaguara, 2011, 208 págs.) El concurso, dijo la mujer bancaria, sería sólo para la plantilla local y sus familias. Remus se quedó suspendido en la palabra “plantilla”, de chico le compraban zapatos demasiado grandes y les ponían plantillas hasta que los pies le crecían, ¿perdón?, que la profesora Lusarreta le va a resultar de inestimable ayuda, dijo la mujer. Ah, sí, dijo él y pensó con melancolía que entonces los zapatos ya estaban viejos. Va a ser muy estimulante para los narradores del área, dijo la mujer.

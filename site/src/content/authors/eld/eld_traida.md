@@ -10,7 +10,6 @@ tags:
 ---
 *E. L. Doctorow*
 *(Bronx, NY, 1931- Manhattan, NY, 2015)*
-*# La Traída De Aguas*
 *“The Water Works”*
 *Vidas de los poetas (Lives of the Poets: Six Stories and a Novella, 1984)*
 

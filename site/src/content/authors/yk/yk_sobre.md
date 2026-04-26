@@ -8,7 +8,6 @@ tags:
   - yk_sobre
   - yk
 ---
-# Sobre pájaros y animales
 
 **Yasunari Kawabata**
 

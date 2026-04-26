@@ -10,7 +10,6 @@ tags:
 ---
 *Richard Ford*
 *(Jackson, Mississippi, 1944-)*
-*# Great Falls*
 *(“Great Falls”)*
 *Originalmente publicado en la revista Granta, “21: The Storyteller” (junio 25 de 1987);*
 *Rock Springs*

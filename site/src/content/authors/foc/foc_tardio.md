@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# Un Encuentro Tardío Con El Enemigo*
 *(“A Late Encounter with the Enemy”)*
 *(originalmente publicado en Harper’s Bazaar, vol. 87, September 1953.*
 

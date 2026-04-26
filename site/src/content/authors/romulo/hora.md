@@ -8,7 +8,6 @@ tags:
   - hora
   - romulo
 ---
-*# La hora menguada*
 *Rómulo Gallegos (n. 1969)*
 
 La hora menguada Originalmente publicado en Actualidades (27 de abril de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.), págs. 205-210. I —¡Qué horror! ¡Qué horror! Clamaba Enriqueta, con las manos sobre las sienes consumidas por el sufrimiento, paseándose de un extremo a otro de la sala, impregnada todavía del dulce y pastoso aroma de nardos y azucenas del mortuorio reciente. —Ya me lo decía el corazón. No era natural que tú te desesperaras tanto por la muerte de Adolfo. Si parecía que eras tú la viuda y no yo. ¡Y yo tan ciega, tan cándida! ¿Cómo es posible que no me hubiera dado cuenta de lo que estaba pasando? ¡Traicionada por mi propia hermana, en mi propia casa!...

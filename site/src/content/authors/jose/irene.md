@@ -8,7 +8,6 @@ tags:
   - irene
   - jose
 ---
-*# La insólita Irene*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

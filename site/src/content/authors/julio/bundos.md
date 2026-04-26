@@ -8,7 +8,6 @@ tags:
   - bundos
   - julio
 ---
-*# Los moribundos*
 *Julio Ramón Ribeyro (1987 - 1994)*
 *Las botellas y los hombres (originalmente publicado, por error, como Los hombres y las botellas) (Lima: Populibros Peruanos, 1964, 135 págs.) A los dos días que empezó la guerra comenzaron a llegar a Paita los primeros camiones con muertos. Mi hermano Javier me llevó a verlos a la entrada del hospital. Los camiones se detenían un momento frente al portón y los enfermeros salían para echarles una ojeada. A veces encontraban a un moribundo entre tanto cadaver, lo ponían en una camilla, lo metían rápidamente al hospital y el camión seguía rumbo al cementerio. —Los que tienen polainas son los ecuatoriaaanos —decía Javier—.*
 

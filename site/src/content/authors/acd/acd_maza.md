@@ -126,7 +126,6 @@ Holmes se encogió de hombros.
 Las cejas enmarañadas del barón se fruncieron todavía más sobre sus ojos encolerizados.
 —Lo que dice solo empeora las cosas. O sea que no fueron sus agentes sino puro teatro, ¡metomentodo! Admite que me ha estado acosando. ¿Por qué?
 —Vamos, conde. Que usted solía cazar leones en Argelia.
-# # # # —¿Y?
 —Que por qué lo hacía.
 —¿Por qué? Por la diversión… la emoción… ¡el peligro!
 —Y, sin duda, para liberar a la región de una plaga.

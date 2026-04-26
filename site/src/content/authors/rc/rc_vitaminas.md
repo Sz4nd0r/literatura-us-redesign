@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Vitaminas*
 *(“Vitamins”)*
 *Originalmente publicado en Granta (marzo 1981);*
 *Cathedral (1983);*

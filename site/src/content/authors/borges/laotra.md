@@ -8,7 +8,6 @@ tags:
   - laotra
   - borges
 ---
-*# La otra muerte*
 *Jorge Luis Borges*
 
 Un par de años hará (he perdido la carta), Gannon me escribió de Gualeguaychú anunciando el envío de una versión, acaso la primera española, del poema The Past, de Ralph Waldo Emerson, y agregando en una postdata de que don Pedro Damián, de quien yo guardaría alguna memoria, había muerto noches pasadas, de una congestión pulmonar. El hombre, arrasado por la fiebre, había revivido en su delirio la sangrienta jornada de Masoller; la noticia me pareció previsible y hasta convencional, porque don Pedro, a los diecinueve o veinte años, había seguido las banderas de Aparicio Saravia. La revolución de 1904 lo tomó en una estancia de Río Negro o de Paysandú, donde trabajaba de peón; Pedro Damián era entrerriano, de Gualeguay, pero fue adonde fueron los amigos, tan animoso y tan ignorante como ellos.

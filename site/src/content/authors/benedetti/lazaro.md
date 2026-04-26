@@ -8,7 +8,6 @@ tags:
   - lazaro
   - benedetti
 ---
-*# Lázaro*
 *Mario Benedetti (1920 - 2009)*
 *Despistes y franquezas, 1989) Un tal Lázaro Vélez se incorporó en su tumba, se despojó lentamente de su sudario, abandonó el camposanto y empezó a caminar en dirección a su casa. A medida que iba siendo reconocido, los vecinos se acercaban a abrazarlo, le daban ropas para que cubriera su desnudez, lo felicitaban, le palmeaban la espalda huesuda. Sin embargo, a medida que la voz se fue corriendo, la bienvenida ya no fue tan cálida. Un hombre que había ocupado su vacante en la sucursal de Correos le increpó duramente: «Tu regreso no me alegra.*
 

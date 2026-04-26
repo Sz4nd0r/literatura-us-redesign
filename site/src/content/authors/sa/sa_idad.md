@@ -10,7 +10,6 @@ tags:
 ---
 *Sherwood Anderson*
 *(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
-*# Respectabilidad*
 *(1919)*
 *(“Respectability”)*
 *Winesburg, Ohio*

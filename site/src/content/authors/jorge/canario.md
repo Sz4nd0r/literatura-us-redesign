@@ -12,7 +12,6 @@ tags:
 *Ibargüengoitia*
 *(Guanajuato, México, 1928*
 *—Madrid, 1983)*
-*# Cuento Del Canario, Las Pinzas Y Los Tres Muertos*
 *La ley de Herodes y otros cuentos (1967)*
 *1. El canario*
 

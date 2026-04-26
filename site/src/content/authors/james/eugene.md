@@ -225,9 +225,7 @@ Sacudió la ceniza de su cigarro, mirándome de reojo.
 Niedermeyer se encogió de hombros:
 —¡Nunca he dicho que fuese una santa!
 Por muy sabio que yo juzgara a Niedermeyer, no estaba dispuesto a aceptar su sola palabra como garantía de tal desenlace, y por la noche recibí una misiva que fortaleció mis dudas. Se trató de una nota de Pickering, y rezaba como sigue:
-# Mi Querido Amigo:
 Tengo todas las esperanzas de ser feliz, pero he de ir a Wiesbaden para saber mi sino. Esta tarde la señora Blumenthal se va allí para pasar unos días, y me permite que la acompañe. Deséame suerte; te tendré al corriente de lo que suceda.
-# # # ## E. P.
 Para los recién llegados una de las diversiones de Homburg es cenar alternadamente en las diferentes tables d’hôtes. De esta guisa ocurrió que, un par de días después, Niedermeyer vino a cenar a mi hotel y se reservó un asiento junto al mío. Cuando nos sentarnos hallé una carta en mi plato y, como el matasellos era de Wiesbaden, la abrí sin pérdida de tiempo. No contenía más que tres renglones:
 Soy feliz (he sido aceptado) desde hace una hora. Apenas puedo creer que yo sea tu pobre y querido
 ## ## ## ## E. P.

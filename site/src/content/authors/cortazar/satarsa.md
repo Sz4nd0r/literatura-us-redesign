@@ -8,9 +8,7 @@ tags:
   - satarsa
   - cortazar
 ---
-*# Satarsa*
 *Julio Cortázar*
-*# Satarsa*
 *Julio Cortázar*
 
 Lozano ha sido siempre un maniático de esos juegos que no parece ver como tal puesto que todo se le da a la manera de un espejo que miente y al mismo tiempo dice la verdad, le dice la verdad a Lozano porque le muestra su oreja derecha, pero a la vez le miente porque Laura y cualquiera que lo mire verá la oreja derecha como la oreja izquierda de Lozano, aunque simultáneamente la definan como su oreja derecha; simplemente la ven a la izquierda, cosa que ningún espejo puede hacer, incapaz de esa corrección mental, y por eso el espejo le dice a Lozano una verdad y una mentira, y eso lo lleva desde hace mucho a pensar como delante de un espejo; si atar a la rata no da más que eso las variantes merecen reflexión, y entonces Lozano mira el suelo y deja que las palabras jueguen solas mientras que él las espera como los cazadores de Calagasta esperan a las ratas gigantes para cazarlas vivas.

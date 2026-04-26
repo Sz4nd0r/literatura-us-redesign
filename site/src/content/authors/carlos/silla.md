@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Fuentes*
 *(Ciudad de Panamá, 1928 - México D.F., 2012)*
-*# La Silla Del Águila*
 *(2003)*
 *(Madrid: Alfaguara, 2003, 376 pp.)*
 *—Hemos vivido con los ojos pelones sin saber qué hacer con la democracia.*

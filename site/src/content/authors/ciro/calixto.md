@@ -8,7 +8,6 @@ tags:
   - calixto
   - ciro
 ---
-*# Calixto Garmendia*
 *Ciro Alegría*
 
 Garmendia a otro llamado Anselmo, levantando la cara—. Todos estos días, anoche, esta mañana, aun esta tarde, he recordado mucho… Hay momentos en que a uno se le agolpa la vida… Además, debes aprender. La vida, corta o larga, no es de uno solamente. Sus ojos diáfanos parecían fijos en el tiempo. La voz se le fraguaba hondo y tenía un rudo timbre de emoción.

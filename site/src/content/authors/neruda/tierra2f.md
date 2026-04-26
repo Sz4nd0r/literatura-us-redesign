@@ -14,8 +14,6 @@ tags:
 *Residencia en la tierra,*
 *2*
 *(1931-1935):*
-*# Parte Vi*
-*# ## El Reloj Caído En El Mar*
 *Hay tanta luz sombría en el*
 *espacio*
 *y tantas dimensiones de súbito amarillas,*
@@ -48,8 +46,6 @@ El reloj que en el campo se tendió sobre el musgo
 y golpeó una cadera con su eléctrica forma
 corre desvencijado y herido bajo el agua temible
 que ondula palpitando de corrientes centrales.
-# ## ## Vuelve
-# ## ## ## El Otoño
 Un enlutado día cae de las
 campanas
 como una temblorosa tela de vaga viuda,

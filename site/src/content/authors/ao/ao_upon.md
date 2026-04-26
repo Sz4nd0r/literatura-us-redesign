@@ -8,7 +8,6 @@ tags:
   - ao_upon
   - ao
 ---
-# En esta mala tierra
 
 **Amos Oz**
 

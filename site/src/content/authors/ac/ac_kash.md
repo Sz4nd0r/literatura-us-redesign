@@ -19,7 +19,6 @@ Kashtanka [Каштанка] (San Petersburgo, 1892; edición independiente, con
 Obras completas (vol. IV, edición de Adolf Marks, 1899);
 Kashtanka [Каштанка] (1903, ilustrada por Dmitry Kardovsky)
 I
-# Mala Conducta
 Una perrita rojiza, entre zarcera y podenca, de hocico muy semejante al de la zorra, corría de un lado a otro por la acera, mirando inquieta a su alrededor. De cuando en cuando, se detenía gimoteante, y, levantando tan pronto una pata como otra, parecía querer aclararse a sí misma cómo había sido posible que se hubiera perdido.
 Recordaba perfectamente cómo había pasado el día y cómo había ido a parar a aquella acera desconocida.
 El día había comenzado así: su amo, el carpintero Luka Aleksándrich, se encasquetó el gorro, se colocó debajo del brazo un objeto de madera envuelto en un pañuelo rojo, y le gritó:
@@ -40,7 +39,6 @@ Cuando oscureció del todo, la desesperación y el miedo se apoderaron de Kashta
 En toda la jornada había conseguido comer algo tan solo un par de veces: en casa del encuadernador tuvo ocasión de engullir un poco de cola de almidón; y en una de las tabernas visitadas por su amo, encontró un trozo de pellejo de embutido. De haber sido una persona, y no una perra, de fijo que hubiera pensado:
 —Es imposible vivir así. Esto es para pegarse un tiro”.
 II
-# ## El Desconocido Misterioso
 Pero Kashtanka no pensaba nada. Limitábase a llorar. Cuando la nieve, blanda y esponjosa, le cubrió totalmente el lomo y la cabeza, y cuando ella, exhausta, comenzaba a sumirse en un pesado sopor, se abrió de pronto la puerta entre chirridos, golpeándole un costado. El animal pegó un salto. Por la puerta salió un hombre perteneciente a la categoría de los clientes. Como Kashtanka, al saltar, chilló y se enredó en las piernas del desconocido, éste no pudo por menos de advertir su presencia. Agachándose un poco, le dijo:
 —¡Oh, qué perrilla! ¿De dónde has salido? ¿Te he hecho daño? ¡Pobrecita, pobrecita! No te enfades. Perdóname.
 Kashtanka miró a través de los copitos de nieve pendientes de sus pestañas, y vio a un individuo grueso y chaparrete, de cara rasurada y redonda, sombrero de copa y abrigo desabrochado.
@@ -58,7 +56,6 @@ Mas el cansancio y el calor no tardaron en imponerse a la melancolía… Kashtan
 viejo y lanudo al que había visto por la tarde: tenía una nube en un ojo y mechones de lana rodeándole el hocico. Fediushka, con un cincel en la mano, se puso a perseguir al lulú;
 pero, de pronto, él mismo se cubrió de hirsuta lana, rompió a ladrar con alegría y apareció junto a Kashtanka. Los dos se olfatearon amigablemente los hocicos y se fueron a la calle…
 III
-# ## ## Nuevos Y Agradables Conocidos
 Despertó Kashtanka ya con luz. De la calle le llegaron ruidos propios del día. En la habitación no había ni un alma. La perrita se desperezó, bostezó y dio unos paseos por el aposento, enojada y triste. Olfateó los rincones y los muebles, se asomó al recibidor y no encontró nada digno de interés. Además de la puerta que daba al recibidor había otra. Tras un breve instante de indecisión, Kashtanka la arañó con las dos manos, la abrió y pasó al cuarto vecino. Allí estaba, durmiendo en su cama y cubierto con una manta, el cliente de la víspera.
 —¡Brrrr! —gruñó el animal, pero al acordarse de la cena del día anterior, se puso a menear el rabo y a olfatear todo cuanto tenía a su alcance. Aplicó el hocico a la ropa y a las botas del desconocido, percibiendo un olor muy semejante al de los caballos. Otra puerta, cerrada también, conducía desde el dormitorio a algún sitio. Kashtanka se apoyó de manos en ella, la empujó con el pecho, la abrió y notó, en seguida, un olor extraño y sospechoso. Temerosa de un encuentro desagradable, gruñendo y mirando recelosa, penetró en un cuartito empapelado y sucio, pero retrocedió asustada. Acababa de ver algo espantoso: un ganso gris avanzaba hacia ella con la cabeza a ras de tierra, abiertas las alas y siseando. A poca distancia, sobre un jergoncillo, yacía un gato blanco que, al ver a Kashtanka, se levantó de un brinco, arqueó el lomo, metió el rabo entre las patas, erizó el pelo y soltó un “¡fu!” nada tranquilizador. La perrita se atemorizó muy en serio; mas, para guardar las formas, ladró fuertemente y se lanzó hacia el gato. Éste combó más aún el lomo, exhalo un bufido y asestó; un manotazo a la agresora. Kashtanka reculó, agazapándose sobre las cuatro patas; y, alargando el hocico hacia el minino, emitió unos ladridos penetrantes y largos. En esto, el ganso llegó por detrás y le atizó un doloroso picotazo en la rabadilla. Kashtanka se revolvió arremetió contra él.
 —¿Qué pasa aquí? —se oyó la voz enojada del desconocido, entró envuelto en una bata de casa y con un habano entre los dientes—. ¿Qué significa esto? ¡A su sitio todo el mundo!
@@ -73,7 +70,6 @@ El desconocido estuvo pensativo un momentito y decidió:
 —Pues mira, te llamarás Tiotka. ¿Me has entendido? ¡Tiotka!
 Después de repetir el nombre varias veces, salió. Kashtanka sentóse y se puso a observar. El gato, inmóvil en su jergón, fingía dormir. El ganso, alargando el cuello y pataleando en el mismo sitio, continuaba hablando rápidamente, como enojado. Debía de ser muy sabio. Al final de cada parrafada retrocedía, sorprendido; y daba la impresión de admirarse de su discurso. Después de oírle y de responderle con un gruñido, Kashtanka comenzó a husmear por los rincones. En uno de ellos, dentro de un barreño, vio guisantes húmedos y un poco de salvado. Probó los guisantes y no le gustaron; probó el salvado y se puso a comérselo. El ganso no se molestó al ver que la perra intrusa se comía el almuerzo. Por el contrario, empezó a parlotear con más calor todavía; y, para patentizar su confianza, se acercó al barreño y engulló unos cuantos guisantes.
 IV
-# ## ## ## Milagros
 A poco tardar, regresó el desconocido trayendo un objeto extraño, parecido a una puerta o a la letra A. En el travesaño de aquella tosca A de madera pendía una campana y había una pistola atada. Del badajo de la primera y del gatillo de la segunda salían sendas cuerdas. El desconocido colocó la A en medio de la habitación, estuvo un buen rato atando y desatando algo; y, por último, miró al ganso y le dijo:
 —Iván Ivánich, tenga la bondad.
 El ganso se le aproximó y se le colocó en posición de espera.

@@ -11,7 +11,6 @@ tags:
 *Milan Kundera*
 *(Brno, Czechoslovakia, 1929 -*
 *París, Francia, 2023)*
-*# Nadie Se Va A Reír*
 *Smešné lásky (1969)*
 *1*
 *—Sírveme un poco más de slivovice”, me dijo Klara y yo no puse objeciones.*

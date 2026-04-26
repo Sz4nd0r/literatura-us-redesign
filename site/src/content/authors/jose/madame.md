@@ -8,7 +8,6 @@ tags:
   - madame
   - jose
 ---
-*# Con Papá en casa de Madame Sophie*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

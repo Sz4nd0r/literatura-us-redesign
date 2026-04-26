@@ -8,7 +8,6 @@ tags:
   - sanpeter
   - benedetti
 ---
-*# San Petersburgo*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) El marciano llegó en una nave reducida, casi portátil, algo así como un Volkswagen del espacio. Además de su propia lengua, sólo hablaba inglés, pero no el de la BBC sino el de Shakespeare, o sea que a cada rato decía thou en vez de you. Cuando la cápsula de bolsillo aterrizó en Piccadilly Circus, fue inmediatamente rodeada por 20 curiosos y 130 periodistas. El viajero abrió la ventanilla de la minúscula nave y asomó su cabeza, que para asombro de los presentes no tenía antenas sino una boina casi vasca.

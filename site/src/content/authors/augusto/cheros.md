@@ -8,7 +8,6 @@ tags:
   - cheros
   - augusto
 ---
-*# Carpincheros*
 *Augusto Roa Bastos (1917 - 2005)*
 *El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) La primera noche que Margaret vio a los carpincheros fue la noche de San Juan. Por el río bajaban flotando llameantes islotes. Los tres habitantes de la casa blanca corrieron hacia el talud para contemplar el extraordinario espectáculo. Las fogatas brotaban del agua misma. A través de ella aparecieron “los carpincheros. ” Parecían seres de cobre o de barro cocido, parecían figuras de humo que pasaban ingrávidas a flor de agua.*
 *Las chatas y negras embarcaciones hechas con la mitad de un tronco excavado apenas se veían. Era una flotilla entera de cachiveos. Se deslizaron silenciosamente por entre el crepitar de las llamas, arrugando la chispeante membrana del río. Cada cachiveo tenía los mismos tripulantes: dos hombres bogando con largas tacuaras, una mujer sentada en el plan, con la pequeña olla delante. A proa y a popa, los perros expectantes e inmóviles, tan inmóviles como la mujer que echaba humo del cigarro sin sacarlo en ningún momento de la boca.*

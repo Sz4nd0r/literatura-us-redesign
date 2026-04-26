@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Ida Y Vuelta*
 *Originalmente publicado en Cuentos completos (Alfaguara), 1994*
 
 Se encontró solo en la sala de espera y se puso a mirar el diario que había llevado para el brazo. Las manos le temblaban levemente. Sacó un cigarrillo y antes de encenderlo se acarició el ralo bigote cuyo crecimiento había vigilado durante semanas. Nunca había soportado el humo del tabaco y tosió con lágrimas; pero tenía que seguir fumando como un hombre hasta que llegara el momento de levantarse. No podía recordar, para imitarla, cómo era la expresión de un hombre cínico, un hombre maduro y ya de vuelta.

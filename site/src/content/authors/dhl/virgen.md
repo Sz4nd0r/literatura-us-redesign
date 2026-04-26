@@ -12,7 +12,6 @@ tags:
 *(Eastwood, Inglaterra, 1885 - Vence, Francia, 1930)*
 *La virgen y el gitano (1930)*
 *(“The Virgin and the Gipsy”)*
-*# The Virgin And The Gipsy*
 *(Florencia: G. [Giuseppe] Orioli, 1930, 216 págs.)*
 *I*
 
@@ -753,7 +752,6 @@ Se produjo un silencio helado en la conversación.
 —Me desenterraron por casualidad —dijo el mayor.
 —¡Oh! —Yvette perdía bríos—. Debe de ser el destino, ya sabe.
 Pero Charles no contestó.
-# ## Viii
 El párroco supo de la intimidad de Yvette con los Eastwood, y ella se quedó un tanto asustada con su reacción. Había pensado que no le importaría. Verbalmente, a su manera un poco humorística, era hombre muy poco convencional, una persona enormemente comprensiva. Como él mismo decía, era un anarquista conservador, lo que significaba que era igual que muchas personas: un simple descreído. La anarquía abarcaba su divertida conversación y su secreto pensar. Su conservadurismo, basado en un híbrido miedo a la anarquía, controlaba todas sus acciones. Sus pensamientos eran algo que, secretamente, podían asustar a cualquiera. En consecuencia, en la vida diaria, era fanáticamente enemigo de cuanto no era convencional.
 Cuando su conservadurismo y su abyecto temor le dominaban, fruncía hacia arriba el labio, dejando ver un poco sus dientes, con expresión perruna.
 —He oído que tus más recientes amigos son la casi divorciada señora Fawcett y su maquereau[proxeneta], Eastwood —le dijo.
@@ -989,5 +987,4 @@ Yvette, tendida en la cama, murmuraba para sus adentros: “¡Le amo, le amo! ¡
 Sin embargo, después del funeral de la abuela, recibió una pequeña carta, remitida desde un lugar desconocido:
 Querida señorita:
 Sé por los diarios que se halla usted bien después de su chapuzón. He de decirle lo mismo de mí. Espero volverla a ver un día, tal vez en la feria de ganado de Tideswell, aunque acaso volvamos por allá. Aquel día fui a despedirme de usted. Sin embargo, nunca llegué a hacerlo, pues el agua no me dejó tiempo. Espero hacerlo algún día. Su humilde servidor,
-# ## ## Joe Boswell
 Y solo entonces Yvette cayó en la cuenta de que el gitano tenía un nombre.

@@ -10,7 +10,6 @@ tags:
 ---
 *Elena Garro*
 *(Puebla, México, 1916 - Cuernavaca, 1998)*
-*# Nuestras Vidas Son Los Ríos*
 *La semana de colores*
 *(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
 *A Sofía Garro*

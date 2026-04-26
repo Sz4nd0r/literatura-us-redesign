@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Martínez Moreno*
 *(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
-*# El Salto Del Tigre*
 *(1960)*
 *Los dias por vivir*
 *(Montevideo: Asir, 1960)*

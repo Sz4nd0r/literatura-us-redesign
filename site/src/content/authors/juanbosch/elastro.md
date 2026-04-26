@@ -8,7 +8,6 @@ tags:
   - elastro
   - juanbosch
 ---
-*# El astrólogo*
 *Juan Bosch (1909 - 2001)*
 
 Metida en el Atlántico, como una piedra caída de la isla, San Juan de Puerto Rico muestra sus viejas murallas españolas y sus estrechas calles del siglo XVI. Por esas calles va y viene la gente atareada. Hay un bullicio de colmena. Las tiendas ofrecen sus vitrinas atrayentes. Por donde quiera salta, azucarado, el decir español. Una muchacha alta, fuerte, muy bien trajeada, cruza la acera y abre la puerta de un automóvil. Tiene cierta tristeza en los ojos negros y las líneas de su rostro son serenas, majestuosas. —Aquí —dice.

@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Dos Errores*
 *(“Two Wrongs”)*
 *Originalmente publicado en The Saturday Evening Post, 202 (18 de enero de 1930);*
 *Taps at Reveille*

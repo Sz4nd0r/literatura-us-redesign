@@ -8,7 +8,6 @@ tags:
   - llegada
   - joseluis
 ---
-*# La llegada*
 *José Luis*
 *González (1926 - 1997)*
 

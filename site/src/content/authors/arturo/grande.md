@@ -8,7 +8,6 @@ tags:
   - grande
   - arturo
 ---
-*# Cuando yo sea grande*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Los ganadores* (1980)*
 

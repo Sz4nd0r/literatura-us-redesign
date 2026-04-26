@@ -11,7 +11,6 @@ tags:
 *J.*
 *D. Salinger*
 *(Nueva York, 1919 - Cornish, New Hampshire, 2010)*
-*# En El Bote*
 *(“Down at the Dinghy”)*
 *Nine Stories (1953)*
 

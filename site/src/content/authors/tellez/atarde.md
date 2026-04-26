@@ -8,7 +8,6 @@ tags:
   - atarde
   - tellez
 ---
-*# Victoria al atardecer*
 *Hernando Téllez (1908 - 1966)*
 
 Victoria al atardecer Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) Había llegado a ese tranquilo país, como uno de tantos náufragos de la tragedia bélica. Era un país de sol y de lluvias, helado y triste en las cumbres, ardiente, sofocante en las llanuras. No se parecía al suyo. Hablaban otro idioma. Las costumbres eran distintas. Pero se gozaba todavía de libertad, de paz. La civilización y la cultura no llegaban allí a esa envidiable forma de plenitud, alcanzada en su buena y dulce tierra martirizada.

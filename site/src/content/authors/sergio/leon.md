@@ -8,7 +8,6 @@ tags:
   - leon
   - sergio
 ---
-*# Del proceso del león*
 *Sergio Ramírez (n. 1942)*
 
 Del proceso del león De tropeles y tropelías (San Salvador: Editorial Universitaria, 1972); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) El proceso del león duró catorce meses, al cabo de los cuales la fiera fue condenada a muerte pero al final salvada por un decreto presidencial de amnistía que cubrió también a reos de delitos comunes. El león era un reo político.

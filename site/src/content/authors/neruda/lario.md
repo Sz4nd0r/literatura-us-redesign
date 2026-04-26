@@ -11,9 +11,7 @@ tags:
 *Pablo*
 *Neruda*
 *(1904–1973)*
-*# Crepusculario*
 *(1919)*
-*# ## Esta Iglesia No Tiene...*
 *Esta iglesia no tiene lampadarios*
 *votivos,*
 *no tiene candelabros ni ceras amarillas*
@@ -30,7 +28,6 @@ a toda alma fragante que lo quiso escuchar...
 Y el Padre Nuestro en medio de la noche se pierde,
 corre desnudo sobre las heredades verdes
 y todo estremecido se sumerge en el mar...
-# ## ## Pantheos
 Oh pedazo, pedazo de miseria, ¿en
 qué vida
 tienes tus manos albas y tu cabeza triste?
@@ -46,7 +43,6 @@ de la cansada carne que no quiere perderte?
 Si quieres no nos diga de qué racimo somos,
 no nos digas el cuándo, no nos diga el cómo,
 pero dinos adónde nos llevará la muerte...
-# ## ## ## Viejo Ciego, Llorabas...
 Viejo ciego, llorabas cuando tu
 vida era
 buena, cuando tenías en tus ojos el sol:

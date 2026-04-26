@@ -8,7 +8,6 @@ tags:
   - liebres
   - benedetti
 ---
-*# Puentes como liebres*
 *Mario Benedetti (1920 - 2009)*
 
 Puentes como liebres (Geografías, 1984) iremos, yo, tus ojos y yo, mientras descansas, bajo los tersos párpados vacíos, a cazar puentes, puentes como liebres, por los campos del tiempo que vivimos. PEDRO SALINAS 1. Había oído mencionar su nombre, pero la primera vez que la vi fue un rato antes de subir al vapor de la carrera. Mis viejos y mis hermanas habían venido a despedirme y estaban algo conmovidos, no porque viajara a Buenos Aires a pasar una semana con mis primos sino porque a mis dieciséis años nunca había ido solo «al extranjero».

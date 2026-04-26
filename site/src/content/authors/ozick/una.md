@@ -448,11 +448,8 @@ Una cruzó los brazos a la espalda.
 —No va en serio —dijo Clement—. Esos medicuchos nunca van en serio. Sé lo que quieres de él, pero ya te puedes olvidar. Ese tipo no es bueno, digas lo que digas. Mary y yo nos dimos cuenta nada más verlo, pero tú te creías muy lista. Nunca nos escuchaste. Pensábamos que podría hacerse algo contigo, que había posibilidades de salvación para ti, pero resultó que el material era débil. Estás hecha trizas, Una. Ese hombre no se casará nunca contigo.
 —Ese hombre le dará su merecido —dijo Mary.
 —Si es tan bueno como ella cree, le va a dar una buena —dijo Clement y, puesto que le pareció bastante ocurrente, Una vio que de pronto sonreía.
-# Viii
 Por la mañana temprano los Chimes se fueron al hospital. Una no pudo ir con ellos; le dijeron que solo dejaban entrar a los padres. Lavó los platos del desayuno, limpió la sangre de Mary del sofá, barrió el salón y apiló los restos del saqueo. Luego intentó leer un poco. Tuvo la sensación de que habían pasado años desde la última vez que leyó algo. Ningún libro conseguía interesarla. Entró abstraída en el estudio a buscar el manuscrito de Clement.
 Al fin lo encontró, bajo una pila de papeles, encima de la mesa que él mismo había construido para Mary con la puerta del cuarto de baño. La primera página decía:
-# ## El Cáncer Social
-# ## ## Una Diagnosis En Verso Y Furia
 por Clement Chimes
 (Maestría en Humanidades)
 No había segunda página.

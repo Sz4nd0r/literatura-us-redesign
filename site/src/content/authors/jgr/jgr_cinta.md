@@ -10,7 +10,6 @@ tags:
 ---
 *João Guimarães Rosa*
 *(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
-*# Cinta Verde En El Cabello*
 *(“Fita verde no cabelo”)*
 *Ave, Palavra (póstumo, 1970)*
 

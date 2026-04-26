@@ -8,7 +8,6 @@ tags:
   - pasti
   - jose
 ---
-*# Historia a manera de Pastiche*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

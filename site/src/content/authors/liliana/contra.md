@@ -8,7 +8,6 @@ tags:
   - contra
   - liliana
 ---
-*# Maniobras contra el sueño*
 *Liliana Heker*
 
 Maniobras contra el sueño La crueldad de la vida (Buenos Aires: Alfaguara, 2001, 183 págs.) En el momento de partir, la señora Eloísa aún pensaba que volver a Azul en auto era un hecho afortunado. El viajante que trabajaba para su futuro consuegro había llegado puntual a buscarla al hotel y parecía una persona correcta; había puesto mucho cuidado al acomodar su pequeña valija de lagarto en el asiento de atrás y hasta le había pedido disculpas por lo lleno de mercadería que estaba el auto.

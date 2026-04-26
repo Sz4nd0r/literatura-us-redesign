@@ -8,7 +8,6 @@ tags:
   - espejo
   - arturo
 ---
-*# Un espejo roto*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Los ganadores* (1980)*
 

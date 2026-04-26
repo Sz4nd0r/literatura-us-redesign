@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Miedo En El Sendero*
 *Ultimo viene il corvo (1949)*
 
 A las nueve y cuarto llegó a Colla Branca junto con la luna, a y veinte ya estaba en la bifurcación de los dos árboles, hacia y media estaría en la fuente. San Faustino a la vista antes de las diez, a las diez y media en Perallo, Creppo a medianoche, hacia la una podía estar en casa de Vendetta, en Castagna: diez horas de camino a paso normal, seis horas para él, Binda, la estafeta del primer batallón, la estafeta más veloz de la brigada.

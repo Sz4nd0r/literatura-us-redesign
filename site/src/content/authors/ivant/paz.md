@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# Remanso De Paz*
 *(1854)*
 *[“Calma*
 *(“Затишье”)*

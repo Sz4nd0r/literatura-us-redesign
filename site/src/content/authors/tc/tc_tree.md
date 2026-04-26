@@ -91,9 +91,6 @@ Y él se fue.
 Los tres se miraron en misterioso silencio hasta que la mujer dijo:
 —Te voy a enseñar una cosa, querida —Una vez más hurgó en su bolso de hule—. Te olvidarás de tanto remilgo cuando le eches un ojo a esto.
 Le tendió un papel tan amarillento y viejo que parecía tener siglos de antigüedad. En letras frágiles, excesivamente vistosas, decía:
-# Lázaro
-# ## El Hombre Que Es Enterrado Vivo
-# ## ## ¡Milagro! Véalo Usted Mismo
 Adultos, 25 centavos — Niños, 10 centavos
 —Siempre canto un himno y leo un sermón —dijo la mujer—. Es horriblemente triste: algunos se ponen a llorar, en especial los viejos. Voy de lo más elegante: un velo negro y un vestido negro que me sientan muy bien. Él se pone un maravilloso traje de novio hecho a medida, un turbante y mucho talco en la cara. Tratamos de que parezca un funeral con todas las de la ley, ¿entiendes? Pero caray, hoy en día sólo te vienen unos cuantos sabihondos a burlarse de ti; de verdad, a veces me alegro de que esté impedido, si no tal vez se ofendería.
 —¿Quiere decir que trabajan en un circo, en una feria o algo así?

@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
-*# El Invicto*
 *(1925)*
 *(“The Undefeated”)*
 *Originalmente publicado en la revista Der Querschnitt [Frankfort & Berlin],*

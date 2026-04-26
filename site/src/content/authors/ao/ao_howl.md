@@ -8,7 +8,6 @@ tags:
   - ao_howl
   - ao
 ---
-# Tierra de chacales
 
 **Amos Oz**
 

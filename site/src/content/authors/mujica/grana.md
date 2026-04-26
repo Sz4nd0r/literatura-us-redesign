@@ -8,7 +8,6 @@ tags:
   - grana
   - mujica
 ---
-*# XXXVIII. Un granadero (1850)*
 *Manuel Mujica Lainez*
 
 Tamay alquila en la Recova un cuarto pequeñito. En él vende, hace muchos años, estampas, escapularios, ropa hecha y, algunos días, empanadas y tortas. Desde la mañana, cuando la estación lo permite, se sienta bajo las arcadas aguardando a los compradores y aventándose con una hoja de palmera. En invierno, el indio no se aparta del brasero sobre el cual se calienta la pava del mate. Al anochecer regresa sin apurarse a su rancho del barrio de la Concepción.

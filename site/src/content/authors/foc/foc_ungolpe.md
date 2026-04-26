@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# Un Golpe De Buena Suerte*
 *(“A Stroke of Good Fortune”, 1949)*
 *(originalmente publicado en Tomorrow, con el título «A Woman on the Stairs», vol. 8, agosto de 1949;*
 *reimpreso con el nuevo título en Shenandoah, vol. 4 primavera de 1953;*

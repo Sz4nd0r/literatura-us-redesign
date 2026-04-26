@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# El Gato*
 *Originalmente publicado en Liminar (Tenerife), 1980*
 
 Muchas cosas desagradables se pueden decir o imaginar de John. Pero nunca le sospeché una mentira; tenía demasiado desprecio por la gente para inventarse cualquier fábula que le fuera favorable.

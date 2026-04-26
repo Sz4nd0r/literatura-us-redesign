@@ -17,7 +17,6 @@ tags:
 *(junio, julio, agosto, septiembre y octubre 1878;*
 *New Arabian Nights (vol. I)*
 *(Londres: Chatto & Windus, 1882, 279 págs.)*
-*# [Iv.]*
 *La aventura del príncipe Florizel y el detective (1878)*
 *(“The Adventure of Prince Florizel and a Detective”)*
 *Originalmente publicado en la revista semanal London*

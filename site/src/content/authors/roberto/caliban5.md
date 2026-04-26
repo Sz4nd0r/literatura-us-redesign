@@ -8,7 +8,6 @@ tags:
   - caliban5
   - roberto
 ---
-*# Vida verdadera de un dilema falso*
 *Roberto Fernández*
 *Retamar*
 *Apuntes sobre la cultura de nuestra América VIDA VERDADERA DE UN DILEMA FALSO Es imposible no ver en aquel texto —que, como se ha dicho, resume de modo relampagueante los criterios de Martí sobre este problema esencial— su rechazo violento a la imposición de Próspero (“la universidad europea [...] el libro europeo [...] el libro yanqui”), que “ha de ceder” ante la realidad de Calibán (“la universidad hispanoamericana [...] el enigma hispanoamericano”): “La historia de América, de los incas acá, ha de enseñarse al dedillo, aunque no se enseñe la de los arcontes de Grecia.*

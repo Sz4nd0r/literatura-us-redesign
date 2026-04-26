@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Mío*
 *[Otro título en español: “Mecánica Popular”, “Cosa pequeña”]*
 *(“Mine”, “Popular Mechanics”, “Little Things”)*
 *Originalmente publicado en Furious Seasons and Other Stories (1977);*

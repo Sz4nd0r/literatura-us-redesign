@@ -8,7 +8,6 @@ tags:
   - lulu
   - jose
 ---
-*# Lulú o la metamorfosis*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

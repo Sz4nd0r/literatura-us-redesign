@@ -12,7 +12,6 @@ tags:
 *Wilde*
 *(Irlanda, 1854 - Francia,*
 *1900)*
-*# El Cumpleaños De La Infanta*
 *(“The Birthday of the Infanta”)*
 *A House of Pomegranates*
 *(Londres: James R. Osgood McIlvaine & Co., 1891, 159 págs.)*

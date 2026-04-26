@@ -11,7 +11,6 @@ tags:
 *Roberto Bolaño*
 *(Santiago,*
 *Chile, 1953 - Barcelona, 2003)*
-*# Playa*
 *(Originalmente publicado en el periódico El Mundo,17 de Agosto de 2000)*
 *(El secreto del mal, 2007, póstumo, Anagrama)*
 

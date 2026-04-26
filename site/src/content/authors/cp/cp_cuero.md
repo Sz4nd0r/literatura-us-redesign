@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# La Chaqueta De Cuero*
 *(“La giacchetta di cuoio”, 1941)*
 *Originalmente publicado en Feria d’agosto (1946)*
 *Tutti i racconti (2002)*

@@ -12,7 +12,6 @@ tags:
 *Piglia*
 *(Adrogué, Buenos Aires,*
 *1941 - Buenos Aires, 2017)*
-*# La Pared*
 *(La invasión, 1967)*
 *No*
 *morimos de viejos, morimos,*

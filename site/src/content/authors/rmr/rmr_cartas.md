@@ -8,7 +8,6 @@ tags:
   - rmr_cartas
   - rmr
 --- 
-# Cartas a un joven poeta
 
 **Rainer Maria Rilke**
 
@@ -1227,7 +1226,6 @@ que realizó en aras de su vida. ¡Todos mis buenos
 deseos para usted, querido señor Kappus!
 Su
 Rainer Maria Rilke
-# ## Viii
 Borgeby Gard, Fladie
 (Suecia), 12 de agosto de 1904
 Quiero volver a hablarle un

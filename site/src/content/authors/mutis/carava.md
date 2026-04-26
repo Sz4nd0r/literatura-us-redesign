@@ -8,7 +8,6 @@ tags:
   - carava
   - mutis
 ---
-*# Caravansary*
 *Álvaro Mutis*
 
 It is commonly constructed in the neighbourhood, but not within the walls, of a town or village. It is quadrangular in form, with a dead wall outside, this wall has small windows high up, but in the lower parts merely a few narrow air holes [...] The central court is open to the sky, and generally has in its centre a well with a fountainbasin beside it [...] The upstairs apartments are for human lodging; cooking is usually carried on in one or more corners of the quadrangle below.

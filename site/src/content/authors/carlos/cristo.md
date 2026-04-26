@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Fuentes*
 *(Ciudad de Panamá, 1928 - México D.F., 2012)*
-*# Cristobal Nonato*
 *(1989)*
 *(México D.F.: Fondo De Cultura Económica, colección Tierra Firme, 1987)*
 *Naturalmente,*
@@ -18,11 +17,9 @@ tags:
 *El autor agradece la ayuda —crítica y creadora— de sus*
 *amigos JUAN GOYTISOLO y el profesor ROALD HOFFMAN.*
 *Prólogo:*
-*# ## Yo Soy Creado*
 
 El cuerpo es la parte de nuestra representación
 que continuamente está naciendo.
-# ## ## Henri Bergson
 MÉXICO ES UN PAÍS de hombres tristes y de niños alegres dijo Ángel mi padre (22 años) en el instante de crearme. Antes mi madre Ángeles (menos de 30 años) había suspirado: “Océano origen de los dioses.” Pero pronto no habrá tiempo para la felicidad y todos serán tristes, niños y viejos juntos, continuó mi padre quitándose los espejuelos redondos, violetas, con aro de oro, muy johnlenones. Para qué quieres un hijo entonces?, volvió a suspirar mi madre.
 —Pronto ya no habrá tiempo para la felicidad.
 —Cuándo lo hubo, tú?
@@ -52,7 +49,6 @@ Bendita madre mía: gracias por tu mente de varios carriles, en uno de ellos exp
 —Jesusita en Nazareth.
 —Porque estoy contento!, grita mi padre y ella tira lejos el tomo verde publicado en 1921 por don José Vasconcelos con sus hojas gruesas y platónicas que sobrevivieron miren nomás sus demencias la Bombilla y Huitzilac y Tlatelolco, los cadáveres importantes y los cadáveres subalternos, los muertos con mausoleo y los muertos sin petate, los cáiganse cadáver y los que no tienen en qué caerse muertos: cómo le pondremos al niño?, por qué a fuerzas niño, carajo?, porque así dice el manifiesto del concurso:
 SEPAN CUANTOS: El niño de sexo masculino que nazca precisamente a las 0:00 horas del día 12 de octubre de 1992 y cuyo nombre de familia, aparte del nombre de pila (seguramente, lo estimamos bien, Cristóbal) más semejanzas guarde con el Ilustre Navegante será proclamado HIJO PRÓDIGO DE LA PATRIA, su educación será proveída por la República y dentro de dieciocho años le serán entregadas las LLAVES DE LA REPÚBLICA, proemio a su instalación, al cumplir los veintiún años, como REGENTE DE LA NACIÓN, con poderes de elección, sucesión y selección prácticamente omnímodos. De manera CIUDADANOS que si su apellido por pura casualidad es Colonia, Colombia, Columbiario, Colombo, Colombiano o Columbus, para no hablar de Colón, Colombo, Colomba, o Palomo, Palomares, Palomar o Santospirito, e incluso, ya de perdida, Genovese (quién sabe? quizás ninguno de los anteriores y entonces A USTED YA SE LE HIZO) entonces óyeme MACHO MEXICANO, EMBARAZA A TU SEÑORA, PERO YA!
-# ## ## ## Mañana Puede Ser Demasiado Tarde
 ## ## ## ## LAS LUNAS LUNERAS SON CADA VEZ MÁS
 ## ## ## ## CASCABELERAS
 ## ## ## ## EL MOMENTO ES AHORA

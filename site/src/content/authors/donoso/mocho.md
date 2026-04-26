@@ -10,7 +10,6 @@ tags:
 ---
 *José Donoso*
 *(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
-*# El Mocho*
 *(1997)*
 *(Madrid: Alfaguara, 1997)*
 *Para Ágata*

@@ -8,7 +8,6 @@ tags:
   - yk
 ---
 
-# Yasunari Kawabata
 
 ![Yasunari Kawabata](/assets/images/yk.jpg)
 

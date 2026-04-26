@@ -147,7 +147,6 @@ Esterly Brothers duró más de lo que Jake Potts esperaba, y aun más que el pro
 en todos los artículos
 Liquidación por cierre
 A partir del 1 de agosto de 1922
-# Esterly Brothers
 Fundado en 1859
 Horario: 8-21 h
 Solo compras en metálico. Sin derecho a devolución

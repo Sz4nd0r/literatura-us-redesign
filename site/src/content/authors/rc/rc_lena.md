@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Leña*
 *(“Kindling”)*
 *Originalmente publicado, en forma ligeramente diferente, en*
 *Esquire Magazine, 132, n.° 1 (julio de 1999), págs. 72-77;*

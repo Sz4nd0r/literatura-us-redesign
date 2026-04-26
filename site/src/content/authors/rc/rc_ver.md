@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# ¿Qué Queréis Ver?*
 *(“What Would You Like to See?”)*
 *Originalmente publicado en The Guardian (junio 24, 2000);*
 *Call If You Need Me (2000);*

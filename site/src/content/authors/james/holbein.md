@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# El Holbein De Lady Beldonald*
 *(“The Beldonald Holbein”, 1901)*
 *Originalmente publicado en Harper’s New Monthly Magazine (octubre de 1901)*
 *The Better Sort (Lo más selecto), 1903*

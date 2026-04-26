@@ -8,9 +8,7 @@ tags:
   - elsur
   - borges
 ---
-*# El Sur*
 *Jorge Luis Borges*
-*# El Sur*
 *Jorge Luis Borges*
 
 El hombre que desembarcó en Buenos Aires en 1871 se llamaba Johannes Dahlmann y era pastor de la Iglesia evangélica; en 1939, uno de sus nietos, Juan Dahlmann, era secretario de una biblioteca municipal en la calle Córdoba y se sentía hondamente argentino. Su abuelo materno había sido aquel Francisco Flores, del 2 de infantería de línea, que murió en la frontera de Buenos Aires, lanceado por indios de Catriel: en la discordia de sus dos linajes, Juan Dahlmann (tal vez a impulso de la sangre germánica) eligió el de ese antepasado romántico, o de muerte romántica. Un estuche con el daguerrotipo de un hombre inexpresivo y barbado, una vieja espada, la dicha y el coraje de ciertas músicas, el hábito de estrofas del Martín Fierro, los años, el desgano y la soledad, fomentaron ese criollismo algo voluntario, pero nunca ostentoso. A costa de algunas privaciones, Dahlmann había logrado salvar el casco de una estancia en el Sur, que fue de los Flores: una de las costumbres de su memoria era la imagen de los eucaliptos balsámicos y de la larga casa rosada que alguna vez fue carmesí.

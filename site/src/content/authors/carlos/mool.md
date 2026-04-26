@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Fuentes*
 *(Ciudad de Panamá, 1928 - México D.F., 2012)*
-*# Chac Mool*
 *(1954)*
 *Originalmente publicado en la Revista de la Universidad de México (No. 12, agosto 1954)*
 *Los días enmascarados*

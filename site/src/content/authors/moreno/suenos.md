@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Martínez Moreno*
 *(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
-*# Los Sueños Buscan El Mayor Peligro*
 *(1947)*
 *Originalmente publicado la revista Número (Año 2, Nº 10-11, setiembre–diciembre 1950);*
 *Los dias por vivir*

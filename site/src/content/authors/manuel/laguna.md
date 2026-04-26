@@ -8,7 +8,6 @@ tags:
   - laguna
   - manuel
 ---
-*# Laguna*
 *Manuel Rojas*
 *Originalmente publicado en el periódico La Montaña [Buenos Aires] (23 de marzo de 1922); Hombres del sur: cuentos (Santiago de Chile: Zig-Zag, 1926, 219 págs.), págs. 17-43. De aquella época de mi vida, ningún recuerdo se destaca tan nítidamente en mi memoria y con tantos relieves como el de aquel hombre que encontré en mis correrías por el mundo, mientras hacía mi aprendizaje de hombre. …Hace ya muchos años. Al terminar febrero, había vuelto del campo donde trabajaba en la cosecha de la uva.*
 

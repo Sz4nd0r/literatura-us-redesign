@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# La Insolación*
 *(Cuentos de amor, de*
 *locura y de muerte, 1917)*
 *El cachorro Old salió por la puerta y atravesó el patio*

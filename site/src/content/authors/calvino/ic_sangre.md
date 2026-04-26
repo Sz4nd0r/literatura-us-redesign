@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# La Sangre Misma*
 *Ultimo viene il corvo (1949)*
 
 La noche en que los de las SS arrestaron a la madre, los muchachos subieron a cenar a casa del comunista. El comunista vivía a media colina; se subía por un sendero entre los olivos y las tapias. La noche se adensaba, gris, casi con prisa, como si quisiera borrarlo todo. De camino, los hermanos iban atentos al ladrar de los perros en el fondo del valle: podía querer decir que los de las SS venían a buscarlos a ellos, o que la madre volvía liberada ya, o el padre, o cualquiera que viniese a decir algo, algo que explicara. Pero los perros ladraban por la sopa, los niños en las casuchas del valle gritaban golpeando en las escudillas con la cuchara.

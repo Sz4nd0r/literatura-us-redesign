@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Fuentes*
 *(Ciudad de Panamá, 1928 - México D.F., 2012)*
-*# Aura*
 *(1962)*
 *(México: Editorial Era, 1962);*
 *incluída en la antología Cuerpos y ofrendas (1972);*
@@ -22,7 +21,6 @@ tags:
 
 de la imaginación… Los dioses son como los hombres:
 nacen y mueren sobre el pecho de una mujer…
-# ## Jules Michelet
 I
 Lees ese anuncio: una oferta de esa naturaleza no se hace todos los días. Lees y relees el aviso. Parece dirigido a ti, a nadie más. Distraído, dejas que la ceniza del cigarro caiga dentro de la taza de té que has estado bebiendo en este cafetín sucio y barato. Tú releerás. Se solicita historiador joven. Ordenado. Escrupuloso. Conocedor de la lengua francesa. Conocimiento perfecto, coloquial. Capaz de desempeñar labores de secretario. Juventud, conocimiento del francés, preferible si ha vivido en Francia algún tiempo. Tres mil pesos mensuales, comida y recámara cómoda, asoleada, apropiada estudio. Sólo falta tu nombre. Sólo falta que las letras más negras y llamativas del aviso informen: Felipe Montero. Se solicita Felipe Montero, antiguo becario en la Sorbona, historiador cargado de datos inútiles, acostumbrado a exhumar papeles amarillentos, profesor auxiliar en escuelas particulares, novecientos pesos mensuales. Pero si leyeras eso, sospecharías, lo tomarías a broma. Donceles 815. Acuda en persona. No hay teléfono.
 Recoges tu portafolio y dejas la propina. Piensas que otro historiador joven, en condiciones semejantes a las tuyas, ya ha leído ese mismo aviso, tomado la delantera, ocupado el puesto. Tratas de olvidar mientras caminas a la esquina. Esperas el autobús, enciendes un cigarrillo, repites en silencio las fechas que debes memorizar para que esos niños amodorrados te respeten. Tienes que prepararte. El autobús se acerca y tú estás observando las puntas de tus zapatos negros. Tienes que prepararte. Metes la mano en el bolsillo, juegas con las monedas de cobre, por fin escoges treinta centavos, los aprietas con el puño y alargas el brazo para tomar firmemente el barrote de fierro del camión que nunca se detiene, saltar, abrirte paso, pagar los treinta centavos, acomodarte difícilmente entre los pasajeros apretujados que viajan de pie, apoyar tu mano derecha en el pasamanos, apretar el portafolio contra el costado y colocar distraídamente la mano izquierda sobre la bolsa trasera del pantalón, donde guardas los billetes.

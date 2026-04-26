@@ -8,7 +8,6 @@ tags:
   - presa
   - jose
 ---
-*# Presagios*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

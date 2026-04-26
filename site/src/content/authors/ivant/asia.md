@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# Asia*
 *(1858)*
 *(“Ася”)*
 *Originalmente publicado en la revista Современник [El Contemporáneo]*
@@ -143,7 +142,6 @@ Me abandoné por entero a los serenos caprichos del azar, a las impresiones del 
 Incluso hoy me resulta agradable recordar mis impresiones de aquel entonces. Salud a ti, humilde rincón de la tierra germana, con tu bienestar modesto, con las huellas incesantes de unas manos laboriosas, de un trabajo paciente y sosegado… ¡Te saludo y te deseo la paz!
 Llegué a casa a última hora del tercer día. He olvidado decir que, llevado del resentimiento que sentía por los Gaguin, intenté resucitar la imagen de la cruel viudita, pero mis esfuerzos se revelaron infructuosos. Recuerdo que, cuando me puse a pensar en ella, vi delante de mí a una aldeanita de unos cinco años, con una carita redonda y curiosa y unos ojillos inocentes abiertos de par en par. Me miraba con una ingenuidad tan infantil… Avergonzado ante la pureza de su mirada, me sentí incapaz de seguir mintiéndome en su presencia y me despedí de una vez para siempre del antiguo objeto de mi amor.
 Encontré en casa una esquela de Gaguin. Se extrañaba de mi inesperada decisión, me recriminaba que no lo hubiese llevado conmigo y me rogaba que fuera a verlo en cuanto regresara. Leí esas líneas con desagrado, pero al día siguiente me encaminé a L.
-# ## Viii
 Gaguin me recibió con cordialidad y estuvo un buen rato lanzándome afectuosos reproches; Asia, en cambio, se echó a reír sin motivo alguno en cuanto me vio, como si lo hiciera a propósito, y al poco rato salió corriendo, según tenía por costumbre. Gaguin se turbó, le dijo entre dientes que estaba loca y me rogó que la excusara. Reconozco que me molestó mucho su actitud; ya estaba yo de por sí bastante malhumorado, y ahora me venía ella con su risa forzada y sus extrañas muecas. No obstante, aparenté no darme cuenta de nada y referí a Gaguin los detalles de mi pequeña excursión. Él, por su parte, me contó lo que había hecho en mi ausencia. Pero la conversación no acababa de arrancar. Asia entraba y salía a cada momento. Por último, declaré que tenía que ocuparme de una tarea urgente y que ya era hora de regresar a casa. En un principio Gaguin trató de retenerme, pero, después de mirarme fijamente, se ofreció a acompañarme. En el vestíbulo Asia se acercó de pronto y me tendió la mano; yo le apreté apenas los dedos y le hice una ligera reverencia. Gaguin y yo atravesamos el Rin; al pasar por delante de mi fresno favorito, con la estatuilla de la Virgen, nos sentamos en un banco a admirar el paisaje. Entonces entablamos una conversación muy interesante.
 Al principio intercambiamos unas pocas palabras, luego guardamos silencio y nos quedamos mirando el río de aguas claras.
 —Dígame —dijo de pronto Gaguin, con su sonrisa habitual—, ¿qué opinión tiene usted de Asia? Debe de parecerle un poco rara, ¿no es verdad?
@@ -275,7 +273,6 @@ Asia me miró directamente a los ojos.
 —No es ninguna obligación, cálmate…
 —¡Por nada del mundo! —repitió ella, palideciendo.
 —¿Se habrá enamorado de mí?”, iba pensando, mientras me acercaba al Rin, cuyas olas oscuras fluían veloces.
-# ## ## Xiii
 —¿Se habrá enamorado de mí?”, me pregunté al día siguiente en cuanto me desperté. No quería ahondar en mis propios sentimientos. Pero me daba cuenta de que su imagen, la imagen de “una muchacha de risa forzada”, se había grabado con fuerza en mi corazón y tardaría mucho tiempo en borrarse. Fui a L. y pasé allí toda la jornada, pero sólo vi a Asia unos instantes. No se encontraba bien. Le dolía la cabeza. Bajó un momento con la frente vendada, pálida, demacrada, con los ojos casi cerrados, y dijo con una leve sonrisa:
 —Ya se me pasará. No es nada. Todo pasa, ¿no es verdad?
 Y se retiró.
@@ -365,7 +362,6 @@ Pero en ese momento, para gran sorpresa mía, se levantó de un salto, se abalan
 Al cabo de unos minutos, cuando Frau Luisa entró en la habitación, yo seguía de pie en el centro de la pieza, aún no recuperado de mi asombro. No entendía cómo la entrevista había podido terminar de una manera tan bruscay tan estúpida, sin haber tenido tiempo de decir ni una centésima parte de lo que quería, de lo que debía decir, sin haber acertado a dilucidar cuáles podrían haber sido sus consecuencias…
 —¿Se ha marchado Frdulein? —me preguntó Frau Luisa, arqueando sus cejas amarillas hasta rozar la peluca.
 La miré como atontado y me marché de allí.
-# ## ## ## Xvii
 Salí de la ciudad y me encaminé directamente al campo. Una desesperación rabiosa me roía las entrañas… No hacía más que cubrirme de reproches. ¡Cómo era posible que no hubiera comprendido la razón que había impulsado a Asia a cambiar el lugar de nuestro encuentro! ¡Cómo es posible que no supiera apreciar lo mucho que le había costado acudir a casa de esa anciana! ¡Cómo es posible que no hubiera logrado retenerla! A solas con ella, en esa habitación apartada y apenas iluminada, había tenido fuerzas y ánimo suficientes para rechazarla, incluso para amonestarla… Y ahora su imagen me perseguía, y yo no hacía más que pedirle perdón. El recuerdo de ese rostro pálido, de esos ojos temerosos y húmedos, de esos cabellos esparcidos por el cuello inclinado, del ligero contacto de su cabeza contra mi pecho me quemaban. “Soy suya”, la oía murmurar. “He obrado en conciencia”, trataba de persuadirme… ¡Mentira! ¿Acaso había querido yo ese desenlace? ¿Acaso estaba en condiciones de separarme de ella? ¿Acaso podía renunciar a su compañía? “¡Insensato! ¡Insensato!”, me repetía enfurecido…
 Entre tanto, cayó la noche. Me dirigí a grandes pasos a la casa en la que vivía Asia.
 ## ## ## ## XVIII

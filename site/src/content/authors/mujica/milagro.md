@@ -8,7 +8,6 @@ tags:
   - milagro
   - mujica
 ---
-*# VIII. Milagro (1610)*
 *Manuel Mujica Lainez*
 
 El hermano portero abre los ojos, pero esta vez no es la claridad del alba la que, al deslizarse en su celda, pone fin a su corto sueño. Todavía falta una hora para el amanecer y en la ventana las estrellas no han palidecido aún. El anciano se revuelve en el lecho duro, inquieto. Aguza el oído y se percata de que lo que le ha despertado no es una luz sino una música que viene de la galería conventual. El hermano se frota los ojos y se llega a la puerta de su habitación.

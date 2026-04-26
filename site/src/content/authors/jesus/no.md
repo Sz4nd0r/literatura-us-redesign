@@ -10,10 +10,8 @@ tags:
 ---
 *Jesús Díaz*
 *(La Habana, 1941 - Madrid, 2002)*
-*# No Matarás*
 
 —... yo os juro que os perseguiré, y os encontraré en lo más profundo de una noche tenebrosa, y os haré sentir temor, y vosotros sabéis que yo puedo hacerlo.
-# ## Miller.
 I. Los bandidos
 Los años duros (1966)
 El hombre, echado sobre el fanguillo en que se había convertido el cauce del arroyo, trataba desesperadamente de hallar un resto de agua.

@@ -10,7 +10,6 @@ tags:
 ---
 *Bernard Malamud*
 *(26 de abril, 1914 – 18 de marzo, 1986)*
-*# La Cuenta*
 *(1951)*
 *(“The Bill”)*
 *Originalmente publicado en la revista Commentary (1 de abril de 1951);*

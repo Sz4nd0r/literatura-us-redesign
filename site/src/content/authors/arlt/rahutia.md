@@ -11,7 +11,6 @@ tags:
 *Roberto*
 *Arlt*
 *(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
-*# Rahutia La Bailarina*
 *El criador de gorilas*
 *(Santiago, Chile: Editorial Zig-Zag [Revista Aventura Nº 165], 1941, 112 págs.)*
 *En el arrabal morisco de Tetuán,*

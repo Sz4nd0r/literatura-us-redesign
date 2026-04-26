@@ -8,7 +8,6 @@ tags:
   - luna
   - josee
 ---
-*# La luna decapitada*
 *José Emilio Pacheco (n. 2004)*
 *La luna decapitada El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Raymond L. Williams Florencio Ortega se dispuso al combate. Repartió en tres columnas a sus hombres que avanzaron despacio y en tinieblas por los bordes de la cañada. Aureliano Blanquet y los restos de su tropa quedaron encerrados en un movimiento de pinzas. La medialuna ardía en el cielo color de sangre. En 1914 Victoriano Huerta y Aureliano Blanquet, secretario de Guerra, fueron derrotados por los ejércitos de la Revolución.*
 

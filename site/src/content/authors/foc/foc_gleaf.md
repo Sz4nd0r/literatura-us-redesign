@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# Greenleaf*
 *(“Greenleaf”, 1956)*
 *(originalmente publicado en Kenyon Review, vol. 18, verano de 1956;*
 

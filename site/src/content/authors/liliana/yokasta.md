@@ -8,7 +8,6 @@ tags:
   - yokasta
   - liliana
 ---
-*# Yokasta*
 *Liliana Heker*
 *Originalmente publicado en la revista El escarabajo de oro, Núm. 21 (diciembre de 1963), págs. 23-24; Los que vieron la zarza (Mencion única, VII Concurso Hispanoamericano de Literatura “Casa de las Americas”, 1966) (Buenos Aires: Editorial J. Alvarez, 1966, 154 págs.) Cuándo pasará la noche. Mañana me va a parecer tan idiota esto. Con luz. Un sol como el de hoy y él va a venir a despertarme como todos los días. Igual a cualquier chico del mundo, ¿o yo no saltaba? ¿O no saltan todos de la cama apenas abren los ojos? Se vienen corriendo los muy voraces, no vaya a ser que mamá se levante justo ahora y nos perdamos lo más divertido del día.*
 

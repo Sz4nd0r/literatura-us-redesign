@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Recolectores*
 *(“Collectors”)*
 *Originalmente publicado en Esquire Magazine (agosto 1975);*
 *Will You Please Be Quiet, Please? (1976);*

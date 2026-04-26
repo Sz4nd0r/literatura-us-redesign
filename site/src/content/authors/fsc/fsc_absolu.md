@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Absolución*
 *(“Absolution”)*
 *Originalmente publicado en The American Mercury, 2 (junio de 1924);*
 *All the Sad Young Men*

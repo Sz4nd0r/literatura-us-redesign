@@ -12,7 +12,6 @@ tags:
 *Piglia*
 *(Adrogué, Buenos Aires,*
 *1941 - Buenos Aires, 2017)*
-*# Tierna Es La Noche*
 *(La invasión, 1967)*
 *a F.*
 *Scott Fitzgerald*

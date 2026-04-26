@@ -8,7 +8,6 @@ tags:
   - aventu
   - romulo
 ---
-*# Los aventureros*
 *Rómulo Gallegos (n. 1969)*
 *Originalmente publicado en El Cojo Ilustrado (1 de febrero de 1911); Los Aventureros (Caracas: Imprenta Bolívar, 1913, 160 págs.); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I A la legua trascendía que el doctor Jacinto Ávila no estaba hecho para aquella suerte de andanzas; peñas arriba, por un camino angosto y fragoso, sobre una mala bestia alquilona, bajo un sol que abrasaba, a mediodía en punto.*
 

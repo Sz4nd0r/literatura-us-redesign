@@ -8,7 +8,6 @@ tags:
   - eva
   - jose
 ---
-*# La obsesión de Eva*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

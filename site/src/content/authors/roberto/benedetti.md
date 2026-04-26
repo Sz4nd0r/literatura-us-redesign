@@ -8,7 +8,6 @@ tags:
   - benedetti
   - roberto
 ---
-*# FERNÁNDEZ RETAMAR - POESÍA DESDE EL CRÁTER*
 *Roberto Fernández*
 *Retamar*
 

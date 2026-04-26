@@ -8,7 +8,6 @@ tags:
   - magos
   - mujica
 ---
-*# XXXIV. La adoración de los Reyes Magos (1822)*
 *Manuel Mujica Lainez*
 *Hace buen rato que el pequeño sordomudo anda con sus trapos y su plumero entre las maderas del órgano. A sus pies, la nave de la iglesia de San Juan Bautista yace en penumbra. La luz del alba —el alba del día de los Reyes— titubea en las ventanas y luego, lentamente, amorosamente, comienza a bruñir el oro de los altares. Cristóbal lustra las vetas del gran facistol y alinea con trabajo los libros de coro, casi tan voluminosos como él.*
 

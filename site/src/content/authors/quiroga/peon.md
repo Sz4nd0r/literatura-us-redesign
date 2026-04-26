@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# Un Peon*
 *(El desierto y otros cuentos, 1924)*
 *Una tarde, en Misiones, acababa de almorzar cuando sonó el*
 *cencerro del portoncito. Salí afuera, y vi detenido a un hombre joven, con el*

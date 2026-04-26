@@ -8,7 +8,6 @@ tags:
   - milesde
   - benedetti
 ---
-*# Miles de ojos*
 *Mario Benedetti (1920 - 2009)*
 *Miles de ojos (Despistes y franquezas, 1989) Sólo una cosa no hay. Es el olvido.JORGE LUIS BORGES Desde temprano habían menudeado las llamadas de felicitación. Para el ex torturador (todavía no se sentía cómodo con esa partícula: ex) ya no había peligro. La tan cuestionada ley de amnistía ahora tenía el aval del voto popular. A las felicitaciones él había respondido con risas, con murmullos de aprobación, con entusiasmo, sin escrúpulos.*
 *Sin embargo no se sentía eufórico. Desayunó a solas, como siempre. A pesar de sus cuarenta, se mantenía soltero. Estaba Eugenia, claro, pero en una zona siempre provisional. Recogió los diarios que habían deslizado bajo la puerta, pero se salteó precisamente aquellas páginas, aparatosamente tituladas, que analizaban la ahora confirmada amnistía. Sólo se detuvo en Internacionales y en Deportes. Luego se dedicó a regar las plantas y el césped del fondo. La recomendación oficial decía que, hasta nuevo aviso, era imprescindible ahorrar agua corriente y prohibía especialmente el riego de jardines.*

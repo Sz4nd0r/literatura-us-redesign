@@ -17,7 +17,6 @@ tags:
 *En una palabra, la desmoralización*
 *era general. Clero, nobleza y*
 *pueblo estaban todos pervertidos.*
-*# Joaquim Manuel De Macedo,*
 *Un paseo por la ciudad de Rio de Janeiro (1862-63).*
 
 Augusto, el andarín, cuyo nombre verdadero es Epifanio, vive en un piso encima de una sombrerería femenina, en la calle Sete de Setembro, en el centro de la ciudad, y camina por las calles el día entero y parte de la noche. Cree que al caminar piensa mejor, encuentra soluciones a sus problemas; solvitur ambulante, dice para sí mismo.

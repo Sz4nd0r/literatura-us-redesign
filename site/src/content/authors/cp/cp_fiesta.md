@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Noche De Fiesta*
 *(“Notte di festa”, 1937)*
 *Publicado póstumamente en Notte di festa (1956)*
 *Tutti i racconti (2002)*

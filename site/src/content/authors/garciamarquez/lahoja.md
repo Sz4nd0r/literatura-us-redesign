@@ -8,7 +8,6 @@ tags:
   - lahoja
   - garciamarquez
 ---
-*# La hojarasca*
 *Gabriel*
 *García Márquez (n. 1947)*
 

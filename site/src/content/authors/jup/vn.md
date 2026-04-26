@@ -27,7 +27,6 @@ Nabokov dejó Wellesley en 1948 para enseñar literatura rusa y europea en la Un
 Nabokov escribió Lolita mientras viajaba en viajes de recolección de mariposas en el oeste de los Estados Unidos. Su esposa Véra actuaba como secretaria, mecanógrafa, editora, correctora de pruebas, traductora y bibliógrafa; su agente, gerente de negocios, asesora legal y chofer; su asistente de investigación, asistente de enseñanza y suplente del profesorado.
 En junio de 1953, Nabokov y su familia fueron a Ashland, Oregón. Allí terminó Lolita y comenzó a escribir la novela Pnin. El 1 de octubre de 1953, él y su familia regresaron a Ithaca, Nueva York.
 Después del gran éxito financiero de Lolita, Nabokov pudo regresar a Europa y dedicarse exclusivamente a la escritura. El 1 de octubre de 1961, él y Véra se mudaron al Hotel Montreux Palace en Montreux, Suiza. Permaneció allí hasta el final de su vida. Desde allí realizó giras a los Alpes, Córcega y Sicilia. En 1976 fue hospitalizado con una fiebre que los médicos no pudieron diagnosticar. Fue hospitalizado otra vez en Lausana, en 1977, sufriendo de congestión bronquial severa. Murió el 2 de julio de 1977. Tenía 78 años.
-# Índice:
 Cuentos:
 Vozvrashchenie Chorba (1930):
 2. El puerto (1924)

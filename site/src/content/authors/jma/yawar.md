@@ -8,7 +8,6 @@ tags:
   - yawar
   - jma
 ---
-*# Yawar Fiesta*
 *José María Arguedas (1937 - 1917)*
 
 Desde el abra de Sillanayok’ se ven tres riachuelos que corren, acercándose poco a poco, a medida que van llegando a la quebrada del río grande. Los riachuelos bajan de las punas corriendo por un cauce brusco, pero se tienden después en una pampa desigual donde hay hasta una lagunita; termina la pampa y el cauce de los ríos se quiebra otra vez y el agua va saltando de catarata en catarata hasta llegar al fondo de la quebrada. El pueblo se ve grande, sobre el cerro, siguiendo la lomada; los techos de teja suben desde la orilla de un riachuelo, donde crecen algunos eucaliptus, hasta la cumbre; en la cumbre se acaban, porque en el filo de la lomada está el jirón [cada cuadra de las calles de Lima, según nomenclatura colonial, llevaba su propio nombre; el conjunto de estas cuadras en línea recta, a mediados del siglo XIX, tomó el nombre de jirón; dicho uso se generalizó para todo el país; el jirón es urbano y de magnitud intermedia entre la avenida y la calle.] Bolívar, donde viven los vecinos principales, y allí los techos son blancos, de calamina. En las faldas del cerro, casi sin calles, entre chacras de cebada, con grandes corrales y patios donde se levantan yaretas y molles frondosos, las casas de los comuneros, los ayllus [barrio, comunidad indígena] de Puquio, se ven como pueblo indio.

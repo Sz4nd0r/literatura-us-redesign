@@ -8,7 +8,6 @@ tags:
   - dela
   - liliana
 ---
-*# De la voluntad y sus tribulaciones*
 *Liliana Heker*
 
 De la voluntad y sus tribulaciones La muerte de Dios (Buenos Aires: Aguilar, Altea, Taurus, Alfaguara, 2011, 208 págs.) Mientras iba en taxi a recibir el Premio Trayectoria de Escenografía, Vica se acordó del otoño: de una tarde precisa de otoño en la que ella, caminando distraída por un parque, miró de pronto a su alrededor y fue traspasada, volteada casi, por la luz ámbar que bajaba de los árboles. Es eso lo que quiero recuperar, pensó.

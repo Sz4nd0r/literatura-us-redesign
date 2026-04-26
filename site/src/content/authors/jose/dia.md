@@ -8,7 +8,6 @@ tags:
   - dia
   - jose
 ---
-*# El día del concierto*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

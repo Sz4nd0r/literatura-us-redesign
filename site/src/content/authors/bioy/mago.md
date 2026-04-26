@@ -8,7 +8,6 @@ tags:
   - mago
   - bioy
 ---
-*# Un viaje o El mago inmortal*
 *Adolfo Bioy Casares (1914 - 1999)*
 *El lado de la sombra (Buenos Aires: Emecé, 1962, 192 págs.) O cómo o para qué nos encantó nadie lo sabe. (Don Quijote, II, 22). Para alcanzar la muerte no hay vehículo tan veloz como la costumbre, la dulce costumbre. En cambio, si usted quiere vida y recuerdos, viaje. Eso sí, viaje solo. Demasiado confiado juzgo a quien sale con su familia, en pos de la aventura. Dentro del territorio de la República (estamos de acuerdo) todo se da; pero si puede vaya por el agua, a otro país. Imíteme quien se anime; como yo, bese anteayer a la Gorda, a los chicos y con el pretexto de que la compañía lo manda, parta al infinito azul… En cuanto subí al barco de la carrera divisé a una corista, señorita Zucotti, que en años de juventud inflamó mi esperanza.*
 

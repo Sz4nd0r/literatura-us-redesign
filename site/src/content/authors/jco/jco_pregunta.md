@@ -10,7 +10,6 @@ tags:
 ---
 *Joyce Carol Oates*
 *(Lockport, New York, 1938-)*
-*# Preguntas*
 *(“Questions”)*
 *Originalmente publicado en Playboy (enero 1987)*
 *Faithless: Tales of Transgression (2001)*

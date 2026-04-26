@@ -8,7 +8,6 @@ tags:
   - moscas
   - bioy
 ---
-*# Moscas y arañas*
 *Adolfo Bioy Casares (1914 - 1999)*
 *Originalmente publicado en el periódico La Nación (9 de octubre de 1958); Guirnalda con amores (Buenos Aires: Emecé, 1959, 201 págs.) Se casaron por amor. Raúl Gigena no creía que hubiera en el mundo un lugar tan seguro como la casa paterna, pero Andrea, su mujer, le dijo que para nunca perder ese amor deberían vivir solos. Como no quería contrariarla, resolvió dejar la provincia, lanzarse a la aventura. Obtuvo, por medio de un pariente, que trabajaba en una bodega, un corretaje de vinos; retiró del Banco los ahorros y partió, con Andrea, a Buenos Aires. En cuanto llegaron, quiso comprar una casa, en parte para complacer a Andrea, en parte para invertir razonablemente el dinero: por aquellos tiempos decía que rara vez recuperamos lo gastado en alquileres y pensiones. No conocían a nadie, descubrían la ciudad, eran jóvenes, estaban enamorados: la busca de la casa les dejó recuerdos felices.*
 

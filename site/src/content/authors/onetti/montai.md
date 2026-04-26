@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Montaigne*
 *Originalmente publicado en El País Semanal (Madrid), 1987*
 
 Todos habíamos recibido el mismo mensaje, la misma oferta increíble. Y allí estábamos; éramos seis y, claro, él, porque la reunión era en su departamento. Las invitaciones de Charlie, epistolares o telefónicas, nos decían que el viernes, a las siete de la tarde —no quiero estropearles el domingo— empezaré a suicidarme. Sea maldito el que me falle porque no tendrá oportunidad de enmienda. Hay comida abundante, beberaje.

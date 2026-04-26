@@ -8,7 +8,6 @@ tags:
   - puerta
   - cortazar
 ---
-*# La puerta condenada*
 *Julio Cortázar*
 
 Petrone le gustó el hotel Cervantes por razones que hubieran desagradado a otros. Era un hotel sombrío, tranquilo, casi desierto. Un conocido del momento se lo recomendó cuando cruzaba el río en el vapor de la carrera, diciéndole que estaba en la zona céntrica de Montevideo. Petrone aceptó una habitación con baño en el segundo piso, que daba directamente a la sala de recepción.

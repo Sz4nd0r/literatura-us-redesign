@@ -8,7 +8,6 @@ tags:
   - alzado
   - juanbosch
 ---
-*# El alzado*
 *Juan Bosch (1909 - 2001)*
 
 Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) Se le hacen charcos oscuros, lagunas de tinta. Claro: el sueño domina aunque no querramos. Y en llevar bien abiertos los ojos y sensibles los oídos va la vida: en este camino, cuando menos se espera desemboca un pelotón y ya está hecho. Bonita cosa dejarse matar sin ver al viejo, después de tanta fatiga. Juan Antonio piensa: —Lo mejor será echarse al monte. La noche es terriblemente negra.

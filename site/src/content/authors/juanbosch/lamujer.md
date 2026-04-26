@@ -8,7 +8,6 @@ tags:
   - lamujer
   - juanbosch
 ---
-*# La mujer*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en Revista Carteles (1 de mayo de 1932), págs. 18, 55; Camino real (La Vega: Imprenta El Progreso, R. A. Ramos, 1933, 152 pags.) La carretera está muerta. Nadie ni nada la resucitará. Larga, infinitamente larga, ni en la piel gris se la ve vida. El sol la mató; el sol de acero, de tan candente al rojo, un rojo que se hizo blanco, y sigue ahí, sobre el lomo de la carretera. Debe hacer muchos siglos de su muerte. La desenterraron hombres con picos y palas.*
 *Cantaban y picaban; algunos había, sin embargo, que ni cantaban ni picaban Fue muy largo todo aquello. Se veía que venían de lejos: sudaban, hedían. De tarde el acero blanco se volvía rojo; entonces en los ojos de los hombres que desenterraban la carretera se agitaba una hoguera pequeñita. detrás de las pupilas. La muerta atravesaba sabanas y lomas y los vientos traían polvo sobre ella. Después aquel polvo murió también y se posó en la piel gris. A los lados hay arbustos espinosos.*

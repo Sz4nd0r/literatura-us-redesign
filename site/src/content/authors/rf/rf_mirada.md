@@ -27,7 +27,6 @@ El médico, Dr. Goldblum, a quien consulté al día siguiente, me dijo que mi pr
 —Eso explica por qué las visiones ocurrieron después de que tomé un vaso de leche tibia con azúcar.
 —Los santos tenían visiones porque ayunaban, y ayunaban porque tenían visiones, un interesante círculo vicioso. Le voy a confesar una cosa: también me gustaría tener ese tipo de visiones, una vez por lo menos. Ahora voy a leer su poema”, dijo Goldblum.
 Le había entregado el poema al médico, suponiendo que se trataba de un abyecto material semiótico que ayudaría a diagnosticar el estado de morbidez que había sufrido. Ahora que sabía que todo era una simple y pasajera crisis de inanición, ya no quería que el Dr. Goldblum leyera lo que había escrito en mi delirio; palabras groseras que los clásicos, con algunas excepciones (pensé en Gil Vicente, Rabelais), jamás usarían. Intenté arrancar el papel que el esculapio tenía en la mano, pero él fue más rápido y, protegiéndose tras su mesa, leyó el poema:
-# Los Trabajadores De La Muerte
 (Para Mégnin y H. Gomes)
 Joyce, James se emocionaba con la marca café
 de caca en la braguita

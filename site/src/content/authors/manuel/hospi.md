@@ -8,7 +8,6 @@ tags:
   - hospi
   - manuel
 ---
-*# Historia de hospital*
 *Manuel Rojas*
 *Originalmente publicado en el periódico La Nación [Santiago de Chile) (15 de julio de 1928); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.), págs. 121-142. A las doce y media de la noche, Raúl González, que dormía en su pieza de interno del Hospital San Rafael, despertó violentamente. Se sentó en la cama y balbuceó, medio dormido: —¡Qué! ¡Qué pasa! Nadie respondió... Esperó un momento, volvió a repetir la pregunta y obtuvo el mismo resultado. ¡Qué raro! En medio de su sueño había sentido claramente que alguien golpeaba la puerta llamándole por su nombre. “¿Habré soñado?”, se preguntó.*
 

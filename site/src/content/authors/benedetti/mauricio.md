@@ -8,7 +8,6 @@ tags:
   - mauricio
   - benedetti
 ---
-*# Llamaré a Mauricio*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) Aliiiirio. Aliiiirio Bengoa. Demasiado clamor para ser escuchado a las siete y media de la mañana. Pero allí está el hombre, agitando los brazos desde la vereda de enfrente y gritando Aliiiirio, mientras los autobuses y los camiones pasan entre él y yo. Y yo, que efectivamente soy Alirio Bengoa, no consigo enterarme de quién es el gritón. Cuando el semáforo se pone rojo, el tipo cruza corriendo entre un auto y un camión que han frenado, y antes de que yo intente el menor ademán de esquive o de defensa, me aprisiona en un abrazo que no deja lugar a dudas, ni tampoco espacio para respirar. Sólo entonces lo reconozco, no precisamente por su voz o el estilo de su efusión, sino por el fogoso aliento que me da justo en la oreja. Es Mauricio, claro.

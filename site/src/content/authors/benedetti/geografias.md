@@ -8,7 +8,6 @@ tags:
   - geografias
   - benedetti
 ---
-*# Geografías*
 *Mario Benedetti (1920 - 2009)*
 *Eso dicen que al cabo de diez años todo ha cambiado allá dicen que la avenida está sin árboles y no soy quién para ponerlo en duda ¿acaso yo no estoy sin árboles que según dicen ya no están? AY DEL SUEÑO Ay del sueño si sobrevivo es ya borrándome ya desconfiado y permante y tantas veces me hundo y sueño muslo a tu muslo boca a tu boca nunca sabré quién sos ahora que estoy insomne como un sagrado y permanezco quiero morir de siesta muslo a tu muslo boca a tu boca para saber quién sos Ay del sueño con esta poca alma a destajo soñar a nado tiernamente así me llamen permanezco muslo a tu muslo boca a tu boca quiero quedarme en vos PATRIA ES HUMANIDAD Patria es humanidad.*
 

@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# Esa Maldita Pistola*
 *La cosa e altri racconti (1983)*
 
 ¿Qué hacer? Después de dos o tres horas de furioso insomnio, me levanto de la cama en la oscuridad, busco a tientas la mesa de noche, tomo la pistola, abro la puerta y paso a la sala. También aquí la oscuridad es completa, deben de ser las tres, la hora más oscura; enciendo la lámpara que hay junto a la chimenea; me duele un poco la cabeza por el vino que bebí, pero el pensamiento está lúcido, ¡casi demasiado! Mecánicamente, me dejo caer tal como estoy, en pijama y descalzo, en el sillón situado junto al negro, nocturno espejo de la ventana. Aprieto la pistola en el puño, tengo el dedo en el gatillo, gesto expresivo de toda una relación existente entre yo y este objeto amado-odiado. Así es, porque en definitiva ella me destruirá a mí, o yo a ella…

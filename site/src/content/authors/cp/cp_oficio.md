@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Viejo Oficio*
 *(“Vecchio mestiere”, 1941)*
 *Originalmente publicado en Il Messagero de Roma (20 de diciembre de 1941);*
 *reproducido en Feria d’agosto (1946)*

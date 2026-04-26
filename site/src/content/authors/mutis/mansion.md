@@ -8,7 +8,6 @@ tags:
   - mansion
   - mutis
 ---
-*# La mansión de Araucaíma*
 *Álvaro Mutis*
 
 Frecuentador de bares en donde se enrolaban voluntarios de guerras coloniales, hombres de armas que sometían a pueblos jóvenes e incultos que creían luchar por su libertad y sólo conseguían una ligera fluctuación en las bulliciosas salas de la Bolsa. Le faltaba un brazo y hablaba correctamente cinco idiomas. Olía a esas plantas dulceamargas de la selva que, cuando se cortan, esparcen un aroma de herida vegetal. Al llegar no habló con nadie.

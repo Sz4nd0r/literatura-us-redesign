@@ -312,7 +312,6 @@ Desde el lugar donde se hallaban se podía ver la fachada del hotel y los balcon
 ¿Qué era lo que estaba haciendo la joven? Por lo visto tenía la manía de escribir en la arena. Con su dedo índice iba trazando unas letras mientras vigilaba de reojo los movimientos de la institutriz. ¿Se trataría de otro insulto como el del día anterior cuando se hallaban en el banco?
 Sonriente, el Doctorcito esperaba. «L… A… R…».
 De repente, la mano borró las letras, y el doctor vio que la institutriz se movía. Pasados unos minutos la joven recomenzó:
-# # # # —L… A… R…».
 —¡Lárguese!», leyó Dollent.
 ¡Una palabra singular, pensó el doctor, tratándose de una joven de aspecto tan educado! Claro está que las muchachas de hoy son tan modernas…
 La víspera no era más que un imbécil. Y hoy le decían con toda claridad que se largase. No estaba mal.

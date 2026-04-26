@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# De Padre A Hijo*
 *Ultimo viene il corvo (1949)*
 
 Pocos bueyes, en nuestros pagos. No hay prados donde pastar, ni campos grandes para arar: sólo ortigas para el ramoneo y breves franjas de una tierra que únicamente se rompe con la zapa. Además los bueyes y las vacas, anchos y plácidos como son, desentonarían en estos valles angostos y abruptos; aquí hacen falta animales flacos, puro tendón, que anden por las piedras: mulas y cabras.

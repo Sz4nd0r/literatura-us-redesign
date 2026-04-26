@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Don Pietro*
 *([Il signor Pietro], 1942)*
 *Sólo hay un borrador inconcluso, sin título*
 *Tutti i racconti (2002)*

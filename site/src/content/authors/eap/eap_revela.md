@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# Revelación Mesmérica*
 *(“Mesmeric Revelation”, 1844)*
 *Originalmente publicado en Columbian Magazine (agosto 1844)*
 *Tales*

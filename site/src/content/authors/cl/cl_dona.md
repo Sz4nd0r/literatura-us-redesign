@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# Las Artimañas De Doña Frozina*
 *(“As maniganças de dona Frozina”)*
 *(Otro título en español: “Las astucias de doña Frozina”)*
 *Onde estivestes de noite (1974)*

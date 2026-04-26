@@ -113,9 +113,5 @@ Thacker se dispuso a marcharse.
 El coronel Telfair y el promotor se dieron la mano.
 De regreso dos semanas más tarde, Thacker bajó en la estación de Toombs City de un mugriento vagón de la Pullman. El número de enero de la revista estaba cerrado y compuesto.
 El espacio libre que bostezaba en espera de un texto había sido cubierto con un artículo encabezado de la siguiente manera:
-# Segundo Mensaje Al Congreso
 escrito para
-# ## La Rosa De Dixie
 POR
-# ## ## T Roosevelt
-# ## ## ## Miembro De La Famosa Famili Bulloch, De Georgia.

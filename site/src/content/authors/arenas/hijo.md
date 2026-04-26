@@ -10,7 +10,6 @@ tags:
 ---
 *Reinaldo Arenas*
 *(Aguas Claras, Cuba, 1943 - Nueva York, 1990)*
-*# El Hijo Y La Madre*
 *Termina el desfile (1981)*
 *La madre caminaba dando salticos como un ratón mojado.*
 *La madre estaba sentada en la sala y se balanceaba en el sillón.*

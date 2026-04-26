@@ -8,7 +8,6 @@ tags:
   - firmodo
   - benedetti
 ---
-*# Firmó doscientas mil*
 *Mario Benedetti (1920 - 2009)*
 
 Como todos los viernes, las calles del centro eran desde temprano un nudo de gritos, bocinazos, apurones, grescas frente a las pizarras de noticias, diarieros que dosificaban su aullido profesional. Daniel iba a desayunar en La Fragata con Mercedes, Sonia y Andrés, y en el momento de cruzar Corrientes, vio que los tres ya habían alcanzado uno de sus grandes objetivos: una mesa para cuatro, junto a la ventana. —¿Y qué? —preguntó en un bostezo, mientras se quitaba la bufanda. Lo recibieron con Clarín y La Opinión, desplegados entre los cafés y las medias lunas. —¿Así que murió por fin? —Viejo duro. —Se ve que no pudo soportar la falta de su amiguete —dijo Andrés. —¿Qué amiguete? —¿Cuál va a ser? El Juan Domingo. —Me ratifico en lo dicho.

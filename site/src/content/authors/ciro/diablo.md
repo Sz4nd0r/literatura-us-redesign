@@ -8,7 +8,6 @@ tags:
   - diablo
   - ciro
 ---
-*# De cómo repartió el diablo los males por el mundo*
 *Ciro Alegría*
 
 Voy a contarles, y no lo olviden, porque es cosa que un cristiano debe tener bien presente, esta historia que nosotros no olvidaremos jamás y que diremos a nuestros hijos con el encargo de que la repitan a los suyos, y así continúe trasmitiéndose, y nunca se pierda. Esto ocurrió en un tiempo en que el Diablo salió para vender males por la tierra. El hombre ya había pecado y estaba condenado, pero no había variedad de males.

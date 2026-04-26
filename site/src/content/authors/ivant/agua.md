@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# Agua De Frambuesas*
 *(1848)*
 *(“Малиновая вода”)*
 *Originalmente publicado en la revista Современник [El Contemporáneo]*

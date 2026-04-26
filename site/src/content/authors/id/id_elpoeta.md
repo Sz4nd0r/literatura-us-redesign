@@ -10,7 +10,6 @@ tags:
 ---
 *Isak Dinesen*
 *(1885–1962)*
-*# El Poeta*
 *—The Poet*
 *Seven Gothic Tales (1934)*
 

@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Fuentes*
 *(Ciudad de Panamá, 1928 - México D.F., 2012)*
-*# El Que Inventó La Pólvora*
 *(1954)*
 *Los días enmascarados*
 *(México: Los Presentes, Imprenta Juan Pablos, 1954, 104 pp.)*
@@ -32,6 +31,5 @@ Aquí, desde hace un mes, vivo escondido, entre las ruinas de mi antigua casa. H
 ¡Qué gusto! En mi sótano encontré un libro con letras impresas; es Treasure Island, y gracias a él, he recuperado el recuerdo de mí mismo, el ritmo de muchas cosas... Termino el libro («¡Pieces of eight! ¡Pieces of eight!») y miro en redor mío. La espina dorsal de los objetos despreciados, su velo de peste. ¿Los novios, los niños, los que sabían cantar, dónde están, por qué los olvidé, los olvidamos, durante todo este tiempo? ¿Qué fue de ellos mientras sólo pensábamos (y yo sólo he escrito) en el deterioro y creación de nuestros útiles? Extendí la vista sobre los montones de inmundicia. La opacidad chiclosa se entrevera en mil rasguños; las llantas y los trapos, la obsesidad maloliente, la carne inflamada del detritus, se extienden enterrados por los cauces de asfalto; y pude ver algunas cicatrices, que eran cuerpos abrazados, manos de cuerda, bocas abiertas, y supe de ellos.
 No puedo dar idea de los monumentos alegóricos que sobre los desperdicios se han construido, en honor de los economistas del pasado. El dedicado a las Armonías de Bastiat, es especialmente grotesco.
 Entre las páginas de Stevenson, un paquete de semillas de hortaliza. Las he estado metiendo en la tierra, ¡con qué gran cariño!... Ahí pasa otra vez el mensajero:
-# ## —Usen Todo... Todo... Todo
 Ahora, ahora un hongo azul que luce penachos de sombra y me ahoga en el rumor de los cristales rotos...
 Estoy sentado en una playa que antes —si recuerdo algo de geografía— no bañaba mar alguno. No hay más muebles en el universo que dos estrellas, las olas y arena. He tomado unas ramas secas; las froto, durante mucho tiempo... ah, la primera chispa...

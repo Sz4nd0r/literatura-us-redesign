@@ -10,7 +10,6 @@ tags:
 ---
 *Bernard Malamud*
 *(26 de abril, 1914 – 18 de marzo, 1986)*
-*# El Caballo Parlante*
 *(1972)*
 *(“Talking Horse”)*
 *Originalmente publicado en la revista Harper's (febrero 1973);*
@@ -38,7 +37,6 @@ La que sube y baja.
 ¿Qué escalera?
 Abramowitz, en su cuento soñado, sospecha que Goldberg le pegó en la cabeza y lo metió dentro de su caballo porque necesitaba un caballo parlante para su número y no existía tal cosa.
 Ojalá estuviera seguro.
-# ## No Te Atrevas A Preguntar.
 Ésa es su manera de ser; es un mamarracho aunque no sin cierta consideración cuando se siente deprimido y está echando unos tragos. Entonces me golpea en Morse un par de anécdotas graciosas. No tiene amigos visibles. Sobre la familia no hablamos ninguno. Cuando ríe, llora.
 Debe de ser muy fastidioso para el dueño saber decir en voz alta sólo palabras de cuatro letras como geee, gooo, gaaa, gaau; y el director del circo, que hace las veces de jefe de pista, cuando entra a por un trago, le da tanta vergüenza que clava la vista en el suelo. A aquellos que no conocen el sistema Morse, Goldberg les hace muecas, les mira furibundo y rechina los dientes. Tiene sus misterios. Colgando de la pared, sobre la cabeza disecada de un caballito, conserva una enmohecida lanza de tres púas. A veces baja al sótano con una vela vieja y sube con una nueva a pesar de que tenemos corriente eléctrica. Aunque no le gusta quejarse de su vida, se preocupa y hace crujir los nudillos. Quizá sea viudo, ¿quién sabe? Las mujeres no parece que le interesen, pero se ocupa de que Abramowitz aproveche su oportunidad con una yegua en celo, si es que la hay disponible. Abramowitz se entrega a ello para satisfacer su naturaleza física, un hecho es un hecho, aparte de eso tampoco hay para tanto; la yegua no está interesada en mantener un noviazgo hablado. Cuando Abramowitz la monta, Goldberg se pone a aplaudir, lo que es humillante.
 Y cuando están en su domicilio de invierno el dueño se pone de punta en blanco una vez por semana o así y sale a divertirse. Cuando se pone su traje de paño fino, su alfiler de brillantes, y sus guantes amarillos, se coloca ante un espejo de cuerpo entero y se mira embelesado. Luego hace ver que esgrime un sable, atacando con su bastón de bambú a la figura reflejada, haciéndolo girar con un solo dedo. A Abramowitz no le informa de dónde va o cuándo piensa ir. Pero de regreso suele estar melancólico, a veces angustiado, no parece haberse divertido mucho; y en ese estado de ánimo igual le da por propinarle unos cariñosos azotes con aquel condenado bastón. O peor, amenazarlo. Nada serio pero, ¿quién lo necesita? Por lo general prefiere quedarse en casa viendo la televisión. La astronomía le tiene encandilado, y cuando dan esos programas por el canal educativo él se queda ahí sentado noche tras noche, mirando imágenes de estrellas, quasares, el espacio infinito. También le gusta leer el Daily News, que después rompe cuando ha terminado con él. A veces lee ese libro que tiene escondido en un estante del armario debajo de unos sombreros viejos. Si el libro no le hace reír abiertamente le hace llorar. Cuando se excita por algo que lee en ese mamotreto pone los ojos en blanco, la boca se le humedece, y hace torpes esfuerzos por hablar, aunque lo único que oye Abramowitz es geee, gooo, gaaa, gaau. Siempre esas palabras, sea el que sea su significado, y a veces gool goon geek gonk, en diversas combinaciones, generalmente gool con gonk, que a Abramowitz le parece que significa Goldberg. Y en tal estado más de una vez le ha dado una patada en la barriga a Abramowitz con su pesada bota. Uf.
@@ -51,11 +49,9 @@ De vez en cuando Goldberg parece presentir las necesidades que tiene otro y se m
 Yo sólo sé que en los viejos tiempos él era un acróbata y cómico de vodevil. Actuaba en solitario contando chistes con la ayuda de un ayudante ciego antes de que le diera la tristeza. Eso es todo lo que me ha golpeado en Morse sobre sí mismo. Cuando yo iba y metía la pata preguntándole qué pasó luego, él me daba un puñetazo en el morro.
 Solamente una vez, estando él medio borracho y mientras me daba mi cubo de agua, pude colar una pregunta rápida que él contestó sin darse cuenta.
 —¿Dónde me consiguió, amo? ¿Me compró a otra persona? ¿En una subasta, quizá?».
-# ## ## Te Encontré En Un Berzal.
 Una vez me golpeó en la cabeza: «En el principio fue la palabra».
 —¿Qué palabra?».
 Puñetazo en el morro.
-# ## ## ## Basta De Preguntas.
 —Ojo con la herida de mi cabeza o lo que sea».
 —Cierra la boca o te quedarás sin dientes».
 Goldberg debería leer el cuento que escuché un día por su radio de transistores, me dije. Es sobre un pobre taxista que conduce su trineo por las nieves de Rusia. Su hijo, un chico excelente que promete mucho, enfermó de pulmonía y murió, y el pobre taxista no encuentra a nadie con quien hablar y mitigar su dolor. Nadie quiere escuchar sus cuitas, porque así es el mundo. Cada vez que abre la boca para decir algo, los clientes lo insultan. Conque por fin le cuenta la historia a su escuálido penco, en la cuadra, y el caballo, comiendo avena, escucha al viejo contarle sobre su chico que acaba de enterrar.

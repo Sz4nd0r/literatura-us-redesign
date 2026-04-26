@@ -11,7 +11,6 @@ tags:
 *Roberto Bolaño*
 *(Santiago,*
 *Chile, 1953 - Barcelona, 2003)*
-*# El Policía De Las Ratas*
 *(El gaucho insufrible, 2003)*
 *para Robert Amutio*
 *y Chris Andrews*

@@ -8,7 +8,6 @@ tags:
   - mdos
   - garciamarquez
 ---
-*# María dos Prazeres*
 *Gabriel*
 *García Márquez (n. 1947)*
 

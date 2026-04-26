@@ -8,7 +8,6 @@ tags:
   - cursi
   - tellez
 ---
-*# Consideraciones sobre lo cursi*
 *Hernando Téllez (1908 - 1966)*
 
 Consideraciones sobre lo cursi Gustos literarios La dama, muy enojada, pero muy bella a pesar del enojo, declaró su indignación cuando alguien dijo en la tertulia donde se hallaba, que la novela de Félix B. Caignet, El derecho de nacer, era, ciertamente, un monumento de cursilería. —¿De manera —dijo con los labios temblorosos— que todos los que oímos embelesados la radiodifusión de esa novela, somos cursis? Se produjo un silencio muy difícil.

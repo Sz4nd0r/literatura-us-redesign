@@ -31,7 +31,6 @@ La limusina se detuvo, y el chófer pagó el peaje y esperó la vuelta. El emple
 —Ya lo sé. Me lo habías dicho.
 Vincent trató de distraerla.
 —¿Ves esos chamizos medio caídos? Antes era una granja de cerdos, ¿y sabes qué? El dueño se presentó a presidente de Estados Unidos.
-# # # # —¿Y?
 —Pues que tus padres siempre hablan de que si América, la tierra de las oportunidades. Ahora puedes decirles que has visto una granja de cerdos en los humedales de Jersey y que el dueño se presentó a presidente de Estados Unidos. No sé de ningún caso así en California.
 —Gracias por intentar que piense en otra cosa, pero ya tengo ganas de que se acabe el día. ¿Qué más vamos a hacer, aparte de comer?
 —No lo sé. Puede que mi viejo se agarre a la botella y no la suelte. Si está tan nervioso como tú, es probable. A lo mejor ya ha empezado. Aunque espero que no. Como empiece con la grappa, puede que para cuando lleguemos ya se haya desmayado.

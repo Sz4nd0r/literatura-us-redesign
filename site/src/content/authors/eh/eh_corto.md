@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(1899-1961)*
-*# Un Relato Muy Corto*
 *(“A Very Short Story”, 1924)*
 *Esta viñeta era la más larga de las 18 que aparecen en la primera edición de*
 *in our time (París: Three Mountains Press, 1924)*

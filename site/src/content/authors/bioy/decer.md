@@ -8,7 +8,6 @@ tags:
   - decer
   - bioy
 ---
-*# Reverdecer*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Guirnalda con amores (Buenos Aires: Emecé, 1959, 201 págs.); Historias de amor (Buenos Aires: Emecé, 1972, 259 págs.) Seguía mirando el sepulcro, porque estaba resuelto a no moverse hasta que se alejaran las hermanas de la pobre Emilia y porque en el instante en que se volviera, para salir del cementerio, entraría en el mundo donde ya no podría encontrarla. No se resignaba a emprender el regreso platicando pías trivialidades con esas mujeres, ni se dejaría engañar por la esperanza, tan deplorablemente inútil, de buscar en ellas algún rasgo en que su amiga perdurara.

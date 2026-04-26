@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# La Aventura*
 *[Otro título en español: “Bolsas”]*
 *(“The Fling”, “Sacks”]*
 *Originalmente publicado, como “Sacks”, en Perspective (1974);*

@@ -10,7 +10,6 @@ tags:
 ---
 *Katherine Anne Porter*
 *(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
-*# El Robo*
 *—Theft*
 *Flowering Judas and Other Stories (1930)*
 

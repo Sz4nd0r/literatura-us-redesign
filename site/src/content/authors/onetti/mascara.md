@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Mascarada*
 *Originalmente publicado en Apex (Montevideo), 1943*
 
 María Esperanza entró al parque por el camino de ladrillos que llevaba hasta el lago entre sombras de arboles y torcía justamente al llegar a la orilla chocando contra la luz de los reflectores, las espaldas todas negras de la gente que miraba deslizarse las lanchas con banderines y música, los danzarines en la isla artificial. Estaba cansada y los tacones, tan altos como nunca los había usado, le hacían arder un dolor como una herida en los tendones de los tobillos. Se detuvo; pero no era ahí, sentía sin saber por qué, que no era y además tenía miedo de aquellas caras absortas, graves o sonrientes, miedo porque eran caras tan semejantes a la suya misma bajo la violenta, blanca, roja y negra pintura con que la había cubierto, miedo de que las caras miraran comprendiendo su fraternidad y la miraran en seguida con odio por estar haciendo algo que no debía hacerse cuando se tenía una cara así, cuando se la había tenido, unas pocas horas antes, sin pintura y limpia frente al espejo, luminosa, alegre, con el cabello goteando agua y sin vergüenza.

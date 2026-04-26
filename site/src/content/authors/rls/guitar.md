@@ -102,7 +102,6 @@ León, de tan triste, nada pudo responderle. Quedó mirando la sala del café co
 Se pusieron a recoger lo que habían dispuesto para la actuación, además de la caja con los cigarros del cantante, y su pitillera para los cigarrillos, y los pequeños obsequios que habían destinado para rifar en la tómbola, y las partituras… Hicieron un hatillo con todo eso y después metió cuidadosamente León la guitarra en su funda. Elvira se puso un leve chal sobre los hombros y salieron para dirigirse al hotel. Justo cuanto atravesaban la plaza del mercado daban las campanas de la iglesia el toque de las once de la noche. La noche era oscura, pero algo templada. Las calles estaban vacías.
 —Esta calma me da muy mala espina —dijo León—. Tengo un mal presentimiento, me parece que aquí no acaba esta maldita noche para nosotros.
 III
-# Capítulo Iii
 Cuando llegaron, el hotel estaba totalmente a oscuras y cerrada la puerta de entrada de carruajes.
 —Esto es increíble —dijo León—; un hotel que cierra a las once y cinco de la noche… Y eso que por ahí se veían algunos viajantes de comercio, en el café los había… Elvira, aunque siento un mal pálpito en el corazón, llamemos para que nos abran.
 La campanilla sonaba nítida, vibrante, fuerte, como si en verdad quisiera reforzar con su sonido la apariencia de convento del edificio. Eso, sin duda, hizo que la infeliz Elvira sintiera que se le encogía el corazón como si escuchase un rumor de rezos, un lamento de mortificaciones. Al cantante, aquello, sin embargo, le sugirió el inicio de un terrible quinto acto del drama que vivía.
@@ -167,7 +166,6 @@ El comisario cerró violentamente la ventana de su dormitorio.
 —Sauve qui peut![29] —gritó León—. ¡Ahora sí que la has hecho buena!
 Con la guitarra en una mano y el estuche en la otra, encabezó León Berthelini la fuga, a toda prisa, acaso algo precipitadamente, para abandonar cuanto antes la escena de tan absurda aventura.
 IV
-# ## Capítulo Iv
 Al este de Castel-le-Gâchis había un bonito paseo con bancos de piedra entre hileras de árboles hermosos y de frondosas copas. Aquella noche no corría ni un soplo de aire; la atmósfera, cargada de perfumes campestres, lo llenaba todo, de manera un tanto pesada, acaso agobiante.
 Llamaron a dos o tres posadas, en vano, por lo que los artistas decidieron al fin pasar la noche al sereno, en uno de aquellos bancos de piedra. Tras insistir cortés y denodadamente, consiguió León que Elvira le aceptara su gabán para protegerse de la intemperie. Tomaron asiento en un banco, en absoluto silencio.
 León lió pausadamente un cigarrillo, y con idéntica pausa se lo fumó, sin otro esfuerzo mental que el de intentar recordar el nombre de las constelaciones del cielo que veía, al mirar hacia arriba, entre las hojas de los árboles. El campanario de la iglesia, al dar la hora, fue lo que rompió aquel silencio.
@@ -221,7 +219,6 @@ Resuelto, guardó la guitarra en el estuche, consoló con cariño a su esposa, y
 —¿Qué pretenderá este loco?», se dijo el joven inglés, pero en voz alta expresó lo que sigue:
 —Bien, como usted quiera… Es un honor para mí. Y echó a andar detrás de la pareja de artistas, diciéndose apesadumbrado: «Forzar la voluntad de una persona como lo hace este botarate no es de buena educación».
 V
-# ## ## Capítulo V
 León encabezaba la marcha, como si supiera adonde se dirigía; nadie decía una palabra; mientras, su mujer sollozaba. Un perro ladró furioso cuando pasaron ante la verja de la casa que cuidaba; las campanas de la iglesia dieron las dos de la madrugada y una serie de campanadas más, en diversos tonos e intensidades. Justo cuando cesaban las campanadas vio Berthelini, un poco más allá, luz en una casa.
 Era una pequeña villa de las afueras de la ciudad y hacia allí encaminaron sus pasos.
 —A ver si hay suerte», se dijo León.

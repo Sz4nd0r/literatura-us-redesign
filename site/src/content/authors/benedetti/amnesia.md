@@ -8,7 +8,6 @@ tags:
   - amnesia
   - benedetti
 ---
-*# Miss Amnesia*
 *Mario Benedetti (1920 - 2009)*
 
 La muerte y otras sorpresas, 1968) La muchacha abrió los ojos y se sintió apabullada por su propio desconcierto. No recordaba nada. Ni su nombre, ni su edad, ni sus señas. Vio que su falda era marrón y que la blusa era crema. No tenía car­tera. Su reloj pulsera marcaba las cuatro y cuarto. Sintió que su lengua estaba pastosa y que las sienes le palpitaban. Miró sus manos y vio que las uñas tenían un esmalte transparente.

@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# La Cosecha*
 *(“The Crop”, 1953)*
 *(uno de los seis cuentos de la tesis para maestría*
 *The Geranium: A Collection of Short Stories de O’Connor)*

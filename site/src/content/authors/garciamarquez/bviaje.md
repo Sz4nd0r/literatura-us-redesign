@@ -8,7 +8,6 @@ tags:
   - bviaje
   - garciamarquez
 ---
-*# Buen viaje, Señor Presidente*
 *Gabriel*
 *García Márquez (n. 1947)*
 

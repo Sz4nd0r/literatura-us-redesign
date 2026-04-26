@@ -8,7 +8,6 @@ tags:
   - eric
   - willa
 ---
-# El alma de Eric Hermannson
 
 **Willa Cather**
 

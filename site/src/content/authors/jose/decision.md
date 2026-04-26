@@ -11,7 +11,6 @@ tags:
 *José*
 *Alcántara Almánzar*
 *(Santo Domingo, 1946-)*
-*# La Decisión*
 *Viaje al otro mundo*
 *(Santo Domingo: Editora Taller, 1973, 131 págs.)*
 *Todavía sigues haciéndote la*

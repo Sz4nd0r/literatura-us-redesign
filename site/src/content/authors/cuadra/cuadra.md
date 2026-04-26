@@ -11,8 +11,6 @@ tags:
 *Pablo*
 *Antonio Cuadra*
 *(Nicaragua, 1912-2002)*
-*# República*
-*# ## De Poetas*
 *Mi bandera pretende, como el cielo,*
 *unir el azul y el blanco.*
 *Equivocados los próceres*
@@ -24,8 +22,6 @@ Pero algo logras, paisano,
 izando el cielo en tu mástil,
 somos un millón de hombres
 con la cabeza a pájaros!
-# ## ## Pedro
-# ## ## ## Urdemales
 Pedro Urdemales, profesor
 de aquella misteriosofía
 mágica, dulce mentira

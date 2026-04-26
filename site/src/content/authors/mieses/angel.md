@@ -11,7 +11,6 @@ tags:
 *Franklin*
 *Mieses Burgos*
 *(Santo Domingo, 1907-1976)*
-*# El Ángel Destruído*
 *“No*
 *había nada, ni visible ni invisible, ni región superior; ni aire ni*
 *cielo. No existía la muerte ni la inmortalidad. Nada distinguía el día*
@@ -23,8 +22,6 @@ tags:
 fuerza de la piedad.”
 Brahma, Génesis del libro
 de los Vedas.
-# ## Barrio
-# ## ## Inaugural
 I
 Sólo una gran piedad pudo crear
 los mundos
@@ -81,7 +78,6 @@ de luz en las tinieblas,
 en el ojo vacío donde moldeaba el tiempo
 su estatura de sombra,
 la forma de su rostro perdido hasta la ausencia.
-# ## ## ## Mensaje A
 ## ## ## ## LAS PALOMAS
 II
 Id ahora a decirle a todas las

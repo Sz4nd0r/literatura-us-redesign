@@ -11,7 +11,6 @@ tags:
 *José*
 *Alcántara Almánzar*
 *(1946—)*
-*# Viaje Al Otro Mundo*
 *## Viaje al otro mundo*
 *(Santo Domingo: Editora Taller, 1973, 131 págs.)*
 

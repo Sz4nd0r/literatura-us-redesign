@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# El Diablo Va Y Viene*
 *La cosa e altri racconti (1983)*
 
 Esconderse es relativamente fácil; el problema estriba en cómo ocupar el tiempo mientras se está escondido. En este tabuco o cuarto único, como se lo quiera llamar, no tengo libros, ni discos, ni radio, ni televisión; sólo tengo un diario que mi vecina del departamento de abajo me trae todas las mañanas junto con las compras del día; en consecuencia, sólo me resta ocuparme de mí mismo, que es justamente lo que no quisiera hacer. Pero el caso es que no sé hacer otra cosa o, más bien, no tengo otra cosa que hacer. De modo que medito, calculo, reflexiono, especulo, analizo, y así por el estilo; pero, sobre todo, fantaseo. Algunos días llueve; y el rumor de la lluvia que tamborilea sobre el tejadillo de lata de la puerta de vidrios, y allí afuera, sobre la terraza, el rumor como de personas que conversan rápidamente en voz muy baja y hacen pausas para recobrar el aliento, estimulan mis fantasías.

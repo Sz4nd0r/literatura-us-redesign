@@ -8,9 +8,7 @@ tags:
   - tiname
   - cortazar
 ---
-*# Apocalipsis de Solentiname*
 *Julio Cortázar*
-*# Apocalipsis de Solentiname*
 *Julio Cortázar*
 
 Alguien que anda por ahí, 1977) Los ticos son siempre así, más bien calladitos pero llenos de sorpresas, uno baja en San José de Costa Rica y ahí están esperándote Carmen Naranjo y Samuel Rovinski y Sergio Ramírez (que es de Nicaragua y no tico pero qué diferencia en el fondo si es lo mismo, qué diferencia en que yo sea argentino aunque por gentileza debería decir tino, y los otros nicas o ticos). Hacía uno de esos calores y para peor todo empezaba enseguida, conferencia de prensa con lo de siempre, ¿por qué no vivís en tu patria, qué pasó que Blow-Up era tan distinto de tu cuento, te parece que el escritor tiene que estar comprometido? A esta altura de las cosas ya sé que la última entrevista me la harán en las puertas del infierno y seguro que serán las mismas preguntas, y si por caso es chez San Pedro la cosa no va a cambiar, ¿a usted no le parece que allá abajo escribía demasiado hermético para el pueblo?

@@ -12,7 +12,6 @@ tags:
 *Benítez Rojo*
 *(La Habana, 1931-*
 *Massachusetts, 2005)*
-*# La Tijera*
 *El escudo de hojas secas*
 *(La Habana: UNEAC, 1969)*
 *Ah,*

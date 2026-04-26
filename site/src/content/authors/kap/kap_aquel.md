@@ -10,7 +10,6 @@ tags:
 ---
 *Katherine Anne Porter*
 *(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
-*# Aquel Árbol*
 *—That Tree*
 *Originalmente publicado en Virginia Quarterly Review (Julio 1934)*
 *Flowering Judas and Other Stories (1935 edition)*

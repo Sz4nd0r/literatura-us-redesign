@@ -8,7 +8,6 @@ tags:
   - delo
   - liliana
 ---
-*# De lo real*
 *Liliana Heker*
 
 De lo real Las peras del mal (Buenos Aires: Editorial de Belgrano, 1982, 145 págs.) Usted enseguida va a pensar que no sé lo que hago. Mi mujer ya lo piensa, aunque por otros motivos. Esta mañana, nomás le dije por qué no iba a ir a la Caja, le dirigió a mi hija pobre santa una de esas miraditas que ya se sabe. Por mí, lo mismo podía haberse puesto a caminar como una mosca por el techo: me vine acá, me encerré bien encerrado, y ahí me tiene, meta música, tacatac tacatac, como campanas, como címbalos, como las notas de un clavicordio. Al principio no fue tan fácil, miraba la remington y a lo único que atinaba era a caminar de una punta a otra de la pieza y a escuchar los latidos de mi cabeza. (Me latía la cabeza, ya no me late; sólo frío en los pies).

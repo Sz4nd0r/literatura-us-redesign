@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# Más Allá*
 *(Más allá y otros cuentos, 1935)*
 
 —Yo estaba desesperada —dijo la voz—. Mis padres se oponían rotundamente a que tuviera amores con él, y habían llegado a ser muy crueles conmigo. Los últimos días no me dejaban ni asomarme a la puerta. Antes, lo veía siquiera un instante parado en la esquina, aguardándome desde la mañana. ¡Después, ni siquiera eso!

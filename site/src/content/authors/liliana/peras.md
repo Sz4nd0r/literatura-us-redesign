@@ -8,7 +8,6 @@ tags:
   - peras
   - liliana
 ---
-*# Las peras del mal*
 *Liliana Heker*
 
 Las peras del mal Las peras del mal (Buenos Aires: Editorial de Belgrano, 1982, 145 págs.) Lo único que yo quería era ponerme de acuerdo contigo, amigo querido, acerca de que el reloj de arena está en su lugar, y la arena ha comenzado ya a correr. THOMAS MANN Setenta años atrás Sereno Farías (aunque sólo en el singular momento de su muerte se dio cuenta de eso) vivía en un lugar bastante parecido a Los Arrayanes, donde, sin mucho ruido, se murió de puro viejo una noche de noviembre.

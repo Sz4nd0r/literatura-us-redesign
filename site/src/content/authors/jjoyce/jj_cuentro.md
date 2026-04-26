@@ -10,7 +10,6 @@ tags:
 ---
 *James Joyce*
 *(1882-1941)*
-*# Un Encuentro*
 *(“An Encounter”)*
 *(Dubliners, 1914)*
 *Fue Joe Dillon*

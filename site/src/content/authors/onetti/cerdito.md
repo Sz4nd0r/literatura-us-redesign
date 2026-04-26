@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# El Cerdito*
 *Originalmente publicado en Revista de Bellas Artes (México), 1982*
 
 La señora estaba siempre vestida de negro y arrastraba sonriente el reumatismo del dormitorio a la sala. Otras habitaciones no había; pero sí una ventana que daba a un pequeño jardín pardusco. Miró el reloj que le colgaba del pecho y pensó que faltaba más de una hora para que llegaran los niños. No eran suyos. A veces dos, a veces tres que llegaban desde las casas en ruinas, más allá de la placita, atravesando el puente de madera sobre la zanja seca ahora, enfurecida de agua, en los temporales de invierno.

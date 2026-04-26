@@ -10,7 +10,6 @@ tags:
 ---
 *Richard Ford*
 *(Jackson, Mississippi, 1944-)*
-*# Encuentro*
 *(“Reunion”)*
 *Originalmente publicado en The New Yorker (mayo 5, 2000)*
 *A Multitude of Sins (2002)*

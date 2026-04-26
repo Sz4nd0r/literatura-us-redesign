@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(1899-1961)*
-*# El Revolucionario*
 *(“The Revolutionist”, 1925)*
 *In Our Time (New York: Boni & Liveright, 1925)*
 

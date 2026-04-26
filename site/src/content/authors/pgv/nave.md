@@ -8,7 +8,6 @@ tags:
   - nave
   - pgv
 ---
-*# La nave de los locos*
 *Pedro Gómez Valderrama*
 *La nave de los locos La nave de los locos y otros relatos (Madrid: Alianza, 1984, 160 págs.) ...Suelo buscarme en la ciudad que pasa como un barco de locos por la noche... Jorge Gaitán Durán A Pedro Alejo Gómez Vila. Dijo el judío de Esmirna —llamado Zologub o Zal-al-Gaub—, que hacía muchos años que no se tenían noticias de la Nave de los Locos. Según él, la última que se había conocido la había recibido un tío de su abuelo en Salónica en la época de la desusada guerra de Crimea, pero no se sabía bien si acaso se la había confundido con una de las naves que transportaron las tropas británicas.*
 

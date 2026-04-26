@@ -12,7 +12,6 @@ tags:
 *Piglia*
 *(Adrogué, Buenos Aires,*
 *1941 - Buenos Aires, 2017)*
-*# Tarde De Amor*
 *(La invasión, 1967)*
 *En los últimos dos meses no han*
 *hecho otra cosa que adivinar esos pasos creciendo en el zaguán y el*

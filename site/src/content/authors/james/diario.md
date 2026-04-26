@@ -1353,7 +1353,6 @@ que hace una semana me casé con la Condesa Salvi-Scarabelli. Usted llegó
 verdaderamente a confundirme con sus palabras; pero un mes después todo estaba
 muy claro. Las cosas que implican un riesgo son como la fe cristiana; tienen
 que verse desde dentro. Siempre suyo,
-# # # # E.S.
 P.D.- ¡Al diablo con las
 analogías, a menos de que pueda encontrar una analogía para mi felicidad!
 Su felicidad le hace ser muy

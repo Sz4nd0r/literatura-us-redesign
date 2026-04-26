@@ -12,7 +12,6 @@ tags:
 *Piglia*
 *(Adrogué, Buenos Aires,*
 *1941 - Buenos Aires, 2017)*
-*# El Laucha Benítez*
 *Originalmente publicado, con el título «El*
 *Laucha Benítez cantaba boleros»,*
 *en Nombre falso (Buenos Aires, Siglo XXI,*

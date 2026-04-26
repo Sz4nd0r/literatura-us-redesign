@@ -8,7 +8,6 @@ tags:
   - posada
   - arturo
 ---
-*# La posada del humo*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Treinta hombres y sus sombras* (1949)*
 

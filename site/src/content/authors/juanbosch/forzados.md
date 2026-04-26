@@ -8,7 +8,6 @@ tags:
   - forzados
   - juanbosch
 ---
-*# Forzados*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la Revista Social [La Habana, Cuba] Año 17, Núm. 5 (mayo de 1932), págs. 10, 61 y 74-75; Camino real (La Vega: Imprenta El Progreso, R. A. Ramos, 1933, 152 pags.); Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.), págs. 157-164. Aquello no fue algo avisado ni esperado; la tropa se presentó en grupos, vomitando juramentos, con los rifles a discreción.*
 

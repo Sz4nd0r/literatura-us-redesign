@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Martínez Moreno*
 *(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
-*# La Pareja Del Museo Del Prado*
 *(1961)*
 *Cordelia*
 *(Montevideo: Alfa, 1961)*

@@ -8,7 +8,6 @@ tags:
   - mula
   - arturo
 ---
-*# La mula*
 *Arturo Uslar Pietri (1906 - 2001)*
 *El prójimo y otros cuentos* (1978)*
 

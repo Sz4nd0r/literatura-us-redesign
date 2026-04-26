@@ -321,7 +321,6 @@ En menos de una hora, llamaron a la puerta y entró Aguas Rápidas, seguido de B
 Al día siguiente, Dawson empezó a reírse. La carcajada dio comienzo a primera hora de la mañana, nada más amanecer, cuando Smoke se acercó al tablón de boletines situado en el exterior del almacén de la Compañía AC y clavó un aviso. Los hombres se reunieron para leerlo y sonreír por encima de su hombro antes de que hubiese colocado la última chincheta. Pronto fueron cientos los que rodeaban el tablón y no todos podían leer la nota, así que nombraron a un lector oficial por aclamación y, a partir de ese momento y durante todo el día, muchos otros fueron elegidos para leer en voz alta la nota que Smoke Bellew había clavado. Algunos se quedaron un buen rato en medio de la nieve para oírla varias veces y memorizar la suculenta información que ofrecía y que decía así:
 La Compañía del Emplazamiento de Tra-Lí anota sus cuentas en este tablón. Este es su primer informe de cuentas y también el último.
 Cualquier accionista que se oponga a donar diez dólares al Hospital General de Dawson puede recuperar sus diez dólares tras solicitárselos personalmente a Charley Aguas Rápidas o, en caso de fracasar en su gestión, sin duda alguna los recuperará tras solicitárselos a Smoke Bellew.
-# Dinero Recibido Y Desembolsado
 De 4.874 acciones a $10,00 $48.740,00
 A Dwight Sanderson por Emplazamiento Tra-Lí $10.000,00
 Gastos accesorios: pólvora, brocas, torno, registro de concesiones, etc.

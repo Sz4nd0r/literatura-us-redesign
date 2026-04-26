@@ -8,7 +8,6 @@ tags:
   - unnino
   - juanbosch
 ---
-*# Un niño*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la Revista Carteles (7 de abril de 1940), pág. 31; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) A poco más de media hora, cuando se deja la ciudad, la carretera empieza a jadear por unos cerros pardos, de vegetación raquítica, que aparecen llenos de piedras filosas. En las hondonadas hay manchas de arbustos y al fondo del paisaje se diluyen las cumbres azules de la Cordillera. Es triste el ambiente. Se ve arder el aire y sólo de hora en hora pasa algún ser vivo, una res descarnada, una mujer o un viejo. El lugar se llama Matahambre.*
 

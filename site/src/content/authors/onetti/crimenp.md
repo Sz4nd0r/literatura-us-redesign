@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Crimen Perfecto*
 *Originalmente publicado en Marcha (Montevideo), 1940*
 *Un cuento policial*
 

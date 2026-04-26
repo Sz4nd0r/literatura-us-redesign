@@ -8,7 +8,6 @@ tags:
   - septimo
   - arturo
 ---
-*# El día séptimo*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Red. Cuentos* (1936)*
 

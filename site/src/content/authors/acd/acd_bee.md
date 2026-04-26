@@ -30,7 +30,6 @@ Y me lanzó desde su sillón una carta arrugada. Estaba fechada en Montague Plac
 Querido señor Holmes:
 Tengo mucho interés en consultarle acerca de si debo aceptar o no un empleo de institutriz que me han ofrecido. Si no tiene inconveniente, pasaré a visitarle mañana a las diez y media.
 Suya afectísima,
-# Violet Hunter
 —¿Conoce usted a esta joven? —pregunté.
 —No.
 —Ahora son las diez y media.
@@ -88,7 +87,6 @@ The Copper Beeches, cerca de Winchester
 Querida señorita Hunter:
 La señorita Stoper ha tenido la amabilidad de proporcionarme su dirección, y le escribo desde aquí para preguntarle si ha reconsiderado su decisión. Mi esposa tiene sumo interés en que usted venga, pues le agradó mucho la descripción que yo le hice. Estamos dispuestos a pagarle treinta libras al trimestre, o ciento veinte al año, para compensar las pequeñas molestias que puedan ocasionarle nuestros caprichos. Al fin y al cabo, no es exigir demasiado. A mi esposa le encanta cierta tonalidad azul eléctrico y le gustaría que usted llevara dentro de la casa un vestido así por las mañanas. Sin embargo, no tiene que incurrir en el gasto, pues disponemos de uno que perteneció a mi querida hija Alice, actualmente en Filadelfia, y creo que le quedará muy bien. En cuanto a lo de sentarse aquí o allí, o divertirse del modo que se le indique, no creo que pueda ocasionarle molestias. Y, respecto al cabello, no cabe duda de que es una lástima, especialmente si se tiene en cuenta que durante nuestra breve entrevista no pude evitar fijarme en su belleza, pero me temo que debo mantenerme firme en este punto y confío en que el aumento del sueldo pueda compensarla de la pérdida. Sus obligaciones en lo referente al niño son muy llevaderas. Le ruego que haga lo posible por venir; yo la esperaría en una calesa en Winchester. Hágame saber en qué tren llega.
 Suyo afectísimo,
-# ## Jephro Rucastle
 —Esta es la carta que acabo de recibir, señor Holmes —siguió diciendo la joven—, y ya he tomado la decisión de aceptar, pero me ha parecido que antes de dar el paso definitivo debía someter el asunto a su consideración.
 —Bien, señorita Hunter, si su decisión está tomada, el asunto queda zanjado —dijo Holmes con una sonrisa.
 —¿No me aconsejaría usted rechazar el empleo?

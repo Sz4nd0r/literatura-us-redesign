@@ -8,7 +8,6 @@ tags:
   - wi_tom
   - wi
 ---
-# El diablo y Tom Walker
 
 **Washington Irving**
 

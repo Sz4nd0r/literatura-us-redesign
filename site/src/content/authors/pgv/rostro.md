@@ -8,7 +8,6 @@ tags:
   - rostro
   - pgv
 ---
-*# El rostro perdido*
 *Pedro Gómez Valderrama*
 
 El rostro perdido Antología del cuento hispanoamericano contemporáneo Selección, prólogo y notas de Ricardo A. Latcham (Santiago de Chile: Empresa Editora Zig-Zag, 1958, 40 págs.) Helena no supo que aquella había sido la mayor crueldad con el viejo. El pobre Adrián se había ido consumiendo entre un montón de olvido. Parecía que apenas era ya un cachivache cualquiera de la desordenada casa de su hija. Uno de aquellos cachivaches que, sin saber casi por qué, conservamos con un poco de cariño, y el pensar en desprendernos de ellos nos da cierto remordimiento que nos hace aplazar la necesaria limpieza.

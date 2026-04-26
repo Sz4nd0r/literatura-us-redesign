@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Después De Los Tejanos*
 *(“After the Denim”)*
 *Originalmente publicado en New England Review (1981);*
 *What We Talk About When We Talk About Love (1981);*

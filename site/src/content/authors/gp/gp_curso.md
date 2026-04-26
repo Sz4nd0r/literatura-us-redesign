@@ -10,7 +10,6 @@ tags:
 ---
 *Grace Paley*
 *(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
-*# El Concurso*
 *(“The Contest”)*
 *Originalmente publicado en Accent: A Quarterly (1958)*
 *The Little Disturbances of Man (1959)*
@@ -85,14 +84,11 @@ Todo había sido hecho a su nombre. Naturalmente, su madre tenía que recibir pa
 El viaje a Israel y las otras tres capitales europeas era para dos (2) personas. Tenían que ser marido y mujer. Si no presentábamos documentos acreditando que habíamos quedado unidos ante la ley, Dotty tendría que hacer sola el viaje. Y justo cuando yo decidí empezar a esgrimir razones en contra de aquella acumulación de injusticias, Dotty exclamó: «¡Oh!, mi madre va a creer que me ha pasado algo», y se fue corriendo a Lord and Taylor’s, donde habían quedado citadas.
 Me puse a fumar mi sucia pipa y consideré la situación en que me encontraba.
 Mientras, en otra parte de la ciudad, giraban las ruedas, zumbaban las rotativas, y al día siguiente, con un titular a toda página, el Morgenlicht decía a sus lectores:
-# ## ¡Osrucnoc Led Arodecnev Namressaw Yttod!
-# ## ## Anu In Ollaf On Nylkoorb Ed Nevoj Anu
 Debajo aparecía una foto en la que Dotty y yo estábamos comiendo. Me recordó el brillo de un flash que iluminó mi pudín de arroz el día anterior, mientras yo soñaba lleno de modestas esperanzas.
 Decidí enviar una postal a Dotty pidiéndole que no me hiciera aquello.
 Los últimos preparativos se complicaron debido a que el gobierno de Israel no quería permitir la salida de los dólares que tenían que servir para pagar el viaje. Una vez los dólares estuvieran dentro de aquel cosmopolita país, al parecer, se esperaba que renunciaran a su carácter de hedonista juguete americano para convertirse en una seria herramienta de trabajo.
 Al cabo de dos semanas empecé a recibir cartas que me explicaban todo esto y que contenían fotografías de Dotty sonriendo en un kibbutz, apoyándose en un muro de lamentaciones y dirigiéndome una mirada zalamera desde un naranjal.
 Decidí coger un trabajo fijo para un par de meses en una agencia, donde me dedicaba a escribir textos similares al que sigue como pies de fotos de emprendedores caballeros:
-# ## ## ## Se Llama Bill Feary. Él Le Servirá Su Pedido De… Toneladas De Fertilizante Etiqueta Roja. Bill Feary Conoce El Medio Oeste. Bill Feary Conoce Sus Necesidades.
 ## ## ## ## LLÁMELE BILL Y LLÁMELE AHORA.
 Despierto e inocente, pulcro y respetuoso, escandalizado por los embustes de mis compañeros de trabajo e impulsado por un afán de ser, por una vez, decente, me convertí en un hombre de provecho.
 Las chicas de finas pantorrillas que habían llegado a Nueva York en tractor se habían convertido, a su vez, en mujeres de provecho, y, pasando por el purgatorio de la avaricia humana, se dirigían al Paraíso de las Prostitutas, es decir, al Palacio de las Posesiones.

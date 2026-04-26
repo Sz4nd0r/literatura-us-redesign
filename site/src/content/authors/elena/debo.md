@@ -10,7 +10,6 @@ tags:
 ---
 *Elena Garro*
 *(Puebla, México, 1916 - Cuernavaca, 1998)*
-*# Debo Olvidar…*
 *Andamos huyendo, Lola*
 *(México, D.F.: Joaquín Mortiz, 1980, 264 págs.)*
 

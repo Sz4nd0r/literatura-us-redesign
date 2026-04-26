@@ -12,7 +12,6 @@ tags:
 *Piglia*
 *(Adrogué, Buenos Aires,*
 *1941 - Buenos Aires, 2017)*
-*# En El Terraplén*
 *(La invasión, 1967)*
 *Lo que pasa es que las patas de los*
 *camellos son de algodón. Por eso no hacen ruido. Además son muy ligeros,*

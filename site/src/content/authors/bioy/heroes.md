@@ -8,7 +8,6 @@ tags:
   - heroes
   - bioy
 ---
-*# El sueño de los héroes*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Que alguien haya previsto el terrible término acordado y, desde lejos, haya alterado el fluir de los acontecimientos, es un punto difícil de resolver. Por cierto, una solución que señalara a un oscuro demiurgo como autor de los hechos que la pobre y presurosa inteligencia humana vagamente atribuye al destino, más que una luz nueva añadiría un problema nuevo. Lo que Gauna entrevió hacia el final de la tercera noche llegó a ser para él como un ansiado objeto mágico, obtenido y perdido en una prodigiosa aventura.

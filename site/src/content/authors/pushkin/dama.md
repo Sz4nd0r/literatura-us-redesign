@@ -258,7 +258,6 @@ Hermann se estremeció: efectivamente, en lugar del as tenía en la mano una dam
 En aquel instante tuvo la impresión de que la dama de pique guiñaba un ojo y sonreía. Lo sorprendió el extraordinario parecido…
 —¡La vieja! —gritó aterrorizado.
 Chekalinsky recogió los billetes perdidos. Hermann estaba inmóvil. Cuando se apartó de la mesa, todos hablaron a la vez. “Bonito lance”, decían los jugadores. Chekalinsky volvió a barajar; el juego siguió su curso.
-# Conclusión
 Hermann perdió el juicio. Está internado en la clínica Obujovskaya, en la habitación número 17, no contesta a las preguntas y repite con asombrosa rapidez: “¡El tres, el siete, el as! ¡El tres, el siete, la dama…!”.
 Lizaveta Ivánovna se ha casado con un joven muy amable; tiene un puesto en alguna parte y posee una considerable fortuna: es hijo del antiguo administrador de la vieja condesa. Lizaveta Ivánovna tiene de pupila a una pariente pobre.
 Tomsky ha ascendido a capitán y se va a casar con la princesa Polina.

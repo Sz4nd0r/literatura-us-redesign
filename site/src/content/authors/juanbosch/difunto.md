@@ -8,7 +8,6 @@ tags:
   - difunto
   - juanbosch
 ---
-*# El difunto estaba vivo*
 *Juan Bosch (1909 - 2001)*
 
 Lo que pasa es que el difunto taba vivo. —¿Cómo? –preguntó el juez, intrigado y al parecer de mal humor. —Sí, yo lo vide y él fue el matador. Entonces en la concurrencia empezó alguien a reírse. El propio fiscal soltó una carcajada, y cuando el juez alargó el brazo para coger la campanilla, en medio de las risas que se extendían por toda la sala resonó una voz enérgica, de tono angustiado, asegurando a gritos: —¡Sí, estaba vivo; yo puedo asegurar que estaba vivo! La sala –público, funcionarios, jueces– se llenó de estupor. El juez se quitó los lentes y miró con detenimiento y disgusto al que había gritado; igual que los del juez, todos los ojos se clavaron en él. “Él” era un hombre joven, bien parecido, arrogante y sin embargo de aspecto triste; se hallaba en medio del público y todo el mundo sabía que había sido el ingeniero jefe de las obras. El asombro era completo, ¿pues cómo podía nadie explicarse que un ingeniero asegurara tal cosa?

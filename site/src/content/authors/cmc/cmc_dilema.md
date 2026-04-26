@@ -10,7 +10,6 @@ tags:
 ---
 *Carson McCullers*
 *(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
-*# Dilema Doméstico*
 *—A Domestic Dilemma*
 *Originalmente publicado en la revista del periódico The New York Post, 16 de septiembre de 1951*
 *The Ballad of the Sad Café and Other Stories (1951)*

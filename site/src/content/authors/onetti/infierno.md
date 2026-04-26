@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# El Infierno Tan Temido*
 *Originalmente publicado en Ficción (Buenos Aires), 1957*
 *La primera carta, la primera*
 *fotografía, le llegó al diario entre la medianoche y el cierre. Estaba*

@@ -580,9 +580,6 @@ Del bolsillo de la pechera sacó una cartera de lona. Estaba toscamente cosida, 
 De la cartera sacó una hoja de periódico doblada. La hoja estaba amarillenta por la antigüedad que tenía, los dobleces rotos y cuidadosamente pegados con hilos sucios. La desdobló con todo cuidado, con el máximo esmero, y le dio la vuelta y la depositó sobre la mesa para que yo la viera.
 —No la vaya a coger —dijo—. Es bastante vieja, y es el único ejemplar que tengo. Léala.
 La miré: la tinta desleída, la página emborronada, con una fecha de veinticinco años atrás:
-# Un Maníaco Anda Suelto En Los Montes De Virginia
-# ## Destacada Dama De La Sociedad Neoyorquina
-# ## ## Atacada En Su Propio Jardín
 La señora de Carleton Van Dyming, de Nueva York y Newport, atacada por un loco semidesnudo y un toro enfurecido en el jardín de su residencia de verano. El maníaco logra escapar. La señora Van Dyming, muy afectada.
 A partir de ahí seguía, con sus imágenes y sus dibujos, para relatar que la señora Van Dyming, que estaba esperando a un propio del estudio de su arquitecto, que debía llegar de Nueva York, hubo de levantarse de la mesa en que estaba cenando con sus invitados para recibir, según supuso, al recadero del arquitecto. El relato continuaba con las palabras de la propia señora Van Dyming:
 Fui a la biblioteca, adonde había indicado que hicieran pasar al recadero del arquitecto, pero allí no había nadie. Estaba a punto de tocar la campanilla para llamar al lacayo cuando se me ocurrió salir a la puerta de la casa, puesto que es costumbre entre los lugareños acercarse a la entrada y negarse a pasar y a marcharse hasta que aparezca el señor o la señora de la casa. Fui hasta la puerta y allí no había nadie.
@@ -614,7 +611,6 @@ La cartera se hallaba abierta encima de la mesa. Pero no devolvió el periódico
 —Sí. Bastante —le dije, sólo que no me escuchaba.
 —Yo leía historias de piratas y vaqueros, y me imaginaba que era el jefe de los piratas o de los vaqueros, y eso que era un pobre chavalillo que no había visto el océano más que en Coney Island, como no había visto un árbol más que en Washington Square, y sólo muy de vez en cuando. Pero leía aquellas historias y creía, como cualquier otro chiquillo, que un buen día… la vida no le gastaría una broma tan pesada como era el hecho de que me diera la vida y luego… Cuando llegué a casa aquella mañana para prepararme a coger el tren, va Martha y me dice: «Tú vales lo mismo que cualquiera de esos Van Dyming, por más que salgan en los periódicos. Si todos los que se lo merecen salieran en los periódicos, no cabrían ni en Park Avenue ni en Brooklyn», me dice.
 Retiró la mano de la cartera. Esta vez extrajo sólo un recorte, de una columna, que me pasó, amarillento y emborronado, no muy extenso:
-# ## ## ## Misteriosa Desaparición
 ## ## ## ## SE SOSPECHA DE INTIMIDACIÓN CON VIOLENCIA
 Wilfred Middleton, arquitecto de York, desaparece en la casa de campo de un millonario.
 La policía busca el cadáver del arquitecto, pues se cree que puede haber sido asesinado por un loco en los montes de Virginia.

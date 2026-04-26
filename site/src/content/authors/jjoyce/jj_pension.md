@@ -10,7 +10,6 @@ tags:
 ---
 *James Joyce*
 *(1882-1941)*
-*# La Pensión*
 *La señora Mooney,*
 *hija de un carnicero, era lo que se dice una mujer*
 *resuelta; para arreglar sus cosas se bastaba y se*

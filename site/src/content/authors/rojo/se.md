@@ -12,7 +12,6 @@ tags:
 *Benítez Rojo*
 *(La Habana, 1931-*
 *Massachusetts, 2005)*
-*# Estatuas Sepultadas*
 *Tute de reyes*
 *(La Habana: Ediciones Casa de las Américas, 1967)*
 *Aquel verano —cómo olvidarlo—*

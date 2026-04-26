@@ -8,7 +8,6 @@ tags:
   - capitan
   - juanbosch
 ---
-*# Capitán*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la Revista Bohemia Año 36, Núm. 15 (9 de abril de 1944), págs. 4-5, 43 y 64-65; Ocho cuentos (La Habana: Edición del autor, 1947, 132 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) A las siete de la tarde, el viernes día 3, Capitán despertó con el espinazo helado. Inmediatamente supo que se trataba de Ella y empezó a ladrar furiosamente. Se sentía lleno de ira, frenético, igual que cuando se enfrentaba a un perro enemigo. —¡Juau, juau, juau! —gritaba Capitán al tiempo que sacudía la soga a que estaba amarrado.*
 

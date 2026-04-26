@@ -168,7 +168,6 @@ El vendedor rió para sus adentros y dijo:
 —Trae acá los libros, Bill.
 El muchacho trajo un volumen delgado y otro muy grande, ambos con tapas grasientas, y los colocó juntos bajo la luz de la lámpara.
 —Y ahora, señor sabelotodo —dijo el vendedor—, yo creí que no me quedaban gansos, pero veo que aún queda alguien con ganas de hacer el ganso en mi tienda. ¿Ve usted este librito?
-# # # # —¿Y?
 —Es la lista de mis proveedores. ¿Lo ve? Bueno, pues en esta página están los del campo, y detrás de cada nombre hay un número que indica la página de su cuenta en el libro grande. ¡Miremos! ¿Ve esta otra página en tinta roja? Pues es la lista de mis proveedores de Londres. Mire bien el tercer nombre y léamelo en voz alta.
 —Señora Oakshott, 117, Brixton Road, y el número es 249 —leyó Holmes.
 —Eso mismo. Ahora busque esta página en el libro grande.

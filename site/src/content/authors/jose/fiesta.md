@@ -8,7 +8,6 @@ tags:
   - fiesta
   - jose
 ---
-*# Crónica trivial de una fiesta íntima*
 *José Alcántara*
 *Almánzar (n. 1946)*
 *Testimonios y profanaciones (Santo Domingo: Editora Taller, 1978, 131 págs.) A las siete y media la cronista social retirada se dispuso a escoger de su guardarropa el mejor vestido de noche, presintiendo que las otras invitadas acudirían con atuendos originales, motivo por el cual no podía permitir, bajo ningún pretexto, ser superada por las demás, especialmente en un momento en que, estando al margen de su trabajo periodístico de toda la vida y dependiente de la modesta pensión del diario, no quería convertirse en víctima de críticas aviesas.*

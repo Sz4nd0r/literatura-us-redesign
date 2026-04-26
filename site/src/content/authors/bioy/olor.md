@@ -8,7 +8,6 @@ tags:
   - olor
   - bioy
 ---
-*# A propósito de un olor*
 *Adolfo Bioy Casares (1914 - 1999)*
 *En la noche del jueves el profesor Roberto Ravenna suspiró varias veces, pero a la una de la madrugada lanzó un quejido. Después de leer el último trabajo había encontrado, en la maraña de su mesa, una pila con otros diez. Hombre de humor excitable, necesitaba, para reponer el desgaste cotidiano, largas noches de sueño; todas las de aquella semana, por diversos motivos, fueron demasiado cortas. Estaba cansadísimo. La lectura de las monografías reavivó, como siempre, su rencor por los estudiantes. «No es para menos» decía. «Están los que no saben nada y está el que sabe algo pero redacta de un modo que da ganas de corregirlo a patadas». A las tres y media había concluido.*
 

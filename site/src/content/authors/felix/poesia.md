@@ -12,7 +12,6 @@ tags:
 *Pita Rodríguez*
 *(Bejucal, Cuba, 1909- Habana, 1990)*
 *Brevísima antología poética*
-*# Formas Sólo*
 *Son formas sólo, sin ti*
 *yo no puedo despertarlos:*
 *les ahuyenta un FUEGO áspero.*
@@ -27,7 +26,6 @@ o ARCÁNGELES alocados,
 desobedientes en fuga.
 Son formas sólo, sin ti
 yo no puedo dominarlos.
-# ## Por El Campo Dormido
 Por el campo dormido
 un jinete de FUEGO
 cruza como perdido.
@@ -47,7 +45,6 @@ es tu MUERTE de relevo.
 Por el campo dormido
 un jinete de FUEGO
 cruza como perdido.
-# ## ## Pecera
 LLAMA viajera por las AGUAS presa,
 o flor de celuloide nadadora,
 el árbol MAR decora y atraviesa
@@ -64,7 +61,6 @@ Un FUEGO, dentro, rompe y desfigura
 su Atlántico, redondo y limitado
 y a un confin de CORALES se apresura
 del SUEÑO de los PECES sospechado.
-# ## ## ## Te Me Vas Por Mi Alto Sueño
 Te me vas por mi alto SUEÑO.
 No te encuentro.
 ¿Pero tus manos, tu aliento?

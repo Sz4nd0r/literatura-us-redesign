@@ -8,7 +8,6 @@ tags:
   - eld_escritor
   - eld
 ---
-*# El Escritor De La Familia*
 *—The Writer in the Family*
 *Vidas de los poetas (Lives of the Poets: Six Stories and a Novella, 1984)*
 *En 1955 murió mi padre estando aún viva su anciana madre en un sanatorio particular. La vieja señora tenía ya noventa años y ni siquiera se había enterado de la enfermedad de su hijo. Temiendo que la noticia acabara con ella, mis tías le dijeron que mi padre se había ido a Arizona por causa de su bronquitis. Para mi abuela, que pertenecía a la generación de los inmigrantes, Arizona era como si dijésemos los Alpes de Norteamérica, el lugar adonde se iba por razones de salud. O, más exactamente, adonde iban los que tenían dinero suficiente. Como a mi padre siempre le salían mal todos los negocios en que se metía, éste fue el aspecto de la cuestión en que más se fijó mi abuela, pensando que, por fin, empezaban a irle bien las cosas. Y entonces se dio la curiosa situación de que, mientras todos andábamos descalzos por casa, de luto por él, mi abuela se jactaba con sus amigas de la nueva vida de su hijo, respirando el aire seco del desierto.*

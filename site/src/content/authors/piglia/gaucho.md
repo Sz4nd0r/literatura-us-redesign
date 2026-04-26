@@ -12,7 +12,6 @@ tags:
 *Piglia*
 *(Adrogué, Buenos Aires,*
 *1941 0 Buenos Aires, 2017)*
-*# El Gaucho Invisible*
 *Originalmente publicado en La ciudad ausente (Buenos Aires, Sudamericana, 1992)*
 *Antología personal (2014)*
 

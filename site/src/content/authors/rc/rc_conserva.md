@@ -10,7 +10,6 @@ tags:
 ---
 *Raymond Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Conservación*
 *(“Preservation”)*
 *Originalmente publicado en Grand Street (1983);*
 *Cathedral (1983);*

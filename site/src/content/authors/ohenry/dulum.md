@@ -89,7 +89,6 @@ primavera última. No te olvides de escribirle a la compañía sobre el
 medidor del gas y tus medias buenas están en la gaveta de arriba. Te
 escribiré mañana.
 Presurosamente,
-# Katy
 Durante sus dos años de matrimonio, Katy y él no se habían separado
 una sola noche. John releyó varias veces la carta, estupefacto. Aquello
 destruía una rutina invariable y lo dejaba aturdido.

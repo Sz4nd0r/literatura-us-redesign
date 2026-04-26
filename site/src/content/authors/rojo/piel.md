@@ -12,7 +12,6 @@ tags:
 *Benítez Rojo*
 *(La Habana, 1931-*
 *Massachusetts, 2005)*
-*# Recuerdos De Una Piel*
 *Tute de reyes*
 *(La Habana: Ediciones Casa de las Américas, 1967)*
 *Máximo sospecha que hay algo raro*

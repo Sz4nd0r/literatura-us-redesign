@@ -10,7 +10,6 @@ tags:
 ---
 *Jesús Díaz*
 *(La Habana, 1941 - Madrid, 2002)*
-*# Diosito*
 *Los años duros (1966)*
 *I*
 
@@ -18,7 +17,6 @@ A las cinco de la mañana la claridad es sólo un grito. Un grito que deshace la
 La voz de diana había partido en dos el sueño. Vibraba todavía sobre la copa de la vieja ceiba, cuando ya la unidad se hallaba formada para los ejercicios. Los hombres, saltando sin camisa, semejaban una colección de inquietos espantapájaros. Pero las aves no se decidían a emprender el vuelo, más bien parecían burlarse. El sargento ritmaba los saltos con intermitentes pitazos. El teniente, desde la puerta de la tienda donde estaba la jefatura, los miraba hacer. Al rato, el descanso llegó traído por el silencio.
 —¿Ya habló con él?
 —Sí.
-# # # ## —¿Y...?
 —Nada.
 —Pero, ... ¿nada?
 —No.

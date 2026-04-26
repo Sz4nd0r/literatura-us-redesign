@@ -8,7 +8,6 @@ tags:
   - kuyay
   - jma
 ---
-*# Warma kuyay*
 *José María Arguedas (1937 - 1917)*
 
 Amor de niño] Originalmente publicado en la revista Signo [Lima], Núm. 1, 1933; Agua. Los escoleros. Warma kuyay. (Lima: CIP, 1935, 110 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Noche de luna en la quebrada de Viseca. Pobre palomita, por dónde has venido, buscando la arena por Dios, por los cielos. —¡Justina! ¡Ay, Justinita! En un terso lago canta la gaviota, memoria me deja de gratos recuerdos. —¡Justinay, te pareces a las torcazas de Sausiyok’! —¡Déjame, niño, anda donde tus señoritas! —¿Y el Kutu? ¡Al Kutu le quieres, su cara de sapo te gusta! —¡Déjame, niño Ernesto!

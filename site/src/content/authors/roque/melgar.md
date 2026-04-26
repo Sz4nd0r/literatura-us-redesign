@@ -11,8 +11,6 @@ tags:
 *Roque*
 *Dalton*
 *(1935-1975)*
-*# Ponencia:*
-*# ## La Vida Y Obra De Roque Dalton*
 *Luis Melgar Brizuela*
 *Escritor y Catedrático*
 *Universitario Salvadoreño*

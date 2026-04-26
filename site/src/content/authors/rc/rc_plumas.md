@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988))*
-*# Plumas*
 *(“Feathers”)*
 *Originalmente publicado en The Atlantic Monthly (septiembre 1982);*
 *Cathedral (1983);*

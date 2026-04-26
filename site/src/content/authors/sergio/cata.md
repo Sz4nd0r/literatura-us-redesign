@@ -8,7 +8,6 @@ tags:
   - cata
   - sergio
 ---
-*# Catalina y Catalina*
 *Sergio Ramírez (n. 1942)*
 
 Catalina planchaba en combinación y sostén como todas las tardes, para aliviarse del calor, porque el cuarto era estrecho y mucho el fogazo de la hornilla de fierro donde se calentaban las planchas, o porque de verdad fuera una adúltera y por eso no se rasuraba los sobacos, aunque sí, y por lo mismo, se depilaba meticulosamente las piernas con una pinza. Adúltera, como después no se cansaría de acusarla mi padre delante de cualquiera, mordiendo las palabras entre las coronas metálicas de su dentadura. Y ya no tuve nunca otra forma de verla en adelante que a la luz de aquella acusación terrible que me recordaba la historia sagrada, derribada a pedradas en el polvo Catalina, magullada y ensangrentada bajo una lluvia de piedras, hasta morir.

@@ -8,7 +8,6 @@ tags:
   - ganez
   - romulo
 ---
-*# Los Mengánez*
 *Rómulo Gallegos (n. 1969)*
 *Originalmente publicado en Actualidades (9 de febrero de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I Vendió unos cocales que poseía en las costas del Golfo de Paria y compró en Caracas, en la parroquia aristocrática de Altagracia, una casa antigua, para reformarla y constituirla en hogar de su familia. Al estudiar las escrituras resultó que la casa había sido solar ilustre, fundado por un auténtico marqués de la Colonia, y este descubrimiento llenó de legítimo orgullo a don Alberto Mengánez. No era don Alberto persona propensa a la vanagloria del linaje.*
 

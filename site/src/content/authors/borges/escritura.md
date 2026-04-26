@@ -8,7 +8,6 @@ tags:
   - escritura
   - borges
 ---
-*# La escritura del Dios*
 *Jorge Luis Borges*
 *Un muro medianero la corta; éste, aunque altísimo, no toca la parte superior de la bóveda; de un lado estoy yo, Tzinacán, mago de la pirámide de Qaholom, que Pedro de Alvarado incendió; del otro hay un jaguar, que mide con secretos pasos iguales el tiempo y el espacio del cautiverio. A ras del suelo, una larga ventana con barrotes corta el muro central. En la hora sin sombra se abre una trampa en lo alto,, y un carcelero que han ido borrando los años maniobra una roldana de hierro, y nos baja en la punta de un cordel, cántaros con agua y trozos de carne. La luz entra en la bóveda; en ese instante puedo ver al jaguar. He perdido la cifra de los años que yazgo en la tiniebla; yo, que alguna vez era joven y podía caminar por esta prisión, no hago otra cosa que aguardar, en la postura de mi muerte, el fin que me destinan los dioses.*
 

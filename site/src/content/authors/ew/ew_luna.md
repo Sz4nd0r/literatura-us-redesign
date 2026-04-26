@@ -10,7 +10,6 @@ tags:
 ---
 *Eudora Welty*
 *(Jackson, Mississippi, 1909-2001)*
-*# El Lago De La Luna*
 *(“Moon Lake”)*
 *The Golden Apples, 1949*
 *I*

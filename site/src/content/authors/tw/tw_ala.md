@@ -10,7 +10,6 @@ tags:
 ---
 *Tobias Wolff*
 *(Birmingham, Alabama, 1945 –)*
-*# A La Espera De Órdenes*
 *(2005)*
 *(“Awaiting Orders”)*
 *Originalmente publicado en la revista The New Yorker*

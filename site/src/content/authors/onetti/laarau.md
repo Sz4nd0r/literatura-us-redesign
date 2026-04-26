@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# La Araucaria*
 *Originalmente publicado en Cuentos completos (Alfaguara), 1994*
 
 El padre Larsen bajó de la mula cuando esta se negó a trepar por la calle empinada del villorrio. Vestía una sotana que había sido negra y ahora se inclinaba decidida a un verde botella, hijo de los años y de la indiferencia. Continuó a pie, deteniéndose cada media cuadra para respirar con la boca entreabierta y diciéndose que debía dejar de fumar. Con la pequeña maleta negra que contenía lo necesario para salvar las almas que estaban a punto de apartarse del cuerpo y huir del sufrimiento y la inmediata podredumbre. No lo precedía un monaguillo con una campanilla, nadie agitaba una vinagrera, nadie rezaba, salvo él durante cada descanso.

@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# El Joven Rico*
 *(“The Rich Boy”)*
 *Originalmente publicado en Redbook, 46 (enero & febrearo de 1926);*
 *All the Sad Young Men*
@@ -328,7 +327,6 @@ Hagerty inclinó la cabeza, y su cara rozó la de Paula.
 —Sí —dijo Anson.
 —Encima de la cama tienes un pijama de Pete. Que duermas bien. Nos veremos en el desayuno.
 —Sí —dijo Anson.
-# ## Viii
 Los socios más antiguos de la empresa se empeñaron en que Anson pasara el verano en el extranjero. Decían que llevaba casi siete años sin vacaciones. Estaba cansado y necesitaba cambiar de aires Anson se resistía.
 —Si me voy —dijo—, no volveré.
 —Es absurdo, hombre. Volverás dentro de tres meses y habrás olvidado todos los problemas. Estarás como nuevo.

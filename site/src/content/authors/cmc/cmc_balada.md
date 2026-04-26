@@ -10,7 +10,6 @@ tags:
 ---
 *Carson McCullers*
 *(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
-*# La Balada Del Café Triste*
 *(“The Ballad of the Sad Café”)*
 *The Ballad of the Sad Café and Collected Short Stories (1951)*
 

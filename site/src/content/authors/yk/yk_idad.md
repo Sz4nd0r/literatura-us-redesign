@@ -8,7 +8,6 @@ tags:
   - yk_idad
   - yk
 ---
-# Inmortalidad
 
 **Yasunari Kawabata**
 

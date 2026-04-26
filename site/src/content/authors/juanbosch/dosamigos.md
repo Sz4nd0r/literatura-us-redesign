@@ -8,7 +8,6 @@ tags:
   - dosamigos
   - juanbosch
 ---
-*# Dos amigos*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la Revista Carteles (17 de noviembre de 1940), págs.74-75 y 77; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) Duck oyó decir varias veces que un viaje cambia siempre algún aspecto de la vida del viajero. Así, pues, cuando la familia decidió el traslado a un pueblo de la costa con el propósito de pasar el verano, él se llenó de aprensión y se puso nervioso.*
 

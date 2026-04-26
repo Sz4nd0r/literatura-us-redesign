@@ -174,7 +174,6 @@ Inicié el camino hacia la puerta; Halpern se apartó para dejarme paso.
 Di media vuelta.
 —Mira, Grossbart: esto es el Ejército, no un campamento de verano.
 Él sonrió:
-# # # # —¿Y?
 Halpern trató de escabullirse, pero Grossbart lo agarró del brazo.
 —¿Qué edad tienes, Grossbart? —le pregunté yo.
 —Diecinueve.

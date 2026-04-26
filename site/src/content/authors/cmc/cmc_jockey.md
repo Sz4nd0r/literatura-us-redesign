@@ -10,7 +10,6 @@ tags:
 ---
 *Carson McCullers*
 *(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
-*# El Jockey*
 *—The Jockey*
 *Originalmente publicado en The New Yorker (September 23, 1941)*
 *The Ballad of the Sad Café (1951)*

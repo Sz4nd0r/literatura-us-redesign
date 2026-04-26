@@ -10,7 +10,6 @@ tags:
 ---
 *Onelio Jorge Cardoso*
 *(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)*
-*# Moñigüeso*
 *La otra muerte del gato*
 *(La Habana: UNEAC, 1964, 73 pp.)*
 *Alguien daba el primer grito. Alguno atronaba el aire.*

@@ -10,7 +10,6 @@ tags:
 ---
 *Stig Dagerman*
 *(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
-*# Mil Años Con Dios*
 *(Dios visita a Newton, 1727)*
 *(“Tusen år hos Gud”)*
 *Nattens lekar. Samlade noveller och prosafragment*

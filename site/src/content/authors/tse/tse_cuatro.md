@@ -11,7 +11,6 @@ tags:
 *T.S. Eliot*
 *(Missouri,*
 *USA, 1888-Londes, 1965)*
-*# Cuatro Cuartetos (1935-1942)*
 *Agradezco a mis amigos sus criticas y a John Hayward*
 *en especial los consejos que me permitieron mejorar*
 *algunas frases y la construcción del poema (T.S.E., 1943).*

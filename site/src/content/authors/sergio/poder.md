@@ -8,7 +8,6 @@ tags:
   - poder
   - sergio
 ---
-*# El poder*
 *Sergio Ramírez (n. 1942)*
 
 No hay poder duradero sobre la tierra. Todo pasa, todo se borra. Pero en esto no me refiero al poder de don Fulgencio, que sí era un poder duradero e imborrable. Un poder palpable a la simple vista. En el pueblo nadie lo puso en duda nunca y, por supuesto, porque no había razón para creer lo contrario: un amigo que cayera preso salía al día siguiente sin pagar carcelaje; un asunto de permisos o exenciones de impuestos del plan de arbitrios; una carta de recomendación para ser maestro rural, todo esto era resuelto con diligencia por don Fulgencio, siete años seguidos Juez Local y Líder del Partido, conocedor pulgada a pulgada del terreno que pisaba, de los rostros de los amigos, de la edad de los hijos de los amigos hábiles para inscribirse y votar, de sus debilidades y pequeñas necesidades, de sus entusiasmos, y padrino de muchos hijos de correligionarios. El Juez Local despachaba en la Casa del Cabildo frente a la plaza desierta. La Casa del Cabildo era la principal edificación del pueblo, con un largo corredor y postes para amarrar los caballos.

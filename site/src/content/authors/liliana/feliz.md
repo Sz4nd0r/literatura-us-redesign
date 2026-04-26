@@ -8,7 +8,6 @@ tags:
   - feliz
   - liliana
 ---
-*# Una mañana para ser feliz*
 *Liliana Heker*
 *Originalmente publicado en la revista Cuadernos Hispanoamericanos, Núm. 528 (junio de 1994), págs. 65-70; La crueldad de la vida (Buenos Aires: Alfaguara, 2001, 183 págs.) A Graciela Tabak La mujer entró en el departamento cuidando de no hacer ruido. El teléfono empezó a sonar mientras acomodaba unas bolsas de compras. Corrió a atender con la premura de quien espera algo de una llamada telefónica. —Hola —dijo en voz baja. —Claro, me imaginé que ibas a estar. La voz chillona le hizo el efecto de un estilete en la nuca. —Supongo, si no no ibas a llamar, ¿no? —Qué picardía —dijo la voz, ignorándola—.*
 

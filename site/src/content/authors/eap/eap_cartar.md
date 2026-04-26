@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# La Carta Robada*
 *(“The Purloined Letter”, 1844)*
 *Originalmente publicado en The Gift: A Christmas and New Year's Present for 1845*
 *(Philadelphia: diciembre 1944)*

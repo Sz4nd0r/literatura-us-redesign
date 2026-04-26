@@ -8,7 +8,6 @@ tags:
   - shelter
   - josee
 ---
-*# Shelter*
 *José Emilio Pacheco (n. 2004)*
 
 La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) No hay infierno. Aquí pagamos todo. De niño pensé que el infierno era un lugar lleno de miedo y soledad. Y siempre estuve solo y sentí miedo. Al cumplir sesenta años volvió a obsesionarme la idea infantil. Junto a mí todos compartían lo peor y lo mejor con los demás. Yo no. Ni siquiera pensé en casarme: temí que de hacerlo sólo añadiría problemas y malestares a los que ya me agobiaban. Roído por todos los pecados del egoísmo, sólo tuve un don: buena mano para dibujar. La aproveché en el diseño industrial. De 1934 a 1959 serví a una compañía automovilística.

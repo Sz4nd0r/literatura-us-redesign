@@ -8,7 +8,6 @@ tags:
   - gallo
   - mutis
 ---
-*# Antes de que cante el gallo*
 *Álvaro Mutis*
 
 Antes de que cante el gallo Diario de Lecumberri (Xalapa: [Ficción] Universidad Veracruzana, 1960, 122 págs.); La Mansión de Araucaíma y otros relatos (Barcelona: Seix Barral [Biblioteca Breve], 1978, 139 págs.) Comenzaron a verse las primeras casas de la ciudad. Seguían alegando, ahora con largas pausas que renovaban las reservas de rencor en cada uno de los presentes. Al perder el maestro la paciencia y ordenar que cesara la disputa, todos guardaron un temeroso silencio en el interior del vehículo. —¡Basta ya! —gritó con repentina energía, que no dejaba lugar a réplica ni a desobediencia.

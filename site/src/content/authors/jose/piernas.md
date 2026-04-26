@@ -8,7 +8,6 @@ tags:
   - piernas
   - jose
 ---
-*# Como una noche con las piernas abiertas*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

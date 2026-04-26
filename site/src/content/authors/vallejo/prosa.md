@@ -11,8 +11,6 @@ tags:
 *César*
 *Vallejo*
 *(Perú, 1892-Paris, 1938)*
-*# Poemas En Prosa*
-*# ## El Buen*
 *## ## SENTIDO*
 *Hay, madre, un sitio en el mundo,*
 *que se llama París. Un sitio muy grande y lejano y otra vez grande.*
@@ -58,7 +56,6 @@ La mujer de mi
 padre, al oírme, almuerza y sus ojos mortales descienden suavemente por
 mis brazos.
 LA
-# ## ## Violencia De Las Horas
 Todos han muerto.
 Murió doña
 Antonia, la ronca, que hacía pan barato en el burgo.
@@ -90,7 +87,6 @@ melancólicas, a cuyo articulado se dormían las gallinas de mi barrio,
 mucho antes de que el sol se fuese.
 Murió mi eternidad
 y estoy velándola.
-# ## ## ## Lánguidamente
 ## ## ## ## SU LICOR
 Tendríamos ya una edad
 misericordiosa, cuando mi padre ordenó nuestro ingreso a la escuela. Cura

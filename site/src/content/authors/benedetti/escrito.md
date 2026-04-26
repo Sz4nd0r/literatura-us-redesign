@@ -8,7 +8,6 @@ tags:
   - escrito
   - benedetti
 ---
-*# Escrito en Überlingen*
 *Mario Benedetti (1920 - 2009)*
 
 No es que la perspectiva me haga feliz, pero hace una semana pensaba que iba a ser difícil y en cambio ahora estoy convencido de que es viable. ¿Por qué he elegido esta pequeña ciudad alemana? Quizá porque mi padre me hablaba siempre de Überlingen, aunque él había nacido bastante más al norte, en Stuttgart. Fue una lástima que no llegara a Montevideo como turista o al menos como emigrante, sino como marinero del Graf Spee, en diciembre de 1939.

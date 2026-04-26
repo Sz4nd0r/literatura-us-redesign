@@ -10,7 +10,6 @@ tags:
 ---
 *Isak Dinesen*
 *(1885–1962)*
-*# El Mono*
 *—The Monkey*
 *Seven Gothic Tales (1934)*
 *I*
@@ -322,7 +321,6 @@ Hubo momentos en que nadie se atrevió a hablar. El silencio era ininterrumpido.
 La cena había terminado.
 La anciana miraba a Boris y a la hija de su vecino de Hopballehus.
 De vez en cuando pasaba su pañuelo de encajes, pequeño y delicadamente perfumado, por su boca o por sus ojos.
-# ## Viii
 —Mi bisabuela —dijo la priora en el curso de la conversación— fue, durante su segundo matrimonio, embajadora en París, donde vivió veinte años durante la Regencia. Escribió en sus memorias que durante la Navidad de 1727 la Sagrada Familia vino a París y permaneció allí doce horas. Todo el establo de Belén fue trasladado misteriosamente; hasta el pesebre y los cacharros en que san José preparaba bebida para la Santísima Virgen fueron trasladados al jardín de un pequeño convento, llamado del Espíritu Santo. También fueron transportados el buey y el asno, juntamente con la paja y el suelo. Cuando las monjas transmitieron la noticia del milagro a la Corte de Versalles, las autoridades prohibieron su difusión. El regente fue con gran pompa, con todas sus joyas en compañía de su hija la duquesa de Berry, del cardenal Dubois y de un número muy reducido de señoras y caballeros de la corte, a rendir homenaje a la Madre de Dios y a su santo Esposo.
 La narración de la priora atrajo poderosamente la atención de los dos jóvenes:
 —Mi bisabuela fue autorizada, debido a la estima en que se le tenía en la corte, a unirse a la comitiva como única extranjera, y conservó hasta los últimos momentos de su vida el manto de brocado y el vestido de cola que vistió en aquella ocasión.

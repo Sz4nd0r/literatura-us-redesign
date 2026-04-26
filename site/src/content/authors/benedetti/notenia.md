@@ -8,7 +8,6 @@ tags:
   - notenia
   - benedetti
 ---
-*# No tenía lunares*
 *Mario Benedetti (1920 - 2009)*
 
 La otra cabeza en la almohada. Rafael mira hacia arriba, rígido. Cuando despierte no sabrá dónde se halla. Luego ella dirá. «Querido», y todo volverá a su cauce. Esta horrible posición le produce cansancio en los tobillos. Anoche di . Ni pensar en moverse. Ni pensar en nada que pueda despertarla. Entonces ella empezaría con sus empalagosos mimos matinales y se acabaría la sensación de reposo, esta especie de coherente aproximación a sí mismo. Anoche dijo: Nadie puede saberlo, nunca.

@@ -8,7 +8,6 @@ tags:
   - fidelid
   - benedetti
 ---
-*# Fidelidades*
 *Mario Benedetti (1920 - 2009)*
 *Despistes y franquezas, 1989) A sus treinta y cinco años, Ileana Márquez tenía marido (Dámaso) y amante (Marcos). Saberse querida, o al menos deseada por ambos, no le causaba la menor ansiedad, más bien le otorgaba una evidente seguridad ante sí misma y ante los demás. Por otra parte, tanto en cuerpos como en temperamentos, Dámaso y Marcos eran, por así decirlo, complementarios. De ahí que lo que la atraía en uno de ellos no la llevaba a desamar al otro.*
 

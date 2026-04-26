@@ -11,8 +11,6 @@ tags:
 *Roque*
 *Dalton*
 *(1935-1975)*
-*# Otros Poemas*
-*# ## Refranes*
 *“Ideas quiere la guerra”.*
 *“El miedo es hombre”.*
 *“Ayer vino y ya quiere”.*
@@ -20,7 +18,6 @@ tags:
 *“Aliviado está el enfermo, que ya se caga en la cama”.*
 *“Bueno es Dios, que nos ha matado”.*
 
-# ## ## Bombas
 Señora del pato blanco,
 démele palos a su hija,
 sólo me anda preguntando
@@ -37,7 +34,6 @@ En el centro de la mar
 suspiraba una ballena
 y en el suspiro decía:
 amor con hambre no llena.
-# ## ## ## Canto A Nuestra Posición
 A
 Otto Rene Castillo
 Nos preguntan los poetas de

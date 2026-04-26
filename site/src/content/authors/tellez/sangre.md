@@ -8,7 +8,6 @@ tags:
   - sangre
   - tellez
 ---
-*# Sangre en los jazmines*
 *Hernando Téllez (1908 - 1966)*
 
 Sangre en los jazmines Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) Cuando los guardias rurales llegaron a la granja de mamá Rosa, hacía ya una semana que Pedrillo estaba tirado en la cama, hecho una miseria de dolor y de ira. Las heridas del brazo habían tomado una escandalosa coloración de tomate maduro y el brazo abultaba hasta reventar. La infección y la fiebre devoraban a Pedrillo.

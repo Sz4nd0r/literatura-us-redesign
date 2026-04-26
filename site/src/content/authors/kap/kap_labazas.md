@@ -10,7 +10,6 @@ tags:
 ---
 *Katherine Anne Porter*
 *(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
-*# Las Calabazas De La Abuelita Weatherall*
 *“The Jilting of Granny Weatherall”*
 *Originalmente publicado en Transition Magazine (Febrero 1929)*
 *Flowering Judas and Other Stories (1930)*

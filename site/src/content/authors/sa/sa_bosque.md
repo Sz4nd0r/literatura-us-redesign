@@ -10,7 +10,6 @@ tags:
 ---
 *Sherwood Anderson*
 *(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
-*# Muerte En El Bosque*
 *(1926)*
 *(“Death in the Woods”)*
 *Originalmente publicado en The American Mercury,*

@@ -12,7 +12,6 @@ tags:
 *Ibargüengoitia*
 *(Guanajuato, México, 1928*
 *—Madrid, 1983)*
-*# Mis Embargos*
 *La ley de Herodes y otros cuentos (1967)*
 
 En 1956 escribí una comedia que, según yo, iba a abrirme las puertas de la fama, recibí una pequeña herencia y comencé a hacer mi casa. Creía yo que la fortuna iba a sonreírme. Estaba muy equivocado; la comedia no llegó a. ser estrenada, las puertas de la fama, no sólo no se abrieron, sino que dejé de ser un joven escritor que promete y me convertí en un desconocido; me quedé cesante, el dinero de la herencia se fue en pitos y flautas y cuando me cambié a mi casa propia, en abril de 1957, debía sesenta mil pesos y tuve que pedir prestado para pagar el camión de la mudanza. En ese año mis ingresos totales fueron los 300 pesos que gané por hacer un levantamiento topográfico.

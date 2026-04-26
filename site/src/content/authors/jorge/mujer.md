@@ -12,7 +12,6 @@ tags:
 *Ibargüengoitia*
 *(Guanajuato, México, 1928*
 *- Madrid, 1983)*
-*# La Mujer Que No*
 *Debo ser disctreto. No quiero*
 *comprometerla. La llamaré.. . En el cajón de mi escritorio tengo*
 *todavía una foto suya. junto con las de otras gentes y un pa­ñuelo*

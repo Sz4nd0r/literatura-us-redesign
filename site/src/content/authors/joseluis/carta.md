@@ -8,7 +8,6 @@ tags:
   - carta
   - joseluis
 ---
-*# La carta*
 *José Luis*
 *González (1926 - 1997)*
 

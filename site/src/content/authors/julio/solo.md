@@ -8,7 +8,6 @@ tags:
   - solo
   - julio
 ---
-*# Sólo para fumadores*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 Sin haber sido un fumador precoz, a partir de cierto momento mi historia se confunde con la historia de mis cigarrillos. De mi periodo de aprendizaje no guardo un recuerdo muy claro, salvo del primer cigarrillo que fumé, a los catorce o quince años. Era un pitillo rubio, marca Derby, que me invitó un condiscípulo a la salida del colegio. Lo encendí muy asustado, a la sombra de una morera y después de echar unas cuantas pitadas me sentí tan mal que estuve vomitando toda la tarde y me juré no repetir la experiencia.

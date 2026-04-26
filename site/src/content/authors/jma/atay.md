@@ -8,7 +8,6 @@ tags:
   - atay
   - jma
 ---
-*# K’ellk’atay-pampa*
 *José María Arguedas (1937 - 1917)*
 *Originalmente publicado en Suplemento dominical de La Prensa [Lima] (30 de septiembre de 1934); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) —Recién es el amanecer, pero Yanamayu está resondrando ya a la pampa con su gritar rabioso. —¿Sabes, Nicacha? A este río le pusieron ese nombre porque es malo. Yanamayu, alma negra, asesino. Nadie le quiere en la Pampa de Yanamayu, ni las ovejitas, ni las vacas, ni los caballos cerriles; con odio le oyen roncar todo el año.*
 

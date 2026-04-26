@@ -8,7 +8,6 @@ tags:
   - agm
   - acs
 ---
-*# A García Márquez Juana le oyó...*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Los cuentos de Juana (Con dibujos de Alejandro Obregón) (Barranquilla: Aco, 1972, 76 págs.)*
 *A García Márquez le oyó Juana la historia del hombrecito de la lata de avena Quaker. García Márquez vive ahora en Barcelona y seguramente ha olvidado la historia. Lo cierto es que no la ha escrito nunca.*

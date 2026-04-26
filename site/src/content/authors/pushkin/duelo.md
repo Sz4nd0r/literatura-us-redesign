@@ -17,7 +17,6 @@ tags:
 *(Tsarskoye Selo, San Petersburgo, 1831)*
 *I*
 *Nos hemos batido a pistola*
-*# Baratinski*
 *He jurado matarle de un pistoletazo en duelo. (Todavía me debía mi disparo).*
 
 La noche en el vivac

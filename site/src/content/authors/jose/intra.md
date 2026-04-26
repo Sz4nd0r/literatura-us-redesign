@@ -8,7 +8,6 @@ tags:
   - intra
   - jose
 ---
-*# Intramuros*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

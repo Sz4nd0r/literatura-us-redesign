@@ -10,7 +10,6 @@ tags:
 ---
 *Bernard Malamud*
 *(26 de abril, 1914 – 18 de marzo, 1986)*
-*# Ángel Levine*
 *(1955)*
 *(“Angel Levine”)*
 *Originalmente publicado en la revista Commentary (1 de diciembre de 1955);*

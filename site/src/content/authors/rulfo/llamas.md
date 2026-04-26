@@ -11,7 +11,6 @@ tags:
 *Juan*
 *Rulfo*
 *(México, 1918-1986)*
-*# El Llano En Llamas*
 *Originalmente publicado en*
 *la revista América*
 *Nº 64, diciembre, 1950*

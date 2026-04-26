@@ -8,7 +8,6 @@ tags:
   - muerte
   - willa
 ---
-# Muerte en el desierto
 
 **Willa Cather**
 

@@ -8,7 +8,6 @@ tags:
   - yk_blanco
   - yk
 ---
-# El caballo blanco
 
 **Yasunari Kawabata**
 

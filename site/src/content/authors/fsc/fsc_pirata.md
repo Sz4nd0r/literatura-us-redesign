@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# El Pirata De La Costa*
 *(“The Offshore Pirate”)*
 *(originalmente publicado en The Saturday Evening Post (29 de mayo de 1920);*
 *Flappers and Philosophers*

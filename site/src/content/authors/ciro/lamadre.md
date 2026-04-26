@@ -8,9 +8,7 @@ tags:
   - lamadre
   - ciro
 ---
-*# La madre*
 *Ciro Alegría*
-*# La madre*
 *Ciro Alegría*
 
 Originalmente escrito en Estados Unidos, en 1942, y publicado en la revista Carteles [La Habana], el 4 de octubre de 1953; Duelo de caballeros (Lima: Populibros Peruanos, 1963, 127 págs.); (Buenos Aires: Losada, 1965, 117 págs.) La selva rodeaba una barraca hecha de esbeltos tallos de palmera y levantada en un claro logrado a golpe de hacha, donde los tocones rojos parecían heridas. El vasto cuerpo del bosque había sido mutilado para que el sol se tendiera sobre la casa y los hombres.

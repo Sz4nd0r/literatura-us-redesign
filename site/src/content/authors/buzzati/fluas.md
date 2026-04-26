@@ -10,7 +10,6 @@ tags:
 ---
 *Dino Buzzati*
 *(Belluno, Italia, 1906 - Milán, 1972)*
-*# Invitaciones Superfluas*
 *(“Inviti superflui”)*
 *Paura alla Scala*
 *(Milán: Arnoldo Mondadori Editore, 1948, 290 págs.)*

@@ -11,7 +11,6 @@ tags:
 *Antonio*
 *Skármeta*
 *(Antofagasta, Chile, 1940 - Santiago, Chile 2024)*
-*# Balada Para Un Gordo*
 *Tiro libre*
 *(México: Siglo Veintiuno Editores, 1973, 206 págs.)*
 

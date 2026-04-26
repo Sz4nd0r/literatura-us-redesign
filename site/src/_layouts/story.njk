@@ -1,17 +1,18 @@
 {% extends "./base.njk" %}
 
+{% block navbar %}
+  <li><a href="/content/authors/{{ tags[1] }}/" class="link_style block px-4 py-3 sm:p-0">Volver al autor</a></li>
+{% endblock %}
+
 {% block content %}
 <article>
-  <header data-pagefind-body class="p-2">
+  <header data-pagefind-body class="px-4 py-2 flex justify-center">
     <h1 class="title_style">{{ title }}</h1>
   </header>
   
   <div class="reader-content" id="reader-story">
     {{ content | safe }}
   </div>
-
-  <hr>
-  <p><a href="/content/authors/{{ tags[1] }}/" class="link_style">Volver al autor</a></p>
 </article>
 {% endblock %}
 

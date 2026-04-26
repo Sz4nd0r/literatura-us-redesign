@@ -11,7 +11,6 @@ tags:
 *John Steinbeck*
 *(27 de febrero, 1902 – 20 de diciembre, 1968)*
 *El pony colorado, IV:*
-*# El Guía De La Partida*
 *[Otro título en español: “El Jefe”]*
 *(“The Red Pony IV, The Leader of the People”)*
 *Originalmente publicado en Argosy [revista inglesa], 20 (agosto de 1936);*

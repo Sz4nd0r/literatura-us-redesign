@@ -23,9 +23,7 @@ tags:
 compiten unas con otras:
 ésta desde su ladera,
 aquélla desde su playa sinuosa.
-# Rudyard Kipling
 ¡A ver quién imagina una historia que transcurre en Chicago o en Buffalo, digamos, o en Nashville, o en Tennessee! En Estados Unidos sólo hay tres grandes ciudades que sirven para situar historias: Nueva York, por supuesto, Nueva Orleáns y, la mejor, San Francisco.
-# ## Frank Norris
 El Este es el Este y el Oeste, según los californianos, es San Francisco. Los californianos no son meros habitantes de un estado; son toda una raza. Son los sureños del Oeste. Es cierto que los de Chicago no se muestran menos fieles a su ciudad; pero cuando uno les pregunta por qué, balbucean y hablan de los peces del lago y del nuevo edificio de los Oddfellon. Los californianos, en cambio, entran en detalles.
 Claro está que ya en el clima encuentran tema de disertación para media hora, mientras uno piensa en las cuentas del carbón y en la ropa interior de abrigo. Pero tan pronto como creen que nuestro silencio es convicción, la locura se apodera de ellos y pintan la ciudad del Golden Gate como si fuera la Bagdad del Nuevo Mundo. Hasta ahí, en mi opinión, no es necesaria refutación alguna. Pero, queridos primos míos (descendientes todos de Adán y Eva), temerario el que se atreva a poner el dedo sobre el mapa y decir: “Esta no es una ciudad para el amor, ¿qué puede suceder en ella entonces?”. Sí, audaz y temerario el que en una sola frase desafíe a la historia, al amor, y a Rand y McNally.
 NASHVILLE—. Centro mercantil y capital del estado de Tennessee, situada a orillas del río Cumberland. Atravesada por dos líneas de ferrocarril. Se la considera el centro cultural más importante del Sur.

@@ -339,7 +339,6 @@ Y al unísono alzaron un grito anhelante, fanático:
 —¡Eso!
 —Y entonces yo…
 —¡Ay…, ay…!
-# Viii
 El sueco, con la maleta fuertemente agarrada, avanzaba de costado contra la tormenta como si llevase velas desplegadas. Seguía una línea de arbolillos pelados, jadeantes, que debía de señalar la dirección que seguía el camino. Su cara, reciente aún el embate de los puños de Johnnie, hallaba más placer que dolor en el viento y la gran nevada. Finalmente, una serie de formas cuadradas aparecieron delante de él, y en ellas reconoció las casas del centro urbano.
 Llegó a una calle y se puso a andar, doblegándose ante el viento cada vez que, en una esquina, le enganchaba una terrible ráfaga.
 Podía encontrarse perfectamente en un pueblo desierto. Nos imaginamos el mundo poblado de una humanidad bulliciosa y alegre, pero allí, con los bugles de la tempestad retumbando, resultaba difícil concebir que alguien habitase sobre la faz de la tierra. En semejantes circunstancias, que existieran seres humanos parecía algo realmente prodigioso, y aquellos piojos que tenían que aferrarse a una bombilla giratoria, perdida en el espacio, asolada por la enfermedad, chamuscada por el fuego y bloqueada por el hielo, adquirían un halo de misterio. A la vista de semejante tormenta, estaba claro que el engreimiento humano era el auténtico motor de la vida. Había que ser muy engreído para no morir bajo sus efectos. Pero, finalmente, el sueco encontró una taberna.

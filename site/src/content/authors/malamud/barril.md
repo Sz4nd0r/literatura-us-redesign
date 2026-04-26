@@ -10,7 +10,6 @@ tags:
 ---
 *Bernard Malamud*
 *(26 de abril, 1914 – 18 de marzo, 1986)*
-*# El Barril Mágico*
 *(1954)*
 *(“The Magic Barrel”)*
 *Originalmente publicado en Partisan Review, 21 (noviembre 1954), pp. 587-603);*

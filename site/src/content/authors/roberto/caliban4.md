@@ -8,7 +8,6 @@ tags:
   - caliban4
   - roberto
 ---
-*# Otra vez sobre Martí*
 *Roberto Fernández*
 *Retamar*
 *Apuntes sobre la cultura de nuestra América OTRA VEZ MARTÍ Esta concepción de nuestra cultura ya había sido articuladamente expuesta y defendida, en el siglo pasado, p or el primero d e nuestros hombres en comprender claramente la situación concreta de lo que llamó —en denominación que he recordado varias veces— “Nuestra América mestiza”: José Martí,[39] a quien Rodó quiso dedicar la primera edición cubana de Ariel, y sobre quien se propuso escribir un estudio como los que consagrara a Bolívar y a Artigas, estudio que, por desgracia, al cabo no realizó.[40] Aunque lo hiciera a lo largo de cuantiosas páginas, quizás la ocasión en que Martí ofreció sus ideas sobre este punto de modo más orgánico y apretado fue su artículo de 1891 “Nuestra América”.*

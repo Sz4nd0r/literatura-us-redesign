@@ -10,7 +10,6 @@ tags:
 ---
 *Lino Novás Calvo*
 *(Grañas de Sor, Galicia, España, 1903 - Nueva York, 1983)*
-*# Angusola Y Los Cuchillos*
 *Originalmente publicado en la revista Bohemia*
 *(La Habana, año 39, número 51; 21 de diciembre, 1947, pp. 42-44 y 73-74);*
 *también en Angusola y los cuchillos (2003)*

@@ -8,7 +8,6 @@ tags:
   - bien
   - sergio
 ---
-*# Del bien general*
 *Sergio Ramírez (n. 1942)*
 
 Del bien general De tropeles y tropelías (San Salvador: Editorial Universitaria, 1972); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) S. E. antes de asumir la primera magistratura de la nación ejerció el oficio de médico flebotomiano, con título autorizado por el protomedicato de la República. Su libro El bien general, escrito en esos años que andaba por los caminos curando enfermos, sirvió ya en el curso de su mandato como manual de las Casas de Salud, pues en él sucinta y didácticamente se daban consejos y reglas prácticas para la curación de los dolientes.

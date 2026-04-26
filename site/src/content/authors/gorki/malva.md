@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Malva*
 *(1897)*
 *(“Мальва”)*
 *Originalmente publicado, con el subtítulo Набросок [“Bosquejo”], en dos entregas,*

@@ -8,7 +8,6 @@ tags:
   - arenas
   - garciamarquez
 ---
-*# En la ciudad de los espejismos*
 *Gabriel*
 *García Márquez (n. 1947)*
 

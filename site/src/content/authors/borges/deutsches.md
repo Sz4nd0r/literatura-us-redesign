@@ -8,9 +8,7 @@ tags:
   - deutsches
   - borges
 ---
-*# Deutsches Requiem*
 *Jorge Luis Borges*
-*# Deutsches Requiem*
 *Jorge Luis Borges*
 
 Mi nombre es Otto Dietrich zur Linde. Uno de mis antepasados, Christoph zur Linde, murió en la carga de caballería que decidió la victoria de Zorndorf. Mi bisabuelo materno, Ulrich Forkel, fue asesinado en la foresta de Marchenoir por francotiradores franceses, en los últimos días de 1870; el capitán Dietrich zur Linde, mi padre, se distinguió en el sitio de Namur, en 1914, y, dos años después, en la travesía del Danubio[1]. En cuanto a mí, seré fusilado por torturador y asesino. El tribunal ha procedido con rectitud; desde el principio, yo me he declarado culpable. Mañana, cuando el reloj de la prisión dé las nueve, yo habré entrado en la muerte; es natural que piense en mis mayores, ya que tan cerca estoy de su sombra, y a que de algún modo soy ellos.

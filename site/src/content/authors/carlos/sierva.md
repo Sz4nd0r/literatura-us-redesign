@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Fuentes*
 *(Ciudad de Panamá, 1928 - México D.F., 2012)*
-*# La Sierva Del Padre*
 *(2006)*
 *Todas las familias felices (2006);*
 *Cuentos naturales (2007)*

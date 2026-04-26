@@ -10,7 +10,6 @@ tags:
 ---
 *Miguel Ángel Asturias*
 *(Ciudad de Guatemala, 1899 - Madrid, 1974)*
-*# Clarivigilia Primaveral*
 *(1965)*
 *(Buenos Aires: Editorial Losada, 1965, 121 págs.)*
 *La luz de los*

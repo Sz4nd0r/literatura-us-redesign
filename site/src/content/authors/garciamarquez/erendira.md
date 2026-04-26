@@ -9,12 +9,10 @@ tags:
   - erendira
   - garciamarquez
 ---
-# La increíble y triste historia de la cándida Eréndira y de su abuela desalmada
 
 *Gabriel
       García Márquez (n. 1947)*
 
-# La increíble y triste historia de la cándida Eréndira y de su abuela desalmada
 
 *Gabriel
       García Márquez (n. 1947)*

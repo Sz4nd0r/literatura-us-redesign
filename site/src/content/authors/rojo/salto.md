@@ -12,7 +12,6 @@ tags:
 *Benítez Rojo*
 *(La Habana, 1931-*
 *Massachusetts, 2005)*
-*# Salto Atrás*
 *Tute de reyes*
 *(La Habana: Ediciones Casa de las Américas, 1967, 124 págs.),*
 *págs. 35-44*

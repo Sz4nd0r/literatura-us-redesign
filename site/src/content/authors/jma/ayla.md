@@ -8,7 +8,6 @@ tags:
   - ayla
   - jma
 ---
-*# El ayla*
 *José María Arguedas (1937 - 1917)*
 
 Amor mundo y todos los cuentos (Lima: Francisco Moncloa Editores S.A., 1967, 207 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Los aukis, sacerdotes de la comunidad, cantaban en quechua a la orilla del estanque. Con el sombrero en una mano y una cruz pequeña cubierta de flores rojas de k’antu en la otra, entonaban un himno muy antiguo: Aylillay, aylillay uh huayli aylillay, aylillay uh huayli. Señores Cabildo; señores comunes hermosa palabra hermosa atención perdonadme hacedme entender hablad, padre mío rechazad la rabia rechazad la pereza aylillay, aylillay uh huayli… Con los rostros vueltos hacia la gran montaña sobre cuya nieve nadie pudo clavar una cruz, cantaron largo rato.

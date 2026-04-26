@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# Cantantes*
 *(1850)*
 *(“Свидание”)*
 *Originalmente publicado en la revista Современник [El Contemporáneo]*

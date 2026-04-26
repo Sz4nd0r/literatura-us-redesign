@@ -14,7 +14,6 @@ tags:
 *Entrevista con Rita Guibert*
 *Siete voces*
 *(México: Editorial Novaro,*
-*# # S.A., 1974)*
 *Después*
 *de presenciar en Estocolmo la entrega del Premio Nobel de Literatura 1971*
 *a Pablo Neruda, viajé con él y con su mujer, Matilde Urrutia, hasta*

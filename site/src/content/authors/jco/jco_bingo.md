@@ -10,7 +10,6 @@ tags:
 ---
 *Joyce Carol Oates*
 *(Lockport, New York, 1938-)*
-*# El Rey Del Bingo*
 *(“The Bingo Master”)*
 *Originalmente publicado en la antología*
 *Dark Forces: New Stories of Suspense and Supernatural Horror (1980)*

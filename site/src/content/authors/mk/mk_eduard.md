@@ -11,7 +11,6 @@ tags:
 *Milan Kundera*
 *(Brno, Czechoslovakia, 1929 -*
 *París, Francia, 2023)*
-*# Eduard Y Dios*
 *Smešné lásky (1969)*
 *1*
 

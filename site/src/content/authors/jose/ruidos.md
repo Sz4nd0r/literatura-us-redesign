@@ -8,7 +8,6 @@ tags:
   - ruidos
   - jose
 ---
-*# Ruidos*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

@@ -8,7 +8,6 @@ tags:
   - azar
   - sergio
 ---
-*# De los juegos de azar*
 *Sergio Ramírez (n. 1942)*
 
 De los juegos de azar De tropeles y tropelías (San Salvador: Editorial Universitaria, 1972); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) Una vez S. E. andaba por parajes inhóspitos combatiendo insurrectos y, cansado de las faenas del día, entabló en el cuartel general de campaña una jugadera de dados con los altos jefes militares, pues era aficionado a las suertes prohibidas, a los juegos de azar, a los gallos y a toda tahurería, pues en su juventud había servido como coime en mesas clandestinas.

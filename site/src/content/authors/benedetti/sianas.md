@@ -8,7 +8,6 @@ tags:
   - sianas
   - benedetti
 ---
-*# Las persianas*
 *Mario Benedetti (1920 - 2009)*
 
 Con y sin nostalgia, 1977) Marcelo llegó como todas las noches a su apartamento de solo. Lentamente se fue despojando: sobre la mesita dejó el llavero, el bolígrafo, los lentes, la billetera, la cajita de preservativos [siempre llevaba una, por las dudas, aunque por lo general acababa rota o arrugada, de tanto vegetar en el bolsillito delantero del pantalón], el portafolios, el peine, el reloj con almanaque, el escarbadientes de plástico, las pastillas de pepsina y pancreatina, el pañuelo, la cédula de identidad con su cara de pocos amigos.

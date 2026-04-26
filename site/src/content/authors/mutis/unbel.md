@@ -8,7 +8,6 @@ tags:
   - unbel
   - mutis
 ---
-*# Un bel morir*
 *Álvaro Mutis*
 *Un bel morir (Bogotá: Oveja Negra, 1988); (Madrid: Mondadori, 1989); y (México: Diana, 1989) A Jorge Ruiz Dueñas, amigo ejemplar y avezado seguidor de los asuntos del Gaviero. Un bel morir tutta una vita onora. FRANCESCO PETRARCA Todo irá desvaneciéndose en el olvido y el grito de un mono, el manar blancuzco de la savia por la herida corteza del caucho, el chapoteo de las aguas contra la quilla en viaje, serán asunto más memorable que nuestros largos abrazos. ÁLVARO MUTIS, “Un bel morir…” en Los trabajos perdidos Accumulons l'irréparable!*
 

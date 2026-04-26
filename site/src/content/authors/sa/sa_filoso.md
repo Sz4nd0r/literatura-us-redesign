@@ -10,7 +10,6 @@ tags:
 ---
 *Sherwood Anderson*
 *(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
-*# El Filósofo*
 *(“The Philosophe”)*
 *Originalmente publicado en la revista The Little Review*
 *Vol. 3, Núm. 4 (junio-julio de 1916);*

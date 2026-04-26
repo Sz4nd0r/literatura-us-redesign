@@ -10,7 +10,6 @@ tags:
 ---
 *Isak Dinesen*
 *(1885–1962)*
-*# El Acre Del Dolor*
 *—Sorrow-acre*
 *(Vinter-eventyr, 1942)*
 *Cuentos de invierno (1942)*

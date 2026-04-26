@@ -12,7 +12,6 @@ tags:
 *Wilde*
 *(Irlanda, 1854 - Francia,*
 *1900)*
-*# El Amigo Fiel*
 *[El amigo abnegado]*
 *(“The Devoted Friend”)*
 *The Happy Prince and Other Tales*

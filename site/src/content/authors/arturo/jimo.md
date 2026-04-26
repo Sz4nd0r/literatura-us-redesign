@@ -8,7 +8,6 @@ tags:
   - jimo
   - arturo
 ---
-*# El prójimo*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Catorce cuentos venezolanos* (1969)*
 *Con el tiempo, la gente se acostumbró a su presencia. Empezaron a dejarle comida: un pedazo de pan, una fruta, un poco de queso. Él recibía todo con un leve movimiento de cabeza, sin pronunciar palabra. A veces, alguien se acercaba a hablarle, a preguntarle por su vida o por su tierra. Él escuchaba con atención, pero sus respuestas eran siempre vagas y misteriosas.*

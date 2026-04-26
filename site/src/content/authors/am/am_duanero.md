@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# La Mujer De La Casa Del Aduanero*
 *La cosa e altri racconti (1983)*
 
 Soy un hombre de orden, no sólo psicológica, sino también profesionalmente: presto servicio, en carácter de aduanero, en el aeropuerto. Como a todo hombre de orden, sin embargo, me complace de vez en cuando olvidarme del orden y dejar que pase de contrabando la mercancía de la imaginación. Dedico el sábado y el domingo, precisamente, a fantasear. Me saco el uniforme, me tiendo en la cama y fijo el pensamiento en algo que recientemente me haya llamado mucho la atención. Hoy, no bien me tendí en la cama, en el silencio de la casa desierta, no tardé demasiado en encontrar el asunto que había hecho impacto, recientemente, en mi imaginación.

@@ -8,7 +8,6 @@ tags:
   - dospesos
   - juanbosch
 ---
-*# Dos pesos de agua*
 *Juan Bosch (1909 - 2001)*
 *Cuento de Navidad” y “El indio Manuel Sicurí”, publicados en ediciones independientes en el extranjero, y Más cuentos escritos en el exilio, (1964)*
 *Originalmente publicadon en la Revista Carteles (28 de marzo de 1937), págs. 38-39 y 66-67; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Cuentos escritos antes del exilio (Santo Domingo: Editora Alfa y Omega, 1974, 284 págs.), págs. 15-30. La vieja Remigia sujeta el aparejo, alza la pequeña cara y dice: —Dele ese rial fuerte a las ánimas pa que llueva, Felipa. Felipa fuma y calla. Al cabo de tanto oír lamentar la sequía levanta los ojos y recorre el cielo con ellos.*

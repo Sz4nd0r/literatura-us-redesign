@@ -10,7 +10,6 @@ tags:
 ---
 *J. D. Salinger*
 *(Nueva York, 1919 - Cornish, New Hampshire, 2010)*
-*# Teddy*
 *Nine Stories (1953)*
 
 —El día exquisito te lo voy a dar a ti, amiguito, si no te bajas enseguida de esa valija. Y no estoy bromeando —dijo el señor McArdle. Hablaba desde la cama gemela que estaba más lejos del ojo de buey. Furiosamente, con un suspiro que era casi un lamento, se quitó la sábana de los tobillos con un puntapié, como si su cuerpo debilitado y quemado por el sol no tolerara de pronto ni siquiera el peso de la tela. Estaba de espaldas, con nada más que los pantalones de pijama y un cigarrillo encendido en una mano. Tenía la cabeza erguida, lo bastante como para apoyarla en forma incómoda, casi masoquista, contra la base misma del respaldo de la cama. La almohada y el cenicero estaban en el suelo, entre su cama y la de la mujer. Sin levantarse, extendió el brazo derecho desnudo, de un rosa inflamado, y desparramó las cenizas en la dirección general de la mesita de luz.

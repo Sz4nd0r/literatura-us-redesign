@@ -10,7 +10,6 @@ tags:
 ---
 *Sherwood Anderson*
 *(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
-*# Ahí Está Ella, Bañándose*
 *(1923)*
 *(“There She Is—She is Taking Her Bath”)*
 *Death in the Woods and Other Stories*

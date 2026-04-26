@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Las Mellizas*
 *Originalmente publicado en Crisis (Buenos Aires), 1973*
 
 Las mellizas habían nacido con media hora de diferencia y siempre discutían en su idioma arrabalero respecto a cuál era la mayor, cuál la menor. Yo había elegido una, la más delgada, la más carente de piedad. No recuerdo, siquiera, el nombre.

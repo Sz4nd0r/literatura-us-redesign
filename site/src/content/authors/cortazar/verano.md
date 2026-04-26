@@ -8,9 +8,7 @@ tags:
   - verano
   - cortazar
 ---
-*# Verano*
 *Julio Cortázar*
-*# Verano*
 *Julio Cortázar*
 
 Zulma se animaban a franquear con el yip. Zulma les abrió la puerta, y a Florencio le pareció que tenía los ojos como si hubiera estado pelando cebollas. Mariano vino desde la otra pieza, les dijo que entraran, pero Florencio solamente quería pedirles que guardaran a la nena hasta la mañana siguiente porque tenía que ir a la costa por un asunto urgente y en el pueblo no había nadie a quien pedirle el favor. Por supuesto, dijo Zulma, déjela nomás, le pondremos una cama aquí abajo.

@@ -16,7 +16,6 @@ tags:
 *Forma parte del manuscrito de la novela El proceso —capítulo “En la*
 *catedral”*
 *Originalmente publicado en el “semanario judío independiente” Selbswehr (7 de septiembre de 1915)*
-*# Ante La Ley*
 *hay un guardián. Un campesino se presenta frente*
 *a este guardián, y solicita*
 

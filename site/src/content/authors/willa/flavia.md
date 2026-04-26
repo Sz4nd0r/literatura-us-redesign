@@ -8,7 +8,6 @@ tags:
   - flavia
   - willa
 ---
-# Flavia y sus artistas
 
 **Willa Cather**
 

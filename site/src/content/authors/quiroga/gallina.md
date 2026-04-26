@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# La Gallina Degollada*
 *(Cuentos de amor, de*
 *locura y de muerte, 1917)*
 *Todo el día, sentados en el patio*

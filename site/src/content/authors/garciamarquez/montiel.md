@@ -8,7 +8,6 @@ tags:
   - montiel
   - garciamarquez
 ---
-*# La viuda de Montiel*
 *Gabriel*
 *García Márquez (n. 1947)*
 

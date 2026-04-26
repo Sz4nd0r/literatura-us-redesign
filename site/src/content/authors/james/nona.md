@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# Nona Vincent*
 *(“Nona Vincent”, 1892)*
 *Originalmente publicado en English Illustrated Magazine (febrero-marzo 1892);*
 *The Real Thing and Other Tales (1893)*

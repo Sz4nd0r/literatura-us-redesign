@@ -8,9 +8,7 @@ tags:
   - cuento
   - ciro
 ---
-*# Cuento quiromántico*
 *Ciro Alegría*
-*# Cuento quiromántico*
 *Ciro Alegría*
 *Originalmente publicado en Alepha [Barranco], Año III, Núm. 12 (octubre-diciembre de 1967); Siete cuentos quirománticos [póstumo] (Lima: Ediciones Varona, 1978, 189 págs.) Yo me dejaba ir a la deriva. (Paréntesis para los sabios: que haya luz artificial o natural no hace al caso. ¿Os habéis sobresaltado como cuando, mientras dormís plácidamente, el vecino del piso de arriba deja caer violentamente los zapatos? En realidad, no se trata sino de eso: de un molesto ruido de zapatos).*
 

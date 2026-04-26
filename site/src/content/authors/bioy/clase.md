@@ -8,7 +8,6 @@ tags:
   - clase
   - bioy
 ---
-*# La pasajera de primera clase*
 *Adolfo Bioy Casares (1914 - 1999)*
 *Originalmente publicado en el periódico La Prensa (26 de octubre de 1969); Historias fantásticas (Buenos Aires: Emecé, 1972, 339 págs.), págs. 337-339. En aquella ciudad tropical, modesto emporio al que llegaban ocasionales compradores enviados por compañías tabacaleras, la vida se deslizaba monótonamente. Cuando algún barco fondeaba en el puerto, nuestro cónsul festejaba el acontecimiento con un banquete en el salón morisco del hotel Palmas. El invitado de honor era siempre el capitán, a quien el negrito del consulado llevaba la invitación a bordo, con el ruego que la extendiera a un grupo, elegido por él, de oficiales y pasajeros.*
 

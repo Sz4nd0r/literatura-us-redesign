@@ -10,7 +10,6 @@ tags:
 ---
 *Lino Novás Calvo*
 *(Grañas de Sor, Galicia, España, 1903 - Nueva York, 1983)*
-*# La Luna Nona De Lino Novás*
 *Por*
 *Guillermo Cabrera Infante*
 

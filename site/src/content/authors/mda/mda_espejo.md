@@ -12,7 +12,6 @@ tags:
 *(Rio de Janeiro, 1839-1908)*
 *El espejo (1882)*
 *(“O espelho”)*
-*# Esbozo De Una Nueva Teoría Sobre El Alma Humana*
 *Originalmente publicado, como “A agulha e a linha”, en*
 *Gazeta de Notícias (8 de septiembre de 1882)*
 *Papéis Avulsos*

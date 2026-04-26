@@ -11,7 +11,6 @@ tags:
 *Virginia*
 *Woolf*
 *(1882-1941)*
-*# Orlando*
 *(1928)*
 *(Orlando: A Biography)*
 *A V. Sackville-West*

@@ -8,7 +8,6 @@ tags:
   - blomer
   - benedetti
 ---
-*# El hotelito de la rue Blomer*
 *Mario Benedetti (1920 - 2009)*
 
 El hotelito de la rue Blomer (Con y sin nostalgia, 1977) Quizá se debiera a la vieja costumbre de no reconocerse en público. Lo cierto es que en el métro no se hablaron. De vez en cuando él la miraba y ella esbozaba una sonrisa tristona y nada más. Era la complicada hora del cierre comercial. El vagón iba repleto y había un olor agridulce, mezcla de sobaco y chanel. Igual que en el 65. Fue un alivio llegar por fin a la estación Vaugirard. Él tomó la valijita con la que ella había aparecido, dos horas antes, en la Gare de Lyon.

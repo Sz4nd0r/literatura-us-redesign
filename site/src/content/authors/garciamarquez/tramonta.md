@@ -8,7 +8,6 @@ tags:
   - tramonta
   - garciamarquez
 ---
-*# Tramontana*
 *Gabriel*
 *García Márquez (n. 1947)*
 

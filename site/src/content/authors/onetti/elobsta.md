@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# El Obstáculo*
 *Originalmente publicado en La Nación (Buenos Aires), 1935*
 
 Se fue deteniendo con lentitud, temeroso de que la cesación brusca de los pasos desequilibrara violentamente el conjunto de ruidos mezclados en el silencio. Silencio y sombras en una franja que corría desde el rugido sordo de la usina iluminada hasta las cuatro ventanas del club, mal cerradas para las risas y el choque de los vasos. También, a veces, los tacazos en la mesa de billar. Silencio y sombras acribillados por el temblor de los grillos en la tierra y el de las estrellas en el cielo alto y negro.

@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# Mañana*
 *(1902)*
 *(“To-morrow”)*
 *Originalmente publicado en Pall Mall Magazine,*

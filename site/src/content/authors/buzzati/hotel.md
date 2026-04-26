@@ -10,7 +10,6 @@ tags:
 ---
 *Dino Buzzati*
 *(Belluno, Italia, 1906 - Milán, 1972)*
-*# El Pasillo Del Gran Hotel*
 *(“Il corridoio del grande albergo”)*
 *La boutique del mistero*
 *(Milán: Arnoldo Mondadori Editore, 1968, 226 págs.)*

@@ -23,7 +23,6 @@ tags:
 Il Carnevale dei morti
 (Florencia: Battistelli, 1919);
 Novelle per un anno (vol. 11):
-# La Giara
 (Florencia: ed. R. Bemporad e F., 1928)
 Aquella cosecha había sido abundante también en olivas. Ramas fructíferas, cargadas el año anterior, habían conseguido fortalecerse pese a la niebla que las había acechado mientras florecían.
 Zirafa, que en su finca de las Quote, en Primosole, tenía muchos olivos, previendo que los cinco viejas tinajas de barro esmaltado, que guardaba en el sótano, no serían suficientes para contener todo el aceite de la nueva cosecha, había encargado tiempo atrás una sexta tinaja, de mayor capacidad, en Santo Stefano di Camastra, donde se fabricaban: que fuera alto hasta el pecho de un hombre, barrigón y majestuoso, para que actuara como el padre prior de los otros cinco.

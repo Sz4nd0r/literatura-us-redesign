@@ -8,7 +8,6 @@ tags:
   - imagi
   - mujica
 ---
-*# XIV. El imaginero (1679)*
 *Manuel Mujica Lainez*
 
 Aires presa de una obsesión que le trastornó el ánimo. Había permanecido cinco años en los calabozos del Santo Oficio de Lima. Fueron cinco terribles años, durante los cuales su razón, de suyo dada a la fantasía, se extravió lentamente. Por acusaciones de una mestiza y un negro, sus criados, había sido enviado a esas crueles cárceles. Los servidores se amaban en secreto y como el imaginero comenzó a perseguir a la mocita, resolvieron deshacerse de él tachándole de hereje. El portugués no tuvo defensa.

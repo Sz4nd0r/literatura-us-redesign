@@ -8,7 +8,6 @@ tags:
   - jada
   - bioy
 ---
-*# Encrucijada*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Guirnalda con amores (Buenos Aires: Emecé, 1959, 201 págs.); Historias de amor (Buenos Aires: Emecé, 1972, 259 págs.) Por la ventana llega el rumor del agua, casi inmóvil, y veo, delicadamente desdibujada, la ribera opuesta, verdosa o azul en la tarde, con las primeras luces titilando en el camino que va a Niza y a Italia. Diríase que no hay límites para la paz de este golfo de Saint-Tropez, pero aquí estoy yo, sin embargo, procurando componer las frases, para reprimir un poco la angustia. Me repito que al término de la narración he de encontrar la salida de esta maraña. Lo malo es que mi maraña se compone únicamente de vacío y descampado, y no sé cómo uno puede salir cuando ya está fuera.

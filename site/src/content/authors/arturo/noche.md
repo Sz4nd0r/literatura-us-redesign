@@ -8,7 +8,6 @@ tags:
   - noche
   - arturo
 ---
-*# La noche del rabopelado*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Treinta hombres y sus sombras* (1949)*
 

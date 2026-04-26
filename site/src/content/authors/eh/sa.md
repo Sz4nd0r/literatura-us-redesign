@@ -27,7 +27,6 @@ El jueves 28 de noviembre de 1912, Anderson tuvo un ataque de nervios, y termin�
 Cuatro años después del colapso, Anderson publicó su primera novela, Windy McPherson’s Son (1916), como parte de un contrato de tres libros con John Lane. El año siguiente, publicó su segunda novela, Marching Men (1917); pero el éxito no llegó hasta la publicación de Winesburg, Ohio, en 1919, su trabajo más notable.
 Aunque sus cuentos eran muy exitosos, Anderson quería escribir novelas. En 1920, publicó Poor White, la cual tuvo bastante éxito. En 1923, Anderson publicó Many Marriages; en 1925, Dark Laughter, la cual fue un éxito de ventas —el único libro de Anderson que alcanzó ese estado durante su vida.
 En los 1930s, Anderson publicó Death in the Woods (una colección de relatos); Puzzled America (una colección de ensayos), y Kit Brandon: A Portrait (novela). En 1932, Anderson dedicó a Copenhaver su novela Beyond Desire.
-# Índice:
 Narrativa:
 Winesburg, Ohio (1919):
 —1. Manos [—Manos -otra traducción]

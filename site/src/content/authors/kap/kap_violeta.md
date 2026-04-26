@@ -10,7 +10,6 @@ tags:
 ---
 *Katherine Anne Porter*
 *(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
-*# Violeta Virgen*
 *—Violeta virgen*
 *Originalmente publicado en The Century Magazine (Diciembre 1924, pp. 261-268)*
 *Flowering Judas and Other Stories (1930)*

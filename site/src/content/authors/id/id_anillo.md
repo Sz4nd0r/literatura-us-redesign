@@ -10,7 +10,6 @@ tags:
 ---
 *Isak Dinesen*
 *(1885–1962)*
-*# El Anillo*
 *—The Ring*
 *Anecdotes of Destiny (1958)*
 

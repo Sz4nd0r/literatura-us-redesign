@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Amor En La Noche*
 *(“Love in the Night”)*
 *Originalmente publicado en The Saturday Evening Post, 197 (14 de marzo de 1925);*
 *Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald*

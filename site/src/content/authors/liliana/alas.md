@@ -8,7 +8,6 @@ tags:
   - alas
   - liliana
 ---
-*# Con medallas, con goulash, con un atenuado clamor de alas*
 *Liliana Heker*
 *La muerte de Dios (Buenos Aires: Aguilar, Altea, Taurus, Alfaguara, 2011, 208 págs.) A Alberto Manguel Irene vestía unas agraciadas babuchas de seda y caminaba por Glencairn Street dentro de un aura de irrealidad. No era una sensación infrecuente: podía mirar cualquier día desde su balcón y descubrir una cúpula como recién brotada de la tierra o entrar en el subte e ir advirtiendo una comicidad de pesadilla en sus circunstanciales compañeros de vagón. El mundo en general le resultaba un lugar bastante raro y estar en una ciudad desconocida sin duda agravaba las cosas pero, además, esta vez no tenía una idea muy clara de a dónde iba.*
 

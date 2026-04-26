@@ -8,7 +8,6 @@ tags:
   - modos
   - sergio
 ---
-*# De los modos de divertir al Presidente aburrido*
 *Sergio Ramírez (n. 1942)*
 
 De los modos de divertir al Presidente aburrido De tropeles y tropelías (San Salvador: Editorial Universitaria, 1972); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) Un día en que amigos civiles y militares celebraban el cumpleaños del Señor Presidente en una de las innúmeras haciendas de ganado que poseía frente al mar, después de servirse las viandas y pasados los brindis y discursos, se buscaba la mejor manera de disipar su aburrimiento, agasajándolo y divirtiéndolo, cosa en que ya los cantos y bailes bufos, piruetas, imitaciones y recitaciones habían fracasado.

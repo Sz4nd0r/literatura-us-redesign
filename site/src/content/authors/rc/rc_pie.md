@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Caballos En La Niebla*
 *(“Blackbird Pie”)*
 *Originalmente publicado en The New Yorker (julio 7, 1986);*
 *Where I’m Calling From: New & Selected Stories (1988);*

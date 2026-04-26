@@ -8,7 +8,6 @@ tags:
   - dog
   - bioy
 ---
-*# Un perro que se llamaba Dos*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 De nuevo nos habíamos reunido los muchachos. Qué error, qué recíproco testimonio de la desolada realidad del tiempo. Hojeábamos un viejo número de Plan, la efímera revista en cuyas páginas algunos de nosotros, acaso los más, publicamos el primer cuento o el primer poema, y alguien dijo que al leer las firmas de los colaboradores inevitablemente pensaba en el destino. Sin duda los nombres reunidos en ese pliego amarillento recordaban a un exaltado grupo de arrogantes y alegres expositores de teorías, todos grandes escritores futuros, que vistos a la dura luz de una perspectiva de treinta años. .. Yo vivo en el presente, sin conjurar la idea del destino. ¿Quién está satisfecho?

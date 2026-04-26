@@ -8,7 +8,6 @@ tags:
   - hermana
   - acs
 ---
-*# La hermana*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *La casa grande (Bogotá: Mito, 1962, 220 págs.)*
 *Para Alejandro Obregón*

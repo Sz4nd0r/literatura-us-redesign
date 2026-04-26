@@ -8,7 +8,6 @@ tags:
   - amuleto
   - ciro
 ---
-*# El amuleto*
 *Ciro Alegría*
 *Ellos estaban en una inmensa altura. Para llegar hasta allí habían tomado, sucesivamente, dos ascensores de rápido impulso, sintiendo en la subida que los oídos les zumbaban. A Lina le dolieron. Ahora las miradas de Joan saltaban de rascacielos en rascacielos, en tanto que suspiraba hondo, moviendo rítmicamente los senos moldeados por una blusa azul.*
 

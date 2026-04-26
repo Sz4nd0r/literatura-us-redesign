@@ -8,7 +8,6 @@ tags:
   - sombras
   - juanbosch
 ---
-*# Sombras*
 *Juan Bosch (1909 - 2001)*
 
 Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) En medio de la lluvia, a ratos, encendían fósforos allá arriba. Después hacían corretear una gran carreta. Se oían las ruedas chocar con el empedrado del cielo. Telo comenzó a alejarse al rumor de la lluvia que golpeaba sordamente en las yaguas. Sentía cómo se iba desvaneciendo en sí mismo hasta convertirse en algo blando. Pudo pensar, en el sopor, que era un hombre de algodón y algo más.

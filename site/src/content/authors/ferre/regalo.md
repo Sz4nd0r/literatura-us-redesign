@@ -8,7 +8,6 @@ tags:
   - regalo
   - ferre
 ---
-*# El regalo*
 *Rosario Ferré (2001 - 1972)*
 *Maldito amor y otros cuentos (México: Editorial Joaquín Mortiz, 1986, 206 págs.) Para Ani, por los recuerdos compartidos. Nadie se esperaba que Merceditas Cáceres, el día que expulsaron finalmente a Carlota Rodríguez del Sagrado Corazón, colgara su banda de la manija de la puerta, dejara caer con desdén su medalla de la Congregación de los Angeles en la urna de las limosnas, y saliera por los portales del colegio del brazo de su amiga, con la cabeza en alto y sin dignarse mirar hacia atrás una sola vez, con aquel gesto de altanería común a todos los de su clase. A su lado, por las penumbras de la portería, marchaba Carlota, el enorme cuerpo de animal pesado y manso balanceándose imperceptiblemente hacia delante y el rostro espeso de colorete y de pancake deshecho en surcos, manchando sin remedio el cuello de su uniforme con su llanto multicolor.*
 

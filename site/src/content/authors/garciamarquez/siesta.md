@@ -8,7 +8,6 @@ tags:
   - siesta
   - garciamarquez
 ---
-# La siesta del martes
 
 *Gabriel García Márquez*
 

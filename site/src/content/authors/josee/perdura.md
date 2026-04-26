@@ -8,7 +8,6 @@ tags:
   - perdura
   - josee
 ---
-*# No perdura*
 *José Emilio Pacheco (n. 2004)*
 
 La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) La mano de Claudia se cerró con mayor fuerza en su mano. Un vago horror reemplazó la sorna con que Ernesto miraba la película. En la pantalla observada por miles de personas como ellos apareció un corredor sombrío. La cara del hombre que representa a la víctima adquiere un aspecto de terror verdadero. Pero qué absurdo compartir en 1961 la sugestión de un público idiota al que espantan los trucos de una película filmada en los años treinta.

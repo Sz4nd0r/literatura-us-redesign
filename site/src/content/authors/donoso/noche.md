@@ -10,7 +10,6 @@ tags:
 ---
 *José Donoso*
 *(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
-*# El Obsceno Pájaro De La Noche*
 *(1970)*
 *(Barcelona: Seix Barral, 1970)*
 *Para mis padres*
@@ -21,7 +20,6 @@ the contrary out of the profoundest tragic depths of the essential dearth in whi
 its subject’s roots are plunged. The natural inheritance of everyone who is
 capable of spiritual life is an unsubdued forest where the wolf howls and the
 obscene bird of night chatters.
-# ## Henry James Sr.
 writing to his sons Henry and William
 1
 Misiá Raquel Ruiz lloró muchísimo cuando la madre Benita la llamó por teléfono para contarle que la Brígida había amanecido muerta. Después se consoló un poco y pidió más detalles:

@@ -8,7 +8,6 @@ tags:
   - contar
   - augusto
 ---
-*# Contar un cuento*
 *Augusto Roa Bastos (1917 - 2005)*
 
 Pero hay una realidad que no se puede falsear impunemente —apuntó alguien no con ánimo de rebatirle, desde luego, sino de aguijonearlo un poco. —¿Cómo? —se hizo repetir la frase apantallándose la oreja con la mano, despectivamente—. Claro, eso que la gente satisfecha llama la verdad de las cosas. ¡Ahí los quiero ver! ¿Alguien ha vivido demasiado para saber todo lo que hay que saber? ¿Y qué es lo que al final le queda al que más sabe?

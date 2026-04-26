@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# Una Gallina*
 *(“Uma galinha”)*
 *Originalmente publicado en Alguns contos (1952);*
 *Laços de família (1960)*

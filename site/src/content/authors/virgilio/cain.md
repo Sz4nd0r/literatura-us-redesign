@@ -12,7 +12,6 @@ tags:
 *Díaz Grullón*
 *(República Dominicana,*
 *1924-2001)*
-*# Caín*
 *El mensajero de la oficina colocó*
 *la tarjeta sobre el escritorio, Vicente la miró distraídamente y la*
 *rodó hacia un lado con el dorso de la mano, concentrándose de nuevo en*

@@ -8,7 +8,6 @@ tags:
   - iriarte
   - benedetti
 ---
-*# Familia Iriarte*
 *Mario Benedetti (1920 - 2009)*
 *En la guardia de la mañana yo estaba siempre a cargo del teléfono y conocía de memoria las cinco voces. Todos estábamos enterados de que cada familia era un programa y a veces cotejábamos nuestras sospechas. Para mí, por ejemplo, la familia Calvo era gordita, arremetedora, con la pintura siempre más ancha que el labio; la familia Ruiz, una pituca sin calidad, de mechón sobre el ojo; la familia Durán, una flaca intelectual, del tipo fatigado y sin prejuicios; la familia Salgado, una hembra de labio grueeo, de esas que convencen a puro sexo.*
 

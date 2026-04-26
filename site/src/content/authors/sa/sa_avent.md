@@ -10,7 +10,6 @@ tags:
 ---
 *Sherwood Anderson*
 *(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
-*# Aventura*
 *(“Adventure”)*
 *Winesburg, Ohio*
 *(Nueva York: B. W. Huebsch, 1919, 303 págs.)*

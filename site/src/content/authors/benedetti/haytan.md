@@ -8,7 +8,6 @@ tags:
   - haytan
   - benedetti
 ---
-*# Hay tantos prejuicios*
 *Mario Benedetti (1920 - 2009)*
 
 Hay tantos prejuicios (Despistes y franquezas, 1989) Por lo menos habían transcurrido quince años sin que Ignacio supiera nada de Martín o de Alfonso. Nada, de modo directo, claro, ya que indirectamente le habían llegado esporádicas referencias. Así que encontrarlos en el aeropuerto de Carrasco (ellos llegaban de Santiago de Chile; él partía hacia Porto Alegre) fue todo un acontecimiento. Apenas tuvieron diez minutos para reconocerse (a duras penas, debido a la actual barba espesa de Ignacio, la vertiginosa calvicie de Martín, el respetable abdomen de Alfonso), abrazarse, ponerse sumariamente al día (Martín estaba casado por segunda vez, Alfonso había enviudado, Ignacio se mantenía incólume en su soltería), dejar expresa constancia de la triple voluntad de encontrarse cuanto antes e intercambiar rápidamente tarjetas, con teléfonos y domicilios.

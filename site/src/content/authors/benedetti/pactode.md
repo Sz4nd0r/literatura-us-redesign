@@ -8,7 +8,6 @@ tags:
   - pactode
   - benedetti
 ---
-*# Pacto de sangre*
 *Mario Benedetti (1920 - 2009)*
 *Pacto de sangre (Despistes y franquezas, 1989) A esta altura ya nadie me nombra por mi nombre: Octavio. Todos me llaman abuelo. Incluida mi propia hija. Cuando uno tiene, como yo, ochenta y cuatro años, qué más puede pedir. No pido nada. Fui y sigo siendo orgulloso. Sin embargo, hace ya algunos años que me he acostumbrado a estar en la mecedora o en la cama. No hablo. Los demás creen que no puedo hablar, incluso el médico lo cree. Pero yo puedo hablar.*
 

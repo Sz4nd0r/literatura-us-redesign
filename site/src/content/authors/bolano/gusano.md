@@ -11,7 +11,6 @@ tags:
 *Roberto Bolaño*
 *(Santiago,*
 *Chile, 1953 - Barcelona, 2003)*
-*# El Gusano*
 *(Llamadas telefónicas, 1997)*
 
 Parecía un gusano blanco, con su sombrero de paja y un Bali colgándole del labio inferior. Todas las mañanas lo veía sentado en un banco de la Alameda mientras yo me metía en la Librería de Cristal a hojear libros. Cuando levantaba la cabeza, a través de las paredes de la librería que en efecto eran de cristal, ahí estaba él, quieto, entre los árboles, mirando el vacío

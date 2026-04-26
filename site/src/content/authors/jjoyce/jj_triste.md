@@ -10,7 +10,6 @@ tags:
 ---
 *James Joyce*
 *(1882-1941)*
-*# Un Triste Caso*
 *(“A Painful Case”)*
 *(Dubliners, 1914)*
 *El señor James*
@@ -280,8 +279,6 @@ diario del bolsillo, leyó el párrafo de nuevo a la
 mortecina luz de la ventana. No leyó en voz alta,
 sino moviendo los labios como hace el sacerdote
 cuando lee la Secreta. He aquí el párrafo:
-# ## Muere Una Señora En La Estación De
-# ## ## Sydney Parade
 ## Un Triste Caso
 En
 el Hospital Municipal de Dublín, el fiscal forense

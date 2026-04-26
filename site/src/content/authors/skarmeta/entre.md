@@ -11,7 +11,6 @@ tags:
 *Antonio*
 *Skármeta*
 *(Antofagasta, Chile, 1940 - Santiago, Chile 2024)*
-*# Entre Todas Las Cosas Lo Primero Es El Mar*
 *El entusiasmo*
 *(Santiago de Chile: Zig-Zag, 1967, 181 págs.)*
 

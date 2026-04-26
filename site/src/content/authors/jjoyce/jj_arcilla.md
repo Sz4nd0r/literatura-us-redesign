@@ -10,7 +10,6 @@ tags:
 ---
 *James Joyce*
 *(1882-1941)*
-*# Arcilla*
 *(“Clay”)*
 *(Dubliners, 1914)*
 *La Supervisora le*

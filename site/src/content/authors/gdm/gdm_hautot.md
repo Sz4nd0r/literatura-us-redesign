@@ -105,7 +105,6 @@ El murmuró:
 La joven se sobresaltó, se puso pálida y balbució como si lo conociera desde hacía mucho tiempo:
 —¿Don César?
 —Sí.
-# # # # —¿Y...?
 —Tengo que hablarle de parte de mi padre.
 Ella exclamó: «¡Oh, Dios mío!», y retrocedió para dejarle entrar. El cerró la puerta y la siguió.
 Entonces vio a un niño de cuatro o cinco años, que jugaba con un gato, sentado en el suelo delante de la cocina de donde salía el humo de las fuentes que estaban al calor de la lumbre.

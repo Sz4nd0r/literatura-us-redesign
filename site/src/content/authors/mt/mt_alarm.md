@@ -63,7 +63,6 @@ Cincuenta muelles
 2,00 $
 Billetes de ferrocarril
 7,25 $
-# Total
 19,77 $
 Por último, ocurrió una cosa completamente natural, después de llevarnos trescientos o cuatrocientos chascos con aquellas falsas alarmas: ya no les hicimos caso. Sí, cuando el gongo me lanzaba contra cualquier pared de la casa, yo me limitaba a levantarme, examinaba tranquilamente el cuadro anunciador, tomaba nota de la habitación que marcaba y volvía a acostarme como si nada hubiese ocurrido. Además, dejaba la habitación de la falsa alarma desconectada y ya no hacía venir al técnico. No hay, pues, que decir que con el curso del tiempo quedaron sin conectar a la alarma todas las habitaciones de mi casa y la máquina quedó al fin fuera de servicio.
 Durante el tiempo en que carecí de esa protección ocurrió la mayor de todas las calamidades. Una noche se metieron en casa unos ladrones y se llevaron la alarma contra robos. Sí, señor, con todo su aparejo: cargaron con ella, sin dejar un solo tornillo, con sus resortes, campanas, gongos, batería y todo; se llevaron ciento cincuenta millas de cable de cobre y se largaron con el aparato sin dejar seña ni rastro, sin que quedase siquiera un indicio al que jurar, quiero decir, por el que jurar.

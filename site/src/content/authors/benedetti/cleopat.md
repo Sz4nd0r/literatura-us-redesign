@@ -8,7 +8,6 @@ tags:
   - cleopat
   - benedetti
 ---
-*# Cleopatra*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) El hecho de ser la única mujer entre seis hermanos me había mantenido siempre en un casillero especial de la familia. Mis hermanos me tenían (todavía me tienen) afecto, pero se ponían bastante pesados cuando me hacían bromas sobre la insularidad de mi condición femenina. Entre ellos se intercambiaban chistes, de los que por lo común yo era la destinataria, pero pronto se arrepentían, especialmente cuando yo me echaba a llorar, impotente, y me acariciaban o me besaban o me decían: Pero, Mercedes, ¿nunca aprenderás a no tomarnos en serio?

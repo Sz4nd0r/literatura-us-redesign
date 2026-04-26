@@ -10,7 +10,6 @@ tags:
 ---
 *Machado de Assis*
 *(Rio de Janeiro, 1839-1908)*
-*# La Chinela Turca*
 *(1875)*
 *(“A chinela turca”)*
 *Originalmente publicado en A Época (nº 1, 14 de noviembre de 1875)*

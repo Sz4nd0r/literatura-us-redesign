@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# No Son Tu Marido*
 *(“They’re Not Your Husband”)*
 *Originalmente publicado en Chicago Review (1973)*
 *Will You Please Be Quiet, Please? (1976)*

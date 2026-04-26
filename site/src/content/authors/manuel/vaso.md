@@ -8,7 +8,6 @@ tags:
   - vaso
   - manuel
 ---
-*# El vaso de leche*
 *Manuel Rojas*
 *Originalmente publicado en el periódico El Mercurio [Santiago de Chile] (16 de enero de 1927); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 29-41. Afirmado en la barandilla de estribor, el marinero parecía esperar a alguien. Tenía en la mano izquierda un envoltorio de papel blanco, manchado de grasa en varias partes. Con la otra mano atendía la pipa. Entre unos vagones apareció un joven delgado; se detuvo un instante, miró hacia el mar y avanzó después, caminando por la orilla del muelle con las manos en los bolsillos, distraído o pensando.*
 

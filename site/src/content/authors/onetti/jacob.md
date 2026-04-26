@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Jacob Y El Otro*
 *(1961)*
 *1. Cuenta el médico*
 

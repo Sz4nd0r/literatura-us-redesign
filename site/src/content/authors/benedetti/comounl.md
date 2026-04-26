@@ -8,7 +8,6 @@ tags:
   - comounl
   - benedetti
 ---
-*# Como un ladrón*
 *Mario Benedetti (1920 - 2009)*
 
 Como un ladrón (Esta mañana, 1949) Yo vivía relativamente cómodo, acaso porque no se me había ocurrido creer en Dios. Ahora sé que muy pocos están en condiciones de aceptar esto que de tan sencillo es casi estúpido. Los más se imaginan que cada uno tiene la obligación de nacer con su pequeño dios. También se tiene el deber de nacer de cabeza y sin embargo siempre hay algún díscolo que nace de trasero. Entonces no me gustaba enfrentarme a ciertos problemas ni tampoco tenía necesidad de hacerlo. No discutía el prestigio de la muerte y sentía por ella un miedo insignificante, sin escolta de libros, solitario.

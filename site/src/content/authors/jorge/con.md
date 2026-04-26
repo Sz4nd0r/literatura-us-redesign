@@ -16,7 +16,6 @@ tags:
 *—¿Quién era Bloomsbury? —preguntó*
 *la pintora a un señor que según las malas lenguas es agente de la CIA—.*
 *¿Qué hacía Bloomsbury en México? ¿Es cierto que era agente de la*
-*# Cia?*
 *—¿Por qué me pregunta usted eso?*
 *—Porque usted es agente de la CIA*
 

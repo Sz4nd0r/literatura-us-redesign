@@ -1032,10 +1032,8 @@ El Rojo no levantó la vista. Prefería callar. Estaba convencido de que la mala
 Adán Nada se puso de pie con un gesto teatral. Era alto, corpulento y muy miope. Los lentes, de cristales tan gruesos que parecían fondos de botella, casi impedían verle los ojos.
 —Literatura es son ido —dijo—, sound trackbalenguas and Fiel ding. Orto grafía es literhartura. Odia a tus pares. Par odia. Sé Pantacruel, haz Góngoras para tu Gargantúa con los peomas que has (m)amado. ¡Vomátalos!
 El Rojo aún estaba tratando de entender cuando Adán Nada dio una orden y tres de los Paronomásicos Pimienta repartieron rápidamente un encarte en forma de menú, que Adán pasó a declamar:
-# Restorán Trocadero
 (A Dos Passos del Museo Hemingway).
 Baudelaire Acondicionado
-# ## Carta A Milena
 D’Ors d’ouvre
 Ensaladilla rusa estilo Corta Zar
 con mayonesa Mac Cullers
@@ -1629,8 +1627,6 @@ Pero se lo había dicho con tal sensualidad que Una se sintió húmeda y rabió 
 —No, gracias —respondió él sin soltar a la Dama, provocando risitas en el grupo.
 Ella sintió deseos de escupirle la cara y se dirigió al baño acusándose de arrastrada, imbécil e indigna. ¿Cuándo aprendería? Se miró al espejo mientras luchaba por apaciguar las ganas de ahorcarlo y volvía a jugar con la idea del suicidio. Sería fácil, tanto, que no le daría ese gusto. Tenía demasiados poemas por delante y estaba dispuesta a escribirlos para vencer justamente en el terreno que más le dolería al muy soberbio. Horribles poemas de amor, sucios versos sobre aquel deseo irrefrenable de encaramarse en él y dejarlo exhausto.
 Al sentarse a orinar, quedó frente a la tarja de bronce que Roque había puesto en la pared, frente a la taza.
-# ## ## Consulado General De El Salvador
-# ## ## ## Praga
 Sí, pensó mientras descargaba el inodoro, alguna vez ilustraría un número de El Güije con las sorpresas gráficas de la Roquicueva. Al salir, contuvo los deseos de regresar a la terraza. Se sentía incapaz de volver a enfrentarse al Rojo sin irle al cuello y mordérselo, de modo que optó por sentarse sola en la penumbra de la sala, junto al póster en el que Roque aparecía retratado con aires de bandido sobre la clásica leyenda del oeste: Wanted!, Reward, $5,000. County Sheriff.
 Aída pasó camino a la cocina, le ofreció algo de picar y ella le dio las gracias y le dijo que sí, que estaba muerta de hambre. Aída le sonrió tiernamente y desapareció para regresar de inmediato con unos bocadillos y una botella de Paticruzao. Una descartó la idea de ofrecerse a ayudarla; era su deber, pero no tenía fuerzas para cumplirlo. Se sentía casi bien en aquella morbosa soledad, donde comió a gusto y empezó a beber y a concentrarse en sus fantasías. Entrecerró los párpados imaginando que el Rojo yacía desnudo en su cama y que ella volcaba ron sobre su sexo y lo sorbía gota a gota. Estaba húmeda cuando unas ruidosas carcajadas la arrancaron de la ensoñación.
 Escuchó la voz de Roque exclamando que no en balde él era daltónico, que había inventado el humor blanco, el verde e incluso el rojo, que se sentía capaz de sobrevolar La Habana y llegar volando hasta San Salvador y que lo haría inmediatamente después de la competencia. Ella volvió a reprimir los deseos de sumarse al coro y, bebiendo un largo trago, se dispuso a seguir la letra de la canción que ahora cantaba el Flaco: «Esas perlas que tú guardas con cuidado / en tan lindo estuche, de peluche rojo…». Era mala, malísima inclusive, llamarle así a la boca resultaba de un mal gusto ejemplar, casi emblemático, pero el texto recurría después a un «loco antojo» que quizá lo salvara del desastre definitivo.

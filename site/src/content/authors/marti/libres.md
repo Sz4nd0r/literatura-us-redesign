@@ -11,7 +11,6 @@ tags:
 *José*
 *Martí*
 *(1853—1895)*
-*# Versos Libres*
 *(1880s; publicados en 1913)*
 *Mis versos*
 *Estos son mis versos. Son como son.*
@@ -43,7 +42,6 @@ parecer brutal.
 Todo lo que han de
 decir, ya lo sé, y me lo tengo contestado. He querido ser leal, y si
 pequé, no me avergüenzo de haber pecado.
-# ## Académica
 Ven,
 mi caballo, a que te encinche: quieren
 Que no con garbo natural el coso
@@ -71,7 +69,6 @@ De hojas de antaño y de romanas rosas
 Orlada, y deslucidas joyas griegas,—
 Y al sol del alba en que la tierra rompe
 Echa arrogante por el orbe nuevo.
-# ## ## Pollice Verso
 Memoria de Presidio
 Si,
 yo también, desnuda la cabeza
@@ -158,7 +155,6 @@ prendida, y el menudo zapatillo
 cárcel a un tiempo de los pies y el alma?
 ¡pues ved que los extraños os desdeñan
 como a raza ruin, menguada y floja!
-# ## ## ## A Mi Alma
 Llegada la hora del trabajo
 ¡Ea,
 jamelgo! ¡De los montes de oro

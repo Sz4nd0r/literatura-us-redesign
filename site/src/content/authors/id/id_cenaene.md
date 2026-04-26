@@ -10,7 +10,6 @@ tags:
 ---
 *Isak Dinesen*
 *(1885–1962)*
-*# Cena En Elsinore*
 *—The Supper at Elsinore*
 *Seven Gothic Tales (1934)*
 

@@ -8,7 +8,6 @@ tags:
   - ati
   - julio
 ---
-*# Atiguibas*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La palabra del mudo) La palabra del mudo. Cuentos 1952-1993. Tomo III (Lima: Jaime Campodónico, 1994, 247 págs.) En el viejo estadio nacional José Díaz —ahora ampliado y modernizado— viví de niño y luego de muchacho horas inolvidables. Con mi hermano vimos desfilar por la grama pelada de la cancha a los más renombrados clubes del fútbol de Argentina, Brasil y Uruguay. Y también del Perú, hay que decirlo, pues entonces teníamos grandes jugadores y equipos que realizaron hazañas memorables. En las Olimpiadas de Berlín del 36, para poner un ejemplo, estuvimos a punto de campeonar luego de vencer a Austria por 4 a 2.

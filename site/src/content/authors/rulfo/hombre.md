@@ -11,7 +11,6 @@ tags:
 *Juan*
 *Rulfo*
 *(México, 1918-1986)*
-*# El Hombre*
 *(El llano en llamas,*
 *1953)*
 *Los pies del hombre se hundieron en*

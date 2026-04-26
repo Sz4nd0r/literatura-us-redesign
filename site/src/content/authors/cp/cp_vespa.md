@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Vespa*
 *([Vespa], 1942)*
 *Sólo hay un borrador sin título, fragmento*
 *Tutti i racconti (2002)*

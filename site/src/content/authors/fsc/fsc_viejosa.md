@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Uno De Mis Más Viejos Amigos*
 *(“One of My Oldest Friends”)*
 *Originalmente publicado en la revista Woman’s Home Companion (septiembre de 1925);*
 *The Price Was High: The Last Uncollected Stories of F. Scott Fitzgerald*

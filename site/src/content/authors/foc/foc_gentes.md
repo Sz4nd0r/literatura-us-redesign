@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# ¿Por Qué Se Amotinan Las Gentes?*
 *(“Why Do the Heathen Rage”, 1963)*
 *The Complete Stories, 1971*
 *A Tilman le dio el ataque en la capital del estado,*

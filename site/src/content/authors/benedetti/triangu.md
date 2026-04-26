@@ -8,7 +8,6 @@ tags:
   - triangu
   - benedetti
 ---
-*# Triángulo isósceles*
 *Mario Benedetti (1920 - 2009)*
 *Despistes y franquezas, 1989) El abogado Arsenio Portales y la ex actriz Fanny Araluce llevaban doce apacibles años de casados. Desde el comienzo, él le había exigido a Fanny que dejara la escena. Al parecer, no era tan liberal como para tolerar que noche a noche su linda mujer fuera abrazada y besada por otros. A ella le había costado mucho aceptar esa exigencia, que le parecía absurda, machista y carente de un mínimo sentido profesional. «Por otra parte», había agregado él como justificación a posteriori, «no creo que tengas las imprescindibles condiciones para triunfar en teatro.*
 

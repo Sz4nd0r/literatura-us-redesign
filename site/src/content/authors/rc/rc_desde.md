@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Desde Donde Llamo*
 *(“Where I’m Calling From”)*
 *Originalmente publicado en The New Yorker (marzo 15, 1982);*
 *Cathedral (1983);*

@@ -13,8 +13,6 @@ tags:
 *(1932–2000)*
 *Documentos*
 *Intrahistoria abreviada del caso Padilla*
-*# Manuel*
-*# ## Díaz Martínez*
 *La Sección de Literatura de la*
 *Unión de Escritores y Artistas de Cuba (UNEAC) me invitó a formar parte*
 *del jurado del Premio de Poesía “Julián del Casal” correspondiente a*

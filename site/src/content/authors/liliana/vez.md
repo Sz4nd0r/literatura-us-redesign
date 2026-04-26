@@ -8,7 +8,6 @@ tags:
   - vez
   - liliana
 ---
-*# La única vez*
 *Liliana Heker*
 
 La crueldad de la vida (Buenos Aires: Alfaguara, 2001, 183 págs.) Desde hace seis años, la vida del hombre que duerme en esta casa de Adrogué tiene tres consuelos. Uno en el Renault 4, cada anochecer —durante el regreso a su departamento—, cuando los bocinazos, el rugido de los motores y la ira de los automovilistas aplacan cualquier otro sonido. El hombre, entonces, cierra la ventanilla de su auto y grita. Su segundo consuelo es menos fáctico: reside en imaginarse el suplicio de la pera. No podría recordar en qué libro lo ha leído, tal vez en Enrique de Lagardère o en El conde de Montecristo, y consiste en insertar una pera —por la parte más ancha— en la boca de la víctima.

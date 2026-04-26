@@ -14,8 +14,6 @@ tags:
 *(“Sous peine de mort”)*
 *Maigret les petits cochons sans queue*
 *(París: Presses de la Cité, 1950, 221 págs.)*
-*# Capítulo I*
-*# ## El Ojo De Uno Y La Pierna De Otro*
 
 El primer mensaje era una tarjeta postal en colores que representaba el palacio del Negus, en Addis-Abeba. Llevaba un sello de Etiopía, y decía lo siguiente:
 —Acaba uno por encontrarse, crápula. Bajo pena de muerte, ¿recuerdas?
@@ -157,8 +155,6 @@ Luego, con una áspera cordialidad, añadió:
 —Anda, bebe… Bajo pena de muerte, ¿eh? No me retracto, no. Te digo que bebas… Esto no es nada todavía… ¿Cómo se llama la pequeña que nos sirve?
 —Jojó…
 —¡Jojó! Ven aquí, rica. Tráenos otra botella… Oscar tiene sed…
-# ## ## Capítulo Ii
-# ## ## ## El Cartel En Los Pantanos Del Umbolé
 Cada cinco minutos el hombre de la pierna de palo, cogía su vaso, lo vaciaba de un trago, y ordenaba en un tono que no admitía réplica:
 —Bebe tu vaso, Oscar.
 Y el señor Labro bebía, de suerte que, a la tercera botella, ya no acertaba a ver distintamente, a través de la ardorosa atmósfera de la plazoleta, las agujas del reloj en el campanario de la pequeña iglesia. ¿Qué hora era? ¿Las diez, las once? Retrepado en su sillón, fumando y apurando hasta el extremo las colillas de los cigarrillos que él mismo se liaba, Jules preguntó con voz brusca:

@@ -8,7 +8,6 @@ tags:
   - cinco
   - josee
 ---
-*# Cinco ficciones*
 *José Emilio Pacheco (n. 2004)*
 
 La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) EL BATALLÓN DE LOS INVÁLIDOS La guerra, la ya remota hora de la espada, los puso allí, en el cuartel opaco y salitroso, para tomar el sol, pulir sus medallas y hablar de lo que nunca volvería. Mutilados por el sable, la bala o la metralla, tristemente desfilaban en las conmemoraciones, asistían a homenajes, probaban en la vejez el mal sabor del mundo y la pesadumbre del olvido. En 1904 los Inválidos, veteranos de la guerra de Reforma, la Intervención francesa y las rebeliones de Porfirio Díaz, eran los despojos de la edad heroica, el modelo que no imitaban los jóvenes oficiales, educados en academias extranjeras. El general Cortés subió a la tribuna. Le disgustó advertir que don Porfirio no había asistido a la ceremonia.

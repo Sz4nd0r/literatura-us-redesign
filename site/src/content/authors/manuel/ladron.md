@@ -8,7 +8,6 @@ tags:
   - ladron
   - manuel
 ---
-*# Un ladrón y su mujer*
 *Manuel Rojas*
 *Originalmente publicado en la revista Zig-Zag [Santiago de Chile] (28 de abril de 1928); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 129-147. Una tarde de principios de invierno, en aquel pueblo del sur, una mujer apareció ante la puerta de la cárcel. Era una mujer joven, alta, delgada, vestida de negro. El manto cubríale la cabeza y descendía hacia la cintura, envolviéndola completamente. El viento, que a largas zancadas recorría las solitarias callejuelas del pueblo, ceñíale la ropa contra el cuerpo, haciéndola ver más alta y dedada.*
 

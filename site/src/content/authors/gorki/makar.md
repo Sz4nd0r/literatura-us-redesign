@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Makar Chudrá*
 *(1892)*
 *(“Макар Чудра”)*
 *Originalmente publicado en el periódico*

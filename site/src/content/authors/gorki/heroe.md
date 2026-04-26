@@ -18,7 +18,6 @@ tags:
 *Очерки и рассказы [Ensayos y relatos),*
 *segunda edición, Vol. II*
 *(San Petersburgo: Издательство С.Дороватовский и А.Чарушников [S. Dorovatovsky y A. Charushnikov], 1899)*
-*# I. El Comerciante (“Коммерсант”)*
 
 —¡Señora, me permite usted que la ayude!...
 La señora volvió la cabeza y vió ante ella un hombre de esos en quienes la palabra es más atractiva que la facha.
@@ -54,7 +53,6 @@ Compra por no alentar las aficiones de este hombre, que no volverá a robar si v
 Lleva una remolacha en el bolsillo. La señora comienza a dudar. Este hombre le resulta positivamente odioso; así no le da por su remolacha y cuatro cucharas de madera más que siete copecks.
 Después de comprar todo lo que necesita, carga al hombre de sacos y paquetes desde los pies a la cabeza, y haciéndolo caminar ante ella, vuelve a su casa.
 Volodka, inclinado bajo el peso, va rápidamente por la acera, fiel a su promesa de realizar el servicio más barato que un cochero, y caminando sueña con las comisiones que recibirá de los comerciantes aliados suyos... y con otras cosas todavía más provechosas...
-# ## Ii. Un Héroe (“Геройï”)
 Un viejo circula entre la multitud de compradores. Sus cejas están fruncidas, sus ojos tienen una expresión dolorosa y suplicante. Pelos de plata cubren la piel sombría de sus mejillas. Lleva una capa de soldado. En su pecho brillan la cruz de San Jorge y otras medallas. Su pierna izquierda está reemplazada por un trozo de madera pesado y grosero que, introduciéndose en la nieve, deja en ella pequeños agujeros redondos.
 Al ver su rostro canoso y derrotado, los vendedores habituales del mercado se apartan con aire de temor, de descontento y de fastidio.
 El anciano pasa delante de ellos y se dirige al lugar en que están alineadas las carretas de los aldeanos de los alrededores.

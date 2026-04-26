@@ -18,7 +18,6 @@ tags:
 *Un sueño realizado, y otros cuentos*
 *Prólogo de Mario Benedetti*
 *(Montevideo: Número, 1951, 66 págs.)*
-*# # # A H. A. T.*
 
 Es seguro que cada día estará
 más viejo, más lejos del tiempo en que se llamaba Bob, del pelo rubio

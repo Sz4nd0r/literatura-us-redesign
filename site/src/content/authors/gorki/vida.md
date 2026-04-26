@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Coloquio Con La Vida*
 *(1900)*
 *(“Перед лицом жизни”)*
 *Originalmente publicado en el periódico Нижегородский листок [La hoja de Nizhegorod]*

@@ -15,8 +15,6 @@ tags:
 *este cáliz*
 *(1937)*
 *I*
-*# Himno A Los Voluntarios De La*
-*# ## República*
 *Voluntario de España, miliciano*
 *de huesos fidedignos, cuando marcha a morir tu corazón,*
 
@@ -197,7 +195,6 @@ os siguen con cariño los reptiles de pestaña inmanente
 y, a dos pasos, a uno,
 la dirección del agua que corre a ver su límite antes que arda.
 II
-# ## ## Batallas
 Hombre de Extremadura,
 oigo bajo tu pie el humo del lobo,
 el humo de la especie,
@@ -419,7 +416,6 @@ migaja al cinto,
 fusil doble calibre: sangre y sangre.
 ¡E1 poeta saluda al sufrimiento armado!
 V
-# ## ## ## Imagen Española De La Muerte
 ¡Ahí pasa! ¡Llamadla! ¡Es su
 costado!
 ¡Ahí pasa la muerte por Irún:

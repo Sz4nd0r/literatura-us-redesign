@@ -8,7 +8,6 @@ tags:
   - eh_asesinos
   - eh
 ---
-# Los asesinos
 
 *Ernest Hemingway*
 *(Oak Park, Illinois, E.U., 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*

@@ -10,7 +10,6 @@ tags:
 ---
 *Katherine Anne Porter*
 *(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
-*# María Concepción*
 *—Maria Concepción*
 *Originalmente publicado en The Century Magazine (Diciembre 1922, pp. 224-239)*
 *Flowering Judas and Other Stories (1930)*

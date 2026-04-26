@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# La Cena*
 *(“O jantar”)*
 *Originalmente publicado en el periódico A manh (Río de Janeiro, 13 de octubre de 1946);*
 *Laços de família (1960)*

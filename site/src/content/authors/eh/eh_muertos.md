@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
-*# Una Historia Natural De Los Muertos*
 *(“A Natural History of the Dead”)*
 *(Fragmento del capítulo XII de Death in the Afternoon [1932]);*
 *Winner Take Nothing*

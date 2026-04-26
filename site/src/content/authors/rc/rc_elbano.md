@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# El Baño*
 *[Otro título en español: “Algo sencillo y bueno”]*
 *(“The Bath”)*
 *Originalmente publicado en Columbia (1981);*

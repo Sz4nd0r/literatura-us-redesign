@@ -11,7 +11,6 @@ tags:
 *T.S. Eliot*
 *(Missouri,*
 *USA, 1888-Londes, 1965)*
-*# Los Hombres Vanos (1925)*
 *Un penique para el*
 *viejo Guy*
 *I*

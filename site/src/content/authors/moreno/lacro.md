@@ -10,13 +10,11 @@ tags:
 ---
 *Carlos Martínez Moreno*
 *(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
-*# El Simulacro*
 *(1960)*
 *Los dias por vivir*
 *(Montevideo: Asir, 1960)*
 *Racontez-moi cela*
 *Comme si vous m’écriviez.*
-*# ## Stendhal*
 
 Viví en Buenos Aires del 907 al 916. Era —como veo que a ustedes les gusta decir ahora, cuando comentan una cinta o un libro —la belle époque. Es claro que, con Perón, ya no queda ni sombra de todo aquello. Me dicen que del Jockey Club sólo está en pie el frontis, como un tabique, como una mampara contra el vacío. El frontis con sus bastidores para la venta de revistas, y hasta parece que —alguna que, otra vez— un puesto de pescado ¡Eso!
 La Semana Trágica fue una barbaridad, estoy de acuerdo. Pero ya todos empezábamos a sentir en Buenos Aires ese brote de cosmopolitismo que trajo lo demás. Empezaba a ser una gran ciudad, decían algunos, y los lugares de siempre dejaban de ser nuestros, estrechamente propios. Nuestra generación ha usado el bergantín y la diligencia, y después ha llegado hasta el avión. Difícilmente otra podrá ver y probar tanto cambio. Pero ahora quieren que revisemos nuestras ideas sobre el mundo, y eso sí no podríamos hacerlo; no tanto revisar nuestras ideas sino renegar de todo lo que nos acostumbramos a tener por bueno en nuestro tiempo. Yo, por lo menos, me sentiría una cocotte si quisiera intentarlo.

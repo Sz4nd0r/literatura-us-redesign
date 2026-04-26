@@ -8,7 +8,6 @@ tags:
   - aque
   - josee
 ---
-*# Aqueronte*
 *José Emilio Pacheco (n. 2004)*
 *El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Paloma Villegas Son las cinco de la tarde, la lluvia ha cesado, bajo la húmeda luz el domingo parece vacío. La muchacha entra en el café. La observan dos parejas de edad madura, un padre con cuatro niños pequeños. A una velocidad que demuestra su timidez, atraviesa el salón, toma asiento a una mesa en el extremo izquierdo.*
 

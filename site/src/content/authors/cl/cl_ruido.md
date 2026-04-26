@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# Ruido De Pasos*
 *(“Ruído de passos”)*
 *A via crucis do corpo (1974)*
 *Tenía ochenta y un años de edad. Se llamaba doña Cándida Raposo.*

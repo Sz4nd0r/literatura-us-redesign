@@ -10,7 +10,6 @@ tags:
 ---
 *Eudora Welty*
 *(Jackson, Mississippi, 1909-2001)*
-*# Un Recorte De Prensa*
 *(“A Piece of News”)*
 *A Curtain of Green and Other Stories, 1941*
 

@@ -8,7 +8,6 @@ tags:
   - asedio
   - sergio
 ---
-*# El asedio*
 *Sergio Ramírez (n. 1942)*
 
 Septimio se despertó a la hora del crepúsculo y se encontró con la luz rojiza de la tarde que se reflejaba en la luna del espejo del chifonier como una pedrería de brasas temblando en el fondo del vidrio y sintió sobre su vientre las páginas del figurín de modas pegadas a la piel a causa del sudor. Estaba desnudo debajo del quimono de chifón y sentía el sudor resbalar por su espalda. Se incorporó y tropezó con la sopera de china que había dejado en el piso después de comer. La hizo pedazos y la sopa helada le mojó los pies. —Avelino —llamó primero como en secreto—.

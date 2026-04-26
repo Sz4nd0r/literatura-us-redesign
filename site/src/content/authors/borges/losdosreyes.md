@@ -8,7 +8,6 @@ tags:
   - losdosreyes
   - borges
 ---
-*# Los dos reyes y los dos laberintos*
 *Jorge Luis Borges*
 
 Cuentan los hombres dignos de fe (pero Alá sabe más) que en los primeros días hubo un rey de las islas de Babilonia que congregó a sus arquitectos y magos y les mandó construir un laberinto tan complejo y sutil que los varones más prudentes no se aventuraban a entrar, y los que entraban se perdían. Esa obra era un escándalo, porque la confusión y la maravilla son operaciones propias de Dios y no de los hombres.

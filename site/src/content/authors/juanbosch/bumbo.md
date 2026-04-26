@@ -8,7 +8,6 @@ tags:
   - bumbo
   - juanbosch
 ---
-*# Bumbo*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la revista Bahoruco, semanario ilustrado [Santo Domingo], Año II, Núm. 90 (30 de abril de 1932), págs. 11-21; Camino real (La Vega: Imprenta El Progreso, R. A. Ramos, 1933, 152 pags.); (suprimido en la segunda edición, 1937; excluido de Cuentos escritos antes del exilio, 1974) —Si no lo hubiera pechao; pero lo peché y ahora no hay remedio… Cruzó las piernas, dio un “chupón” a su “túbano” y se golpeó la rodilla con la palma de la mano.*
 *Creíamos que Bumbo no hablaría más. Tenía cara de cansancio, ojos lánguidos, labios caídos. Bumbo, el más alegre de todos nosotros, soltaba hoy las palabras como si se las “jalaran”. —Pero tranquilícese, compai —dijo Tiola. Bumbo nos miró. Tiola despertó en él al Bumbo malicioso, perspicaz. Fue una especie de inspección la que nos hicieron sus ojos. A poco apuntó en la comisura derecha de los labios una tentativa de sonrisa. —¡Jum! —rezongó.*

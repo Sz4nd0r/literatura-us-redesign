@@ -8,7 +8,6 @@ tags:
   - crack
   - augusto
 ---
-*# El crack*
 *Augusto Roa Bastos (1917 - 2005)*
 *Cuentos de futbol (Selección y prólogo de Jorge Valdano) (Madrid: Alfaguara, 1998, 376 págs. A Jorge Valdano, maestro del fútbol, en su triple magia de juego-espectáculo, de arte, de modelo de vida social. Goyo Luna, puntero izquierdo del Sol de América, era, a los veinticinco años, un esmirriado depósito de perfecciones ocultas. De su aspecto físico, mejor no hablar; sobre todo ahora cuando ya no está entre nosotros.*
 

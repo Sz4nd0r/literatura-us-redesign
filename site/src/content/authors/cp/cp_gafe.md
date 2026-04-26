@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Gafe*
 *(“Iettatura”, 1936)*
 *Tutti i racconti (2002)*
 *Un día oí decir a la cajera:*

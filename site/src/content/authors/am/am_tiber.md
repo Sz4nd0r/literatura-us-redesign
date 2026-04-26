@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# Un Canasto Junto Al Tíber*
 *La cosa e altri racconti (1983)*
 
 Hace años, aguas arriba respecto de mi edificio, la calle que corre junto al Tíber, corroída por el río, se desplomó. Entonces pusieron tabiques bajos, cerraron el tránsito e iniciaron los trabajos de estabilización, que aún duran. Así, esa calle se transformó en un lugar tranquilo donde sólo se aventuran los automóviles de los que allí viven. Los niños van a patinar; los enamorados hacen el amor sin disimulos; las madres llevan de paseo a los pequeños. Por cierto no fue el derrumbe de la acera junto al Tíber lo que me abrió los ojos sobre el hecho de que ahora no soy más que ese jubilado que soy; sin embargo, en cierto modo, la clausura de la calle al tránsito adquiere para mí un valor simbólico. Sí, también mi vida está ya cerrada al tránsito, y para continuar la metáfora, en este sitio estoy, sí, al reparo de los accidentes; pero al mismo tiempo sé con certeza que jamás sucederá ya nada de nuevo.

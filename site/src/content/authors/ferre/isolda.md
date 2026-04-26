@@ -8,7 +8,6 @@ tags:
   - isolda
   - ferre
 ---
-*# Isolda en el espejo*
 *Rosario Ferré (2001 - 1972)*
 
 Isolda en el espejo Maldito amor y otros cuentos (México: Editorial Joaquín Mortiz, 1986, 206 págs.) I Desde el promontorio del Vigía se divisaba flotar en el horizonte el estilete` plomizo del Caribe, al que llegaban a morir inevitablemente los cañaverales del llano. La visibilidad aquella tarde era tan transparente que los ciudadanos de Santa Cruz, que habían subido hasta allí en sus coches a tomar su paseo acostumbrado, no recordaban haber visto en mucho tiempo un panorama semejante.

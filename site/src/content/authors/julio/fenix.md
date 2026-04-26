@@ -8,7 +8,6 @@ tags:
   - fenix
   - julio
 ---
-*# Fénix*
 *Julio Ramón Ribeyro (1987 - 1994)*
 *Tres historias sublevantes (Lima: J. Mejía Baca, 1964, 99 págs.) A Javier Heraud Después de haber dado los golpes, soy yo ahora el que los recibe y duro, sin descanso, como la buena bestia que soy. Pero no son tanto los golpes lo que me fatiga, pues mi piel es un solo callo, sino el calor de la selva. Yo he vivido siempre a la orilla del mar, respirando el aire seco de Paramonga, en una costa sin lluvias y aquí todo es vapor que brota de los pantanos y agua que cae del cielo y plantas y árboles y maleza que nos echa su aliento de ponzoña. A cien metros de nuestra carpa corre el Marañón, de tumbos colorados y terrosos y, al otro lado del Marañón, los montes silbadores, cada vez más apretados y húmedos, que llegan al Amazonas. No sé cómo puede vivir la gente aquí, donde se suda tanto.*
 

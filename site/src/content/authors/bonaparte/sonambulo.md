@@ -12,7 +12,6 @@ tags:
 *Gautreaux Piñeyro*
 *(Sabana de Chavón, La*
 *Romana, 1937-)*
-*# El Sonámbulo*
 *Rodríguez descubrió su*
 *vocación el día en que lo trasladaron para el Servicio Secreto. Había*
 *trabajado en distintos departamentos y todos estuvieron satisfechos con*

@@ -103,7 +103,6 @@ Huyendo avergonzado de su distracción, de la que no podía por menos de reírse
 Al día siguiente, como sábado, se recibía en casa de la condesa. M. de Marsan comenzaba a abandonar su soledad y había reunido una gran concurrencia. Encendidas las arañas y abiertos los salones, las damas a un lado y los caballeros a otro, formaban un gran círculo en torno a la chimenea. No era el lugar más a propósito para cartas de amor. Gilberto, no sin trabajo, consiguió acercarse a la dueña de la casa. Después de hablar con ella y con los que la rodeaban de cosas indiferentes durante un cuarto de hora, sacó de su pechera un papel cuidadosamente doblado, que comenzó a arrugar como al descuido. Como por arrugado que estuviera se veía que aquel papel era una carta, Gilberto esperaba que se fijasen en él, y, en efecto, alguien se fijó, pero no Ermelinda. Volvió a guardárselo y a sacarlo, y así hasta que por fin la condesa lo vio y le preguntó lo que era.
 —Son —le dijo— unos versos que he compuesto a una hermosa dama. Os los enseñaré si me prometéis que, en caso de adivinar quién es ella, no la predispondréis mal hacia mí.
 Ermelinda cogio el papel y leyo las siguientes estrofas:
-# A Ninón
 Si a decir me atreviese que os adoro, señora
 de tez morena y ojos azules, ¿qué diríais?
 Bien sabéis que el pesar del amor nos devora;
@@ -237,7 +236,6 @@ Ermelinda se levantó, fue a su escritorio y, sacando la escritura, la quemó en
 —¡Sois orgulloso! —exclamó Ermelinda desesperada—. ¿Y por qué lo rechazáis?
 M. de Marsan, que le cogía una mano, se la apretó ligeramente y respondió:
 —Porque le amáis.
-# ## Viii
 Una de esas mañanas de otoño, de esas hermosas mañanas en que brilla el Sol en todo su esplendor, como diciendo adiós a la naturaleza que muere, se acodaba Gilberto en el balcón de un piso segundo, en una calle apartada detrás de los Campos Elíseos. Canturreando una romanza de Norma, examinaba atentamente cada coche que cruzaba por la esquina. Cuando el coche entraba en la calle, Gilberto dejaba de cantar; pero el coche pasaba de largo y él proseguía su espera. Aquel día desfilaron muchos por allí, pero el joven, impaciente, no vió en ninguno la capotita de paja ni la manteleta negra que esperaba. Pasó una hora y otra hora. Ya era tarde. Después de mirar su reloj veinte veces, después de haber dado otras tantas vueltas por la habitación, después de impacientarse y calmarse alternativamente a cada instante, descendió a la calle y anduvo algún tiempo a la ventura. Al volver a su casa preguntó al portero si había alguna carta; la respuesta fue negativa. Todo el día tuvo el presentimiento de un augurio siniestro. Por la noche, hacia las diez, subió no sin temor la gran escalera del hotel de los Marsan. La araña estaba sin encender. Esto le sorprendió y le inquietó. Llamó y nadie contestó. Empujó la puerta, que se abrio ante él, y se dirigio al comedor. Una doncella salió a su encuentro. Gilberto le preguntó si podía entrar.
 —Voy a preguntarlo —respondió la doncella.
 Gilberto, a través de la puerta, oyó en el salón inmediato una voz temblorosa, que reconoció y que decía en voz baja:

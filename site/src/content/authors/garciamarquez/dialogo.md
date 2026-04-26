@@ -8,7 +8,6 @@ tags:
   - dialogo
   - garciamarquez
 ---
-*# Diálogo del espejo*
 *Gabriel*
 *García Márquez (n. 1947)*
 

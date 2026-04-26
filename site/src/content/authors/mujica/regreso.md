@@ -8,7 +8,6 @@ tags:
   - regreso
   - mujica
 ---
-*# XXI. Regreso (1918)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Mercedes Guevara se sentó en un banco de hierro frente al río. La hizo estremecerse la frescura de fines de abril. Friolenta, se arrebujó en el cuello de zorros azules y su rostro desapareció entre las pieles y el ala ancha del sombrero. Sobre la falda, sus manos se crisparon en la gran manta de “skunks”. Creía haber oído pasos en el jardín. El corazón le latió violentamente y, al alzar la cabeza, su cara, en la que la telaraña sutil de la cincuentena se posaba ya, surgió a la luz del atardecer.

@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# Juan Darién*
 *(El desierto y otros cuentos, 1924)*
 *Aquí se cuenta la historia de un tigre que se crió y educó*
 *entre los hombres, y que se llamaba Juan Darién. Asistió cuatro años a la*
@@ -408,7 +407,6 @@ Y retornando a la tumba en que acaba de orar, arrancóse
 de un manotón la venda de la herida y escribió en la cruz con su propia sangre,
 en grandes caracteres, debajo del nombre de su madre:
 Y
-# ## Juan Darién
 —Ya estamos en paz —dijo. Y enviando con sus hermanos un
 rugido de desafío al pueblo aterrado, concluyó:
 —Ahora, a la selva. ¡Y tigre para siempre!

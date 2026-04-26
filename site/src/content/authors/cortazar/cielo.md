@@ -8,7 +8,6 @@ tags:
   - cielo
   - cortazar
 ---
-*# El otro cielo*
 *Julio Cortázar*
 
 Ces yeux ne t'apparticnnent pas... tró les as-tu pris? ..................., IV, 5. Me ocurría a veces que todo se dejaba andar, se ablandaba y cedía terreno, aceptando sin resistencia que se pudiera ir así de una cosa a otra. Digo que me ocurría, aunque una estúpida esperanza quisiera creer que acaso ha de ocurrirme todavía. Y por eso, si echarse a caminar una y otra vez por la ciudad parece un escándalo cuando se tiene una familia y un trabajo, hay ratos en que vuelvo a decirme que ya sería tiempo de retornar a mi barrio preferido, olvidarme de mis ocupaciones (soy corredor de bolsa) y con un poco de suerte encontrar a Josiane y quedarme con ella hasta la mañana siguiente.

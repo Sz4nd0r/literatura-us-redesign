@@ -8,7 +8,6 @@ tags:
   - relevo
   - benedetti
 ---
-*# Relevo de pruebas*
 *Mario Benedetti (1920 - 2009)*
 
 Relevo de pruebas (Con y sin nostalgia, 1977) Hoy traigo dos pecados, padre. ¿Sabe cuál es el número uno? Que no me confieso ni comulgo desde hace dos años. El número dos es más complicado, y además muy largo de explicar. Pero a alguien tenía que contárselo. Tengo que desahogarme, padre. No puedo hablarlo ni con mis amigas, ni con mis hermanas, porque es algo secreto. Muy secreto. Ni menos que menos con mi novio, usted ya se va a dar cuenta por qué. Así que me dije: ¿quién mejor que el padre Morales?

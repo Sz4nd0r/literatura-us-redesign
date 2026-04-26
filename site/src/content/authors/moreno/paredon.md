@@ -10,10 +10,8 @@ tags:
 ---
 *Carlos Martínez Moreno*
 *(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
-*# El Paredón*
 *(1964)*
 *(Barcelona: Editorial Seix Barrial, 1962, 292 págs)*
-*# ## Primera Parte*
 *I*
 
 Durante el día de primavera había llovido; pero al atardecer escampó, si bien duraba aún en la atmósfera una humedad densa y caliente. En las calles mojadas se reflejaban borrosamente las luces, achatadas y confusas, y ni el aire ni el reflejo estaban lavados. Por la avenida 18 de julio, la gente llenaba las aceras y desbordaba sobre la misma calzada, desde que los escrutinios habían empezado a indicar, sin duda alguna, la derrota del gobierno y el triunfo del Partido Nacional. Era el 30 de noviembre de 1958 y también en Montevideo ganaban los blancos. Aislados por la lluvia del día y por los malos caminos, algunos circuitos electorales demoraban aún sus informaciones, pero no había que esperar más para saber que el Partido Colorado había sido batido en todo el país.

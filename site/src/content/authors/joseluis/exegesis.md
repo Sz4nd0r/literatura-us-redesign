@@ -8,7 +8,6 @@ tags:
   - exegesis
   - joseluis
 ---
-*# Exégesis*
 *José Luis*
 *González (1926 - 1997)*
 

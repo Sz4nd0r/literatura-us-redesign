@@ -8,7 +8,6 @@ tags:
   - rey
   - mujica
 ---
-*# XVI. El embrujo del Rey (1699)*
 *Manuel Mujica Lainez*
 
 Fragmento de una carta enviada desde Buenos Aires al enano milanés don Nicolasito Pertusato, criado de los reyes Felipe IV y Carlos II. “… y sin duda asombrará a vuesa merced recibir esta carta mía, pues me habrá echado en olvido después de tanto tiempo; por ello refrescaré su memoria y le recordaré que tuve el honor de conocerle en Madrid ha veinte años, gracias a una casualidad feliz.

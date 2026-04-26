@@ -10,7 +10,6 @@ tags:
 ---
 *Isak Dinesen*
 *(1885–1962)*
-*# Peter Y Rosa*
 *—Peter and Rosa*
 *(Vinter-eventyr, 1942)*
 *Cuentos de invierno (1942)*

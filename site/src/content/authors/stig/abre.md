@@ -10,7 +10,6 @@ tags:
 ---
 *Stig Dagerman*
 *(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
-*# ¡Abre La Puerta, Rickard!*
 *(“Öppna dörren, Richard!”)*
 *Nattens lekar. Noveller.*
 *(Stockholm: Norstedts, 1947, 312 págs.)*

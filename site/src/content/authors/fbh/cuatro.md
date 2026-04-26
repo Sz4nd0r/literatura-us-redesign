@@ -22,7 +22,6 @@ tags:
 
 [“Argonaut Edition” of The Works of Bret Harte, vol. 25]
 (Nueva York: P. F. Collier & Son, 1903, 358), págs. 299-325.
-# Primera Parte
 La custodia
 Era ciertamente un asunto de gran
 importancia si tanto interesaba a los cuatro más experimentados y responsables
@@ -248,7 +247,6 @@ facilitar las cosas para esa chica y ganar el pozo a cada vuelta, nos
 levantaremos de la mesa. Sí, caballeros —continuó Rats, levantando la carta—,
 contestaré esto yo mismo esta noche: yo, capitán Rats, el difunto Meritoe,
 fallecido.
-# ## Segunda Parte
 Cómo se
 cumplió la custodia
 Cuando los mancomunados protectores de

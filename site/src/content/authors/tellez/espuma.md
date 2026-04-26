@@ -8,7 +8,6 @@ tags:
   - espuma
   - tellez
 ---
-*# Espuma y nada más*
 *Hernando Téllez (1908 - 1966)*
 *Espuma y nada más Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) No saludó al entrar. Yo estaba repasando sobre una badana la mejor de mis navajas. Y cuando lo reconocí me puse a temblar. Pero el no se dio cuenta. Para disimular continué repasando la hoja. La probé luego sobre la yema del dedo gordo y volví a mirarla contra la luz. En ese instante se quitaba el cinturón ribeteado de balas de donde pendía la funda de la pistola. Lo colgó de uno de los clavos del ropero y encima colocó el kepis.*
 

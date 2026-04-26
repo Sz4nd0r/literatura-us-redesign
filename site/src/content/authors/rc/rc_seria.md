@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Una Conversación Seria*
 *(“A Serious Talk”)*
 *Originalmente publicado en Playgirl (1980);*
 *What We Talk About When We Talk About Love (1981);*

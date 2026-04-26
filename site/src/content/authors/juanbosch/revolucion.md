@@ -8,7 +8,6 @@ tags:
   - revolucion
   - juanbosch
 ---
-*# Revolución*
 *Juan Bosch (1909 - 2001)*
 
 Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) Tuvo suerte Toño: Cholo estaba solo. Entró como un ventarrón, miró a todos lados y, casi ahogándose, dijo: —Ya está, Cholo. Deogracia se pronunció. Cholo se quitó el cachimbo de la boca violentamente; echó el cuerpo un poco alante, pero no habló. Toño estaba allí y no estaba. Se le veía la cara como si el sol la estuviera derritiendo.

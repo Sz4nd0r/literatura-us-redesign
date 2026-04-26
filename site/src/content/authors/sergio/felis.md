@@ -8,7 +8,6 @@ tags:
   - felis
   - sergio
 ---
-*# Félis concóloris*
 *Sergio Ramírez (n. 1942)*
 
 Debo aclarar que nuestro pequeño país, con dos millones de habitantes, la mayor parte de ellos mal alimentados, según las estadísticas que año con año realiza la Oficina Internacional para el Control de la Salud, tenía otros problemas más importantes de qué ocuparse y los periódicos, otros asuntos de qué hablar con más alboroto, que sobre el regreso del señor Tiosca. Así que la noticia fue una más igual a las publicadas sobre la deserción de soldados en Bizerta, las inundaciones en Bingerville y los experimentos sobre el cruce de ganado de raza en Camberra.

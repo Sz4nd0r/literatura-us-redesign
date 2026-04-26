@@ -11,7 +11,6 @@ tags:
 *César*
 *Vallejo*
 *(Perú, 1892-Paris, 1938)*
-*# Trilce*
 *(1922)*
 *I*
 *Quién hace tanta bulla y ni deja*
@@ -27,7 +26,6 @@ salobre alcatraz, a cada hialóidea
 grupada.
 Un poco más de consideración,
 y el mantillo líquido, seis de la tarde
-# ## De Los Más Soberbios Bemoles.
 Y la península párase
 por la espalda, abozaleada, impertérrita
 en la línea mortal del equilibrio.
@@ -151,8 +149,6 @@ a entregarme las ropas lavadas, mi aquella
 lavandera del alma. Que mañana entrará
 satisfecha, capulí de obrería, dichosa
 de probar que sí sabe, que sí puede
-# ## ## ¡Cómo
-# ## ## ## No Va A Poder!
 azular y planchar todos los caos.
 VII
 Rumbé sin novedad por la veteada

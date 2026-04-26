@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Fuentes*
 *(Ciudad de Panamá, 1928 - México D.F., 2012)*
-*# La Muerte De Artemio Cruz*
 *(1962)*
 *(México D.F.: Fondo De Cultura Económica, 1962)*
 *La préméditation de la mort est préméditation de la liberté*

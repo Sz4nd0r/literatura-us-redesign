@@ -8,9 +8,7 @@ tags:
   - elmuerto
   - borges
 ---
-*# El muerto*
 *Jorge Luis Borges*
-*# El muerto*
 *Jorge Luis Borges*
 
 Que un hombre del suburbio de Buenos Aires, que un triste compadrito sin más virtud que la infatuación del coraje, se interne en los desiertos ecuestres de la frontera del Brasil y llegue a capitán de contrabandistas, parece de antemano imposible. A quienes lo entienden así, quiero contarles el destino de Benjamin Otálora, de quien acaso no perdura un recuerdo en el barrio de Balvanera y que murió en su ley, de un balazo, en los confines de Río Grande do Sul.

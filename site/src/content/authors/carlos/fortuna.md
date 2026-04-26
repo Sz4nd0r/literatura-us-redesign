@@ -83,7 +83,6 @@ Recogió el dinero y se levantó. Parecía mucho más baja con los huaraches y l
 —Joyce. Me gustas cantidad. Te lo juro. Mira cómo me pones. Te toco y enloquezco.
 —No. Por favor. Aquí está el periódico. ¿Bajas conmigo?
 —Mira: estaciono y te espero en la Librería Francesa. Luego nos tomamos un café al lado.
-# # # # —O.K.
 Joyce bajó y corrió hacia las oficinas del diario. Alejandro entró al estacionamiento y en seguida caminó media cuadra a la librería.
 —Buenos días —le dijo Lisette—. Ya llegaron sus libros.
 Se hincó frente a un casillero y sacó los volúmenes y Alejandro hojeó las láminas de Delaunay y se dijo que todo era luz, sin objetos: el final de Rembrandt. Miró su reloj. Paseó la mirada por la cálida librería, con sus altos estantes y escalerillas sobre ruedas, los ceniceros bien distribuidos y el ramo de azucenas en la mesa redonda del centro. Llegó con los libros bajo el brazo a la caja y pagó.

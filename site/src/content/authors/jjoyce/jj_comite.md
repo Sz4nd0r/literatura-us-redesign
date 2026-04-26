@@ -11,7 +11,6 @@ tags:
 *James*
 *Joyce*
 *(1882-1941)*
-*# Efemérides En El Comité*
 *(“Ivy Day in the Committee Room”)*
 *(Dubliners, 1914)*
 *El viejo Jack rastreó las brasas*
@@ -43,8 +42,6 @@ de tarjetas de cartulina.
 viejo.
 —Déjelo, está bien así —dijo
 el señor O'Connor. Escogió una de las tarjetas y la leyó:
-# ## Elecciones
-# ## ## Municipales
 real sala de cambio
 El
 señor Richad J. TIERNEY, P. L. G., solicita respetuosamente el favor de
@@ -624,7 +621,6 @@ Luego, en medio del silencio, se quitó el sombrero, lo dejó en la mesa
 y se puso de pie. Parecía estar ensayando la pieza en la mente.
 Después de una pausa larga anunció:
 LA
-# ## ## ## Muerte De Parnell
 6 de Octubre de 1891
 Se
 aclaró la voz una o dos veces y luego comenzó a recitar:

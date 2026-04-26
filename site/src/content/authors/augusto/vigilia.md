@@ -8,7 +8,6 @@ tags:
   - vigilia
   - augusto
 ---
-*# Vigilia del Almirante*
 *Augusto Roa Bastos (1917 - 2005)*
 *El nuevo mundo, LOPE DE VEGA No desees, y serás el más rico Hombre del mundo. Persiles CERVANTES Voy perdiendo mi ser mientras me voy humanando Guyravera CHAMÁN GUARANÍ Éste es un relato de ficción impura, o mixta, oscilante entre la realidad de la fábula y la fábula de la historia. Su visión y cosmovisión son las de un mestizo de «dos mundos», de dos historias que se contradicen y se niegan. Es por tanto una obra heterodoxa, ahistórica, acaso anti-histórica, anti-maniquea, lejos de la parodia y del pastiche, del anatema y de la hagiografía.*
 

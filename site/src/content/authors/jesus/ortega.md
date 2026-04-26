@@ -10,7 +10,6 @@ tags:
 ---
 *Jesús Díaz*
 *(La Habana, 1941 - Madrid, 2002)*
-*# Los Años Duros De Jesús Díaz*
 *Julio Ortega*
 *Reseña originalmente publicada en*
 *Cuadernos Hispanoamericanos, núm. 260 (febrero 1972), pp. 391-399*

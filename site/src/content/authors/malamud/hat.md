@@ -10,7 +10,6 @@ tags:
 ---
 *Bernard Malamud*
 *(26 de abril, 1914 – 18 de marzo, 1986)*
-*# El Sombrero De Rembrandt*
 *(1973)*
 *(“Rembrandt’s Hat”)*
 *Originalmente publicado en la revista The New Yorker (9 de marzo de marzo 1973);*

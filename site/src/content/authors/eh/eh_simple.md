@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
-*# Una Sencilla Indagación*
 *(“A Simple Enquiry”)*
 *Men Without Women*
 *(Nueva York: Scribner's Sons, 1927, 232 págs.)*

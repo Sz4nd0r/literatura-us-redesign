@@ -100,11 +100,7 @@ La Duquesa, sin saber por qué, sintióse más libre. Apoyó su cabeza sobre el 
 Durmieron todo aquel día, y al siguiente no despertaron cuando voces y pasos humanos rompieron el silencio de aquella soledad. Y cuando una mano piadosa separó la nieve de sus marchitas caras, apenas podía decirse, por la paz igual que ambas respiraban, cual fuera la que había pecado. La misma ley de Poker-Flat lo reconoció así y se retiró dejándolas todavía enlazadas una en brazos de otra.
 A la entrada de la garganta, sobre uno de los mayores pinos, hallóse un dos de bastos clavado en la corteza, con un cuchillo de caza. Contenía la siguiente inscripción, trazada con lápiz con mano firme:
 ![†](/assets/images/cross.jpg)
-# Al Pie De Este Árbol
-# ## Yace El Cuerpo
 DE
-# ## ## John Oakhurst,
-# ## ## ## Que Dio Con Una Vena De Mala Suerte
 ## ## ## ## EL 23 DE NOVIEMBRE 1850
 Y
 ## ## ## ## ENTREGÓ SUS PUESTAS

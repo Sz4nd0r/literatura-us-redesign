@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Los Mendigos*
 *([I mendicanti], 1940)*
 *Fragmentos sin título, publicado en Tutti i racconti (2002)*
 

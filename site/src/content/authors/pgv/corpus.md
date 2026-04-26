@@ -8,7 +8,6 @@ tags:
   - corpus
   - pgv
 ---
-*# Corpus iuris civilis*
 *Pedro Gómez Valderrama*
 
 Corpus iuris civilis Invenciones y artificios (Bogotá: Instituto Colombiano de Cultura, División de Publicaciones, 1975, 127 págs.) La mano se detuvo con la pluma en suspenso sobre las dos únicas palabras trazadas: “Las palomas...”. El escritor miró a través de la ventana. Su mano reposó sobre la cuartilla blanca. La calle quieta y apacible reflejaba el sol enfermo del invierno, y los árboles desplumados y duros se recortaban sobre el fango. El hornillo estaba casi sin rescoldo. El frío melancólico de tarde invernal descendía lentamente sobre el anciano. Su mirada se demoró en los estantes de libros, sobre los cuales se alineaban los retratos de los hijos muertos. En los volúmenes polvorientos se escondía su vida fatigosa.

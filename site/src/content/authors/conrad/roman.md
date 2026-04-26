@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# El Príncipe Román*
 *(1911)*
 *(“Prince Roman”)*
 *Originalmente publicado en The Oxford and Cambridge Review,*

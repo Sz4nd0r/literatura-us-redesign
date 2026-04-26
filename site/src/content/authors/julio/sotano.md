@@ -8,7 +8,6 @@ tags:
   - sotano
   - julio
 ---
-*# Espumante en el sótano*
 *Julio Ramón Ribeyro (1987 - 1994)*
 *Espumante en el sótano El próximo mes me nivelo (no se publicó como un libro individual, pero fue publicado en 1972 como parte del segundo tomo de) La palabra del mudo. Cuentos 1952-1972, tomo II. (Lima: Milla Batres Editorial, 1973, 291 págs.) Aníbal se detuvo un momento ante la fachada del Ministerio de Educación y contempló, conmovido, los veintidós pisos de ese edificio de concreto y vidrio. Los ómnibus que pasaban rugiendo por la avenida Abancay le impidieron hacer la menor invocación nostálgica y, limitándose a emitir un suspiro, penetró rápidamente por la puerta principal. A pesar de ser las nueve y media de la mañana, el gran hall de la entrada estaba atestado de gente que hacía cola delante de los ascensores. Aníbal cruzó el tumulto, tomó un pasadizo lateral, y en lugar de coger alguna de las escaleras que daban a las luminosas oficinas de los altos, desapareció por una especie de escotilla que comunicaba al sótano. —¡Ya llegó el hombre! —exclamó, entrando en una habitación cuadrangular, donde tres empleados se dedicaban a clasificar documentos.*
 

@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Seis A Uno*
 *(“Six of One-”)*
 *Originalmente publicado en Redbook, 58 (febrero de 1932);*
 *The Price Was High: The Last Uncollected Stories of F. Scott Fitzgerald*
@@ -55,7 +54,6 @@ El siguiente fue un chico que a Barnes le cayó personalmente antipático. Louis
 La última elección fue la más difícil. Los chicos que quedaban eran mediocres, o hasta el momento no habían demostrado ninguna cualidad digna de aprecio. Barnes, recordando patrióticamente su antigua universidad, pensó durante algún tiempo en el capitán del equipo de fútbol, un depurado defensa central que hubiera sido bien recibido en cualquier equipo del Este; pero aquello hubiera desmentido la honradez de la idea.
 Eligió por fin a un joven, Gordon Vandervere, de mejor posición social que los otros. Vandervere era el más guapo y el que tenía más éxito entre las chicas del instituto. Había pensado ir a la universidad, pero su padre, un clérigo lleno de preocupaciones, se alegró al ver que le facilitaban el camino.
 Barnes estaba contento de sí mismo; se sentía una especie de dios que podía moldear los destinos de aquellos jóvenes. Tenía la sensación de que eran sus hijos, y le puso un telegrama a Schofield, que estaba en Minneapolis:
-# ## He Elegido A Los Otros Seis Y Los Respaldo Hasta El Fin.
 Y ahora, después de tanta biografía, empieza la historia...
 El friso se rompió. El joven Charley Schofield había sido expulsado de Hotchkiss. Fue una pequeña pero dolorosa tragedia: él y otros cuatro chicos, simpáticos, conocidos, atentaron contra el honor del colegio al fumar. El padre de Charley sintió profundamente aquel asunto, vacilando entre el disgusto con su hijo y la rabia contra el colegio. Charley volvió a Minneapolis desesperado y asistió a la escuela pública mientras decidían qué iba a hacer.
 A mediados del verano no habían decidido nada todavía. Cuando terminó el curso, dedicó su tiempo a jugar al golf o a bailar en el Club Minnekada: era un guapo muchacho de dieciocho años que aparentaba más edad, de modales encantadores, sin ningún vicio serio, pero con cierta tendencia a dejarse influir fácilmente por las chicas que merecían su admiración. En aquel tiempo admiraba fundamentalmente a Gladys Irving, una recién casada que apenas le llevaba dos años. La perseguía en los bailes del club, y estaba prendado de ella, aunque Gladys, por su parte, estaba enamorada de su marido y sólo buscaba en Charley la confirmación de que era joven y atractiva, eso que a menudo necesita toda mujer bella después de tener su primer hijo.
@@ -75,7 +73,6 @@ Gladys no quería molestarlo ni ahuyentarlo; pero quería decirle algo más cont
 —¿Eso es lo que piensas? —dijo Charley, imperturbable, con aquellos modales precoces y solemnes, como si pensara que hablaba con una niña. Pero Gladys lo había convencido, porque estaba enamorado de ella y la envolvía la luna. Tú, ¡caramba!, y yo era la última canción que habían bailado el miércoles anterior, y el título parecía apropiado para la ocasión.
 Si Gladys hubiera aceptado la idea que Charley tenía de sí mismo de ser un hombre hecho y derecho, y hubiera ocultado su interés bajo la máscara de la camaradería, sin animarlo a cumplir los deseos de su padre, lo hubiera dejado fanfarronear. Pero no fue así, y Charley aprobó el ingreso en la universidad aquel otoño, gracias a las suaves reminiscencias de una chica y a sus propios recuerdos de lo dulces que son los triunfos juveniles en los campos de la juventud.
 Y cumplió los deseos de su padre. Si no lo hubiera hecho, la catástrofe de su hermano mayor, Wister, aquel otoño hubiera destrozado a Schofield. La mañana siguiente al partido con Harvard los periódicos de Nueva York aparecieron con el siguiente titular:
-# ## ## Accidente De Coche De Coristas Y Estudiantes De Yale. Irene Dale Y, En El Hospital De Greenwich, Anuncia Pleito Por Belleza Amenazada. Implicado Hijo De Millonario.
 Los cuatro chicos comparecieron ante el decano dos semanas más tarde. Wister Schofield, que había conducido el coche, fue el primero en ser llamado.
 —El coche no era suyo, señor Schofield —dijo el decano—. Era del señor Kavenaugh, ¿no es así?
 —Sí, señor.

@@ -11,7 +11,6 @@ tags:
 *Felisberto*
 *Hernández*
 *(Uruguay, 1902-1964)*
-*# El Cocodrilo*
 *(Originalmente publicado en Marcha,*
 *Nº 510, Montevideo, 1949)*
 *La casa inundada*

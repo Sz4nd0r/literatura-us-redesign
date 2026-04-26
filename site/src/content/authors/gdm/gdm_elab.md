@@ -10,7 +10,6 @@ tags:
 ---
 *Guy de Maupassant*
 *(Francia, 1850-1893)*
-*# El Abandonado*
 *(1884)*
 *(“L’abandonné”)*
 *[Otro título en español: “Abandonado”]*

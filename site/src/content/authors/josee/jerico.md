@@ -8,7 +8,6 @@ tags:
   - jerico
   - josee
 ---
-*# Jericó*
 *José Emilio Pacheco (n. 2004)*
 *El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Pedro Lastra H avanza por un camino del otoño. El mediodía parece arder, las nubes se forman y se deshacen. En un claro del bosque encuentra un sitio no alcanzado por la sequía. Observa el cielo, se tiende en ese manto de frescura, prende un cigarro y escucha resonar el viento en las frondas. Nada interrumpe la serenidad, el orden se ha adueñado del mundo. H baja la vista y descubre entre la hierba una caravana de hormigas que transportan los restos de una araña.*
 

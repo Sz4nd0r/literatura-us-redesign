@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# El Negro Artificial*
 *(“The Artificial Nigger”, 1955)*
 *(originalmente publicado en Kenyon Review, vol. 17, Spring 1955)*
 

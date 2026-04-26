@@ -8,7 +8,6 @@ tags:
   - manuali
   - benedetti
 ---
-*# Manualidades*
 *Mario Benedetti (1920 - 2009)*
 *Despistes y franquezas, 1989) En las puertas de hoy ya no se usan, pero en las viejas puertas había siempre alguna mano (de hierro, de bronce) que era antes que nada un llamador. A Inés le habían atraído estas manos desde que era niña. Y a partir de los quince comenzó a coleccionarlas. En ocho años había conseguido nada menos que veinte. Por lo menos la mitad procedían de las ferias de Tristán Narvaja y de San Telmo, pero en la familia siempre había algún viajero que se acordaba de conseguirle alguna otra en El Rastro o en el Marché aux Puces o en Plainspalais o en Portobello.*
 

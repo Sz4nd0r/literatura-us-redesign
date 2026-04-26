@@ -187,7 +187,6 @@ Es verdad, en cualquier caso, que un viejo granjero que ha estado recientemente 
 
 Como era de esperar, tan abracadabrante suceso se ha convertido ya en una de las historias favoritas de las gentes de la región, que lo narran en las noches de invierno al calor de la lumbre. El puente maldito, así las cosas, se ha convertido en uno de los lugares que más cuidadosamente evitan quienes en este valle moran, presos de un terror supersticioso a tan inocente lugar… Acaso tal sea la razón de que hace unos pocos años se decidiera desviar el camino que llevaba a la iglesia, y que hacía obligatorio el paso por el puente, por la orilla de la presa del molino. La que fue escuela en donde impartió sus enseñanzas Ichabod Crane no es más que una casa en ruinas lamentables; quienes se atreven a pasar relativamente cerca de sus paredes desconchadas y húmedas de moho, lo hacen con bastante aprensión, despacio para no pisar fuerte, pues cuentan que allí vive, nada menos, el fantasma del pobre Ichabod. Los mozos que labran la tierra, por su parte, cuando regresan agotados a sus casas, tras una larga y dura jornada, sobre todo en el verano, cuando empieza a anochecer, aseguran que se oye en la lejanía la voz de quien fuera el maestro de Sleepy Hollow entonando uno de sus salmos tan melancólicamente que se les parte el corazón de pena.
 
-# Post Scriptum
 
 Por. Mr. Knickerbocker, de su puño y letra
 

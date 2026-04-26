@@ -10,7 +10,6 @@ tags:
 ---
 *Richard Ford*
 *(Jackson, Mississippi, 1944-)*
-*# Bajo El Radar*
 *(“Under the Radar”)*
 *Originalmente publicado, como “Issues”, en la revista The New Yorker (18 de septiembre de 2000, pág. 136);*
 *A Multitude of Sins (2002)*

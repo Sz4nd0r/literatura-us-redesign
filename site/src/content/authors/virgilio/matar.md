@@ -12,7 +12,6 @@ tags:
 *Díaz Grullón*
 *(República Dominicana,*
 *1924-2001)*
-*# Matar Un Ratón*
 *El niño recogió una pesada piedra*
 *de las que abundaban en el pequeño patio trasero de la casa, calculó*
 *cuidadosamente la puntería y la arrojó con fuerza contra el ratón que*

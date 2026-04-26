@@ -8,7 +8,6 @@ tags:
   - signia
   - julio
 ---
-*# La insignia*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 Cuentos de circunstancias (Lima: Editorial Nuevos Rumbos, 1958, 96 págs.) Hasta ahora recuerdo aquella tarde en que al pasar por el malecón divisé en un pequeño basural un objeto brillante. Con una curiosidad muy explicable en mi temperamento de coleccionista, me agaché y después de recogerlo lo froté contra la manga de mi saco. Así pude observar que se trataba de una menuda insignia de plata, atravesada por unos signos que en ese momento me parecieron incomprensibles. Me la eché al bolsillo y, sin darle mayor importancia al asunto, regresé a mi casa. No puedo precisar cuánto tiempo estuvo guardada en aquel traje, que por lo demás era un traje que usaba poco. Sólo recuerdo que en una oportunidad lo mandé lavar y, con gran sorpresa mía, cuando el dependiente me lo devolvió limpio, me entregó una cajita, diciéndome: “Esto debe ser suyo, pues lo he encontrado en su bolsillo”.

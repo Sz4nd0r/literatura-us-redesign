@@ -10,7 +10,6 @@ tags:
 ---
 *Ian McEwan*
 *(Aldershot, Inglaterra, 1948-)*
-*# Primer Amor, Últimos Ritos*
 *(“First Love, Last Rites”)*
 *First Love, Last Rites*
 *(Londres: Jonathan Cape, 1975, 165 págs.)*

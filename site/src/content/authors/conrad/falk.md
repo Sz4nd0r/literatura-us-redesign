@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# Falk, Un Recuerdo*
 *(1903)*
 *(“Falk: A Reminiscence”)*
 *Typhoon and Other Stories*

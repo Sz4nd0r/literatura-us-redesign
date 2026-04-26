@@ -186,7 +186,6 @@ pronto estaré,
 pronto estaré.
 Entonces fue cuando Brown se puso en pie. Una y otra vez, sin apuntar, vació el rifle en dirección a la goleta. Los hombres y las mujeres se rieron y desde la península se oyó el repiqueteo de las balas de respuesta. Pero el tenor de la voz quebrada siguió cantando y Brown siguió disparando hasta que el himno dejó de sonar.
 Esa noche Grief y Mauriri regresaron con una sola calabaza de agua. Del hombro de Grief faltaba una tira de piel de quince centímetros, recuerdo del roce, con la piel similar al papel de lija, del tiburón cuyo ataque había eludido.
-# Viii
 A primera hora de la mañana de otro día, antes de que el sol brillase con toda su fuerza, Raoul van Asveld les envió una oferta de negociación.
 Se la pasaron a Brown los que ocupaban el enclave entre las rocas, situado a cien metros de distancia. Grief estaba acuclillado junto a una pequeña hoguera, asando una tira de carne de tiburón. La suerte les había sonreído durante las últimas veinticuatro horas. Recogieron algas y erizos de mar. Tehaa pescó un tiburón y Mauriri capturó un pulpo de buen tamaño en la base de la grieta donde almacenaban la dinamita. Además, ya de noche, lograron sumergirse dos veces en busca de agua antes de que los tiburones los detectasen.
 —Dice que quiere venir a hablar con usted —dijo Brown—. Pero yo sé lo que busca ese animal. Quiere saber cuánto nos falta para morirnos de hambre.

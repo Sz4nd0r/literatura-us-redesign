@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Sueños De Invierno*
 *(“Winter Dreams”)*
 *Originalmente publicado en Metropolitan Magazine, 56 (diciembre de 1922);*
 *All the Sad Young Men*

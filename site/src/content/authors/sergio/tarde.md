@@ -8,7 +8,6 @@ tags:
   - tarde
   - sergio
 ---
-*# Tarde de sol*
 *Sergio Ramírez (n. 1942)*
 *Tarde de sol Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Julio Valle-Castillo El asunto de los balazos, la verdad es que nadie logró entenderlo en aquel momento. El catcher había tirado la máscara para perseguir un elevado de foul cerca de la raya de tercera base. El viento traidor se llevó la pelota, pero él la siguió buscando deslumbrado por el sol, ya cerca de las graderías, y sin miedo de chocar contra la malla metió el guante y la atrapó, para enseñársela orgulloso al público desde el suelo donde había quedado malherido, escupiendo los dientes. Así cayó el tercer out del noveno inning, y la multitud, que mantenía el corazón suspendido en la boca, armó la tremolina. La gente lloraba, se abrazaba. Es un juego que nadie olvida, cualquiera que estuvo allí, o lo oyó por radio, te lo puede repetir de memoria.*
 

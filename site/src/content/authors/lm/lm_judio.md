@@ -10,7 +10,6 @@ tags:
 ---
 *Lorrie Moore*
 *(Glens Falls, NY, 1957 –)*
-*# El Cazador Judío*
 *(1989)*
 *(“The Jew Hunter”)*
 *Originalmente publicado en la revista The New Yorker (13 de noviembre de 1989, pág. 48);*

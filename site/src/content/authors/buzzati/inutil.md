@@ -10,11 +10,9 @@ tags:
 ---
 *Dino Buzzati*
 *(Belluno, Italia, 1906 - Milán, 1972)*
-*# Las Precauciones Inútiles*
 *(“Le precauzioni inutili”)*
 *Sessanta racconti*
 *(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*
-*# ## Contra Los Fraudes*
 
 Leo Bussi, viajante de comercio de treinta años, entró en la sucursal número siete del Banco de Crédito Nacional para cobrar un cheque al portador de 4000 (cuatro mil) liras.
 No había ventanillas, sino un largo mostrador detrás del cual trabajaban los empleados.
@@ -35,7 +33,6 @@ Los dos se pusieron a confabular, alzando de vez en cuando los ojos para examina
 Por fin, el empleado volvió al mostrador, desilusionado, parecía, de no encontrar otros motivos para continuar sus investigaciones.
 —Ya está, señor, puede pasar por caja… —Y, junto al pasaporte, le dio un cupón numerado.
 Cuando le llegó el turno, Bussi entregó el cupón en la caja. El cajero, un hombre grueso y autoritario, palpó el cheque cuidadosamente, comprobó el cupón, miró a Bussi y de nuevo el cheque, también él buscando quizá una misteriosa semejanza entre el cheque bancario y el hombre, y, finalmente, perforó el papelito con una especie de tampón, lo volvió a mirar y lo depositó en una cajita que tenía a su lado. Después de eso, con una solemnidad sacerdotal, sacó un fajo de billetes y los contó, haciéndolos restallar entre los dedos con un golpecito característico: uno, dos, tres, cuatro billetes de 10.000 (diez mil) liras. Se los tendió al cliente.
-# ## ## Contra Los Espías
 Antonio Lancellotti, alto funcionario del Estado y hombre particularmente prudente, se encuentra en el Ministerio con el viceinspector Modica, su subordinado, un hombre con el que debe andarse con cuidado porque tiene fama de espía.
 —Querido Modica —pregunta estúpidamente, sólo para parecer cordial—, ¿qué cuentan por ahí? ¿qué cuentan?
 —Bah… —contesta Modica moviendo la cabeza—, es mejor no tener orejas, créame. Parece ser que la principal actividad de los miembros de este ministerio es poner a caldo a los otros por detrás…
@@ -67,7 +64,6 @@ El titular dice: “Resolución de la Junta Nacional”. Y debajo: “Baltazano 
 Lancellotti siente que un abismo se abre ante él, titubea, apenas tiene fuerzas para preguntar:
 —Pero usted, Modica, ¿lo sabía?
 —¿Yo? —dice el otro con una sonrisa satánica—. ¿Yo? ¡Le juro que estoy pasmado!
-# ## ## ## Contra Los Ladrones
 Desde que se han cometido tres atracos en la zona, el terror a los bandidos se ha convertido en una obsesión para el terrateniente Fritz Martella. Ya no se fía de nadie, ni de sus familiares ni de los criados, ni siquiera de los perros que, sin embargo, están ojo avizor. ¿Dónde esconder las onzas de oro y las joyas de la familia? La casa no es un lugar seguro. La cómoda, utilizada hasta ahora como caja fuerte, es una garantía ridícula. Después de darle mil vueltas, una noche, sin decir nada a nadie, sale de casa con el cofre del tesoro y una pala, y se dirige hacia el bosque que está junto al río, donde excava un profundo agujero y entierra en él la cajita.
 Pero, nada más volver a casa, reflexiona: “Qué estúpido he sido. ¿Cómo no se me ha ocurrido que la tierra removida puede despertar sospechas? Es verdad que por allí nunca pasa casi nadie, pero ¿y si viene algún cazador y ve el agujero? ¿Y si le entra curiosidad? ¿Y si prueba a excavar también él?”.
 Sin dejar de pensar en el asunto, da vueltas y más vueltas en la cama, sin conseguir conciliar el sueño. Mientras tanto, nada más amanecer, tres asesinos, buscando el mejor lugar para enterrar el cadáver del joyero al que acaban de agredir y matar por el camino, se acercan al bosque que está junto al río y les sorprende encontrar un trozo de terreno donde, no se sabe por quién ni para qué, la tierra ha sido removida recientemente. Entierran el cuerpo a toda prisa en ese lugar.

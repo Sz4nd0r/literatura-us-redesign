@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Lo Más Sensato*
 *(“The Sensible Thing”)*
 *Originalmente publicado en Liberty, 1 (5 de julio de 1924);*
 *All the Sad Young Men*

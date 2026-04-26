@@ -50,7 +50,6 @@ Cuando se halle usted aquí, comprenderá mejor mi congoja y por ello me permito
 Según me han dicho, se apasiona usted por los enigmas. Pues bien, yo le aseguro que el mío es uno de los más confusos que se pueden presentar. Cuento, pues, con su colaboración.
 Telegrafíeme la hora de su llegada y le esperaré en la estación. Como los grandes expresos no paran en Golfo Juan, iré a recogerle a Cannes en mi coche.
 Anticipándole mi más sincero agradecimiento, disponga de su afmo. s. s. y amigo,
-# Evaristo Marbe
 Administrador Colonial Retirado
 —¿Qué le parece, Ana?
 —Nada, señorito.

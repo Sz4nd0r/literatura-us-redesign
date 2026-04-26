@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# Kasián De Krasívaia Mech*
 *(1851)*
 *[“Kasyan con hermosas espadas”]*
 *(“Касьян с Красивой мечи”)*

@@ -8,7 +8,6 @@ tags:
   - caliban8
   - roberto
 ---
-*# ¿Y Ariel ahora?*
 *Roberto Fernández*
 *Retamar*
 

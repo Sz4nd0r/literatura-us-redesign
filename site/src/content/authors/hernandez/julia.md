@@ -11,7 +11,6 @@ tags:
 *Felisberto*
 *Hernández*
 *(Uruguay, 1902-1964)*
-*# Menos Julia*
 *(Originalmente publicado en Sur*
 *Nº 143, Buenos Aires, septiembre, 1946)*
 *Nadie encendía las láparas*

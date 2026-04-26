@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# Un Incendio En El Mar*
 *(1883)*
 *(“Un incendie en mer”, “Пожар на море”)*
 *Originalmente dictado por el autor, en francés, a Pauline Viardot (1883);*

@@ -8,7 +8,6 @@ tags:
   - alquilo
   - garciamarquez
 ---
-*# Me alquilo para soñar*
 *Gabriel*
 *García Márquez (n. 1947)*
 

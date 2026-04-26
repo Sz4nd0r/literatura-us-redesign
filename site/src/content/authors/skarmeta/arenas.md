@@ -11,14 +11,12 @@ tags:
 *Antonio*
 *Skármeta*
 *(Antofagasta, Chile, 1940 - Santiago, Chile 2024)*
-*# A Las Arenas*
 *Desnudo en el tejado*
 *Premio de Casa de las Américas, 1968*
 *(Buenos Aires: Editorial Sudamericana, 1969, 139 págs.)*
 *(La Habana: Premio Casa de Las Americas, 1969, 133 págs.)*
 *J’ai tiré ma rouloure*
 *de vie au milieu des sables.*
-*# ## Samuel Beckett,*
 
 En attendant Godot
 Jugueteé con el dólar de plata presionando el pulgar en el relieve. Por un momento tuve la idea de decirle al mexicano: «Trae mala suerte. La vieja en Biloxi dijo que traía mala suerte». Abrí la canilla y bebí agua de la llave chorreándome el cuello.
@@ -40,7 +38,6 @@ Le indiqué el aviso.
 El mexicano se puso alerta con las cejas. Sentí ganas de beber más agua.
 —Aquí dice «precio según el grupo». ¿Qué es eso?
 —Es muy fácil. Hay grupos a be ce de o uno dos tres cuatro. También erre hache negativo. Ese lo pagan mejor porque andan escasos.
-# # ## ## —¿Y?
 —Si tienes erre hache, te pagan el doble. Es por la ley de la oferta y la demanda, ¿comprendes? Pero a ti te pagarán quince.
 Me acaricié el brazo.
 —¿Cuánto te dieron a ti?

@@ -10,7 +10,6 @@ tags:
 ---
 *J. D. Salinger*
 *(Nueva York, 1919 - Cornish, New Hampshire, 2010)*
-*# El Periodo Azul De Daumier-Smith*
 *(“De Daumier-Smith's Blue Period”)*
 *Nine Stories (1953)*
 

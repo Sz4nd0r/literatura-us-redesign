@@ -8,7 +8,6 @@ tags:
   - acion
   - augusto
 ---
-*# La excavación*
 *Augusto Roa Bastos (1917 - 2005)*
 
 El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953, pp. 72-77 El primer desprendimiento de tierra se produjo a unos tres metros, a sus espaldas. No le pareció al principio nada alarmante. Sería solamente una veta blanda del terreno de arriba. Las tinieblas apenas se pusieron un poco más densas en el angosto agujero por el que únicamente arrastrándose sobre el vientre un hombre podía avanzar o retroceder. No podía detenerse ahora.

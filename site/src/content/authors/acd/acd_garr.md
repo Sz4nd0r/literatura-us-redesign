@@ -105,7 +105,6 @@ Holmes se quedó ensimismado. Pude percibir que se encontraba confuso.
 El interrogatorio de Holmes quedó interrumpido por unos golpes apremiantes en la puerta. No bien había descorrido nuestro cliente el cerrojo cuando el abogado americano irrumpió muy alterado en la habitación.
 —¡Aquí está! —exclamó agitando un periódico por encima de su cabeza—. Me imaginaba que llegaría a tiempo para verle. ¡Enhorabuena, señor Nathan Garrideb! Es usted un hombre rico, señor mío. Nuestro asunto ha concluido felizmente y está todo en orden. En cuanto a usted, señor Holmes, no podemos más que pedirle disculpas si le hemos causado alguna molestia innecesaria.
 Le puso en la mano el periódico a nuestro cliente, quien se quedó mirando fijamente un anuncio que había marcado en él. Holmes y yo nos inclinamos hacia delante y lo leímos por encima de su hombro. Decía lo siguiente:
-# Howard Garrideb
 Fabricante de maquinaría agrícola
 Agavilladora, cocechadora, arados de vapor y manuales, brocas, gradas, carretas, carretones y toda clase de herramientas.
 Presupuestos pozos artesianos.

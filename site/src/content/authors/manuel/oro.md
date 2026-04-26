@@ -8,7 +8,6 @@ tags:
   - oro
   - manuel
 ---
-*# Oro en el sur*
 *Manuel Rojas*
 *Originalmente publicado en Revista Sociedad de Autores, Núm. 1 (septiembre de 1957); Antología de cuentos (Santiago de Chile: Zig-Zag, 1957, 148 págs.) Por un momento pareció que la silla iba a derrumbarse o por lo menos quedar como desjarretada, mas no ocurrió así: crujió y hasta se arqueó, pero se mantuvo. Era una silla bien construida, sin estilo, pero sin clavos. El hombre la llenó con su cuerpo. Con los brazos sobre el pecho dijo: —Han encontrado oro en el sur.*
 

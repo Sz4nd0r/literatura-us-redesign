@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# La Gitana*
 *(“La zingara”, 1941)*
 *Sólo hay un texto mecanografiado con correcciones de puño y letra del autor*
 *Tutti i racconti (2002)*

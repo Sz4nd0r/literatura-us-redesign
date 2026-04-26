@@ -8,7 +8,6 @@ tags:
   - rebe
   - augusto
 ---
-*# La rebelión*
 *Augusto Roa Bastos (1917 - 2005)*
 *Nadie sabe en qué momento han comenzado a reunirse, ni cómo han podido atravesar los cordones de tropas. Lo más extraño de todo es por qué descuido, respeto o indiferencia han dejado reunirse a esas mujeres. Justo ahora y allí, en esta amenaza de catástrofe que pesa sobre la ciudad desde la madrugada. A las cuatro en punto un fuerte destacamento al mando de un oficial de comunicaciones irrumpió en la central de teléfonos.*
 

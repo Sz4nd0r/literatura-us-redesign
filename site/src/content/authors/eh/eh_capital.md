@@ -25,7 +25,6 @@ de Francisco. A propósito, un chiste de sabor
 madri­leño dice que cierto padre fué a la capital
 y publicó el siguien­te anuncio en las columnas
 personales de El Liberal: PACO, VEN A VERME
-# Al Hotel Montaña El Martes A Mediodía, Estás
 PERDONADO, PAPÁ; después de lo cual fué
 me­nester llamar a un escuadrón de la Guardia
 Civil para disper­sar a los ochocientos jóvenes

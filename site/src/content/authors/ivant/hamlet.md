@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# Un Hamlet Del Distrito De Schigrovski*
 *(1849)*
 *[“Aldea del condado de Shchigrovsky”]*
 *(“Гамлет Щигровского уезда”)*

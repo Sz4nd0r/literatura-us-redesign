@@ -8,7 +8,6 @@ tags:
   - campo
   - arturo
 ---
-*# La tarde en el campo*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Barrabás y otros relatos* (1928)*
 

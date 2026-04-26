@@ -10,7 +10,6 @@ tags:
 ---
 *Lino Novás Calvo*
 *(Grañas de Sor, Galicia, España, 1903 - Nueva York, 1983)*
-*# El Otro Cayo*
 *Cayo Canas*
 *(Buenos Aires: Espasa-Calpe, 1946)*
 *I*
@@ -204,7 +203,6 @@ José Barranco se había puesto a mirar a una nube que se había cuajado a ras d
 —Debajo de la cama hay gente —cantó un mayoral. Era al cerrarse el día. El mayoral había sacado los instrumentos y repiqueteaba en un bongó. Otro apareció con los timbales y una cubeta de agua con ron.
 —¡Eya, muchachos! —dijo un mayoral—; nos faltan pocos meses.
 —Llevamos años —dijo el polaco.
-# ## Viii
 Y ahora estábamos otra vez en corro, cerca de la hoguera. Era como en el barco, y la luna había vuelto a salir. Los jefes se quedaron aparte y vieron a los músicos comenzando el mensaje. (Se animarán con eso —dijo uno.) Los brazos habían vuelto a caer. Los perros perdían su magnetismo y la fiebre estaba ya en el polaco. Louro resistía. (Hay que resistir —dijo Louro). La música —dijo un jefe— levantará sus nervios.
 —¿Qué nos darán cuando se acabe la música? —dijo el mulato.
 El mulato no presentía lo que los negros. Los cueros comenzaron a hablar bajito de un amor, que nacía en ellos, que los músicos les arrancaban. Era un gruñido de hembra echada en la tierra caliente, junto a una palmera, de la noche. Los ojos de la imaginación comenzaron a verla, y luego se llenaron de ritmos. De la tierra nacían curvas, y todos nosotros éramos seres de la tierra, parte de ella. Lo demás se borraba. La memoria se iba quedando vacía y los cuerpos se llenaban ahora de un jugo maduro. Muy lentamente, la voz de los cueros iba subiendo. Le salían unos latidos gordos que querían subir y bajaban. Los músculos comenzaban a cantar, y en las cabezas, echadas para atrás, se iban cerrando los ojos que ven hacia afuera. Los cueros comenzaron a hablar el dolor amoroso de la jungla.
@@ -233,7 +231,6 @@ Era ya la voz de todas las fieras juntas. El mulato se echó a un lado con los o
 —¡A ellos! —dijo Ñico. Pero la orden del gran brujo del mundo soplaba ya en las aguas. Ningún blanco podía verlo todavía. Por eso ocurrió aquello. Los jefes vieron huir a los danzantes, enloquecidos, y tirarse a la manigua, y creyeron otra cosa.
 —Ha sido la traición —dijo el mulato. Los negros se engolfaron aullando y mirando al cielo, y los soldados no los vieron huir. La noche los tragó en un momento lejos de la hoguera, y los tambores ardían en ella. José Barranco los tiró al fuego y huyó como todos. Jiménez y Balseiro iban con ellos. El polaco no pudo. (Estamos perdidos —dijo el mulato.) Louro estaba a mi lado, mirando, y no entendía. Los jefes lo entendieron de otro modo, y los soldados encendieron antorchas.
 —Suelten los perros —dijo el jefe.
-# ## ## Viii
 Ese fue el error. Los jefes los creyeron cimarrones y les soltaron los perros y los soldados. Las antorchas y los fusiles se metieron en
 la manigua detrás de los hombres. Los mismos jefes y mayorales
 dirigieron la batida y nosotros quedamos junto a la hoguera. (Estamos perdidos —dijo el mulato.) Y los gritos de los negros. Louro

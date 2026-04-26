@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# El Turón Y Kalínich*
 *(1847)*
 *[“Pole y Kalínych”]*
 *(“Хорь и Калиныч”)*

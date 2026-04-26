@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# La Tarde De Un Escritor*
 *(“Afternoon of an Author”)*
 *(en su Ledger, Fitzgerald lo describe com un “Sketch”,*
 *pero también escribió “Story?”, ¿cuento?, en paréntesis);*

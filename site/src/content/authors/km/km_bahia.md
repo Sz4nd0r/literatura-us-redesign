@@ -1000,7 +1000,6 @@ una en brazos de otra.
 enderezándose la cofia—. Recoge mi labor.
 Ya las dos habían olvidado a qué
 se refería nunca..
-# Viii
 El
 sol aún caía perpendicular sobre el jardín, cuando la puerta trasera
 de la casa de los Burnell se cerró crujiendo, y una silueta en traje

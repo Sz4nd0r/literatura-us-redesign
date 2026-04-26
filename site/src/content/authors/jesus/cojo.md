@@ -13,7 +13,6 @@ tags:
 *II. El cojo*
 *Los años duros (1966)*
 *—Todo hombre se parece a su dolor».*
-*# A. Malraux*
 
 Ahorita llega. De veinte mil formas tiene que pasar por aquí a coger su máquina. Me quedan pocos. Nada más que el profesorcito este de esta noche y otro chivato. Después me quedo yo solo a mí mismo y ya sé bien qué hacer conmigo ahora que no soy ni un hombre. Pero antes tengo que acabar, y rápido. Si no, estas gentes con sus juicios y sus leyes me van a joder. A lo mejor él no se acuerda, porque le fue muy fácil; demasiado. O se acuerda y cree que lo voy a perdonar porque no le eché con el rayo en la asamblea de depuración. Salas, profesorcito maricón, te voy a joder. No te eché con el rayo en la asamblea porque eso es perder tiempo. Allí no iba a conseguir lo que quiero. Pero no me olvido. No me olvido porque fue a mí a quien le partieron las costillas y la cabeza a patadas; porque fui yo quien perdió el pulmón por tu culpa, y soy yo quien no podré estar nunca con ninguna jeba. Aunque de eso no tienes la culpa. La culpa es de la bomba que me jodió por dentro, y mía. Ni siquiera del Rolo o de Boby. Eso fue antes de la bomba, cuando la huelga. Boby y el Rolo querían cogérsela.
 —¿Por qué no rompes a un chivato en vez de meterte en la huelga?
@@ -120,7 +119,6 @@ impulsarme. En la clase me sentía insolente.
 Salas saludó con la misma voz aflautada y el mismo
 giro de la mano con que saludaba siempre. Yo me
 paré. Alguien, creo que el Rolo, imitó una trompeta.
-# ## —¡Ta - Ta - Ta - Taaa!
 —A quien pueda interesar: —dije en medio de la
 clase— Aclaro por este medio que el seguro profesor
 y supuesto afeminado («maricón» gritó uno). Salas, no tiene nada que ver con Carlos Fuentes Chang, alias El Chino, es decir, conmigo.

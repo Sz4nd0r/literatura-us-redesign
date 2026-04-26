@@ -10,7 +10,6 @@ tags:
 ---
 *Isak Dinesen*
 *(1885–1962)*
-*# Los Invencibles Dueños De Esclavos*
 *—The Invincible Slave-Owners*
 *(Vinter-eventyr, 1942)*
 *Cuentos de invierno (1942)*

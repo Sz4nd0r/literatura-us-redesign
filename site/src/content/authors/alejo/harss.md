@@ -12,7 +12,6 @@ tags:
 *Carpentier*
 *(La Habana, 1904-París,*
 *1980)*
-*# Alejo Carpentier, O El Eterno Retorno*
 *Luis Harss: Los nuestros*
 *(Buenos Aires: Editorial Sudamericana, 1966, pp. 51-86)*
 

@@ -12,7 +12,6 @@ tags:
 *Wilde*
 *(Irlanda, 1854 - Francia,*
 *1900)*
-*# El Famoso Cohete*
 *[El insigne cohete]*
 *(“The Remarkable Rocket”)*
 *The Happy Prince and Other Tales*

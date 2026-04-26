@@ -10,7 +10,6 @@ tags:
 ---
 *Elena Garro*
 *(Puebla, México, 1916 - Cuernavaca, 1998)*
-*# Una Biografía De Elena Garro*
 *Por*
 *Elena Poniatowska*
 *(La Jornada Semanal, Núm. 602, domingo 17 de septiembre de 2006)*

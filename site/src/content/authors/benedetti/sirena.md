@@ -8,7 +8,6 @@ tags:
   - sirena
   - benedetti
 ---
-*# La sirena viuda*
 *Mario Benedetti (1920 - 2009)*
 *La sirena viuda (Despistes y franquezas, 1989) A partir de 1980, yo había estado varias veces en Copenhague y siempre había cumplido con el rito de rendir homenaje a la legendaria sirenita de Eriksen. Debo reconocer, sin embargo, que sólo en esta última ocasión me pareció advertir en su rostro, y hasta en su postura, una casi imperceptible expresión de viudez. Cierta noche, estimulado tal vez por varias jarras de Calsberg, me atreví a mencionar el tema ante varios amigos latinoamericanos, verdaderamente expertos en exilios daneses.*
 

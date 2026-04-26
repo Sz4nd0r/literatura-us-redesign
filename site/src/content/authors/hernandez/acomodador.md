@@ -11,7 +11,6 @@ tags:
 *Felisberto*
 *Hernández*
 *(Uruguay, 1902-1964)*
-*# El Acomodador*
 *(Originalmente publicado en Anales*
 *de Buenos Aires*
 *Nº 6, Buenos Aires, Junio, 1946)*

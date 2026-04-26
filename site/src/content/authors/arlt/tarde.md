@@ -11,7 +11,6 @@ tags:
 *Roberto*
 *Arlt*
 *(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
-*# Una Tarde De Domingo*
 *El jorobadito*
 *(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)*
 *Eugenio Karl salió aquella tarde de domingo a la calle, diciéndose:*
@@ -103,7 +102,6 @@ Leonilda se incorporó violenta:
 Ella se rebelaba. Había que tener cuidado.
 —¿Y él no se da cuenta de lo que pasa en su interior?
 —Sí.
-# # # ## —¿Y... ?
 —Estoy cansada.
 —¿Por qué no se distrae leyendo?
 —Déjeme, por favor, de libros. ¡Son horribles! ¿Qué quiere que lea? ¿Puedo aprender algo en los libros?

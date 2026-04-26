@@ -11,7 +11,6 @@ tags:
 *Roque*
 *Dalton*
 *(1935-1975)*
-*# A 20 Años De Su Muerte*
 *¿Releer a Dalton? ¿En cúal circo?*
 *Luis Melgar Brizuela*
 *Escritor y Catedrático*

@@ -11,9 +11,7 @@ tags:
 *Heberto*
 *Padilla*
 *(1932–2000)*
-*# Fuera Del Juego*
 *(1968)*
-*# ## En Tiempos Difíciles*
 *A aquel hombre le pidieron su*
 *tiempo*
 *para que lo juntara al tiempo de la Historia.*
@@ -49,7 +47,6 @@ nada es tan útil para atajar el odio o la mentira.
 Y finalmente le rogaron
 que, por favor, echase a andar,
 porque en tiempos difíciles esta es, sin duda, la prueba decisiva.
-# ## ## El Discurso Del Método
 Si después que termina el
 bombardeo,
 andando sobre la hierba que puede crecer lo mismo
@@ -103,7 +100,6 @@ Ya los asaltadores del poder están subiendo a la tribuna.
 Ya el perro, el jardinero, el chofer, la criada
 están
 allí aplaudiendo.
-# ## ## ## Oración Para El Fin De Siglo
 Nosotros que hemos mirado siempre
 con ironía e indulgencia
 los objetos abigarrados del fin de

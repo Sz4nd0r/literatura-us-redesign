@@ -8,7 +8,6 @@ tags:
   - vecinos
   - benedetti
 ---
-*# Los vecinos*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) Cuando mi padre se arruinó con la farmacia de Tacuarembó, la familia pasó, casi sin transición, de la vida confortable a la casi miseria. Fuimos a dar a una casucha con techo de zinc en los alrededores de Colón. Si malamente nos manteníamos era gracias a que mi madre iba pignorando, uno tras otro, los regalos de su boda: un juego de té de porcelana Meissen, una jarra de plata y cristal, una lámpara de Gallé (sólo con esta venta sobrevivimos un semestre), etcétera. Mi padre no podía trabajar en ninguna parte, al menos legalmente, porque la implacable Liga Comercial había embargado de antemano todos sus posibles haberes en nombre de una retahíla de acreedores. Lo más que conseguía, gracias a la buena voluntad de algún viejo amigo o camarada de estudios, eran changas clandestinas. Me consta que trabajó, en distintas épocas, como boletero eventual de un cine de barrio, y también que gastó zapatos haciendo una suplencia de visitador médico.

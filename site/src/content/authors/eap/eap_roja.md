@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# La Máscara De La Muerte Roja*
 *(“The Masque of the Red Death”, 1842)*
 *Originalmente publicado, como “The Mask of the Red Death: A Fantasy”,*
 *in Graham’s Magazine (mayo 1842);*

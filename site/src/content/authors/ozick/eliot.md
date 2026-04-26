@@ -10,7 +10,6 @@ tags:
 ---
 *Cynthia Ozick*
 *(Ciudad de Nueva York, 1928-)*
-*# Cómo Ayudar A T. S. Eliot A Escribir Mejor*
 *(Notas para una bibliografía definitiva) (1981)*
 *(“Helping T. S. Eliot to Write Better”)*
 *Originalmente publicado en la revista American Poetry Review,*
@@ -103,7 +102,6 @@ los susurrantes refugios
 de noches sin descanso en hoteles baratos, etc.
 Pero estos versos flojos y enrevesados no siempre fueron tan conocidos, ni era tan fácil acceder a ellos. El tiempo y el destino no han tratado bien a Tom Eliot (que un día, dicho sea de paso, dejó de ser tremendamente joven): por alguna razón, la versión descuidada y sin pulir se ha abierto camino con mayor suerte en los últimos noventa años que los concienzudos esfuerzos de Barmuenster por alcanzar la perfección. Aun así el gran Firkin Barmuenster, aquel editor posfinisecular conocido por su meticulosa concisión y su vehemente precisión, por lanzar no pocas carreras literarias y contribuir a mejorar no pocos estilos de redacción flojos y redundantes, fue —aunque el hecho no se haya difundido todavía entre el público lector— el descubridor de T. S. Eliot y el primero que apostó por él.
 Para provecho de los bibliógrafos y, sobre todo, para deleite de los amantes de la poesía, el texto íntegro de “La canción de amor de J. Alfred Prufrock” apareció en The New Shoelace del 17 de abril de 1911 como sigue:
-# ## La Mente Del Hombre Moderno
 por George Eliot
 (
 Nota del editor: Eliot, nuevo colaborador de la revista, sin duda dará que hablar en el futuro. Por respeto a las excelentes ideas del autor, no obstante, se han llevado a cabo ciertas depuraciones de su propuesta original, según el principio de que, en palabras del director de la revista, LA BUENA ESCRITURA NO SABE DE TRUCOS, Y POR TANTO PUEDE Y DEBE LEERSE AL VUELO.)

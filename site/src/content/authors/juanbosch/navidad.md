@@ -8,7 +8,6 @@ tags:
   - navidad
   - juanbosch
 ---
-*# “Cuento de Navidad*
 *Juan Bosch (1909 - 2001)*
 
 Navidad con ilustraciones de Tamara Marrosu (Caracas: Editorial Cordillera, 1958, 107 pags.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Editorial Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 pgs.) Capítulo I Más arriba del cielo que ven los hombres había otro cielo; su piso era de nubes, y después, por encima y por los lados, todo era luz, una luz resplandeciente que se perdía en lo infinito.

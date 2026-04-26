@@ -8,7 +8,6 @@ tags:
   - don
   - bioy
 ---
-*# El don supremo*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 El don supremo El gran serafín (Buenos Aires: Emecé, «Selección Emecé de obras contemporáneas», 190 págs.) Historias de amor (Buenos Aires: Emecé, 1972, 259 págs.) Si dentro de algunos años quiero imaginar a Margot, la memoria, fatalmente selectiva, omitirá alguna circunstancia molesta y exaltará los rizos de oro, la piel rosada y blanca, los ojos misteriosamente iluminados, la talla que no vacilo en calificar de pesada, el pecho de paloma, la inmarcesible frescura de su inocencia y las enormes nalgas; pero, antes de entrar de lleno en la historia galante que la concierne, permítaseme unas breves consideraciones morales.

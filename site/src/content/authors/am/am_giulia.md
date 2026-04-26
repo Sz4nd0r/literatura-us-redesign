@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# También Mi Hija Se Llama Giulia*
 *La cosa e altri racconti (1983)*
 *Estoy solo aquí, el día 15 de agosto, tradicional feriado en que muchos inician las vacaciones, y estoy solo por una de esas casualidades que suelen llamarse una desgracia imprevista. Debíamos partir, Giulia y yo, a una ciudad balnearia cercana de Roma. A último momento me entero de que no iremos solos, también vendrá un cierto Tullio, por quien, últimamente, Giulia se hace acompañar al cine. Tullio, un amigo, según Giulia, un puro y simple amigo, y así sea; ¡pero también el 15 de agosto! A estas protestas mías, ha contestado con la habitual jerga psicoanalítica: “A ti te gustaría hacerme creer que estás celoso; en realidad, en tu inconsciente, deseas que te traicione”. Ignoro por qué, ante esas palabras, salté como una furia: “Ah, ¿lo piensas así? En ese caso, es mejor que no nos veamos más”. Y ella, con calma desconcertante: “También yo pienso que es lo mejor”. “Entonces, adiós”. “Adiós”.*
 

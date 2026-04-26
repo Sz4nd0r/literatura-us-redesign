@@ -8,7 +8,6 @@ tags:
   - preludio
   - tellez
 ---
-*# Preludio*
 *Hernando Téllez (1908 - 1966)*
 
 Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) Primero fue un grito. Después miles de gritos. Después un tumulto. Después la revolución. —Oiga, usted, joven, aquí tiene el arma. Me entregaron un machete grande y nuevecito. Brillaba la hoja contra la pálida luz, al voltearla. —Gracias. Pesaba el machete. En la empuñadura de madera podían descansar con amplitud mis cinco dedos, colocados allí en la forma que ustedes saben: la forma del puño cerrado pero con el trozo de madera entre la mano. —¿Y qué hago con el machete? El grupo se alejaba. Y el hombre que me lo había dado ya iba calle arriba, a la cabeza de sus amigos. —Señor, ¿qué hago con el machete? —pregunté desesperado. Ni él ni los demás me oyeron.

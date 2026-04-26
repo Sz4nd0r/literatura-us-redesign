@@ -8,7 +8,6 @@ tags:
   - jaula
   - mujica
 ---
-*# XXII. La jaula (1776)*
 *Manuel Mujica Lainez*
 *Paco oprime con tal vigor la espada de su padre, que le duelen los dedos. Una hora hace que la empuñadura se clava en su palma y le tiñe en ella un surco rojo. Escondido detrás de la cortina espesa, clasifica los ruidos de la noche que enlaza el martilleo de su corazón. A sus espaldas, la puerta que abre al patio deja entrar el olor de los tiestos que empapa el rocío. A veces desliza sin un rumor el lienzo pesado y sus ojos se esfuerzan por distinguir las formas, en la oscuridad del aposento.*
 

@@ -8,7 +8,6 @@ tags:
   - casa
   - mujica
 ---
-*# XXIX. La casa cerrada (1807)*
 *Manuel Mujica Lainez*
 
 El texto de esta confesión ha sido bastante modernizado por nosotros, suprimiendo párrafos inútiles, condensando algunos y añadiendo aquí y allá un retoque. Ignoramos el nombre de su autor. “… Quizá lo más lógico, para la comprensión plena de lo que escribo, fuera que yo le hablara ante todo, Reverendo Padre, acerca de la casa que de niños llamábamos “la casa cerrada” y que se levanta todavía junto a la que fue del doctor Miguel Salcedo, entre el convento de Santo Domingo y el hospital de los Betlemitas.

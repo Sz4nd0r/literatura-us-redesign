@@ -10,7 +10,6 @@ tags:
 ---
 *Carson McCullers*
 *(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
-*# El Transeúnte*
 *—The Sojourner*
 *Originalmente publicado en la revista Mademoiselle, mayo de 1950*
 *The Ballad of the Sad Café and Other Stories (1951)*

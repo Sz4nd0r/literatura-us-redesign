@@ -8,7 +8,6 @@ tags:
   - sa
   - wf
 ---
-# Sherwood Anderson
 
 **Sherwood Anderson**
 

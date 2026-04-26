@@ -10,7 +10,6 @@ tags:
 ---
 *Miguel Ángel Asturias*
 *(Ciudad de Guatemala, 1899 - Madrid, 1974)*
-*# Los Ojos De Los Enterrados*
 *(1960)*
 *(Buenos Aires: Losada, 1969, 482 págs.)*
 *primera parte*

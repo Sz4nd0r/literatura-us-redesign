@@ -8,7 +8,6 @@ tags:
   - otro
   - bioy
 ---
-*# El otro laberinto*
 *Adolfo Bioy Casares (1914 - 1999)*
 *Originalmente publicado en la revista Sur, Núm. 135 (enero de 1946); La trama celeste (Buenos Aires: Sur, 1948, 246 págs.) PRIMERA PARTE dissimulare velis, te liquet esse meum. OVIDIO, TRISTIA, III, iii, 18. I No sin alguna injusticia, Anthal Horvath pensó: “Es como si detuviera el tiempo, o como si yo no hubiera estado en París; antes de irme, hablaba de esto; ahora sigue hablando. Insiste en este episodio del pasado; olvida el presente”.*
 

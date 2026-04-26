@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# El Señor Café Y El Señor Arreglos*
 *(“Mr. Coffee and Mr. Fixit”)*
 *Originalmente publicado en TriQuarterly (1980);*
 *What We Talk About When We Talk About Love (1981);*

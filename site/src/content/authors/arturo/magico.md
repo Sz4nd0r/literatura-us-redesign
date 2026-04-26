@@ -8,7 +8,6 @@ tags:
   - magico
   - arturo
 ---
-*# Realismo mágico*
 *Arturo Uslar Pietri (1906 - 2001)*
 
 Machado y yo venía de la Venezuela de Gómez. En Asturias se manifestaba, de manera casi obsesiva, el mundo disuelto de la cultura maya, en una mezcla fabulosa en la que aparecían, como extrañas figuras de un drama de guiñol, los esbirros del Dictador, los contrastes inverosímiles de situaciones y concepciones y una visión casi sobrenatural de una realidad casi irreal. Carpentier sentía pasión por los elementos negros en la cultura cubana.

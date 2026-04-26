@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# El Gominola*
 *(“The Jelly-Bean”)*
 *Originalmente publicado en Metropolitan Magazine, 52 (octubre de 1920);*
 *Tales of the Jazz Age*

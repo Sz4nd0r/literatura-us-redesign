@@ -8,7 +8,6 @@ tags:
   - strand
   - mutis
 ---
-*# Intermedio en el Strand*
 *Álvaro Mutis*
 *Intermedio en el Strand La muerte del estratega: narraciones, prosas, y ensayos [Algunos textos periodísticos] (México : Fondo de Cultura Económica, 1988, 214 págs.) Para Gonzalo García Barcha Al caer la tarde, en una taberna de Strand, el corpulento parroquiano ha comenzado a cabecear dominado por un sueño invencible. En su rincón habitual desde el que observa cargar y descargar los navíos que vienen desde los más lejanos puntos de la Tierra, mientras consume con apetito vigoroso grandes porciones de estofado de res e incontables pintas de cerveza clara, ha estado mirando los reflejos del sol sobre las arboladuras, sobre las pulidas maderas de teca de los grandes veleros, sobre el bronce de las amarras, sobre los sucios vidrios del local que da hacia la algarabía del muelle.*
 

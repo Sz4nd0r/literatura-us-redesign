@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# El Intendente*
 *(1846)*
 *[“Burmister”]*
 *(“Бурмистр”)*

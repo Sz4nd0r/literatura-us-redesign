@@ -10,7 +10,6 @@ tags:
 ---
 *Sherwood Anderson*
 *(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
-*# La Maestra*
 *(“The Teacher”)*
 *Winesburg, Ohio*
 *(Nueva York: B. W. Huebsch, 1919, 303 págs.)*

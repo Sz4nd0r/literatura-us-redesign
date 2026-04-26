@@ -8,7 +8,6 @@ tags:
   - elrioy
   - juanbosch
 ---
-*# El río y su enemigo*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la Revista Carteles (21 de julio de 1940), págs. 69-71; Ocho cuentos (La Habana: Edición del autor, 1947, 132 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) Sucedió lo que cuento en un lugar que está más abajo de Villa Riva, en las riberas del Yuna. Cuando pasa por allí el Yuna ha recorrido ya muchos kilómetros y ha fecundado las tierras más diversas.*
 

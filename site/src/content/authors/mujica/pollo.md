@@ -8,7 +8,6 @@ tags:
   - pollo
   - mujica
 ---
-*# XL. Una aventura del Pollo (1866)*
 *Manuel Mujica Lainez*
 
 Pollo a su aparcero don Laguna, paisano de Bragado. De la Sierra Tandilera que por prudencia he ganao y ande estoy a su mandao, Laguna, siempre que quiera, le lleva esta carta fiera que he sudao al componer, mi amigo el Rengo Soler, pa que sepa que ando juido y que mi disgracia ha sido asunto de Lucifer. El gaucho pobre no tiene siguridá en esta tierra; creamé, gane la Sierra, es lo que más le conviene; que si áura Mandinga viene sin más a amostrar su cuerno y a ordenar como Gobierno y a toriar y a darse aires por el propio Buenos Aires, mejor se está en el Infierno. Ya le conté la ocasión en que vide a Satanás, despachándose al compás en el tiatro de Colón.

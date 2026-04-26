@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# El Entierro Prematuro*
 *(“The Premature Burial”, 1844)*
 *Originalmente publicado in The Philadelphia Dollar Newspaper (julio 1844)*
 

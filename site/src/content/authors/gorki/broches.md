@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Un Incidente Con Unos Broches*
 *(1895)*
 *(“Дело с застежками”)*
 *Originalmente publicado, como “Una historia con unos*

@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# Yermolái Y La Molinera*
 *(1847)*
 *(“Ермолай и мельничиха”)*
 *Originalmente publicado en la revista Современник [El Contemporáneo]*

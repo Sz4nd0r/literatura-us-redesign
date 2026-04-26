@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# ¿Qué Hay En Alaska?*
 *(“What’s in Alaska?”)*
 *Originalmente publicado en Iowa Review (1972)*
 *Will You Please Be Quiet, Please? (1976)*

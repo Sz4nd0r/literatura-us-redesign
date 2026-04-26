@@ -8,7 +8,6 @@ tags:
   - milagro
   - borges
 ---
-*# El milagro secreto*
 *Jorge Luis Borges*
 
 Dios lo hizo morir durante cien años y luego lo animó y le dijo: —¿Cuánto tiempo has estado aquí? —Un día o parte de un día, respondió. Alcorán, ii, 261. La noche del catorce de marzo de 1939, en un departamento de la Zeltnergasse de Praga, Jaromir Hladík, autor de la inconclusa tragedia Los enemigos, de una Vindicación de la eternidad y de un examen de las indirectas fuentes judías de Jakob Boehme, soñó con un largo ajedrez. No lo disputaban dos individuos sino dos familias ilustres; la partida había sido entablada hace muchos siglos; nadie era capaz de nombrar el olvidado premio, pero se murmuraba que era enorme y quizá infinito; las piezas y el tablero estaban en una torre secreta; Jaromir (en el sueño) era el primogénito de una de las familias hostiles; en los relojes resonaba la hora de la impostergable jugada; el soñador corría por las arenas de un desierto lluvioso y no lograba recordar las figuras ni las leyes del ajedrez. En ese punto, se despertó.

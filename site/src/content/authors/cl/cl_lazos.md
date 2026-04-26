@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# Lazos De Familia*
 *(“Os laços de família”)*
 *Laços de família (1960)*
 

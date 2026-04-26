@@ -8,7 +8,6 @@ tags:
   - amigas
   - liliana
 ---
-*# Las amigas*
 *Liliana Heker*
 
 Los que vieron la zarza (Mencion única, VII Concurso Hispanoamericano de Literatura “Casa de las Americas”, 1966) (Buenos Aires: Editorial J. Alvarez, 1966, 154 págs.) Era necesario ser muy fuerte para tragarse la pena sin llorar al ver cómo Laura arreglaba los útiles, se paraba, y se iba para siempre del querido banco donde tan felices habían sido ellas dos, que se reían de las mismas cosas, tenían juegos secretos que ningún otro conoció jamás, y a cada momento encontraban algo divertido para contarse.

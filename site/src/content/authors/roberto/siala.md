@@ -8,7 +8,6 @@ tags:
   - siala
   - roberto
 ---
-*# Sí a la revolución*
 *Roberto Fernández*
 *Retamar*
 *Pero lo que importa es la revolución lo demás son palabras del trasfondo de este poema que entrego al mundo lo demás son más argumentos. escardó i. vuelta de la antigua esperanza LA POESÍA, LA PIADOSA ¿Qué hace la poesía, la piadosa, La lenta, renaciendo inesperada, Torso puro de ayer, cuando los broncos Ruidos llenan el aire, y no hay un sitio En su impecable reino que no colme La agonía? Ah, el que se entrega dócil A los lamentos o a las aleluyas Que ella proclama, sola, ¿cómo puede Evitar que su aliento lo estremezca (Así el aire a las puntas de los árboles)? La poesía es femenina, pero Su cuerpo no es de novia, que es de madre. No se le ven los labios, sí el regazo, Sí el brazo tosco y ancho.*

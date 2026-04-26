@@ -15,7 +15,6 @@ tags:
 *Maigret les petits cochons sans queue*
 *(París: Presses de la Cité, 1950, 221 págs.)*
 *I*
-*# A Las Casadas Jóvenes Les Gusta Pegar Botones*
 
 Acerca de la llamada telefónica de las siete no había lugar a dudas: Marcel la había llamado telefónicamente desde el periódico. Germaine acababa de llegar al restaurante Franco-Italien, en el bulevar de Clichy, donde tenían la costumbre de cenar, y donde se reunían automáticamente cuando no se habían citado en otra parte. Allí les reservaban su mesa cerca de la ventana. Aquello formaba parte de su hogar.
 Germaine había tenido el tiempo justo de sentarse y comprobar que eran las siete menos tres minutos cuando Lisette, la chica del vestuario, que la miraba con emocionada curiosidad desde que se había casado y que experimentaba tanta satisfacción en llamarle señora, se había aproximado.
@@ -193,7 +192,6 @@ Y, en un movimiento irresistible:
 Después, Germaine continuó hablando en vano. En Joinville, el 147 había colgado.
 Era la una y media de la madrugada, y Marcel no había regresado aún. El cerdito sin cola lanzaba reflejos en la mesa donde continuaba abierto el estuche de costura, y el «pelo de camello» yacía aún sobre la alfombra.
 II
-# ## El Comerciante De Cerditos
 Las cuatro. Entre todas las ventanas que se podían ver desde el balcón, sólo una estaba encendida, y, de vez en cuando, tras las cortinas, pasaba una silueta, sin duda la de alguien que cuidaba a un enfermo.
 Marcel no había vuelto. Marcel no había telefoneado, no había enviado recado alguno, y entonces, cuando la aguja grande del reloj marcó la vertical exacta en la esfera, Germaine se decidió a telefonear otra vez.
 —Oiga… ¿Eres tú, Ivette?… ¿Dormías, pobrecita?… No me guardes rencor… Soy Germaine… Sí… ¿Quieres hacerme un gran favor?… ¿Cómo dices?
@@ -401,7 +399,6 @@ Dentro de media hora se iluminarían los tejados, se harían de un color gris re
 En alguna parte estaría Marcel, y Germaine, agarrada a la fría barandilla de su balcón, miraba en todas direcciones aquel panorama gigantesco, como si, de pronto, debiera parar su mirada en un punto concreto; como si, inspirada, fuera a poder decir:
 —Está allí…
 III
-# ## ## El Jarrón De Sevrès Y El Tío De La Condesa
 Siete y media. Desde el balcón se ve la camioneta de las Messageries Hachette que recorre los quioscos de periódicos, detenerse un momento ante la taberna de enfrente. El chófer, con gorra de cuero, atraviesa la acera llevando un enorme montón de diarios con la tinta todavía fresca.
 Germaine baja, sin peinarse. La portera está a punto de pasar un rodillo mojado por el portal. Germaine apenas conoce bien a aquella mujer que bizquea ligeramente. Hace un mes que trata de atraerla, porque en París es indispensable estar en buenas relaciones con la portera. Ésta, quizá a causa del ojo, parece desconfiada.
 —Me parece que esta noche ha tenido usted visita —observó—. He abierto la puerta tres o cuatro veces para su casa. ¿Hay algo que no marcha?

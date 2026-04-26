@@ -8,7 +8,6 @@ tags:
   - elaleph
   - borges
 ---
-# El Aleph
 
 *Jorge Luis Borges*
 

@@ -8,7 +8,6 @@ tags:
   - eco
   - ferre
 ---
-*# El sueño y su eco*
 *Rosario Ferré (2001 - 1972)*
 
 Mi madre aparece reflejada en el espejo, sobre la superficie del rectángulo. La luz atraviesa parejamente mi sueño y su mirada me hace concordar discordias. De un tiempo acá me conformo con la superficie lisa y llana, absolutamente predecible de las cosas. He descubierto que es la única manera de dispensar el miedo, de hacerme a un lado para dejarlo pasar. Soñaste algo aterrador. Puedo verlo en tus ojos. Me miro en el espejo y me veo caminando de mano de mi madre.

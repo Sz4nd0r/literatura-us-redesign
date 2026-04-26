@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Mañana Será Otro Día*
 *Originalmente publicado en Brecha (Montevideo), 1985*
 
 La lluvia había dejado las Ramblas casi vacías y sólo quedaba gente agrupada en el café encristalado donde, desde meses atrás, no la dejaban entrar.

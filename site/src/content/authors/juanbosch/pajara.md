@@ -8,7 +8,6 @@ tags:
   - pajara
   - juanbosch
 ---
-*# La pájara*
 *Juan Bosch (1909 - 2001)*
 
 Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) La lluvia nos envolvió de golpe. Estábamos subiendo el tercer repecho de El Montazo y la noche se nos venía encima. Los pinos empezaron a ahogarse en una especie de humo claro; los menos cercanos al camino acabaron por desaparecer en la bocaza gris de la lluvia. Detrás de nosotros la tierra llana se había perdido bajo el humo.

@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Tormenta De Verano*
 *(“Temporale d’estate”, 1937)*
 *Tutti i racconti (2002)*
 

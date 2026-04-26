@@ -8,7 +8,6 @@ tags:
   - digma
   - bioy
 ---
-*# Paradigma*
 *Adolfo Bioy Casares (1914 - 1999)*
 *El lado de la sombra (Buenos Aires: Emecé, 1962, 192 págs.) All for love, or The World well lost… JOHN DRYDEN A lo lejos retumbó un vals criollo cuando llegué a la placita que daba al río. La casa era vieja, de madera, alta, angosta, quizás un poco ladeada, con una cúpula cónica, puntiaguda, más ladeada aún, con una puerta de hierro, con vidrios de colores que reflejaban tristemente la luz de aquel interminable atardecer de octubre.*
 *Rodeaba la casa un breve jardín, desdibujado por la maleza y por la hiedra. En la verja, en una chapa, leí el nombre: Mon Souci. Más adentro, en un rectángulo de madera clavado en la pared, había un segundo letrero, con las enes al revés: TALLER DE PLANCHADO. PLANTA BAJA. Me pareció que desde la espesura del jardín alguien me vigilaba, pero se trataba tan sólo de uno de esos desagradables productos de la estatuaria italiana del siglo XIX, un cupido que reía no sin malignidad, cubierto de racimos de lilas.*

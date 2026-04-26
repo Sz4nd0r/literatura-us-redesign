@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Majestad*
 *(“Majesty”)*
 *Originalmente publicado en The Saturday Evening Post, 202 (13 de julio de 1929);*
 *Taps at Reveille*
@@ -85,7 +84,6 @@ Y añadió despacio:
 —¡Ay, no, no diga eso!
 Abriendo el telegrama, Olive leyó:
 —No estoy a la altura Me sentiría como una estúpida si lo hiciera Esto pasará pronto Lo siento mucho por ti
-# ## —Emily
 Después de llamar al masajista y dejar un criado a la puerta de su tío, Olive fue a la biblioteca, donde una secretaria confundida no conseguía articular palabra ante un teléfono inquisitivo y persistente.
 —Estoy tan trastornada, señorita Mercy —exclamó con voz atiplada, presa de la desesperación—. Confieso que estoy tan trastornada que me duele terriblemente la cabeza: llevo media hora creyendo que abajo hay música.
 Pero también Olive se estaba poniendo histérica; entre el ruido del tráfico callejero se filtraba una melodía, perfectamente distinguible:¿Es bonita?¿Es dulce?No me importa porqueno puedo competir por ella.¿Quién es la...?

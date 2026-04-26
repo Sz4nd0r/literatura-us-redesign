@@ -36,7 +36,6 @@ Rompió el lacre y echó un vistazo al contenido del sobre.
 Estimado señor Sherlock Holmes:
 Lord Backwater me ha asegurado que puedo confiar plenamente en su juicio y en su discreción. Por lo tanto, he decidido visitarle y recabar su opinión respecto al penosísimo suceso acaecido en mi boda. El señor Lestrade, de Scotland Yard, se encuentra ya trabajando en el caso, pero me asegura que no hay inconveniente ninguno en que usted colabore, e incluso cree que dicha colaboración puede resultar de alguna ayuda. Pasaré por su casa a las cuatro de la tarde, y le agradecería que aplazase cualquier otro compromiso que pudiera tener a esta misma hora, ya que el asunto es de trascendental importancia.
 Su afectísimo,
-# Saint Simon
 —Fue escrita en Grosvenor Mansions, con pluma de ave, y el noble señor ha tenido la desgracia de mancharse de tinta la parte exterior del meñique derecho —comentó Holmes, volviendo a doblar la carta.
 —Dice a las cuatro y ahora son las tres. Le tendremos aquí dentro de una hora.
 —En tal caso dispongo del tiempo justo, contando con su ayuda, para ponerme al corriente de la situación. Revise esos periódicos y ordene los artículos por fechas, mientras yo averiguo quién es nuestro cliente.

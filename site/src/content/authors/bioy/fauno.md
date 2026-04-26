@@ -8,7 +8,6 @@ tags:
   - fauno
   - bioy
 ---
-*# La tarde de un fauno*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 La tarde de un fauno El gran serafín (Buenos Aires: Emecé, «Selección Emecé de obras contemporáneas», 190 págs.) Historias de amor (Buenos Aires: Emecé, 1972, 259 págs.) Yo había dicho que las diferencias de temperamento que descubre cada cual entre hombres y mujeres, en definitiva, son las que descubre cada cual en el trato con su mujer y, en definitiva, son las que hay entre cualquiera y su prójimo. —No sé —contestó alguien en aire de duda. —Lo que sabemos todos —concluyó otro— es que uno vive solo, deseando encuentros imposibles. —Eso es verdad —afirmó el del aire de duda; ahora, con ágil seguridad, tomó la palabra para no soltarla—.

@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Los Nadadores*
 *(“The Swimmers”)*
 *Originalmente publicado en The Saturday Evening Post, 202 (19 de octubre de 1929);*
 *Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald*

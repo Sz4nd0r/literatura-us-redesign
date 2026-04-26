@@ -2350,7 +2350,6 @@ río arriba. La barca y el barquero prosiguieron su rumbo, pero después de habe
 recorrido una distancia corta se detuvieron; el barquero se volvió y contempló
 a la pareja, que seguía parada. Entonces Longmore lo reconoció... igual que lo
 había reconocido unos días antes en el café del Bois de Boulogne.
-# Viii
 Seguramente
 siguió durmiendo un tiempo después de haber dejado de soñar, pues no recordó
 el sueño inmediatamente. Volvió a su mente más tarde, cuando ya estaba

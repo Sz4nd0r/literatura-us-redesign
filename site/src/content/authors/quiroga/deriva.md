@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# A La Deriva*
 *(Cuentos de amor, de*
 *locura y de muerte, (1917)*
 *El hombre pisó blanduzco, y en*

@@ -8,9 +8,7 @@ tags:
   - historia
   - borges
 ---
-*# Historia del guerrero y de la cautiva*
 *Jorge Luis Borges*
-*# Historia del guerrero y de la cautiva*
 *Jorge Luis Borges*
 
 Historia del guerrero y de la cautiva (El Aleph, 1949) En la página 278 del libro La poesía (Bari, 1942), Croce, abre­viando un texto latino del historiador Pablo el Diácono, narra la suerte y cita el epitafio de Droctulft; éstos me conmovieron singularmente, luego entendí por qué. Fue Droctulft un guerrero lombardo que en el asedio de Ravena abandonó a los suyos y murió defendiendo la ciudad que antes había atacado.

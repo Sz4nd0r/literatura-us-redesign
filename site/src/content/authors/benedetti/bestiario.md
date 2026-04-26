@@ -8,7 +8,6 @@ tags:
   - bestiario
   - benedetti
 ---
-*# Bestiario*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) La asamblea anual de la Fauna Artística y Literaria fue convocada, en primera citación, a las 20 horas, y en segunda a las 21, pero sólo se logró el quorum necesario en el segundo llamado. Faltaron con aviso el Mastín de los Baskerville, el Cisne de Saint Saëns y Moby Dick de Melville; sin aviso, las Moscas de Sartre y la Trucha de Schubert. Estuvieron presentes: el Loro de Flaubert, el Asno de Buridán, la Paloma de Picasso, los Centauros de Darío, el Cuervo de Poe, el Rinoceronte de Ionesco y las Avispas de Aristófanes. En el Orden del Día figuraba un punto único: la designación del Rinoceronte de Ionesco como presidente vitalicio y omnímodo. El Centauro (Orneo) de Darío comenzó diciendo: «Yo comprendo el secreto de la bestia.» El Asno de Buridán no pronunció palabra pero dio a entender que ni fu ni fa. El Loro de Flaubert tuvo una intervención tripartita e insólita: «Cocu, mon petit coco», «As-tu déjeuné, Jako?», «J'ai du bon tabac».

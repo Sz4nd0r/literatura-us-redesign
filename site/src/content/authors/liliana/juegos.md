@@ -8,7 +8,6 @@ tags:
   - juegos
   - liliana
 ---
-*# Los juegos*
 *Liliana Heker*
 *Originalmente publicado en la revista El grillo de papel, Núm. 4 (junio/julio de 1960), pág. 15; Los que vieron la zarza (Mencion única, VII Concurso Hispanoamericano de Literatura “Casa de las Americas”, 1966) (Buenos Aires: Editorial J. Alvarez, 1966, 154 págs.) A veces me da una risa. Porque ellos no se pueden imaginar las cosas y entonces tratan de explicar todo: se ve que no pueden vivir sin explicar. Cada tanto yo pienso que les tendría que contar la verdad, ya estoy lista, parece que voy a empezar, pero entonces ellos dicen: ¿Por qué no jugás con la muñeca?, ¿es que ya no te gusta jugar más? Y a mí claro que me gusta. Y cómo jugamos, si ellos supieran.*
 

@@ -8,7 +8,6 @@ tags:
   - boda
   - jose
 ---
-*# La boda*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

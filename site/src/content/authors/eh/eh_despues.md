@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
-*# Después De La Tormenta*
 *(“After the Storm”)*
 *Originalmente publicado en la revista Hearst’s International/Cosmopolitan, 92 (mayo de 1932);*
 *Winner Take Nothing*

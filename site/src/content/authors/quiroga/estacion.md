@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# Una Estación De Amor*
 *(Cuentos de amor, de*
 *locura y de muerte, 1917)*
 *Primavera*

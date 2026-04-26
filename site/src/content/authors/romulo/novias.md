@@ -8,7 +8,6 @@ tags:
   - novias
   - romulo
 ---
-*# Las novias del mendigo*
 *Rómulo Gallegos (n. 1969)*
 
 Las novias del mendigo Originalmente publicado en la revista El Cojo Ilustrado (1 de diciembre de 1910); Los Aventureros (Caracas: Imprenta Bolívar, 1913, 160 págs.); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I Tenía una singular manera de pedir limosnas; jamás las imploraba exponiendo su miseria del modo como suelen hacerlo los mendigos vulgares para apiadar a las gentes, ni propiamente las imploraba nunca, porpue él no era un pordiosero vulgar que suplicaba un pedazo de pan o un centavo para su hambre, sino un mendigo de oraciones; y aún éstas no las pedía para servirse de ellas en su propio provecho, sino para hacerles la caridad de enseñárselas a las muchachas de su campo, siempre expuestas a las malignidades de los echadaños y a las mordeduras de los animales venenosos.

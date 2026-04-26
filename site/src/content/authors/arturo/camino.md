@@ -8,7 +8,6 @@ tags:
   - camino
   - arturo
 ---
-*# El camino desandado*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Los ganadores* (1980)*
 

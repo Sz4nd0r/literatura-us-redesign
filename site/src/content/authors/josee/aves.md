@@ -8,7 +8,6 @@ tags:
   - aves
   - josee
 ---
-*# Las aves*
 *José Emilio Pacheco (n. 2004)*
 
 La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) Termina el otoño. Las calles de la ciudad se cubren de hojas secas. La tierra suelta un aroma distinto, como si presintiese la muerte y no su resurrección de primavera. Las aves emigran al sur. Al atardecer cruzan la ciudad junto al lago. Arde el sol poniente en las ventanas de los edificios más altos. Cegados ante el resplandor muchos pájaros se estrellan contra los cristales y caen muertos en las aceras.

@@ -8,7 +8,6 @@ tags:
   - russo
   - roberto
 ---
-*# Miguel Russo*
 *Roberto Fernández*
 *Retamar*
 

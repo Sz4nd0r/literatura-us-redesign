@@ -11,7 +11,6 @@ tags:
 *Antonio*
 *Skármeta*
 *(Antofagasta, Chile, 1940 -)*
-*# El Amante De Teresa Clavel*
 *Libertad de movimiento*
 *(Santiago de Chile: Sudamericana, 2015, 159 págs.)*
 

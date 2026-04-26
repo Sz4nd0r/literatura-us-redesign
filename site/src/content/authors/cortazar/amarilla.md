@@ -8,7 +8,6 @@ tags:
   - amarilla
   - cortazar
 ---
-*# Una flor amarilla*
 *Julio Cortázar*
 *Parece una broma, pero somos inmortales. Lo sé por la negativa, lo sé porque conozco al único mortal. Me contó su historia en un bistró de la rue Cambronne, tan borracho que no le costaba nada decir la verdad aunque el patrón y los viejos clientes del mostrador se rieran hasta que el vino se les salía por los ojos. A mí debió verme algún interés pintado en la cara, porque se me apiló firme y acabamos dándonos el lujo de la mesa en un rincón donde se podía beber y hablar en paz. Me contó que era jubilado de la municipalidad y que su mujer se había vuelto con sus padres por una temporada, un modo como otro cualquiera de admitir que lo había abandonado.*
 

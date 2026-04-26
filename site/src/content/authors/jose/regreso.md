@@ -8,7 +8,6 @@ tags:
   - regreso
   - jose
 ---
-*# El regreso*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

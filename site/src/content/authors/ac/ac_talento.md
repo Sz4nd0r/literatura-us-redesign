@@ -10,7 +10,6 @@ tags:
 ---
 *Antón Chéjov*
 *(Ucrania, 1860 - Alemania, 1904)*
-*# El Talento*
 *(1886)*
 *(“Талант”)*
 *Originalmente publicado en la revista Fragmentos, 36 (6 de septiembre de 1886);*

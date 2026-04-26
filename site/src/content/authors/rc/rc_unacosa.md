@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Una Cosa Más*
 *(“One More Thing”)*
 *Originalmente publicado en North American Review (1979);*
 *What We Talk About When We Talk About Love (1981);*

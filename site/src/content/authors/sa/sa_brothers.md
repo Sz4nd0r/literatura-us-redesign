@@ -10,7 +10,6 @@ tags:
 ---
 *Sherwood Anderson*
 *(Camden, Ohio, 1876 - Colón, Panamá, 1941)*
-*# Hermanos*
 *(“Brothers”)*
 *Originalmente publicado en la revista The Bookman*
 *(abril de 1921), págs. 110-115;*

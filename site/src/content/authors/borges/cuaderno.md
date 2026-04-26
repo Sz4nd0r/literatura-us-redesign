@@ -8,9 +8,7 @@ tags:
   - cuaderno
   - borges
 ---
-*# Cuaderno San Martín*
 *Jorge Luis Borges*
-*# Cuaderno San Martín*
 *Jorge Luis Borges*
 
 As to an occasional copy of verses, there are few men who have leisure to read, and are possessed of any music in their souls, who are not capable of versifying on some ten or twelve occasions during their natu- ral lives: at a proper conjunction of the stars. There is no harm in taking advantage of such occasions. FitzGerald, En una carta a Bernard Barton (1842). PRÓLOGO [a la edición de 1969] He hablado mucho, he hablado demasiado, sobre la poesía como brusco don del Espíritu, sobre el pensamiento como una actividad de la mente; he visto en Verlaine el ejemplo de puro poeta lírico; en Emerson, de poeta intelectual.

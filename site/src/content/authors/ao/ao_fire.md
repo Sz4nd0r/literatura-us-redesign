@@ -8,7 +8,6 @@ tags:
   - ao_fire
   - ao
 ---
-# Fuego extraño
 
 **Amos Oz**
 

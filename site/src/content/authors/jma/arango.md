@@ -8,7 +8,6 @@ tags:
   - arango
   - jma
 ---
-*# La muerte de los Arango*
 *José María Arguedas (1937 - 1917)*
 *La muerte de los hermanos Arango”, en en El Nacional [México], VIII (1955); (Primer premio en el Concurso Latinoamericano convocado por el El Nacional); El forastero (Montevideo: Sandino, 1972, 89 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) Contaron que habían visto al tifus, vadeando el río, sobre un caballo negro, desde la otra banda donde aniquiló al pueblo de Sayla, a esta banda en que vivíamos nosotros. A los pocos días empezó a morir la gente.*
 

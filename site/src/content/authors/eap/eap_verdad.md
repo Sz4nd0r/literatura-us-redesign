@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# La Verdad Sobre El Caso Del Señor Valdemar*
 *(“The Facts in the Case of M. Valdemar”, 1845)*
 *Originalmente publicado, simultáneamente en Broadway Journal (December 20, 1845)*
 *y*

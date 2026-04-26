@@ -10,7 +10,6 @@ tags:
 ---
 *Alejo Carpentier*
 *(La Habana, 1904-París, 1980)*
-*# El Milagro Del Ascensor*
 *(1929)*
 *(Cuento para un apéndice a la Leyenda Áurea)*
 *Guerra del tiempo y otros relatos (2001)*

@@ -8,7 +8,6 @@ tags:
   - cuando
   - ferre
 ---
-*# Cuando las mujeres quieren a los hombres*
 *Rosario Ferré (2001 - 1972)*
 
 Ahora vemos por un espejo y oscuramente, mas entonces veremos cara a cara”. —Son Pablo, primera epístola a los corintios, XIII, 12, conocida también como epístola del amor. Fue cuando tú te moriste, Ambrosio, y nos dejaste a cada una la mitad de toda tu herencia, que empezó todo este desbarajuste, este escándalo girando por todas partes como un aro de hierro, restrellando tu buen nombre contra las paredes del pueblo, esta confusión afueteada y abollada que tú bamboleabas por gusto, empujándonos a las dos cuesta abajo a la vez.

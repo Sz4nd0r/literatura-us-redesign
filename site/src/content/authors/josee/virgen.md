@@ -8,7 +8,6 @@ tags:
   - virgen
   - josee
 ---
-*# Virgen de los veranos*
 *José Emilio Pacheco (n. 2004)*
 *Virgen de los veranos El viento distante (México, D.F.: Ediciones Era, 1969, 2. ed., rev. y ampliada, 138 págs.) A Marcelo Uribe —Yo, señor —dijo Anselmo—, soy de la Candelaria de los Patos, en la mera capital. No por verme aquí crea usté que trata con un pobre indio bajado del cerro a tamborazos. Nací en la gran Ciudad de México, y a mucha honra. Si usté me encuentra en este lugar, es gracias a la Santísima Virgen, verdá de Dios. El sol quemaba la tierra seca y los maizales a punto de quebrarse, pero los que rezaban cerca de la choza parecían no sentir el calor.*
 

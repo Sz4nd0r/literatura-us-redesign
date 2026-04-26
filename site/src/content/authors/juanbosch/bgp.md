@@ -8,7 +8,6 @@ tags:
   - bgp
   - juanbosch
 ---
-*# Entrevista con Bonaparte Gautreaux Piñeyro*
 *Juan Bosch (1909 - 2001)*
 *Originalmente usted buscó la forma de comunicarse con los demás a través de artes que no eran precisamente la literatura. ¿Podría explicar por qué se hizo escritor? Juan Bosch: Bueno. fijate, probablemente, yo tuve una influencia del ambiente familiar. Primero, mi padre. Mi padre era un albañil, cuando vino al país —era un albañil catalán. Un albañil catalán en La Vega era casi un arquitecto, un constructor. Y mi padre leía a José Mariano de Larra, a don Juan de Valera. Mi padre escribió cosas, no muchas cosas, pero las publicó en un periódico que se llamaba El Progreso, en La Vega —no con su nombre. Mi padre era prácticamente un analfabeto. A pesar de todo eso, no hizo estudió alguno.*
 

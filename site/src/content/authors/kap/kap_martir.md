@@ -10,7 +10,6 @@ tags:
 ---
 *Katherine Anne Porter*
 *(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
-*# El Mártir*
 *—Martyr*
 *Originalmente publicado en The Century Magazine, 106 (Diciembre 1924, pp. 410-413)*
 *Flowering Judas and Other Stories (1930)*
@@ -24,7 +23,6 @@ Precisamente estaba empezando el dibujo número diecinueve de Isabel cuando su r
 Rubén leyó la nota de despedida:
 ¡Pobrecito Churro! Es una pena que tu vida sea tan aburrida, y yo ya no pueda aguantarla. Me voy con alguien que nunca me permitirá cocinar para él, pero hará un mural con cincuenta figuras mías, no sólo veinte. También tendré zapatillas rojas y una vida alegre a más no poder.
 Tu vieja amiga,
-# ## Isabel
 Cuando Rubén la leyó, sintió que se ahogaba. Le faltaba el aliento y agitaba muchísimo los brazos. Luego se bebió toda una botella de tequila, sin limón ni sal para suavizarla, se echó en el suelo con la cabeza en una paleta de pintura recién mezclada y lloró con vehemencia.
 Después fue por completo otro hombre. No podía hablar de nada que no fuese Isabel, su rostro angélico, sus bonitas travesuras y costumbres: «Solía pintarme los tobillos de negro y azul», decía con cariño, mientras los ojos se le llenaban de lágrimas. Comía sin parar pastelillos crujientes de una bolsa próxima a su caballete. «¿Veis? —decía, mostrando uno antes de darle un mordisco—. Me llamaba Churro, como esto.
 Sus amigos, encantados cuando vieron que Isabel se había ido, decían entre ellos que había tenido suerte al perder de vista a aquel demonio enjuto. Se dedicaron a ayudarle a olvidar, pero Rubén no se apartaba de lo suyo. «No hay otra mujer como ella —decía, negando con la cabeza tercamente—. Cuando se fue, se llevó mi vida. No tengo ánimos ni siquiera para vengarme.» Y añadía: «Yo os digo que Isabel, mi pobre angelito, es una asesina, porque me ha roto el corazón».

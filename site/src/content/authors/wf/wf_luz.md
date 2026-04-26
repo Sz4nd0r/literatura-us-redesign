@@ -11,7 +11,6 @@ tags:
 *William Faulkner*
 *(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
 *Luz de agosto (1932)*
-*# Light In August*
 *(Nueva York: Harrison Smith & Robert Haas, 1932, 480 págs.)*
 *1.*
 
@@ -400,7 +399,6 @@ Byron no puede mirarla. Permanece quieto, sentado sobre el montón de tablas. Ah
 Desde la ventana de su escritorio puede ver la calle. No está lejos, porque el cuadro de césped no es ancho. Sólo es un cuadrito de césped en el que crecen media docena de arces enanos. La casa, un modesto bungalow pardusco y mal pintado, es pequeña también. Unas matas de mirtos, de celindas y de alteas la ocultan casi por completo; sólo dejan un hueco, que es por donde él observa la calle. La casa está tan escondida que la luz del farol que hay en la esquina de la calle apenas la roza.
 Desde la ventana puede ver el rótulo que él llama su monumento. Está colocado en el ángulo del jardín, a poca altura, dando frente a la calle. Tiene un metro de largo y cuarenta centímetros de alto. Es un rectángulo muy neto que los transeúntes sólo ven por un lado. Él, en cambio, sólo lo ve por detrás. Pero no necesita leerlo, porque el día que comprendió que era necesario ganar dinero para poder alimentarse, calentarse y vestirse, hizo él mismo el rótulo con una sierra y un martillo, cuidadosamente, y cuidadosamente también, meticulosamente, pintó en él las palabras que lleva. Cuando salió del seminario tenía unas pequeñas rentas que le venían de su padre. En cuanto tuvo su iglesia, comenzó a enviarlas, al recibir los cheques trimestrales, a una institución de Memphis para jóvenes arrepentidas. Después fue expulsado de su iglesia, fue expulsado de la Iglesia; y la cosa más penosa que, a su juicio, había tenido que soportar en su vida —más penosa aún que la interdicción y la vergüenza— fue la carta que escribió para avisar de que, en lo sucesivo, sólo podría enviar la mitad de lo que hasta entonces había enviado siempre.
 Por consiguiente, continuó enviando la mitad de una renta que, en su integridad, le habría bastado, aunque muy justamente, para vivir. «Afortunadamente, hay cosas que puedo hacer», se dijo entonces. Y ahí el rótulo, carpinteado cuidadosamente por él mismo, y por él mismo escrito con fragmentos de vidrio diestramente mezclados con la pintura de modo que, por la noche, al resplandor del farol, las letras centelleasen y recordasen la idea de Navidad:
-# ## Reverendo Gail Hightower, D. D.
 Lecciones de artes de adorno
 Tarjetas de Navidad y de Aniversario pintadas a mano
 Trabajos fotográficos

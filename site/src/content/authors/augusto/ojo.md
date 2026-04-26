@@ -8,7 +8,6 @@ tags:
   - ojo
   - augusto
 ---
-*# El ojo de la muerte*
 *Augusto Roa Bastos (1917 - 2005)*
 
 El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) No aseguró al caballo en uno de los horcones del boliche donde ya había otros, sino en un chircal tupido que estaba enfrente. Las peripecias de la huida le obligaban a ser en todo momento cauteloso. El malacara parecía barcino en la luna. Se internó entre las chircas hasta donde lo pudiera dejar bien oculto. La fatiga, quizá la desesperanza, fundía al jinete y a la cabalgadura en un mismo tranco soñoliento. Sólo la instintiva necesidad de sigilo distinguía al hombre de la bestia.

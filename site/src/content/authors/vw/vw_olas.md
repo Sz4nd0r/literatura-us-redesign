@@ -11,7 +11,6 @@ tags:
 *Virginia*
 *Woolf*
 *(1882-1941)*
-*# Las Olas*
 *(1931)*
 *(The Waves)*
 

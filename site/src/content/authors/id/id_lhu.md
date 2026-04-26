@@ -10,7 +10,6 @@ tags:
 ---
 *Isak Dinesen*
 *(1885–1962)*
-*# La Historia Inmortal*
 *—The Immortal Story*
 *Anecdotes of Destiny (1958)*
 *I. El señor Clay*

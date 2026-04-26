@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# Trueno Revelador*
 *La cosa e altri racconti (1983)*
 
 Llevaba cinco días huyendo en zigzag para borrar mi rastro, de París a Amsterdam, de Amsterdam a Londres, de Londres a Hamburgo, de Hamburgo a Marsella, de Marsella a Viena, de Viena a Roma, a veces en tres, otras en avión, sin dormir o durmiendo poco e incómodamente; tenía ya más ganas de dormir que de vivir, y creo que me habría dormido incluso frente al pelotón de ejecución del que procuraba salvarme con esta interminable fuga. Tenía tanto sueño al llegar a Roma, que cuando en la estación Termini mi hijo, según estaba convenido, vino a mi encuentro, lo primero que le pregunté era si me había encontrado un sitio donde pudiese dormir sin peligro. Me dijo que iba a tener un departamento exclusivamente para mí y que allí podría dormir cuanto quisiera; nadie más que él conocía la existencia de ese departamento.

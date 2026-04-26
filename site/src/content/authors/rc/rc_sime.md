@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Si Me Necesitas, Llámame*
 *(“Call If You Need Me”)*
 *Originalmente publicado en Granta, n.° 68 (invierno de 1999), págs. 9-21;*
 *Call If You Need Me (2000);*

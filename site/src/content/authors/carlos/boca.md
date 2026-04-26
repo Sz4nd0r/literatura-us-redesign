@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Fuentes*
 *(Ciudad de Panamá, 1928 - México D.F., 2012)*
-*# Por Boca De Los Dioses*
 *(1954)*
 *Los días enmascarados*
 *(México: Los Presentes, Imprenta Juan Pablos, 1954, 104 pp.)*

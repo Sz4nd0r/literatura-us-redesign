@@ -15,7 +15,6 @@ tags:
 *(1925-1932):*
 *Libro 1*
 *Parte I*
-*# Galope Muerto*
 *Como cenizas, como mares*
 *poblándose,*
 *en la sumergida lentitud, en lo informe,*
@@ -60,7 +59,6 @@ una vez los grandes zapallos escuchan,
 estirando sus plantas conmovedoras,
 de eso, de lo que solicitándose mucho,
 de lo lleno, obscuros de pesadas gotas.
-# ## Alianza (Sonata)
 De miradas polvorientas caídas al
 suelo
 o de hojas sin sonido y sepultándose.
@@ -87,7 +85,6 @@ A veces el destino de tus lagrimas asciende
 como la edad hasta mi frente, allí
 están golpeando las olas, destruyéndose de muerte:
 su movimiento es húmedo, decaído, final.
-# ## ## Caballo De Los Sueños
 Innecesario, viéndome en los
 espejos
 con un gusto a semanas, a biógrafos, a papeles,
@@ -125,7 +122,6 @@ Sus ojos de eucaliptus roban sombra,
 su cuerpo de campana galopa y golpea.
 Yo necesito un relámpago de fulgor persistente,
 un deudo festival que asuma mis herencias.
-# ## ## ## Débil Del Alma
 El día de los desventurados, el
 día pálido se asoma
 Con un desgarrador olor frío, con sus fuerzas en gris,

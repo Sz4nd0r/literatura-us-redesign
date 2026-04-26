@@ -11,7 +11,6 @@ tags:
 *Roberto Bolaño*
 *(Santiago,*
 *Chile, 1953 - Barcelona, 2003)*
-*# Dos Cuentos Católicos*
 *(El gaucho insufrible, 2003)*
 *I. La vocación*
 *1. Tenía diecisiete años*

@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# La Laguna*
 *(1897)*
 *(“The Lagoon”)*
 *Originalmente publicado en la revista Cornhill Magazine [Londres],*

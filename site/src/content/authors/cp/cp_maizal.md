@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# El Maizal*
 *(“Il campo di granturco”, 1941)*
 *Originalmente publicado en Il Messaggero de Roma (5 de octubre de 1941)*
 *reproducido en Feria d’agosto (1946)*

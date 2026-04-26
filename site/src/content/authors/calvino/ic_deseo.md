@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Deseo En Noviembre*
 *Ultimo viene il corvo (1949)*
 
 El frío llegó a la ciudad una mañana de noviembre, con un sol mentiroso suspendido en un cielo hipócritamente tranquilo y despejado, y se dividió en cuchillos de luz por las calles largas y rectas, hizo escapar a los gatos de los aleros para refugiarse en las cocinas todavía apagadas. La gente que se levantaba tarde y no había abierto las ventanas salió con abrigos ligeros repitiendo: «Este invierno tarda en llegar», y se estremecieron al respirar el aire helado. Después pensaron en el carbón y la leña comprados durante el otoño y se felicitaron por haber sido precavidos.

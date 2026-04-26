@@ -10,7 +10,6 @@ tags:
 ---
 *José Donoso*
 *(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
-*# Dos Cartas*
 *(1954)*
 *Veraneo y otros cuentos*
 *(Santiago: Talleres de la Editorial Universitaria de Chile, 1955, 115 págs),*

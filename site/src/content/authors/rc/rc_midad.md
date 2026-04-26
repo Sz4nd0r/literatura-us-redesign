@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Intimidad*
 *(“Intimacy”)*
 *Originalmente publicado en Esquire Magazine (agosto 1986);*
 *Where I’m Calling From: New & Selected Stories (1988);*

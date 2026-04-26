@@ -11,7 +11,6 @@ tags:
 *Juan*
 *Rulfo*
 *(México, 1918-1986)*
-*# Luvina*
 *(El Llano en llamas,*
 *1953)*
 *De los cerros altos del sur, el de*

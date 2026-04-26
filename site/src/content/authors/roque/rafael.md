@@ -11,7 +11,6 @@ tags:
 *Roque*
 *Dalton*
 *(El Salvador, 1935-1975)*
-*# Seis Tesis Polémicas*
 *Rafael Lara Martínez*
 *Profesor de la Universidad*
 *de Socorro*

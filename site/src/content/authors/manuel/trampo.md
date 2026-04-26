@@ -8,7 +8,6 @@ tags:
   - trampo
   - manuel
 ---
-*# El trampolín*
 *Manuel Rojas*
 *Originalmente publicado en el periódico La Nación [Santiago de Chile] (3 de octubre de 1929); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.) Hay mucha gente que no cree en la suerte. Dicen que todo está determinado y que no sucede nada que no obedezca a leyes fijas, invariables, que provocan tales o cuales hechos, y que el hombre no puede escapar a lo que el destino le tiene reservado. Pero es indudable que hay un ancho margen para los acontecimientos imprevistos, una especie de puerta de escape de lo determinado y de lo prescrito, un burladero para lo fatal, un trampolín para los saltos de la suerte.*
 

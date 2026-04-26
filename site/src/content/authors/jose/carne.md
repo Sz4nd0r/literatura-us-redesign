@@ -8,7 +8,6 @@ tags:
   - carne
   - jose
 ---
-*# En carne viva*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Martínez Moreno*
 *(Colonia del Sacramento, Uruguay, 1917 - México, D.F., 1986)*
-*# Biografía*
 *(1971)*
 *De vida o muerte*
 *(Buenos Aires: Siglo XXI Argentina Editores, 1971, 152 págs)*

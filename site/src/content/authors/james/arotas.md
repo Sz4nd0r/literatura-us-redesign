@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# Alas Rotas*
 *(“Broken Wings”, 1900)*
 *Originalmente publicado en Century Magazine (diciembre de 1900)*
 *The Better Sort (Lo más selecto), 1903*

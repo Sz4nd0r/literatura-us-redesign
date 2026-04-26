@@ -8,7 +8,6 @@ tags:
   - rmr_breve
   - rmr
 --- 
-# Brevísima Antología Poética
 
 **Rainer Maria Rilke**
 

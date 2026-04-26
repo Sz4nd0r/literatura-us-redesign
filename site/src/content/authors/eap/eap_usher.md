@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# La Caída De La Casa Usher*
 *(“The Fall of the House of Usher”, 1839)*
 *Originalmente publicado en Burton’s Gentleman’s Magazine (septiembre 1839);*
 *revisado para la colección Tales of the Grotesque and Arabesque,*

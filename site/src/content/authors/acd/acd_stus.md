@@ -19,7 +19,6 @@ tags:
 
 Los incidentes de los que hablaré tuvieron lugar hace años, y, a pesar de todo, aludo a ellos indeciso. Durante mucho tiempo, incluso con la mayor reserva y discreción, hubiese sido imposible hacer públicos los hechos, pero ahora la principal interesada se encuentra fuera del alcance de las leyes humanas, y, con las debidas omisiones, se puede contar la historia de tal manera que no perjudique a nadie. Esta deja constancia de una experiencia absolutamente singular tanto en la carrera del señor Sherlock Holmes como en la mía. El lector tendrá que disculparme si obvio la fecha o cualquier otro hecho mediante el cual pudiera rastrear el suceso real.
 Habíamos salido Holmes y yo para dar uno de nuestros paseos vespertinos, y habíamos regresado cerca de las seis de una noche fría y helada de invierno. Cuando aumentó la luz de la lámpara, cayó en la cuenta de una tarjeta que había sobre la mesa. Le echó un vistazo y luego, con una exclamación de repulsa, la tiró al suelo. Yo la recogí y leí:
-# Charles Augustus Milverton
 Appledore Towers
 Hampstead
 —¿Quién es? —pregunté.

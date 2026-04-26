@@ -10,7 +10,6 @@ tags:
 ---
 *Isak Dinesen*
 *(1885–1962)*
-*# Los Soñadores*
 *—The Dreamers*
 *Seven Gothic Tales (1934)*
 

@@ -141,7 +141,6 @@ Embozado hasta la nariz, salí del palacio Aldobrandi. Apenas había dado unos p
 E inmediatamente desapareció a todo correr.
 Yo había cogido el papel y buscaba una luz para leerlo. Al resplandor de una lámpara encendida ante una madona, vi que se trataba de una nota escrita en lápiz y, al parecer, por una mano temblorosa. Con gran esfuerzo logré descifrar las palabras siguientes:
 ¡No vengas esta noche, o estamos perdidos! Lo saben todo excepto tu nombre. Nada podrá separarnos.
-# Tu Lucrecia
 —¡Lucrecia! —exclamé— ¡otra vez Lucrecia! ¡Qué diablos de mistificación hay en el fondo de todo esto? “No vengas”. Pero, hermosa, ¿qué camino hay que tomar para ir a tu casa?
 Mientras reflexionaba acerca de esta nota, tomé instintivamente el camino de la calleja de la señora Lucrecia, y pronto me encontré frente a la casa número 13. La calle estaba tan desierta como de costumbre, y sólo el ruido de mis pasos turbaba el profundo silencio que reinaba en el vecindario. Me detuve y levanté los ojos hacia una ventana bien conocida. Por esta vez, no me equivocaba. La contraventana se estaba abriendo.
 Y he aquí la ventana completamente abierta.

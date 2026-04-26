@@ -8,7 +8,6 @@ tags:
   - banque
   - julio
 ---
-*# El banquete*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 Cuentos de circunstancias (Lima: Editorial Nuevos Rumbos, 1958, 96 págs.) Con dos meses de anticipación, don Fernando Pasamano había preparado los pormenores de este magno suceso. En primer término, su residencia hubo de sufrir una transformación general. Como se trataba de un caserón antiguo, fue necesario echar abajo algunos muros, agrandar las ventanas, cambiar la madera de los pisos y pintar de nuevo todas las paredes.

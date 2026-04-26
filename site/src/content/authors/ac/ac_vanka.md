@@ -159,7 +159,6 @@ levantarme. Esto no es vivir; los perros viven mejor que yo...
 Recuerdos a la cocinera Alena, al cochero Egorka y a todos nuestros
 amigos de la aldea. Mi acordeón guárdale bien y no se lo dejes a
 nadie. Sin más, sabes te quiere tu nieto
-# Vanka Chukov.
 Ven en seguida, abuelito.
 Vanka plegó en cuatro dobleces la
 hoja de papel y la metió en un sobre que había comprado el día

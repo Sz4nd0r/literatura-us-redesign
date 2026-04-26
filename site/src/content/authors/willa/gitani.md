@@ -8,7 +8,6 @@ tags:
   - gitani
   - willa
 ---
-# La gitanilla
 
 **Willa Cather**
 

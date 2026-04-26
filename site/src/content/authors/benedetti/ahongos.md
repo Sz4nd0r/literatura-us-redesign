@@ -8,7 +8,6 @@ tags:
   - ahongos
   - benedetti
 ---
-*# La lluvia y los hongos*
 *Mario Benedetti (1920 - 2009)*
 
 La lluvia y los hongos (Esta mañana, 1949) 1. ¿Sinceridad? Cuidado con la palabrita. Por lo pronto, querida, no era éste nuestro convenio de hace cuatro horas. ¿Recordás lo que dijimos? No existe el pasado. Claro que es difícil abolirlo. Pero reconocé que hubiera sido lindo quedarnos con nuestra imagen de hoy, vos y yo en aquel zaguán oscuro, provisoriamente resguardados del aguacero, vos y yo mirándonos, vos y yo sintiendo que de pronto circulaba entre ambos la corriente milagrosa, vos y yo inscribiéndonos tácitamente en el compromiso de venir aquí, o a cualquier habitación tan sórdida como ésta, para repetir, como siempre con fundadas esperanzas, la búsqueda del amor.

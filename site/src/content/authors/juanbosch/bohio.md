@@ -8,7 +8,6 @@ tags:
   - bohio
   - juanbosch
 ---
-*# En un bohío*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la Revista Carteles (12 de mayo de 1940), pág. 71; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) La mujer no se atrevía a pensar. Cuando creía oír pisadas de bestias se lanzaba a la puerta, con los ojos ansiosos; después volvía al cuarto y se quedaba allí un rato largo, sumida en una especie de letargo. El bohío era una miseria. Ya estaba negro de tan viejo, y aden­tro se vivía entre tierra y hollín. Se volvería inhabitable desde que empezaran las lluvias; ella lo sabía, y sabía también que no podía dejarlo, porque fuera de esa choza no tenía una yagua donde am­pararse.*
 

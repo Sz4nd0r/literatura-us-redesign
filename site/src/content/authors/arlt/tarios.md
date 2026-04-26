@@ -11,7 +11,6 @@ tags:
 *Roberto*
 *Arlt*
 *(Buenos Aires, Argentina, 1900 – Buenos Aires, 1942)*
-*# Pequeños Propietarios*
 *El jorobadito*
 *(Buenos Aires: Librerías Anaconda, 1933, 209 págs.)*
 *Cierta noche, Eufrasia, poco después de cenar, le dijo a Joaquín, su esposo:*

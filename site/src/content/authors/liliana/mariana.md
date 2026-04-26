@@ -8,7 +8,6 @@ tags:
   - mariana
   - liliana
 ---
-*# Berkeley o Mariana del Universo*
 *Liliana Heker*
 
 Las peras del mal (Buenos Aires: Editorial de Belgrano, 1982, 145 págs.) —¿Cuánto falta para que vuelva mamá? Es la cuarta vez que Mariana ha hecho esta pregunta. La primera, su hermana Lucía contestó que en seguida volvía; la segunda, que cómo diablos iba a saber ella cuándo volvía; la tercera no contestó nada: todo lo que hizo fue levantar las cejas y mirar a Mariana. Razón por la cual Mariana decidió que las cosas empezaban a marchar mal y que lo mejor era no hacer más preguntas.

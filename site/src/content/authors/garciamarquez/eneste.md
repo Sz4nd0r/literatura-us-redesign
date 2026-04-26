@@ -8,7 +8,6 @@ tags:
   - eneste
   - garciamarquez
 ---
-*# En este pueblo no hay ladrones*
 *Gabriel*
 *García Márquez (n. 1947)*
 

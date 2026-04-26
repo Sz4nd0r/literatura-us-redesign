@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# La Casa De Las Colmenas*
 *Ultimo viene il corvo (1949)*
 
 Es difícil verla de lejos e incluso el que ha estado ya una vez no recuerda el camino de vuelta; había un sendero y lo destruí a golpes de azadón, cubriéndolo de zarzas que prendieran y borraran cualquier huella. Mi casa me la he elegido bien, perdida aquí arriba entre las retamas, de una sola planta para que no se la vea desde el valle, blanqueada con cal, corroída como un hueso por los agujeros de las ventanas.

@@ -8,7 +8,6 @@ tags:
   - nieve
   - bioy
 ---
-*# El perjurio de la nieve*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 El perjurio de la nieve (Buenos Aires: Emecé, “Cuadernos de la Quimera”, 1944, 64 págs); La trama celeste [con variantes] (Buenos Aires: Sur, 1948, 246 págs.) Entre las obras de Gustav Meyrink recordaremos el fragmento que se titula El rey secreto del mundo. ULRICH SPIEGELHALTER, Oesterreich und die phantastische Dichtung (Wien, 1919). La realidad (como las grandes ciudades) se ha extendido y se ha ramificado en los últimos años.

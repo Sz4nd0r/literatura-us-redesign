@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# El Desprecio*
 *(“A Freeze-Out”)*
 *Originalmente publicado en The Saturday Evening Post, 204 (19 de diciembre de 1931);*
 *The Price Was High: The Last Uncollected Stories of F. Scott Fitzgerald*

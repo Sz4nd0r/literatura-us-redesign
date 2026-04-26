@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# La Imitación De La Rosa*
 *(“A imitação da rosa”)*
 *Laços de família (1960)*
 

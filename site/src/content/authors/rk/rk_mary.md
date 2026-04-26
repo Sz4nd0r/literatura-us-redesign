@@ -45,7 +45,6 @@ Enderezó la larga espalda una vez que hubo metido la silla bajo el porche. El e
 —Bueno… Wynn dice que necesita otros tres pares de calcetines bien gordos.
 —Sí. Pero yo me refiero a las cosas en las que piensan las mujeres. Tienes más de cuarenta años…
 —Cuarenta y cuatro —corrigíó Mary, siempre sincera.
-# # # # —¿Y?
 —¿Y? —repitió Mary, ofreciendo su hombro a la señorita Fowler, como de costumbre.
 —Y llevas ya diez años conmigo.
 —¿A ver? —dijo Mary—. Wynn llegó con once años. Ahora tiene veinte, y yo llegué dos años antes. Hace ya once años.

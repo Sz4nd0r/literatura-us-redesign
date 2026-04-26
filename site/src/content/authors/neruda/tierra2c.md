@@ -15,8 +15,6 @@ tags:
 *2*
 *(1931-1935):*
 *Libro 2*
-*# Parte Iii*
-*# ## Oda Con Un Lamento*
 *Oh niña entre las rosas, oh*
 *presión de palomas,*
 
@@ -62,7 +60,6 @@ ven con una manzana y un caballo,
 porque allí hay una sala oscura y un candelabro roto,
 unas sillas torcidas que esperan el invierno,
 y una paloma muerta, con un número.
-# ## ## Material Nupcial
 De pie como un cerezo sin cáscara
 ni flores,
 especial, encendido, con venas y saliva,
@@ -97,7 +94,6 @@ en un país con cuchillos, y sábanas, y hormigas,
 y con ojos que caen en ella como muertos,
 y con gotas de negra materia resbalando
 como pescados ciegos o balas de agua gruesa.
-# ## ## ## Agua Sexual
 Rodando a goterones solos,
 a gotas como dientes,
 a espesos goterones de mermelada y sangre,

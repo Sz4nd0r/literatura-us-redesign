@@ -14,17 +14,14 @@ tags:
 *(Barcelona: Seix Barral, 1967, 451 pp.)*
 *A Miriam, a quien este libro debe mucho más*
 *de lo que parece.*
-*# Noticia*
 
 Los personajes, aunque basados en personas reales, aparecen como seres de ficción. Los nombres propios mencionados a lo largo del libro deben considerarse como pseudónimos. Los hechos están, a veces, tomados de la realidad, pero son resueltos finalmente como imaginarios. Cualquier semejanza entre la literatura y la historia es accidental.
-# ## Advertencia
 El libro está en cubano. Es decir, escrito en los diferentes dialectos del español que se hablan en Cuba y la escritura no es más que un intento de atrapar la voz humana al vuelo, como aquel que dice. Las distintas formas del cubano se funden o creo que se funden en un solo lenguaje literario. Sin embargo, predomina como un acento el habla de los habaneros y en particular la jerga nocturna que, como en todas las grandes ciudades, tiende a ser un idioma secreto. La reconstrucción no fue fácil y algunas páginas se deben oír mejor que se leen, y no sería mala idea leerlas en voz alta. Finalmente, quiero hacer mío este reparo de Mark Twain:
 —Hago estas explicaciones por la simple razón de que sin ellas muchos lectores supondrían que todos los personajes tratan de hablar igual sin conseguirlo.
 GCI
 —Y trató de imaginar cómo se vería la luz
 de una vela cuando está apagada.
 Lewis Carroll
-# ## ## Prólogo
 Showtime! Señoras y señores. Ladies and gentlemen. Muy buenas noches, damas y caballeros, tengan todos ustedes. Good-evening, ladies gentlemen. Tropicana, el cabaret MÁS fabuloso del mundo… «Tropicana», the most fabulous night-club in the WORLD… presenta… presents… su nuevo espectáculo… its new show… en el que artistas de fama continental… where performers of continental fame… se encargarán de transportarlos a ustedes al mundo maravilloso… They will take you all to the wonderful world… y extraordinario… of supernatural beauty… y hermoso… of the Tropics… El Trópico para ustedes queridos compatriotas… ¡El Trópico en Tropicana! In the marvelous production of our Rodney the Great… En la gran, maravillosa producción de nuestro GRANDE, ¡roderico Neyra!…
 —Going to Brazil»… Intitulada, Me voy pal Brasil… Taratará tarará, taratará tarará taratareo… Brazuil terra dye nostra felichidade… That was Brezill for you, ladies and gentlemen. That is, my very, very particular version of it!
 Brasil, damas y caballeros que me escucháis esta noche. Es decir, mi versión del Brazil de Carmen Miranda y de Joe Carioca. Pero… ¡Brasil, público amable que colma este coliseo del placer y de la alegría y la felicidad! ¡Brasil una vez más y siempre, el Brasil eterno, amables y dignos concurrentes a nuestro forro romano del canto y la danza y el amor a medialuz! Ouh, ouh, ouh. My apologies!… Público amable, amable público, pueblo de Cuba, la tierra más hermosa que ojos humanos vieran, como dijo el Descubridor Colón (no el Colón de Colón, Castillo y Campanario, no…

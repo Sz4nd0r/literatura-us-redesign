@@ -8,7 +8,6 @@ tags:
   - trama
   - bioy
 ---
-*# La trama celeste*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 La trama celeste (Buenos Aires: Sur, 1948, 246 págs.) Cuando el capitán Ireneo Morris y el doctor Carlos Alberto Servian, médico homeópata, desaparecieron, un 20 de diciembre de Buenos Aires, los diarios apenas comentaron el hecho. Se dijo que había gente engañada, gente complicada y que una comisión estaba investigando; se dijo también que el escaso radio de acción del aeroplano utilizado por los fugitivos permitía afirmar que éstos no habían ido muy lejos. Yo recibí en esos días una encomienda; contenía: tres volúmenes in quarto (las obras completas del comunista Luis Augusto Blanqui); un anillo de escaso valor (una aguamarina en cuyo fondo se veía la efigie de una diosa con cabeza de caballo); unas cuantas páginas escritas a máquina —Las aventuras del capitán Morris— firmadas C. A. S.

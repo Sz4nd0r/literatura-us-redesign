@@ -8,7 +8,6 @@ tags:
   - estaman
   - benedetti
 ---
-*# Esta mañana*
 *Mario Benedetti (1920 - 2009)*
 
 Lo han arrojado del sueño con la piel estirada, los ojos desmesuradamente abiertos a la luz inmóvil que aletarga el cuarto. Puede reconocerse, sin embargo, nombrarse en alta voz. No bien dice «Jorge», retrocede el hechizo. Entonces le es dado adivinar relativamente lejos su propio pie sosteniendo la sábana, y, más cerca, su mano izquierda, sola, dormida aún, abandonada sobre el pecho, junto a La estancia vacía, de Morgan, abierto en la página ciento cincuenta y tres.

@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# El Hombre Muerto*
 *El hombre y su machete acababan de*
 *limpiar la quinta calle del bananal. Faltábanles aún dos calles; pero*
 *como en éstas abundaban las chircas y malvas silvestres, la tarea que*

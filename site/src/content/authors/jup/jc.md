@@ -32,7 +32,6 @@ El 12 de mayo de 1973, a Cheever le diagnosticaron un edema pulmonar causado por
 En marzo de 1977, Cheever apareció en la portada de Newsweek con el título “A Great American Novel: John Cheever’s Falconer.” Falconer (1977) fue la número 1 en la lista de los más vendidos del New York Times durante tres semanas. The Stories of John Cheever apareció en octubre de 1978, y se convirtió en una de las colecciones más exitosas de la historia, con ventas de 125,000 copias en tapa dura.
 En el verano de 1981, a Cheever le descubrieron un tumor en el pulmón derecho y, a fines de noviembre, regresó al hospital y se enteró de que el cáncer se había propagado a su fémur, pelvis y vejiga. La última novela de Cheever, Oh What a Paradise It Seems, de solo 100 páginas, se publicó en marzo de 1982, y el libro recibió críticas respetuosas en parte porque era ampliamente conocido que el autor estaba muriendo de cáncer.
 Cheever murió el 18 de junio de 1982. Tenía 70 años.
-# Índice:
 Cuentos:
 The Enormous Radio, and Other Stories (1953):
 1.

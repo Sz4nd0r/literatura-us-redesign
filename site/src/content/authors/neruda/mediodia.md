@@ -13,8 +13,6 @@ tags:
 *(1904–1973)*
 *Cien sonetos de amor*
 *(1960)*
-*# Mediodía*
-*# ## Xxxiii*
 *Amor, ahora nos vamos a la casa*
 *donde la enredadera sube por las escalas:*
 *antes que llegues tú llegó a tu dormitorio*
@@ -30,7 +28,6 @@ al nido de la lejana primavera,
 porque el amor no puede volar sin detenerse:
 al muro o a las piedras del mar van nuestras vidas,
 a nuestro territorio regresaron los besos.
-# ## ## Xxxiv
 Eres hija del mar y prima del
 orégano,
 nadadora, tu cuerpo es de agua pura,
@@ -46,7 +43,6 @@ de tal modo que asumes cuanto existe
 y al fin duermes rodeada por mis brazos que apartan
 de la sormbra sombría, para que tú descanses,
 legumbres, algas, hierbas: la espuma de tus sueños.
-# ## ## ## Xxxv
 Tu mano fue volando de mis ojos al
 día.
 Entró la luz como un rosal abierto.

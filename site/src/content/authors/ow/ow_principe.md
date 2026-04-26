@@ -12,7 +12,6 @@ tags:
 *Wilde*
 *(Irlanda, 1854 - Francia,*
 *1900)*
-*# El Príncipe Feliz*
 *(“The Happy Prince”)*
 *The Happy Prince and Other Tales*
 *(Londres: David Nutt, 1888, 118 págs.)*

@@ -8,7 +8,6 @@ tags:
   - elhis
   - pgv
 ---
-*# El historiador problemático*
 *Pedro Gómez Valderrama*
 
 El historiador problemático La procesion de los ardientes (Bogotá: Miguel Arbeláez Sarmiento, 1973, 180 págs.) Jamás, cuando en algún relato del pasado me acerco a una versión de los hechos, me retraigo para rechazarla como poco probable. En general considero que, así como en el futuro hay para cada hecho, para cada actitud humana un sinnúmero de posibilidades a través de las cuales podría seguir caminos distintos, así las cosas de la historia que no están totalmente establecidas, y en muchos casos también aquellas que parecen estarlo, ofrecen esas mismas posibilidades, pero el hombre, al irse hacia atrás para hacer historia, la fabrica a su manera, y para darle verosimilitud tiene también que matar las otras alternativas. De todos modos, sospecho que tanto en el pasado como en el futuro hay una serie de mundos probables, de los cuales el ya sucedido o el que va a suceder no tienen por qué ser, en verdad, los más aconsejables.

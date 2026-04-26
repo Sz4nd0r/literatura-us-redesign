@@ -8,7 +8,6 @@ tags:
   - amigo
   - mujica
 ---
-*# XXX. El amigo (1808)*
 *Manuel Mujica Lainez*
 *Gerardo baja trabajosamente la empinada escalera. Cuando mira hacia el patio, le acomete un vértigo terrible y la tentación de arrojarse de cabeza, de rebotar, de terminar de una vez. Pero un instinto más recio le manda cerrar los ojos. Cesa entonces la danza de los peldaños y de las paredes; se aquieta la locura del candil que tiembla en el primer tramo y, paso a paso, ciego, rozando el muro, el estudiante prosigue el descenso infinito. En la noche de sus párpados, los ruidos de la plaza cobran multiplicado vigor. A los monstruos que conjurara al suprimir la visión y que se agazapaban al pie de la escalera o le acechaban entre los tiestos, suceden otros, más sutiles, que le soplan al oído frases incoherentes y que están a su lado y bajan con él, tanteando los peldaños roídos. El hambre le ahueca el cuerpo.*
 

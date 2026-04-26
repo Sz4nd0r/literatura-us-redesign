@@ -10,7 +10,6 @@ tags:
 ---
 *Dino Buzzati*
 *(Belluno, Italia, 1906 - Milán, 1972)*
-*# Estaba Prohibido*
 *(“Era proibito”)*
 *Sessanta racconti*
 *(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*

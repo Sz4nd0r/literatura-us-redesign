@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Campo De Minas*
 *Ultimo viene il corvo (1949)*
 
 —Minado —así había dicho el viejo haciendo girar una mano abierta delante de los ojos, como si limpiara un cristal empañado—. Todo por ahí, no se sabe bien dónde. Vinieron y minaron. Nosotros estábamos escondidos.

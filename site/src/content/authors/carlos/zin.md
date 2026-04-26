@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Fuentes*
 *(Ciudad de Panamá, 1928 - México D.F., 2012)*
-*# Malintzin De Las Maquilas*
 *(1995)*
 *La frontera de cristal (1995);*
 *Cuentos naturales (2007)*

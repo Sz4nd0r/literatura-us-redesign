@@ -8,7 +8,6 @@ tags:
   - caliban2
   - roberto
 ---
-*# Para la historia de Calibán*
 *Roberto Fernández*
 *Retamar*
 *Apuntes sobre la cultura de nuestra América PARA LA HISTORIA DE CALIBÁN Calibán es un anagrama forjado por Shakespeare a partir de “caníbal” —expresión que, en el sentido de antropófago, ya había empleado en otras obras como La tercera, parte del rey Enrique VI y Otelo—, y este término, a su vez, proviene de “caribe”. Los caribes, antes de la llegada de los europeos, a quienes hicieron una resistencia heroica, eran los más valientes, los más batalladores habitantes de las mismas tierras que ahora ocupamos nosotros. Su nombre es perpetuado por el Mar Caribe (al que algunos llaman simpáticamente el Mediterráneo americano; algo así como si nosotros llamáramos al Mediterráneo el Caribe europeo).*

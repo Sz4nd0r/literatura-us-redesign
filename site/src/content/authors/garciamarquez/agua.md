@@ -8,7 +8,6 @@ tags:
   - agua
   - garciamarquez
 ---
-*# La luz es como el agua*
 *Gabriel*
 *García Márquez (n. 1947)*
 *Navidad los niños volvieron a pedir un bote de remos. —De acuerdo —dijo el papá, lo compraremos cuando volvamos a Cartagena. Totó, de nueve años, y Joel, de siete, estaban más decididos de lo que sus padres creían. —No —dijeron a coro—. Nos hace falta ahora y aquí. —Para empezar —dijo la madre—, aquí no hay más aguas navegables que la que sale de la ducha. Tanto ella como el esposo tenían razón. En la casa de Cartagena de Indias había un patio con un muelle sobre la bahía, y un refugio para dos yates grandes. En cambio aquí en Madrid vivían apretados en el piso quinto del número 47 del Paseo de la Castellana.*

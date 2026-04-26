@@ -8,7 +8,6 @@ tags:
   - cual
   - liliana
 ---
-*# El pequeño tesoro de cada cual*
 *Liliana Heker*
 *Originalmente publicado en la revista El ornitorrinco, Núm. 12 (agosto/septiembre de 1985), págs. 7-8; La crueldad de la vida (Buenos Aires: Alfaguara, 2001, 183 págs.) La puerta cancel abriéndose apenas. Asomada en la rendija, la cara de una mujer de pelo gris. Sonreía. Inesperadamente, el dibujo de un libro fulguró en la cabeza de Ana, ¿Alicia en el país de las maravillas? Un gato sonriente que se borraba. No de golpe: se desdibujaba paso a paso, primero la cola, después el cuerpo, por fin la cabeza, hasta que sólo permanecía la sonrisa, rígida, descomunal, suspendida de la nada.*
 

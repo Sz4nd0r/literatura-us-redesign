@@ -13,7 +13,6 @@ tags:
 *El desplome de la Baliverna (1951)*
 *(“Il crollo della Baliverna”)*
 *Originalmente publicado en el periódico Corriere della Sera (21 de mayo de 1951);*
-*# El Desplome De La Baliverna*
 *(Milán: Arnoldo Mondadori Editore, 1954, 340 págs.)*
 
 Dentro de una semana comienza el juicio por el desplome de la Baliverna. ¿Qué será de mí? ¿Vendrán a detenerme?

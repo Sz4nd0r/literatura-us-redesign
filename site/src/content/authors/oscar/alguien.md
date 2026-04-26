@@ -8,7 +8,6 @@ tags:
   - alguien
   - oscar
 ---
-*# Alguien llama a mi puerta*
 *Óscar Collazos (1942 - 2015)*
 *Alguien llama a mi puerta Adiós Europa, adiós (Bogotá: Planeta Colombiana Editorial S.A. (Seix Barral], 2000, 130 págs.) A María del Pilar Gaviria No quise darle importancia. Tal vez fuera la fuerte brisa que anunciaba la llegada de la cola del huracán a las costas de Cartagena de Indias, la puerta de entrada que no cerraba bien, un simple golpe de brisa en aquel febrero de lluvias esporádicas. No quise darle importancia al primer ruido que seguramente venía de la puerta de entrada al apartamento, desde donde la visión del mar era tan limpia como despejada la panorámica sesgada de la ciudad, el centro amurallado, las aparatosas moles de cemento de Bocagrande, la quieta presencia del caño de aguas estancadas y podridas, una visión que había acabado por convertirse en el inmodificable paisaje de mis días.*
 

@@ -8,7 +8,6 @@ tags:
   - ld_ayal
   - ld
 ---
-# Traición
 
 *Lydia Davis*
 

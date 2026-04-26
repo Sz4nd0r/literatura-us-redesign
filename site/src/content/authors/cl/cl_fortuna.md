@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# Comienzos De Una Fortuna*
 *(“Começos de uma fortuna”)*
 *Originalmente publicado en*
 *Alguns contos (1952);*

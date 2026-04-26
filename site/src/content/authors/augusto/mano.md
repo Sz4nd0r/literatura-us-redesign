@@ -8,7 +8,6 @@ tags:
   - mano
   - augusto
 ---
-*# Mano Cruel*
 *Augusto Roa Bastos (1917 - 2005)*
 
 El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) Lo despertaron el sol y el gran ruido que llenaba la plaza. Parpadeó asombrado. Se restregó los ojos con las manos. Críspulo Gauto no lo quería creer, pero era verdad: la plaza solitaria, en uno de cuyos bancos se había tendido a dormir muerto de cansancio a la noche, estaba en la mañana atascada de gente, resonante con el rumor de la multitud, con el sonido de las bandas, con el repique de las campanas. Le pareció que las campanas repicaban sobre él. No solamente el sol, también las banderas encendían las calles, los edificios, que parecían moverse, avanzar, bajo las franjas tricolores ondeantes.

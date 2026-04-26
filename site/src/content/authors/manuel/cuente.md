@@ -8,7 +8,6 @@ tags:
   - cuente
   - manuel
 ---
-*# El delincuente*
 *Manuel Rojas*
 *Originalmente publicado en el periódico La Nación [Santiago de Chile] (1 de mayo de 1927); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 7-28. Yo vivo en un conventillo. Es un conventillo que no tiene de extraordinario más que un gran árbol que hay en el fondo de su patio, un árbol corpulento, de tupido y apretado ramaje, en el que se albergan todos los chineóles, diucas y gorriones del barrio; este árbol es para los pájaros una especie de conventillo; es un conventillo dentro de otro.*
 

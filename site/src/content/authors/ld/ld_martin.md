@@ -8,7 +8,6 @@ tags:
   - ld_martin
   - ld
 ---
-# St. Martín
 
 *Lydia Davis*
 

@@ -8,7 +8,6 @@ tags:
   - paul
   - willa
 ---
-# El caso de Paul
 
 **Willa Cather**
 

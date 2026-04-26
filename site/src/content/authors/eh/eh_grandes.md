@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
-*# Cincuenta De Los Grandes*
 *(1927)*
 *[Otro título en español: “Cincuenta de a mil”]*
 *(“Fifty Grand”)*

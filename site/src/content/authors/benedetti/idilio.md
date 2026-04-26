@@ -8,7 +8,6 @@ tags:
   - idilio
   - benedetti
 ---
-*# Idilio*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) La noche en que colocan a Osvaldo (tres años recién cumplidos) por primera vez frente a un televisor (se exhibe un drama británico de hondas resonancias), queda hipnotizado, la boca entreabierta, los ojos redondos de estupor. La madre lo ve tan entregado al sortilegio de las imágenes que se va tranquilamente a la cocina. Allí, mientras friega ollas y sartenes, se olvida del niño.

@@ -8,7 +8,6 @@ tags:
   - nieve
   - pgv
 ---
-*# La aventura de la nieve*
 *Pedro Gómez Valderrama*
 
 La aventura de la nieve El Retablo de Maese Pedro (Bogotá: Editorial Iqueima, 1967) I TESTIMONIO DEL ESCUDERO GONTRAND Me llamo Gontrand, y soy escudero de uno de los caballeros del Emperador; no puedo revelar su nombre, porque cuantos me oyen lo repetirían, y eso me costaría la ira de mi señor. Si cuento aquello que vi, no es para escandalizaros ya que vosotros, manada de bergantes, y vosotras, mujeres del partido, no os asombraríais de lo sucedido; antes bien, es seguro que no podríais comprender bien toda la finura y la delicadeza de los señores.

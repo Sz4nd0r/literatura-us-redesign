@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# El Mar*
 *(“Il mare”, 1942)*
 *Originalmente publicado en Primato (1 y 15 de diciembre de 1942);*
 *reproducido en Feria d’agosto (1946)*

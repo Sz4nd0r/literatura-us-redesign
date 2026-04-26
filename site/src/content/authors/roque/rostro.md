@@ -13,7 +13,6 @@ tags:
 *(El Salvador, 1935-1975)*
 *La ventana en el rostro*
 *(1962)*
-*# Por Qué Escribimos*
 *Uno hace versos y ama*
 *la extraña risa de los niños,*
 *el subsuelo del hombre*
@@ -49,7 +48,6 @@ a quienes maldecir con el recuerdo.
 Bien.
 Eso hacemos:
 custodiamos para ellos el tiempo que nos toca.
-# ## Cantos A Anastasio Aquino
 A
 Jorge Arias Gómez.
 Anastasio
@@ -63,7 +61,6 @@ Nonualco, contra el sistema opresor de los blancos y ladinos ricos que
 comerciaban, como ahora comercian, con el hambre y el dolor del indio.
 Después de muchas batallas victoriosos, fue capturado por las fuerzas del
 gobierno salvadoreño y fusilado el 24 de junio de 1833.
-# ## ## Orígenes
 I
 Tu pie descalzo ante la dura
 tierra: barro en el barro.
@@ -100,7 +97,6 @@ sencillamente,
 como se da la mano,
 la tierra,
 la esperanza...
-# ## ## ## Dolor Antiguo
 Sólo has visto dolor en tu
 llegada.
 Dolor en los cañales explotados

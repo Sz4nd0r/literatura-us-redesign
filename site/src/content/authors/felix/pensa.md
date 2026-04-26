@@ -12,7 +12,6 @@ tags:
 *Pita Rodríguez*
 *(Cubano,*
 *1909-1990)*
-*# La Recompensa*
 *Tobías*
 *(La Habana: Editorial Lex, 1955, 140 pp.)*
 *Los ojos de*

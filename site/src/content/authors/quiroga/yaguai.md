@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# Yaguaí*
 *(Cuentos de amor, de*
 *locura y de muerte, 1917)*
 *Ahora bien, no podía ser sino allí. Yaguaí olfateó la piedra –un sólido bloque*

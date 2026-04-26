@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# La Sombra Atrapada*
 *(“The Captured Shadow”)*
 *Originalmente publicado en The Saturday Evening Post, 201 (29 de ddiciembre de 1928);*
 *Taps at Reveille*
@@ -39,9 +38,6 @@ No respondió inmediatamente. Estaba de pie ante una biblioteca con puertas de c
 Basil extrajo de la biblioteca el volumen Van Bibber y Otros, que leyó mientras se comía un gran plato de cereales ablandados con un cuarto de litro de leche. Volvió al cuarto de estar y se sentó unos minutos al piano, mientras hacía la digestión y admiraba la cubierta en colores de la partitura de una de las canciones de Los Hijos de la Medianoche. Se veía a tres hombres con traje de etiqueta y sombreros de copa, que paseaban alegremente por Broadway, sobre el fondo resplandeciente de Times Square.
 Basil hubiera negado, incrédulo, la sugerencia de que aquélla fuese entonces su obra de arte preferida. Pero lo era.
 Subió las escaleras. De un cajón de su escritorio sacó un cuaderno y lo abrió.
-# ## Basil Duke Lee
-# ## ## Colegio St. Regis
-# ## ## ## Eastchester, Conn.
 ## ## ## ## QUINTO CURSO DE FRANCÉS
 y en la página siguiente, bajo el título de Verbos Irregulares:
 ## ## ## ## PRESENTE

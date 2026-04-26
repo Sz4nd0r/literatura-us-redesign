@@ -8,7 +8,6 @@ tags:
   - copea
   - bioy
 ---
-*# Margarita o El poder de la farmacopea*
 *Adolfo Bioy Casares (1914 - 1999)*
 *El poder de la farmacopea Una muñeca rusa (Buenos Aires: Tusquets Editores, 1991, 184 págs.) Tus triunfos, pobres triunfos pasajeros. (Mano a mano, tango). No recuerdo por qué mi hijo me reprochó en cierta ocasión: —A vos todo te sale bien. El muchacho vivía en casa, con su mujer y cuatro niños, el mayor de once años, la menor, Margarita, de dos. Porque las palabras aquellas traslucían resentimiento, quedé preocupado. De vez en cuando conversaba del asunto con mi nuera. Le decía: —No me negarás que en todo triunfo hay algo repelente. —El triunfo es el resultado natural de un trabajo bien hecho —contestaba. —Siempre lleva mezclada alguna vanidad, alguna vulgaridad. —No el triunfo —me interrumpía— sino el deseo de triunfar.*
 *Condenar el triunfo me parece un exceso de romanticismo, conveniente sin duda para los chambones. A pesar de su inteligencia, mi nuera no lograba convencerme. En busca de culpas examiné retrospectivamente mi vida, que ha transcurrido entre libros de química y en un laboratorio de productos farmacéuticos. Mis triunfos, si los hubo, son quizá auténticos, pero no espectaculares. En lo que podría llamarse mi carrera de honores, he llegado a jefe de laboratorio.*

@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# El Geranio*
 *(“The Geranium”)*
 *(originalmente publicado en Accent, vol. VI, Summer 1946)*
 *Es el primer cuento (pp. 1-21) de la tesis de posgrado (junio de 1947)*

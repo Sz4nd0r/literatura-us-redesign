@@ -8,7 +8,6 @@ tags:
   - ilustre
   - mujica
 ---
-*# XXVI. El ilustre amor (1797)*
 *Manuel Mujica Lainez*
 
 En el aire fino, mañanero, de abril, avanza oscilando por la Plaza Mayor la pompa fúnebre del quinto Virrey del Río de la Plata. Magdalena la espía hace rato por el entreabierto postigo, aferrándose a la reja de su ventana. Traen al muerto desde la que fue su residencia del Fuerte, para exponerle durante los oficios de la Catedral y del convento de las monjas capuchinas.

@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Rags Martin-Jones Y El Príncipe De Gales*
 *(“Rags Martin-Jones and the Prince of Wales”)*
 *Originalmente publicado en la revista McCall’s, 51 (julio de 1924);*
 *All the Sad Young Men*

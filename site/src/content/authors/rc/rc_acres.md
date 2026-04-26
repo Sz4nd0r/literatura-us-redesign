@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Sesenta Acres*
 *(“Sixty Acres”)*
 *Originalmente publicado en Discourse (1969)*
 *Will You Please Be Quiet, Please? (1976)*

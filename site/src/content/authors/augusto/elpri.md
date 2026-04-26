@@ -8,7 +8,6 @@ tags:
   - elpri
   - augusto
 ---
-*# El prisionero*
 *Augusto Roa Bastos (1917 - 2005)*
 
 El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) Los disparos se respondían intermitentemente en la fría noche invernal. Formaban una línea indecisa y fluctuante en torno al rancho; avanzaban y retrocedían, en medio de largas pausas ansiosas, como los hilos de una malla que se iba cerrando cautelosa, implacablemente, a lo largo de la selva y los esteros adyacentes a la costa del río. El eco de las detonaciones pasaba rebotando a través de delgadas capas acústicas que se rompían al darle paso.

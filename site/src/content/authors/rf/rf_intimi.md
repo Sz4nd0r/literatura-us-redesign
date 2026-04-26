@@ -10,7 +10,6 @@ tags:
 ---
 *Richard Ford*
 *(Jackson, Mississippi, 1944-)*
-*# Intimidad*
 *(“Privacy”)*
 *Originalmente publicado en The New Yorker (julio 22, 1996)*
 *A Multitude of Sins (2002)*

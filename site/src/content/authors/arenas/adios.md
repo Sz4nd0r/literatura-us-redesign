@@ -10,7 +10,6 @@ tags:
 ---
 *Reinaldo Arenas*
 *(Aguas Claras, Cuba, 1943 - Nueva York, 1990)*
-*# Adiós A Mamá*
 *Adiós a Mamá (De La Habana a Nueva York)*
 *(1995)*
 

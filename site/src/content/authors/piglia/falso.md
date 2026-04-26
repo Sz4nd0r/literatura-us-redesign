@@ -12,7 +12,6 @@ tags:
 *Piglia*
 *(Adrogué, Buenos Aires,*
 *1941 — Buenos Aires, 2017)*
-*# Nombre Falso*
 *## Nombre falso*
 *(Buenos Aires: Siglo XXI Editores, 1975, 172 págs.)*
 *Homenaje a Roberto Arlt*
@@ -618,7 +617,6 @@ Cuando abren la puerta, el aire dulce de la noche lluviosa les moja la cara. La 
 —Vamos, Luba —dice él.
 —No me llamo Luba —dice ella, apretando la valija contra su cuerpo—. Mi verdadero nombre es Beatriz Sánchez.
 Abajo, la recova de Leandro Alem parece morir en la neblina del amanecer.
-# ## Notas
 1. El texto de Arlt dice así: «Tengo el mal gusto de estar encantadísimo con ser Roberto Arlt. Mi madre, que leía novelas romanticonas me agregó al de Roberto, el nombre de Godofredo, que no uso ni en broma, y todo por leer La Jerusalén liberada de Torcuato Tasso». Cierto es que preferiría llamarme Pierpont Morgan o Henry Ford o Edison o Charles Baudelaire, pero en la material imposibilidad de transformarme a mi gusto, opto por acostumbrarme a mi apellido. ¿No es acaso un apellido elegante, sustancioso, digno de un conde o de un barón? ¿No es un apellido digno de figurar en chapita de bronce en una de esas máquinas raras, que ostentan el agregado de Máquina polifacética de Roberto Arlt y que funcionan cuando uno les echa una moneda?
 —Por otra parte tengo una fe inquebrantable en mi porvenir de escritor. Me he comparado con casi todos los del ambiente y he visto que toda esta buena gente tenía preocupación estética o humana, pero no en sí mismos, sino respecto a los otros. Esta especie de generosidad es tan fatal para el escritor, del modo que le sería fatal a un hombre que quisiera hacer fortuna ser tan honrado con los bienes de los otros como con los suyos propios. Creo que en esto les llevo ventaja a todos. Soy un perfecto egoísta. La felicidad del hombre y de la humanidad me interesan un pepino. Pero en cambio el problema de mi felicidad me interesa enormemente. Acá los escritores viven más o menos felices. Nadie tiene problemas a no ser las pavadas de si ha de rimar o no. En definitiva todos viven una existencia tan tibia, que un sujeto que tiene un poco de imaginación acaba por decirse: “La Argentina es una Jauja”. El primero que haga un poco de psicología y de cosas extrañas, se meterá en el bolsillo a esta gente».
 —En nuestro tiempo el escritor se cree el centro del mundo. Macanea a gusto. Engaña a la opinión pública, consciente o inconscientemente. La gente que hasta experimenta dificultades para escribirle a la familia, cree que la mentalidad del escritor es superior a la de sus semejantes. Todos nosotros, los que escribimos y firmamos, lo hacemos para ganarnos el puchero. Nada más. Y para ganarnos el puchero no vacilamos en afirmar que lo blanco es negro y viceversa. La gente busca la verdad y nosotros le damos moneda falsa. Es el oficio, el “métier”. La gente cree que recibe la mercadería legítima y cree que es materia prima, cuando apenas se trata de una falsificación burda, de otras falsificaciones que también se inspiraron en falsificaciones».↩

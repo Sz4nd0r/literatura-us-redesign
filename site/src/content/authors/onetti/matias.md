@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Matías El Telegrafista*
 *Originalmente publicado en Macedonio (Buenos Aires), 1970*
 
 Cuando en casa de María Rosa, Jorge Michel contó una vez más, ante varios testigos, la historia o sucedido a Atilio Matías y María Pupo, sospeché que el narrador había llegado a un punto de perfección admirable, amenazado sin dudas por la declinación y la podredumbre en previsibles, futuras reiteraciones.

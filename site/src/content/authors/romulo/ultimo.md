@@ -8,7 +8,6 @@ tags:
   - ultimo
   - romulo
 ---
-*# El último patriota*
 *Rómulo Gallegos (n. 1969)*
 *Originalmente publicado en El Cojo Ilustrado (15 de enero de 1911); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) La familia hallábase a la sazón entretenida en diversos ocios en el corredor de la antigua y noble casa que había sido desde los tiempos de la Colonia, solar glorioso de la más ilustre pléyade de varones con que se honraron los fastos de la patria. La familia se componía del padre, Don Máximo, continuador del nombre tantas veces esclarecido por sus mayores y señor de ínfula él, de profesión tenedor de libros en varias casas mercantiles, y persona versada en heráldicas y un tanto dada a achaques literarios, por afición; la madre, mujer como todas las demás, con algunas canas y excesivas carnes; el primogénito, artrítico y jugador de oficio; otro hijo que no estaba presente, cursante de derecho, literato en agraz e irresistible Don Juan más acicalado y cuidadoso de su persona, que su misma hermana, que lo era mucho, con no ser tan apuesta como prognática y tener tantos granos en el cutis, como vanidad y sosería en el modo de ser.*
 

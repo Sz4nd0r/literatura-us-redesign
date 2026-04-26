@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# La Mujer Más Pequeña Del Mundo*
 *(“A menor mulher do mundo”)*
 *Laços de família (1960)*
 

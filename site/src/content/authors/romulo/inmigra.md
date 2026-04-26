@@ -8,7 +8,6 @@ tags:
   - inmigra
   - romulo
 ---
-*# Los inmigrantes*
 *Rómulo Gallegos (n. 1969)*
 *Originalmente publicado en La Novela Semanal (9 de septiembre de 1922); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I Vinieron, expatriados por la miseria, en busca del oro de América: Abraham, del monte Líbano; Domenico, el calabrés. Ambos eran fuertes, jóvenes y capaces de amontonar fortunas y fundar razas nuevas y vigorosas. Abraham se alojó en el barrio turco de Camino Nuevo, donde, en viviendas comunes, hacían vida promiscua, sórdida y laboriosa los buhoneros de Caracas.*
 

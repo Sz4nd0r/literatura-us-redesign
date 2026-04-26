@@ -214,7 +214,6 @@ P. ¿Acaso David no tiene también un padre invisible?
 R. Sí, pero el padre de David no es un muchacho muerto.
 Mi padre no cesa de rejuvenecer. (Ignoro dónde está sepultado. M. dice que lo olvidó.)
 Un dolor inconcluso que podría, solo podría, desaparecer dentro de la interminable sonrisa china.
-# Viii
 El más exótico de los lugares.
 China no es uno de esos lugares adonde yo al menos iría únicamente por mi propia voluntad.
 Mis padres optaron por no traerme a China. Tuve que esperar a que el gobierno me invitara.
@@ -352,7 +351,6 @@ extenuada por la inexistente literatura de cartas no
 escritas y llamadas telefónicas no hechas que se cruzan
 entre M. y yo.
 Después de lo cual cojo otro avión. Rumbo a donde pueda estar sola: por lo menos, aislada del zumbido de la colmena. E incluso de las lágrimas de las cosas, tal como las entiende —ya sea con alivio o indiferencia— el corazón individual que se compadece a sí mismo interminablemente.
-# ## Xiii
 Atravesaré el puente Sham Chun en ambas direcciones.
 ¿Y después? Nadie se sorprende. Entonces viene la literatura.
 —La impaciencia del conocimiento

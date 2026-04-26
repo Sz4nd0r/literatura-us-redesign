@@ -8,7 +8,6 @@ tags:
   - desa
   - bioy
 ---
-*# Historia desaforada*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Mientras me preparan el té (ojalá que venga bien caliente) voy a probar este grabador; sería lamentable que por negligencia mía o por inconveniente mecánico se perdieran las declaraciones del profesor Haeckel. Como el tecito se hace esperar, diré unas palabras que a lo mejor sirven de introducción. Haeckel es un personaje raro, que el público ignora y que unos pocos biólogos, los más famosos, respetan. Puedo asegurar que rehuye a los periodistas.

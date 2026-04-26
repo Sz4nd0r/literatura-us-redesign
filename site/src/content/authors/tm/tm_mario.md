@@ -12,7 +12,6 @@ tags:
 *Mann*
 *(Lübeck, Alemania, 1875 -*
 *Suiza, 1955)*
-*# Mario Y El Mago*
 *(Mario und der Zauberer, 1929)*
 *Torre di*
 *Venere me dejó el recuerdo de una atmósfera desagradable. Flotaba en el*

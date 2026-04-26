@@ -166,7 +166,6 @@ Mycroft Holmes sacó una hoja de papel.
 Señor:
 En respuesta a su anuncio de hoy, quiero informarle que conozco muy bien a la joven en cuestión. Si tiene la amabilidad de venir a verme le daré abundantes datos sobre su triste historia. Actualmente vive en The Myrdes, Beckenham.
 Atentamente,
-# J. Davenport
 —Ha sido enviada desde Lower Brixton —observó Mycroft Holmes—. ¿No crees, Sherlock, que debemos ir allí ahora mismo y oír estos datos de que nos hablan?
 —Querido Mycroft, la vida del hermano es más valiosa que la historia de la hermana. Creo que debemos llamar al inspector Gregson de Scotland Yard y dirigirnos inmediatamente a Beckenham. Sabemos que este hombre está siendo empujado hacia la muerte, y cada hora que pasa puede ser crucial.
 —Será mejor que, de camino, recojamos al señor Melas —sugerí—, porque podríamos necesitar un intérprete.

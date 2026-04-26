@@ -550,9 +550,7 @@ gran mentira”:
 No me cubran los ojos.
 Yo también
 ...
-# Quiero Ver.
 Y no se pongan bravos
-# ## Porque Aun Quiero Ver.
 (Un Libro Levemente Odioso, 128)
 Es
 con ese Des-cubrimiento que podemos entrar a hablar del plano
@@ -1161,7 +1159,6 @@ Dussel, Enrique. “Eurocentrism and Modernity”. The Postmodernism
 Debate in Latin America. Ed. J. Beverly, J. Oviedo y M. Ahorna. U.S.A:
 Duke University Press, 1995.
 Espinosa, Francisco. Los Símbolos Patrios. El Salvador:
-# ## ## Concultura, 1996.
 Gonzáles-Carmona, Edil. La Función Ideológica de la Técnica “Collage
 en «Las Historias Prohibidas del Pulgarcito» de Roque Dalton. Master’s
 Thesis at State University of New York at Stony Brook, 1990.

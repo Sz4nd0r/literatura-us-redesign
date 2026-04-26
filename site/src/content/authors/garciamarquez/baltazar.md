@@ -8,7 +8,6 @@ tags:
   - baltazar
   - garciamarquez
 ---
-*# La prodigiosa tarde de Baltazar*
 *Gabriel*
 *García Márquez (n. 1947)*
 

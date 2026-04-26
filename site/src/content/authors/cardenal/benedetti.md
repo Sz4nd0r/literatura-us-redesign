@@ -11,8 +11,6 @@ tags:
 *Ernesto*
 *Cardenal*
 *(Nicaragua, 1925— )*
-*# Ernesto*
-*# ## Cardenal, Poeta De Dos Mundos*
 *Por Mario Benedetti*
 *Letras del contienente*
 *mestizo*

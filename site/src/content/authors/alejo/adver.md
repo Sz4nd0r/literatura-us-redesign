@@ -10,7 +10,6 @@ tags:
 ---
 *Alejo Carpentier*
 *(La Habana, 1904-París, 1980)*
-*# Los Advertidos*
 *(1958)*
 *Originalmente publicado en Guerra del tiempo (1958)*
 *Cuentos (1976)*

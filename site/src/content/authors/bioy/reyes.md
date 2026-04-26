@@ -8,7 +8,6 @@ tags:
   - reyes
   - bioy
 ---
-*# De los reyes futuros*
 *Adolfo Bioy Casares (1914 - 1999)*
 *Originalmente publicado en los Anales de Buenos Aires, Nº 20-21-22 (octubre-noviembre de 1947), págs. 12-23; La trama celeste (con variantes) (Buenos Aires: Sur, 1948, 246 págs.) Tal vez convenga empezar esta narración con el recuerdo de una función de circo celebrada en 1918. En ella mis deslumbrados ojos vieron por primera vez —en trabajos por cierto humildes, pero que entonces me parecieron prodigiosos— los animales que merecen nuestro más decidido respeto: las focas. En cuanto a la dicha que involuntariamente vinculo a esos recuerdos, ahora la atribuyo (pero no hay que olvidar que en estos días infaustos vivimos obsesionados) a la noble, a la santa embriaguez de la victoria; sin embargo, cuando intento revivir con mayor pureza mis sentimientos de entonces, comprendo que en el centro de mi júbilo, como símbolos de misterios futuros, estaban la enorme carpa embanderada y tres niños —Helena, Marcos y yo— tomados de la mano ante un umbral funesto.*
 

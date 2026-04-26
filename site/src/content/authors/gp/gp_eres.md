@@ -10,7 +10,6 @@ tags:
 ---
 *Grace Paley*
 *(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
-*# Mujeres Y Niñas*
 *(“A Woman, Young and Old”)*
 *The Little Disturbances of Man (1959)*
 *[Batallas de amor (1959)]*

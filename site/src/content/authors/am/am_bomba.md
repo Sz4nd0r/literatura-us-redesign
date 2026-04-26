@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# Hay Una Bomba N También Para Las Hormigas*
 *La cosa e altri racconti (1983)*
 *A las siete de la mañana, en el mar, después de abrir la ventana, le gusta tirarse totalmente desnudo en la cama, tomar el primer libro, o revista o diario que tenga a mano y leer durante diez, quince minutos cualquier cosa, para despertarse del todo, para retomar contacto con el mundo. Preferiblemente, algo dramático, tal vez catastrófico, quizá para equilibrar la sensación de profunda tranquilidad que llega de la ventana, colmada de un cielo todavía frío y vacío, donde se advierten, aquí y allá, vagos y rosados trazos de aurora. Esta mañana tiende la mano al piso, recoge al azar el diario que la noche anterior dejó caer, vencido por el sueño, y lo abre. Sí, haría falta algo dramático, quizá catastrófico. Aquí está, a cuatro columnas, el título que buscaba, sobre el pro y el contra de la bomba N. Excelente, ¿qué más catastrófico que el fin del mundo? Se acomoda mejor la almohada bajo la cabeza, lleva el diario a la altura de los ojos y lee.*
 

@@ -8,7 +8,6 @@ tags:
   - tema
   - borges
 ---
-*# Tema del traidor y del héreo*
 *Jorge Luis Borges*
 
 Whirls out new right and wrong, Whirls in the old instead; All men are dancers and their tread Goes to the barbarous clangour of a gong. W. B. Yeats: The Tower. Bajo el notorio influjo de Chesterton (discurridor y exornador de elegantes misterios) y del consejero áulico Leibniz (que inventó la armonía preestablecida), he imaginado este argumento, que escribiré tal vez y que ya de algún modo me justifica, en las tardes inútiles.

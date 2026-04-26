@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# Una Avanzada Del Progreso*
 *(1897)*
 *(“An Outpost of Progress”)*
 *Originalmente publicado en la revista Cosmopolis: An International Monthly Review,*

@@ -8,7 +8,6 @@ tags:
   - cuarto
   - bioy
 ---
-*# El cuarto sin ventanas*
 *Adolfo Bioy Casares (1914 - 1999)*
 *Este no quedaba demasiado cerca, para emprender la vuelta sin verlo. Una discreta indagación, a través de conversaciones aparentemente casuales, me persuadió de que nadie consideraba la visita al sector Este como un acto de arrojo. A unos doscientos metros del hotel, tomé el ómnibus, que ya estaba repleto de turistas. Me acuerdo de que pensé: «Mientras no me aparte de este rebaño, nada me pasará». Conseguí el último asiento libre. A mi lado iba un hombre de ojos vivaces, de mirada fuerte, parecido a una famosa estatua de Voltaire viejo, que vi no sé dónde.*
 

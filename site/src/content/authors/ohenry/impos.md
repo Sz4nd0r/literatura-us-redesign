@@ -113,7 +113,6 @@ La Casa Blanca.
 Muy señor mío:
 Me permito manifestarle que tengo en mi casa a un joyel que ha llegado a Buenas Tierras, procedente de los Estados Unidos, hace algunos días. Sin querer fomentar esperanza que pueden no realizarse, me parece que existe la posibilidad de que se trate del hijo de usted, ausente durante tal largo tiempo. Quizá conviniera que usted pasara a verlo. Si, en efecto, es su vástago, paréceme que vino pensando presentarse en la casa paterna, pero que luego le ha faltaddo valor para hacerlo.
 Su affmo. servidor
-# Thompson Thacker.
 Media hora después —verdadera marca de celeridad ex Buenas Tierras.— el antiguo landó del señor Urique se paraba ante la puerta del cónsul, entre gran profusión de gritos dirigidos por el descalzo cochero a los caballos.
 Un hombre alto, de blanco bigote, se apeó del vehículo y ayudó a apearse a una dama cubierta de negro de pies a cabeza.
 Los dos penetraron presurosamente en la casa y fueron recibidos por Thacker con sus mejores reverencias diplomáticas. Junto a la mesa se hallaba un joven de curtida y bien cortada faz, con el negro cabello bien peinado.

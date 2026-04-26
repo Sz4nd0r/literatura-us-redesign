@@ -8,7 +8,6 @@ tags:
   - rata
   - bioy
 ---
-*# La rata o una llave para la conducta*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Si fuera por mí no saldría nunca de esta casa —dijo el profesor. Se llamaba Melville y algunos lo conocían por el capitán, no porque fuera capitán, sino porque solía renguear por la galería de su chalet de la costa, como un pirata en el puente de mando. Era un hombre viejo, ágil a pesar de la pierna ortopédica, flaco, de pelo blanco y frondoso, de frente espaciosa, de cara rasurada. Usaba corbata La Vallière. Tal vez por la corbata y el pelo tuviera cierto aire de artista del siglo XIX. —Me atrevo a insistir, señor: un paseíto de cuando en cuando a nadie le viene mal —dijo el alumno. Se llamaba Rugeroni.

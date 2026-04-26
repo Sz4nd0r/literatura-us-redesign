@@ -28,7 +28,6 @@ En 1883 nace su primer hijo, Lucien, fruto de sus relaciones con Joséphine Litz
 Maupassant estaba escribiendo siempre: en 1887, Mont-Oriol; en 1888, Pierre et Jean; en 1889, Fort comme la mort; en 1890, Notre Cœur. Mientras tanto, entre 1881 y y 1890, publicó 15 colecciones de cuentos: desde La Maison Tellier, 1881, hasta L’Inutile Beauté, 1890.
 Entre los cuentos escritos en lo últimos años de su vida, la mayoría está inspirada por la idea fija del suicidio, la obsesión de lo invisible y la angustia. Esos cuentos son fieles testimonios de su progresiva locura.
 La noche del 1 de enero de 1892, intentó tres veces abrirse la garganta con un cortaplumas de metal, tras otro intento previo de suicidio disparándose con su revólver. Sus amigos lo trasladaron a París; allí fue internado en la clínica del doctor Blanche, donde moriría el 6 de julio de 1893. Tenía 42 años.
-# Índice:
 Cuentos
 —Bola de sebo (1880)
 —Jadis [En otro tiempo] (1880)

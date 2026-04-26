@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# El Propietario Del Departamento*
 *La cosa e altri racconti (1983)*
 
 Han terminado los preparativos. Transformé en cama el diván de la sala; allí dormiré yo. Él (o ella) dormirá en mi cama. Compré algunas conservas, varios kilos de pastas, cierta cantidad de queso y fiambres para el caso de que él (o ella) no quiera o no pueda salir de casa. Finalmente, despejé de mis ropas el placar que deberá servirle a él (o a ella) para guardar el material, como decimos en la dotación. Ahora no me resta más que esperar: según el llamado telefónico de ayer, él (o ella) deberá llegar dentro de un máximo de una hora.

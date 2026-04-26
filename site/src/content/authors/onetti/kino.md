@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Ki No Tsurayuki*
 *Originalmente publicado en El País (Madrid), 1987*
 
 Conocía y frecuenté a los Andrade hace y durante un par de años. Hoy cuento la parte que más interesa de sus vidas y lo que ignoro lo imagino con certeza.

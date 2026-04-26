@@ -12,7 +12,6 @@ tags:
 *(Juiz de Fora, Minas Gerais, Brazil, 1925-)*
 *Lúcia McCartney (1967)*
 *(“Lúcia McCartney”)*
-*# Lúcia Mccartney*
 *(Río de Janeiro: Olivé Editor, 1967, 214 págs.)*
 *I*
 
@@ -32,7 +31,6 @@ Estoy en el Zum Zum con los muchachos. De vez en cuando pienso en el tipo aquel.
 III
 Lo que más me gusta en el mundo es dormir. Despertarme al mediodía e ir a la playa. Hoy es 4 de diciembre y hay un sol bárbaro afuera. Me desperezo. Isa llega con la bandeja. “Te preparé unas yemas”, pone frente a mí el plato hondo, “ahora siempre llegas después de las seis, perdiendo el tiempo con esos muchachos.” Me gusta bailar, a ella no; me gustan los hombres (bonitos, jóvenes, fuertes), a ella le gusta el marido que ni está casado con ella y nadie sabe dónde está; a mí no me gusta estar sola, a mí — “¡Isa, por el amor de Dios!, no me molestes”, me levanto, pongo un disco y empiezo a bailar, me gusta pasar el día entero oyendo música, necesito oír música, para mí es como el aire. “Lo digo por tu bien.” “Sé que lo dices por mi bien.” “Nadie aguanta una vida como la que llevas.” “No veo nada de malo en ella.” “Piensa en el futuro.” “El futuro no me interesa y no sigas molestándome, si no, me iré.” “José Roberto telefoneó, el tipo de São Paulo que estuvo contigo anoche.
 A Isa le gustaría saber cosas sobre el paulista, pero decido convertirlo en un misterio para molestarla. Tampoco sé nada sobre ese José Roberto. Ni siquiera sé si de veras es paulista. Tampoco sabía que se llamaba José Roberto. José Roberto no es un nombre de Señorón. Llamará de nuevo.
-# ## Telefonema
 —Aló.
 —¿Quién habla?
 —¿Con quién quiere hablar?
@@ -100,7 +98,6 @@ ESCENA (verdadera)
 —Cualquier cosa.
 Llegan dos camareros con fuentes, cubos con hielo, botellas. ¡Qué cena! “Estoy en lo mejor de la borrachera.” “Entonces deja de tomar un poco, pues lo que vamos a hacer ahora debe hacerse con absoluta conciencia.” José Roberto me lleva al cuarto.
 —Me llamaban Astilla.” “La astilla más linda del mundo”, dice él, besándome. Me acerco a él, me entrego, me doy, él está dentro de mí, rezo para que dure mucho, pido “¡tarda mucho, mucho!, ¡no acabes!”, me pone loca, me derrite y mi corazón queda golpeando en el pecho, en la garganta, en la barriga, ¡qué-bien, qué-bien, qué-bien, qué-bien, qué-bien!
-# ## ## Diálogo
 —Nunca vi a José Roberto. Telefonea y dice: mándame una chica, ya sabes cómo me gustan. —¿Cómo le gustan? —Inteligentes, bonitas, depravadas.
 —Yo no soy depravada.
 —Si fuera muy inteligente no necesita ser muy depravada, dice él.
@@ -116,7 +113,6 @@ José Roberto
 Deliro con la carta de José Roberto. Creo que es lo máximo. “¿Por qué estás llorando?”, pregunta Isa. “Extraño a José Roberto.” “Ese tipo está loco”, dice Isa después de leer la carta, “tú eres otra loca, siempre he vivido rodeada de locos, deja de llorar, idiota.” Isa mete la mano en el bolsillo de la bata, se pasa el día en bata (debe haber sido por eso que se piró el marido), y cuando le entra la rabia mete la mano en el bolsillo con fuerza hasta que revienta el tejido, “mierda, ¡se volvió a joder el bolsillo!, ¡soy una idiota!.
 —¿Crees que volveré a verlo nuevamente?” “¿Me vas a decir que estás enamorada?” “¡Sí, sí!, ¡lo juro! Estoy enamorada.” Isa cree que esto es una estupidez, que apenas estoy entusiasmada, porque José Roberto es diferente de los muchachos de la banda, tiene más experiencia, conoce más. “Y mira, si de casualidad aparece, no te entregues inmediatamente, a los hombres no les gustan las mujeres ofrecidas.
 Acuerdo con Isa que si José Roberto me busca fingiré desinterés.
-# ## ## ## Telefonema
 —Aló.
 —José Roberto! ¡Querido!
 —¿Cómo te va?

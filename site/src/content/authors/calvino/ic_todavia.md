@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Uno De Los Tres Vive Todavía*
 *Ultimo viene il corvo (1949)*
 
 Los tres estaban desnudos, sentados en una piedra. Los rodeaban todos los hombres del pueblo, y el grande, de barba, enfrente.

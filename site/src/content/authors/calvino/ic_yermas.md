@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Hombre En Tierras Yermas*
 *Ultimo viene il corvo (1949)*
 
 Por la mañana temprano se ve Córcega: parece un barco cargado de montañas, suspendido allá sobre el horizonte. En cualquier otro lugar hubieran nacido leyendas; entre nosotros no: Córcega es un sitio pobre, más pobre que el nuestro; Córcega es una tierra pobre, más pobre que la nuestra, nadie ha ido nunca y nadie ha pensado nunca en ir. Cuando por la mañana se ve Córcega es señal de que el aire está claro y quieto y no amenaza lluvia.

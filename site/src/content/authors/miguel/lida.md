@@ -12,7 +12,6 @@ tags:
 *(Ciudad de Guatemala, 1899 - Madrid, 1974)*
 *1. El espejo de Lida Sal*
 *(1967)*
-*# El Espejo De Lida Sal*
 *(México, Siglo XXI Editores, 1967, 146 págs.)*
 *—1 —*
 

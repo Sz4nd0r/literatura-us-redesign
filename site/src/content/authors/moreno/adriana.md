@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Martínez Moreno*
 *(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
-*# Adriana En El Adriático*
 *(1971)*
 *De vida o muerte*
 *(Buenos Aires: Siglo XXI Argentina Editores, 1971, 152 págs)*

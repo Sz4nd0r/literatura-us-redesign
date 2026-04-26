@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# La Ciudad*
 *(“La città”, 1942)*
 *Originalmente publicado en Tempo de Milán (28 de mayo de 1942)*
 *Tutti i racconti (2002)*

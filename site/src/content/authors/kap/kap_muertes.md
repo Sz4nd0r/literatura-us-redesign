@@ -10,7 +10,6 @@ tags:
 ---
 *Katherine Anne Porter*
 *(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
-*# Antiguas Muertes*
 *(“Old mortality”)*
 *Originalmente publicada en Southern Review*
 *(Spring 1937)*

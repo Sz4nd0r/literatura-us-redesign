@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# La Conversación De Eiros Y Charmion*
 *(“The Conversation of Eiros and Charmion”, 1839)*
 *Originalmente publicado en Burton’s Gentleman’s Magazine (deciembre 1839);*
 *Tales*

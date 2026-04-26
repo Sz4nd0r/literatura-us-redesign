@@ -8,7 +8,6 @@ tags:
   - cobarde
   - juanbosch
 ---
-*# El cobarde*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicadon en la Revista Carteles (27 de septiembre de 1936), págs. 40 y 73; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Cuentos escritos antes del exilio. (Santo Domingo: Editora Alfa y Omega, 1974, 284 págs.), págs. 69-76. La noticia había llegado hasta aquel bohío perdido en la sabana: Monsito Rojas había asaltado el pueblo. Ellos estaban en la cocina. A través de las rendijas crecía y se apagaba la luz del fogón. El muchacho dijo: —Me parece que viene gente. La vieja y Meco aprobaron con gestos; pero no trataron de averiguar quién llegaba, porque la noche oscura lo impedía.*
 *Meco andaba receloso y ordenó. —Quítense de ahí. A pasos lentos se encaminó a la puerta y clavó ambas manos en los espeques. El aire y la llama hinchaban su camisa. Aguzó la mirada y distinguió el bulto: era una masa alta y negra, que venía buscando la entrada de la cocina. Desde el fondo del patio ladró el perro, con un ladrido largo y débil. —Noche… —dijo el recién llegado. —Buena —respondió Meco. El hombre se tiró del animal al tiempo que explicaba. —Soy yo… Pero Meco se le interpuso: —¿Fano? —preguntó. El perro seguía sembrando la noche de ladridos. —Déjeme dentrar —pidió el hombre.*

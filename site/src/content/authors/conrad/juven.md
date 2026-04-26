@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# Juventud*
 *(1902)*
 *(“Youth”)*
 *Youth, a Narrative, and Two Other Stories*

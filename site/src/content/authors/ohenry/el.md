@@ -346,7 +346,6 @@ hora que al principio le dijimos, el niño le será devuelto
 sano y salvo en el término de tres horas. Nuestras
 condiciones son definitivas, y si no accede a
 ellas no se intentará otra ulterior comunicación.
-# Dos Hombres Desesperados
 Puse las señas de Dorset en el sobrescrito y me eché
 la carta en el bolsillo. Cuando iba a partir, el niño se
 me acercó y me dijo:
@@ -497,7 +496,6 @@ y no puedo hacerme responsable de los excesos
 a que estos se entreguen contra los que hagan
 que el chico vuelva al pueblo.
 Respetuosamente suyo,
-# ## Ebenezer Dorset
 —¡Grandísimo miserable! —exclamé—. Entre todos
 los desvergonzados de este mundo, no he…
 Miré a Bill y titubeé. En sus ojos se pintaba la más

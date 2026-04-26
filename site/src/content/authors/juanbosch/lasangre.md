@@ -8,7 +8,6 @@ tags:
   - lasangre
   - juanbosch
 ---
-*# La sangre*
 *Juan Bosch (1909 - 2001)*
 *Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) ¡Al fin! ¡El viejo Nelico iba a hablar! Era muy duro el silencio del viejo Nelico; sin embargo nadie podría decir si había menos dureza en sus palabras. A Tato le parecía que alguien le tenía sujeto; un solo gesto bastaría para desbarrancarle. El viejo Nelico apoyó ambas manos en las rodillas, se impulsó y se puso en pie.*
 

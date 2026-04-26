@@ -12,7 +12,6 @@ tags:
 *Pita Rodríguez*
 *(Bejucal, Cuba, 1909- Habana, 1990)*
 *Tobías (1952)*
-*# Tobías*
 *(La Habana: Editorial Lex, 1955, 140 pp.)*
 *Uno*
 *puede clavarse las cosas en la cabeza o en el corazón. De las dos*

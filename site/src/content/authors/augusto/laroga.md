@@ -8,7 +8,6 @@ tags:
   - laroga
   - augusto
 ---
-*# La rogativa*
 *Augusto Roa Bastos (1917 - 2005)*
 
 El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) 1 Salió despacio de entre los bananeros como una bestezuela satisfecha. Una pequeña larva humana avanzando entre los amarillentos colgajos de las hojas. Alrededor de la boca había tierra, restos del furtivo banquete en el bananal. Aún se chupaba los dedos en persecución de las últimas migajas. La tierra estaba dura y reseca. No pudo escarbar muy hondo hasta el mantillo grasiento donde antes de la sequía abundaban las liendres de la tierra: frescos y gordos gusanillos blancos parecidos a tarjas de pella entre terrones y con un sabor rancio y azucarado.

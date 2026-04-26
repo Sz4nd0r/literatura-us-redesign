@@ -8,7 +8,6 @@ tags:
   - isla
   - cortazar
 ---
-*# La isla al mediodía*
 *Julio Cortázar*
 
 La primera vez que vio la isla, Marini estaba cortésmente inclinado sobre los asientos de la izquierda, ajustando la mesa de plástico antes de instalar la bandeja del almuerzo. La pasajera lo había mirado varias veces mientras él iba y venía con revistas o vasos de whisky; Marini se demoraba ajustando la mesa, preguntándose aburridamente si valdría la pena responder a la mirada insistente de la pasajera, una americana de las muchas, cuando en el óvalo azul de la ventanilla entró el litoral de la isla, la franja dorada de la playa, las colinas que subían hacia la meseta desolada.

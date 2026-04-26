@@ -8,7 +8,6 @@ tags:
   - boby
   - cortazar
 ---
-*# En nombre de Boby*
 *Julio Cortázar*
 
 Boby estuvo contento con el tren a cuerda, la pelota de fútbol y la torta con velitas. Mi hermana había tenido miedo de que justamente en esos días viniera con malas notas de la escuela pero fue al revés, mejoró en aritmética y en lectura y no había motivo para suprimirle los juguetes, al contrario. Le dijimos que invitara a sus amigos y trajo al Beto y a Juanita; también vino Mario Panzani pero se quedó poco porque el padre estaba enfermo. Mi hermana los dejó jugar en el patio hasta la noche y Boby estrenó la pelota, aunque las dos teníamos miedo de que nos rompieran las plantas con el entusiasmo.

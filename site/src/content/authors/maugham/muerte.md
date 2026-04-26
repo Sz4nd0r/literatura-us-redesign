@@ -11,7 +11,6 @@ tags:
 *W. Somerset Maugham*
 *(París, Francia, 1874 - Niza, Francia, 1965)*
 *Condenado a muerte (1923)*
-*# # (“P & O”)*
 *Originalmente publicado, como “Bewitched”, en Hearst’s International Magazine,*
 *Vol. XLIII, Núm. 2 (febrero de 1923), págs. 28-33, 112-114;*
 *The Casuarina Tree*

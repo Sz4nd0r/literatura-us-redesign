@@ -8,7 +8,6 @@ tags:
   - bella
   - ferre
 ---
-*# La Bella Durmiente*
 *Rosario Ferré (2001 - 1972)*
 *Aunque no lo conozco personalmente lo único decente que puedo hacer al ver lo que le estó sucediendo es prevenirlo. A la verdad parece que su señora no aprecia lo que usted vale, un hombre bueno y guapo, y para colmo, inmensamente rico. Es para hacer feliz a la más exigente. Desde hace algunas semanas la veo pasar todos los días a la misma hora por enfrente de la vitrina del beauty parlor donde trabajo, entrar a uno de los ascensores de servicio y subir al hotel.*
 

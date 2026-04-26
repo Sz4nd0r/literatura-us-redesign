@@ -8,7 +8,6 @@ tags:
   - pancho
   - oscar
 ---
-*# Don Pacho que en paz descanse, siempre fué un tipo de bien*
 *Óscar Collazos (1942 - 2015)*
 
 El verano también moja las espaldas (Medellín: Editorial Papel Sobrante, 1966, 120 págs.) Hay una fatalidad, un sentimiento tan irresistible e inevitable que casi posee el poder de una sentencia y que, casi invariablemente, obliga a los seres humanos a frecuentar como fantasmas, sin poder separarse de ellos, aquellos lugares donde algún acontecimiento señalado y grande dio color a su vida; sentimiento tanto más irresistible cuanto más sobrio es el tinte que lo entristece. La letra escarlata, Nathaniel Hawthorne Tendido así, inmóvil —piensa Alberto—, el cuerpo cubierto por algo que semeja un hábito religioso, vestido de negro, su cuerpo parece distinto, es casi irreconocible.

@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# El Árbol De La Ciencia*
 *(“The Tree of Knowledge”, 1900)*
 *The Soft Side (1900)*
 *I*

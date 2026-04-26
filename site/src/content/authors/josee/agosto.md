@@ -8,7 +8,6 @@ tags:
   - agosto
   - josee
 ---
-*# Tarde de agosto*
 *José Emilio Pacheco (n. 2004)*
 *Tarde de agosto El viento distante (México, D.F.: Ediciones Era, 1963, 59 págs.) A la memoria de Manuel Michel Nunca vas a olvidar esa tarde de agosto. Tenías catorce años, ibas a terminar la secundaria. No recordabas a tu padre, muerto al poco tiempo de que nacieras. Tu madre trabajaba en una agencia de viajes. Todos los días, de lunes a viernes, te despertaba a las seis y media. Quedaba atrás un sueño de combates a la orilla del mar, ataques a los bastiones de la selva, desembarcos en tierras enemigas. Y entrabas en el día en que era necesario viva, crecer, abandonar la infancia.*
 

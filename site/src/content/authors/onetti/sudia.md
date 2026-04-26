@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# El Perro Tendrá Su Día*
 *(1976)*
 *Para mi Maestro, Enrico Cicogna*
 

@@ -8,7 +8,6 @@ tags:
   - dejanos
   - benedetti
 ---
-*# Déjanos caer*
 *Mario Benedetti (1920 - 2009)*
 
 Arcosa le dio mi teléfono? ¿Está bien el hombre? Hace años que no lo veo. Aquí en la tarjeta dice que usted quiere tema para un cuento y que a él le parece que yo puedo ayudarlo. Bueno, no hace falta decirlo: siempre que pueda, encantado. Los amigos de Arcosa, son mis amigos. ¿Ana Silvestre dijo? Seguro que la conozco. Lo menos desde 1944. Ahora está de novia. Qué cosita. Cómo no que hay tema para un cuento. Pero, eso sí, cámbiele el nombre. Además, usted no es de aquí. Lo publicará en su país, claro.

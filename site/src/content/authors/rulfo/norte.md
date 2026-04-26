@@ -11,7 +11,6 @@ tags:
 *Juan*
 *Rulfo*
 *(México, 1918-1986)*
-*# Paso Del Norte*
 *(El Llano en llamas,*
 *1953)*
 *—Me voy lejos, padre; por eso*

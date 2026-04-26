@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# La Tortuga Gigante*
 *(Cuentos de la selva,*
 *1918)*
 *Había una vez un hombre que vivía*

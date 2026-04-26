@@ -8,7 +8,6 @@ tags:
   - azoteas
   - julio
 ---
-*# Por las azoteas*
 *Julio Ramón Ribeyro (1987 - 1994)*
 *Por las azoteas Las botellas y los hombres (originalmente publicado, por error, como Los hombres y las botellas) (Lima: Populibros Peruanos, 1964, 135 págs.) A los diez años yo era el monarca de las azoteas y gobernaba pacíficamente mi reino de objetos destruidos. Las azoteas eran los recintos aéreos donde las personas mayores enviaban las cosas que no servían para nada: se encontraban allí sillas cojas, colchones despanzurrados, maceteros rajados, cocinas de carbón, muchos otros objetos que llevaban una vida purgativa, a medio camino entre el uso póstumo y el olvido.*
 

@@ -8,7 +8,6 @@ tags:
   - color
   - julio
 ---
-*# De color modesto*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 De color modesto Las botellas y los hombres (originalmente publicado, por error, como Los hombres y las botellas) (Lima: Populibros Peruanos, 1964, 135 págs.) Lo primero que hizo Alfredo al entrar a la fiesta fue ir directamente al bar. Allí se sirvió dos vasos de ron y luego, apoyándose en el marco de una puerta, se puso a observar el baile. Casi todo el mundo estaba emparejado, a excepción de tres o cuatro tipos que, como él, rondaban por el bar o fumaban en la terraza un cigarrillo. Al poco tiempo comenzó a aburrirse y se preguntó para qué había venido allí. Él detestaba las fiestas, en parte porque bailaba muy mal y en parte porque no sabía qué hablar con las muchachas.

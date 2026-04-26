@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# El Hombre Que Se Gastó*
 *(“The Man That Was Used Up”, 1839)*
 *Originalmente publicado en Burton’s Gentleman’s Magazine (agosto 1839);*
 *reimpreso en Tales of the Grotesque and Arabesque, 2 vols.*

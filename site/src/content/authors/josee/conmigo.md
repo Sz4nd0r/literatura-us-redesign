@@ -8,7 +8,6 @@ tags:
   - conmigo
   - josee
 ---
-*# Para que eternamente estés conmigo*
 *José Emilio Pacheco (n. 2004)*
 *Para que eternamente estés conmigo La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) Acabo de tomarme otro Válium. Necesito dormir. Tengo las palmas de las manos húmedas como siempre. Me moriría de vergüenza, Jodie, si al saludarte por primera vez te dejara la huella de mi sudor. Hay dos camas en este cuarto del Park Lane Hotel. Estoy en una de ellas, entre las sábanas revueltas. En la otra podrías estar tú, deberías estar tú, Jodie Foster, pero no hay nadie.*
 

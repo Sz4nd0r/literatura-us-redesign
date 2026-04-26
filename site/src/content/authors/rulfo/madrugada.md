@@ -11,7 +11,6 @@ tags:
 *Juan*
 *Rulfo*
 *(México, 1918-1986)*
-*# En La Madrugada*
 *(El llano en llamas,*
 *1953)*
 *San Gabriel sale de la niebla*

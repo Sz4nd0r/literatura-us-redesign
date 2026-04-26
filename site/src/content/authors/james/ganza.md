@@ -36,7 +36,6 @@ protagonista en el manantial? Hay una igual aquí, en este manantial... que como
 ya sabes tiene sabor a azufre. Juzga la índole de la joven. Me ha embrujado y no
 consigo librarme de su hechizo. Pero me propongo intentarlo otra vez. No pienses
 que estoy chiflado, sino espera a verme la semana próxima. Siempre tuyo:
-# # # # R. G.
 El día posterior a la recepción de esta carta, Osborne conoció, en casa de una amiga
 retenida en la ciudad por la enfermedad de uno de sus hijos, a una mujer que acababa de
 llegar de la comarca donde Graham había asentado sus reales. Dicha mujer, de nombre

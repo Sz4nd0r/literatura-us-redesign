@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# Las Dos Caras*
 *(“The Two Faces”, 1900)*
 *Originalmente publicado, con el título de “The Faces”, en Harper’s Bazaar (15 de diciembre de 1900)*
 *y en Cornhill Magazine (junio de 1901)*

@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Veía Hasta Las Cosas Más Minúsculas*
 *(“I Could See the Smallest Things”)*
 *Originalmente publicado en Missouri Review (1980);*
 *What We Talk About When We Talk About Love (1981);*

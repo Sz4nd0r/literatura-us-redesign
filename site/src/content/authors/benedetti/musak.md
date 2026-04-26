@@ -8,7 +8,6 @@ tags:
   - musak
   - benedetti
 ---
-*# Musak*
 *Mario Benedetti (1920 - 2009)*
 *La muerte y otras sorpresas, 1968) «A la porra. Y gangrena». Así dijo, textualmente. Un disparate. Lo de «a la porra», vaya y pase. Aunque hay modos más claros de decirlo, no te parece? Pero «y gangrena»? Estaba sentado, como siempre, en ese escritorio. Había estado escribiendo a máquina, seguramente algún comentario sobre básquetbol. Al final del campeonato siempre se hace un balance de la temporada. No sé para qué. Total, siempre se opina lo mismo: no son los jugadores los culpables, sino el técnico.*
 *Dijo: «A la porra», y yo le pregunté: «Qué dijiste, Oribe?». No porque no hubiera entendido, sino porque lo que había entendido me parecía un poco extraño. Entonces me miró, o más bien fijó la mirada, por sobre mi cabeza, en este almanaque, y pronunció el resto: «Y gangrena». A partir de ese momento, ya nadie lo pudo detener. «A la porra. Y gangrena. A la porra. Y gangrena». Llamé a Peretti y él me ayudó. Entre los dos lo llevamos a la enfermería. No opuso resistencia.*

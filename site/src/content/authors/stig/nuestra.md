@@ -10,7 +10,6 @@ tags:
 ---
 *Stig Dagerman*
 *(Älvkarleby, Suecia, 1923 - Enebyberg, Suecia, 1954)*
-*# Nuestra Necesidad De Consuelo Es Insaciable…*
 *(“Vårt behov av tröst är omättligt”)*
 *Nattens lekar. Samlade noveller och prosafragment*
 *(Stockholm: Norstedts förlag, 2014, 574 págs.)*

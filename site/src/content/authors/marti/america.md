@@ -11,7 +11,6 @@ tags:
 *José*
 *Martí*
 *(1853—1895)*
-*# Nuestra América*
 *(1891)*
 *Cree el aldeano vanidoso que el*
 *mundo entero es su aldea, y con tal que él quede de alcalde, o le*

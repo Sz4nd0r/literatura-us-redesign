@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# El Ermitaño*
 *(“L’eremita”, 1941)*
 *Originalmente publicado en Feria d’agosto*
 *(1946)*

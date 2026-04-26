@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Berenice Se Corta El Pelo*
 *(“Bernice Bobs Her Hair”)*
 *(originalmente publicado en The Saturday Evening Post, 192 (1 de mayo de 1920);*
 *Flappers and Philosophers*

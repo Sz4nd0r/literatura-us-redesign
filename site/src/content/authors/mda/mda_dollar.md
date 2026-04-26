@@ -575,7 +575,6 @@ Mendonça obedeció; ni el uno ni el otro durmieron esa noche. Ambos se curvaban
 bajo el peso de la vergüenza; pero, para honra de Mendonça, el suyo era
 mayor que el de ella, ya que el dolor de la muchacha estaba lejos de alcanzar
 la intensidad del remordimiento del médico.
-# Viii
 Al día siguiente estaba Mendonça fumando un puro tras otro, de esos que reservaba para las ocasiones especiales, cuando un carruaje se detuvo ante la puerta de su casa. Minutos después se apeaba de él la madre de Jorge. La visita, al médico, le pareció de mal agüero. Pero apenas la anciana hubo entrado, su recelo se disipó.
 —Creo —dijo doña Antonia— que mi edad me permite visitar a un hombre soltero.
 Mendonça trató de responder a la broma con una sonrisa pero no pudo. Invitó

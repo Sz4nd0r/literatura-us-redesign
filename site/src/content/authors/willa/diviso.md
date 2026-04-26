@@ -8,7 +8,6 @@ tags:
   - diviso
   - willa
 ---
-# En la divisoria
 
 **Willa Cather**
 

@@ -8,7 +8,6 @@ tags:
   - mendoza
   - juanbosch
 ---
-*# La Nochebuena de Encarnación Mendoza*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la Revista Bohemia Año 41, Núm. 51 (18 de diciembre de 1949), págs. 67, 69-70 y 182; La muchacha de La Guaira (Santiago, Chile: Editorial Nascimento, 1955, 197 págs.); Cuentos escritos en el exilio y apuntes sobre el arte de escribir cuentos (Santo Domingo: Librería Dominicana, Colección Pensamiento Dominicano, 23, 1962, 255 págs.) Con su sensible ojo de prófugo Encarnación Mendoza había distinguido el perfil de un árbol a veinte pasos, razón por la cual pensó que la noche iba a decaer.*
 *Anduvo acertado en su cálculo; donde empezó a equivocarse fué al sacar conclusiones de esa observación. Pues como el día se acercaba era de rigor buscar escondite, y él se preguntaba si debía internarse en los cerros que tenía a su derecha o en el cañaveral que le quedaba a la izquierda. Para su desgracia, escogió el cañaveral. Hora y media más tarde el sol del día 24 alumbraba los campos y calentaba ligeramente a Encarnación Mendoza, que yacía bocarriba tendido sobre hojas de caña. A las siete de la mañana los hechos parecían estar sucediéndose tal como había pensado el fugitivo; nadie había pasado por las trochas cercanas.*

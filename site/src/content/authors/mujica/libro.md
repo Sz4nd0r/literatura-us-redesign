@@ -8,7 +8,6 @@ tags:
   - libro
   - mujica
 ---
-*# VI. El libro (1605)*
 *Manuel Mujica Lainez*
 *Un par de pantuflos de terciopelo negro! El pulpero los alza, como dos grandes escarabajos, para que el sol destaque su lujo. Bajo el alero, los cuatro jugadores miran hacia él. Queda el escribano con el naipe en alto y exclama: —Si gano, los compraré. Y la hija del pulpero, con su voz melindrosa: —Son dignos del pie del señor escribano. Éste le guiña un ojo y el juego continúa, porque el flamenco que hace las veces de banquero les llama al orden. —¡Doce varas de tela de Holanda! ¡Dos sobrecamas guarnecidas, con sus flocaduras! A la sombra del parral, Lope asienta lo que le dictan, dibujando la bella letra redonda.*
 *Están en el patio de tierra apisonada. A un lado, en torno de una mesa que resguarda el alerillo, cuatro hombres —el molinero flamenco, el escribano, un dominico y un soldado— prueban la suerte al lansquenete, el juego inventado en Alemania en tiempos de Carlos V o antes aun, cuando reinaba su abuelo Maximiliano de Habsburgo, el juego que las tropas llevaron de un extremo al otro de los dominios imperiales. Más acá, cerca de la parra, la hija del pulpero se ha ubicado en una silla de respaldo, entre dos tinajones. Es una muchacha que sería bonita si suprimiera la capa de bermellón y de albayalde con los cuales pretende realzar su encanto.*

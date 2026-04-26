@@ -1155,7 +1155,6 @@ hecha para sufrir?... Sonríe.
 Beryl sonrió, y su sonrisa era en
 verdad tan adorable, que sonrió de nuevo; pero esta vez, porque ya no
 podía resistirse a hacerlo.
-# Viii
 —Buenos
 días, Mrs. Jones.
 —¡Oh! Buenos días, Mrs. Smith,

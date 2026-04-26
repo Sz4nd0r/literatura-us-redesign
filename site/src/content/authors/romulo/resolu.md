@@ -8,7 +8,6 @@ tags:
   - resolu
   - romulo
 ---
-*# Una resolución enérgica*
 *Rómulo Gallegos (n. 1969)*
 *Originalmente publicado en Actualidades (16 de febrero de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I Martín Garcés se separó de sus compañeros cerca de la medianoche. Como de costumbre se había quedado hasta tales horas en la cervecería, bebiendo bocks y refiriendo, entre bocanadas de “egipcios” sus aventuras amorosas, que eran muchas y diversas, pues él se jactaba de tener un gran partido entre las mujeres y vivía para eso solamente.*
 

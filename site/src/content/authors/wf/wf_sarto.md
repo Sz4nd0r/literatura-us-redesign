@@ -13,7 +13,6 @@ tags:
 *Sartoris (1929)*
 *(Sartoris)*
 *(Nueva York: Harcourt Brace & Company, 1929)*
-*# A Sherwood Anderson*
 *gracias a cuya amabilidad llegó a publicarse mi primera obra, con la*
 *confianza de que este libro no le dará motivos para lamentarlo.*
 *UNO*

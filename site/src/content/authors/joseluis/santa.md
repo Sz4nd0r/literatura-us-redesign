@@ -8,7 +8,6 @@ tags:
   - santa
   - joseluis
 ---
-*# Santa Claus visita a Pichirilo Sánchez*
 *José Luis*
 *González (1926 - 1997)*
 *Claus visita a Pichirilo Sánchez En este lado (México: Los Presentes, 1954, 180 págs.); En este lado. Edición corregida (La Habana: Nuevo Mundo, 1961, 123 págs.) A Carmelina Vizcarrondo Nunca antes, en sus ocho años de existencia, Pichirilo Sánchez se había enfrentado a un problema de semejante magnitud. La experiencia era completamente nueva, y lo anonadaba. ¡Ah, pero aquello tenía que resolverlo! De cualquier manera. Lo que estaba en juego no era poca cosa. Él le había echado el ojo, hacía tiempo, a aquella bicicleta en la vidriera de la … ¿cómo decía la gente?... la deparmen tóar o algo así. Y ahora que se le presentaba la oportunidad… Ahora, claro, porque al principio, la primera vez que vio la bicicleta, ni siquiera se le ocurrió pensar que algún día pudiera llegar a ser suya. Él ya conocía los números, y el precio de la bicicleta estaba allí, bien claro, en una etiqueta que colgaba del manubrio reluciente. No, ni soñar.*

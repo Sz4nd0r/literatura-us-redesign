@@ -81,10 +81,6 @@ El coche se detuvo ante las oficinas del periódico.
 —Yo le puedo llevar —dijo el conductor.
 —Encargaos de ver vosotros al director —dijo el más alto—. Supongo que a Jones ya lo sabré encontrar yo solo —bajaron del coche—. Volveré yo aquí —dijo. Echó a caminar por la calle con paso ágil, con el mono de aviador sucio y el casco. Otros dos hombres se sumaron al grupo ante la oficina del periódico. Entraron todos ellos, el de la cojera el primero, seguidos por los tres chicos.
 —Querría imprimir unos programas de mano —dijo el de la cojera—. Como éste —sacó del bolsillo una hoja doblada, rosa, y la desplegó; el director del periódico, los chicos y los cinco hombres se apiñaron para verla. Las letras eran negras y gruesas:
-# Demon Duncan
-# ## El Temerario De Las Alturas
-# ## ## Espectáculo En Que Desafía A La Muerte
-# ## ## ## Con El Patrocinio De…
 ## ## ## ## ESTA TARDE A LAS DOS EN PUNTO
 ## ## ## ## VENGAN TODOS USTEDES A VER A DEMON DUNCAN
 DESAFIAR LA CAÍDA DE LA MUERTE Y EL TIRÓN DE LA MUERTEfont>

@@ -163,7 +163,6 @@ Cuando el abogado Gooch pudo reponerse, vio que su cliente había desaparecido. 
 Aquél era un acto habitual en él y servíale para aclarar sus pensamientos. Pero en el presente instante quizá tuviera también por objeto mitigar el dolor de la contusión recibida en el punto donde le había golpeado con fuerza un muy duro maletín de piel de cocodrilo.
 El maletín se había abierto al dar en el suelo, y su contenido se había desparramado. Maquinalmente el abogado Gooch se inclinó. Trataba de recoger los artículos dispersos.
 El primero de todos era un cuello. Y la omnisciente vista del abogado percibió en el acto tres letras marcadas en él:
-# # # # H. K. J.
 Había también un peine, un cepillo, un mapa plegado y una pastilla de jabón. Y finalmente varias cartas de negocios, de anteriores fechas.
 La dirección de todas era la misma:
 ## ## ## ## SR. DON HENRY K. JESSUP.

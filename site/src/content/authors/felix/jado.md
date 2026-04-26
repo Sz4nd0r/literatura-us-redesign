@@ -11,7 +11,6 @@ tags:
 *Félix*
 *Pita Rodríguez*
 *(Bejucal, Cuba, 1909- Habana, 1990)*
-*# El Despojado*
 *Poemas y cuentos*
 *(La Habana: UNEAC, Bolsilibros Unión, 1976)*
 *Todo empezó por aquel cacharro de cerámica que vi en el*

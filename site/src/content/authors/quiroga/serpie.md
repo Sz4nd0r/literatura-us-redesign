@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# La Serpiente De Cascabel*
 *(Originalmente publicado en la revista*
 *Caras y Caretas, año IX, n.º 411, agosto 18, 1906)*
 

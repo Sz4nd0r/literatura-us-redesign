@@ -8,7 +8,6 @@ tags:
   - nofue
   - arturo
 ---
-*# América no fue descubierta*
 *Arturo Uslar Pietri (1906 - 2001)*
 
 Plata a los caminos extraviados (Santafé de Bogotá: Editorial Norma, 1994, pp. 29-37); también en Nuevo mundo, mundo nuevo (xxxiii, 1999) Desde un punto de vista rigurosamente histórico, no ocurrió nada el 12 de octubre de 1492 que pudiera llamarse, con alguna propiedad, el Descubrimiento de América y que, por ello mismo, ha constituido por siglos una fuente constante de errores de apreciación y de falsa interpretación de la historia.

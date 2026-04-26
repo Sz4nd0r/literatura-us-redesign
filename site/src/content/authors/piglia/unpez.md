@@ -12,7 +12,6 @@ tags:
 *Piglia*
 *(Adrogué, Buenos Aires,*
 *1941 - Buenos Aires, 2017)*
-*# Un Pez En El Hielo*
 *Originalmente publicado en La invasión (Barcelona, Anagrama, 2006)*
 *Antología personal (2014)*
 *1*

@@ -10,7 +10,6 @@ tags:
 ---
 *Richard Ford*
 *(Jackson, Mississippi, 1944-)*
-*# Optimistas*
 *(“Optimists”)*
 *Originalmente publicado en The New Yorker*
 *(30 de marzo de 1987)*

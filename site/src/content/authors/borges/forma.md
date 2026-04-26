@@ -8,7 +8,6 @@ tags:
   - forma
   - borges
 ---
-*# La forma de la espada*
 *Jorge Luis Borges*
 
 Le cruzaba la cara una cicatriz rencorosa: un arco ceniciento y casi perfecto que de un lado ajaba la sien y del otro el pómulo. Su nombre verdadero no importa; todos en Tacuarembó le decían el Inglés de La Colorada. El dueño de esos campos, Cardoso, no quería vender; he oído que el Inglés recurrió a un imprevisible argumento: le confió la historia secreta de la cicatriz. El Inglés venía de la frontera, de Río Grande del Sur; no faltó quien dijera que en el Brasil había sido contrabandista.

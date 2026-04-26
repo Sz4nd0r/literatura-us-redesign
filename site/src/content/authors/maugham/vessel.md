@@ -256,7 +256,6 @@ Aquel mismo día se encontró con él y le preguntó si sabía algo de miss Jone
 Apreciado míster Wilson:
 Mi hermano y yo nos alegraríamos mucho si viniese a cenar con nosotros el próximo jueves, a las siete y media. El gobernador nos ha prometido venir también. Tenemos unos cuantos discos nuevos que nos han venido de Australia, y estoy segura de que le gustarán. Me parece que la última vez que nos vimos no fui muy amable con usted, pero entonces no le conocía, y tengo edad suficiente para reconocer cuándo he cometido un error. Espero que me perdone y que seamos amigos.
 Su afectísima
-# Martha Jones
 El gobernador se dio cuenta de que le llamaba míster Wilson y que hacía referencia a su promesa de ir, comprendiendo que cuando ella le dijo que ya había invitado a Ginger Ted se había anticipado un poco a la verdad.
 —¿Qué vas a hacer?
 —Yo no voy, si es eso lo que me pregunta… ¡Vaya desfachatez!

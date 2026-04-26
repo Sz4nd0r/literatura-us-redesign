@@ -8,7 +8,6 @@ tags:
   - cara
   - arturo
 ---
-*# Otra cara, otro nombre*
 *Arturo Uslar Pietri (1906 - 2001)*
 
 Fue al final cuando decidió ponerse el bigote. Se vio en el espejo y era evidente que le faltaba. Era un pequeño bigote corto, negro y algo ralo, que había comprado hacía tiempo. Tal vez fue en el Carnaval. Le costó trabajo fijarlo con el colodión. Estaba muy cerca de la nariz y el olor penetrante le cortaba el aliento. Y hasta le producía un pequeño mareo. 

@@ -8,7 +8,6 @@ tags:
   - lanzas
   - arturo
 ---
-*# Las lanzas coloradas*
 *Arturo Uslar Pietri (1906 - 2001)*
 
 Las lanzas coloradas (1931) (Madrid: Zeus, 1931, 260 págs.) I Lentamente el pequeño grupo se puso en marcha por la cuesta abierta y terrosa en cuyo fondo asomaba entre la arboleda, junto a la fachada del templo, una mancha de paredes rojas. En medio, la litera de la señora oculta bajo el arqueado capacete. Los criados de servicio, el escudero Galarza en su caballo y él sobre su mula, con el mejor jubón de raso y toca con pluma blanca.

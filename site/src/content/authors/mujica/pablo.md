@@ -8,7 +8,6 @@ tags:
   - pablo
   - mujica
 ---
-*# XVII. La mujer de Pablo (1897)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) El “break de chasse” negro y amarillo de Don Diego rueda alegremente por el camino real, al trote perfecto de sus cuatro anglonormandos. Es uno de los lujos del solterón, quien lo guía desde el alto pescante. Al lado, sus primos Guevara conversan animadamente.

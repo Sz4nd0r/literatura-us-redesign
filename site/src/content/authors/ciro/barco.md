@@ -8,7 +8,6 @@ tags:
   - barco
   - ciro
 ---
-*# El barco fantasma*
 *Ciro Alegría*
 
 Por los lentos ríos amazónicos navega un barco fantasma, en misteriosos tratos con la sombra, pues siempre se lo ha encontrado de noche. Está extrañamente iluminado por luces rojas, tal si en su interior hubiese un incendio. Está extrañamente equipado de mesas que son en realidad enormes tortugas, de hamacas que son grandes anacondas, de bateles que son caimanes gigantescos.

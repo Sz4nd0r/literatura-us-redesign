@@ -8,7 +8,6 @@ tags:
   - yo
   - augusto
 ---
-*# Yo el Supremo*
 *Augusto Roa Bastos (1917 - 2005)*
 
 Clavado en la puerta de la catedral, Excelencia. Una partida de granaderos lo descubrió esta madrugada y lo retiró llevándolo a la comandancia. Felizmente nadie alcanzó a leerlo. No te he preguntado eso ni es cosa que importe. Tiene razón Usía, la tinta de los pasquines se vuelve agria más pronto que la leche. Tampoco es hoja de Gaceta porteña ni arrancada de libros, señor. ¡Qué libros va a haber aquí fuera de los míos! Hace mucho tiempo que los aristócratas de las veinte familias han convertido los suyos en naipes.

@@ -8,7 +8,6 @@ tags:
   - cautiva
   - josee
 ---
-*# La cautiva*
 *José Emilio Pacheco (n. 2004)*
 *El viento distante (México, D.F.: Ediciones Era, 1963, 59 págs.) A John Brushwood A las seis de la mañana un sacudimiento pareció arrancar de cuajo al pueblo entero. Salimos a la calle con miedo de que los techos se desplomaran sobre nosotros. Luego temimos que el suelo se abriera para devorarnos. Calmado el temblor, nuestras madres seguían rezando. Algunos juraban que el sismo iba a repetirse con mayor fuerza. Bajo tanta zozobra, creímos, no iban a enviarnos a la escuela.*
 

@@ -10,7 +10,6 @@ tags:
 ---
 *E. L. Doctorow*
 *(Bronx, NY, 1931- Manhattan, NY, 2015)*
-*# Una Casa En La Llanura*
 *(“A House on the Plains”)*
 *Originalmente publicado en The New Yorker (18 de junio de 2001, pág. 138);*
 *Sweet Land Stories (New York: Random House, 2004, 147pp.)*

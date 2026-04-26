@@ -8,9 +8,7 @@ tags:
   - perseguidor
   - cortazar
 ---
-*# El perseguidor*
 *Julio Cortázar*
-*# El perseguidor*
 *Julio Cortázar*
 
 Las armas secretas, 1959) In memorian Ch. P. Sé fiel hasta la muerte Apocalipsis, 2,10 O make me a mask DYLAN THOMAS Dédée me ha llamado por la tarde diciéndome que Johnny no estaba bien, y he ido enseguida al hotel. Desde hace unos días Johnny y Dédée viven en un hotel de la rue Lagrange, en una pieza del cuarto piso. Me ha bastado ver la puerta de la pieza para darme cuenta de que Johnny está en la peor de las miserias; la ventana da a un patio casi negro, y a la una de la tarde hay que tener la luz encendida si se quiere leer el diario o verse la cara. No hace frío, pero he encontrado a Johnny envuelto en una frazada, encajado en un roñoso sillón que larga por todos lados pedazos de estopa amarillenta. Dédée está envejecida, y el vestido rojo le queda muy mal; es un vestido para el trabajo, para las luces de la escena; en esa pieza del hotel se convierte en una especie de coágulo repugnante. —El compañero Bruno es fiel como el mal aliento —ha dicho Johnny a manera de saludo, remontando las rodillas hasta apoyar en ellas el mentón. Dédée me ha alcanzado una silla y yo he sacado un paquete de Gauloises.

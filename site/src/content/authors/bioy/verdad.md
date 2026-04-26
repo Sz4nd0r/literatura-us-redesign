@@ -8,7 +8,6 @@ tags:
   - verdad
   - bioy
 ---
-*# Las caras de la verdad*
 *Adolfo Bioy Casares (1914 - 1999)*
 *Las caras de la verdad Originalmente publicado, con variantes, como “La cara de la verdad”, en la revista Sur (Nº 298-299, enero-abril 1966, págs. 49-55) El gran serafín (Buenos Aires: Emecé, «Selección Emecé de obras contemporáneas», 190 págs.) No por nada al escribano Bernardo Perrota le pusieron, de mote, Pasuco. A palos de ciego elija usted a cualquiera en el pueblo, pregúntele por el escribano y le apuesto que oirá la frasecita: «No hay quien lo saque de su trotón.» A mí lo de trotón (que entre nosotros equivale, más o menos, a trote), nunca me convenció, porque en movimiento don Bernardo es inimaginable.*
 

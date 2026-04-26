@@ -8,7 +8,6 @@ tags:
   - viernes
   - jose
 ---
-*# La mañana del viernes*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

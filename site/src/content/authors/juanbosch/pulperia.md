@@ -8,7 +8,6 @@ tags:
   - pulperia
   - juanbosch
 ---
-*# La pulpería*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicadon en la Revista Carteles (19 de julio de 1936), págs. 42 y 73; Dos pesos de agua (La Habana: Ed. Impresor A. Ríos, 1941, 168 págs.); Cuentos escritos antes del exilio. (Santo Domingo: Editora Alfa y Omega, 1974, 284 págs.), págs. 89-98. La pulpería de Chu era en la noche un bulto silencioso. Estaba en un recodo del camino y sorprendía a los caminantes que desconocían el paraje. Apenas la alumbraba una jumiadora.*
 *Los golpes de luz destacaban el mostrador, la negra cabeza de Chu y el grupo de hombres que jugaban dominó. No se hablaba. A ratos sonaba el golpe de una silla o el de una pieza que alguien tiraba en la mesa. Los hombres escupían a un lado y Chu descansaba la frente en una mano. La pulpería era igual cada noche; escasa gente la visitaba de día. Acaso los sábados iba más, a tomar ron y a charlar. Una noche el viejo Mendo fue más temprano que de costumbre; se arrimó al mostrador y se echó el sombrero sobre la nuca. —Vamos a tar cojos p’al juego —dijo estrujándose la cara.*

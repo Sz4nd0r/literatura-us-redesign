@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
-*# La Madre De Un Marica*
 *[Otro título en español: “La madre de un as”]*
 *(“The Mother of a Queen”)*
 *Winner Take Nothing*

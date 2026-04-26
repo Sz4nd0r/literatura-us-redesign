@@ -8,7 +8,6 @@ tags:
   - delmar
   - josee
 ---
-*# Los trabajos del mar*
 *José Emilio Pacheco (n. 2004)*
 *Los trabajos del mar (Monterrey: Ed. de la Universidad Autónoma de Nuevo León, 1982, 32 págs.); (México, D.F.: Ediciones Era, 1983, ampliada, 83 págs.) Para Alaíde Foppa. In memoriam. Aquí terminan los trabajos del mar, los trabajos del amor. Aquellos que vivirán un día aquí donde acabamos, si la oscura sangre se alza e inunda su memoria, que no se olviden de nosotros, almas sin fuerza entre los asfódelos. Que vuelvan hacia el Erebo el rostro de las víctimas.*
 

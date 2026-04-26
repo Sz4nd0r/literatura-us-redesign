@@ -11,7 +11,6 @@ tags:
 *Ernesto*
 *Cardenal*
 *(Nicaragua, 1925— )*
-*# Oración Por Marilyn Monroe*
 *Señor*
 *recibe a esta muchacha conocida en toda la Tierra con el nombre de Marilyn*
 *Monroe,*
@@ -84,7 +83,6 @@ quienquiera que haya sido el que ella iba a llamar
 y no llamó (y tal vez no era nadie
 o era Alguien cuyo número no está en el Directorio de los Ángeles)
 ¡contesta Tú al teléfono!
-# ## Salmo 1
 Bienaventurado el hombre que no
 sigue las consignas del Partido
 ni asiste a sus mítines
@@ -96,7 +94,6 @@ Bienaventurado el hombre que no lee llos anuncios comerciales
 ni escucha sus radios
 ni cree en sus slogans.
 Será como un árbol plantado junto a una fuente.
-# ## ## Salmo 5
 Escucha mis palabras oh Señor
 Oye
 mis gemidos
@@ -137,7 +134,6 @@ lo bendices
 lo rodeas con tu amor
 como
 con tanques blindados.
-# ## ## ## Epigramas:
 Te doy, Claudia, estos versos,
 porque tú eres su dueña.
 Los he escrito sencillos para que tú los entiendas.

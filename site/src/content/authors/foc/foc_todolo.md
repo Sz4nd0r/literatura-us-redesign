@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# Todo Lo Que Asciende Tiene Que Converger*
 *(“Everything That Rises Must Converge”, 1961)*
 
 (originalmente publicado en New World Writing, al cuidado de Theodore Solotaroff, vol. 19, 1961;

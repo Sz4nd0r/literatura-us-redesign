@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Piscina En Día Laborable*
 *(“Piscina feriale”, 1941)*
 *Originalmente publicado en Feria d’agosto*
 *(1946)*

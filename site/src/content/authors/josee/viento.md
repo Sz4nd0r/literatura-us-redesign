@@ -8,7 +8,6 @@ tags:
   - viento
   - josee
 ---
-*# El viento distante*
 *José Emilio Pacheco (n. 2004)*
 *El viento distante El viento distante (México, D.F.: Ediciones Era, 1963, 59 págs.) A Edith Negrín La noche es densa. Sólo hay silencio en la feria ambulante. En un extremo de la barraca el hombre cubierto de sudor fuma, se mira al espejo, ve el humo al fondo del cristal. Se apaga la luz. El aire parece detenido. El hombre va hasta el acuario, enciende un fósforo, lo deja arder y mira la tortuga que yace bajo el agua.*
 

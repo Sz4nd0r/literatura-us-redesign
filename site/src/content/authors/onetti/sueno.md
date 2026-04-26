@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Un Sueño Realizado*
 *Originalmente publicado en el diario La Nación [Buenos Aires]*
 *(6 de julio de 1941, 2ª sección, 3 y 4);*
 *Un sueño realizado, y otros cuentos*

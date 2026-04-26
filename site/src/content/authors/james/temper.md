@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# La Señora Temperly*
 *(“Mrs Temperly”, 1988)*
 *Originalmente publicado, con el título de “Cousin Maria”, en Harper’s Weekly (6,13 y 20 de agosto de 1887)*
 *Una vida en Londres y otros relatos (1889)*

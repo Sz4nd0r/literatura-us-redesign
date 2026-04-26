@@ -44,7 +44,6 @@ Su hijo Fyodor nació el 16 de julio y poco después se mudaron a un apartamento
 Dostoievski terminó la novela Demonios, el 26 de noviembre, y fue publicada en enero de 1873 por la “Dostoyevsky Publishing Company”, que fue fundada por Dostoevsky y su esposa. Aunque solo aceptaron pagos en efectivo y la librería estaba en su propio apartamento, el negocio tuvo éxito y vendieron alrededor de 3,000 copias de la novela.
 El 26 de enero de 1881, Dostoievski sufrió una hemorragia pulmonar. Después de otra hemorragia, Anna llamó a los médicos, que dieron un mal pronóstico. Una tercera hemorragia siguió poco después.
 Dostoievski murió el 9 de febrero de 1881. Tenía 59 años.
-# Índice:
 Cuentos:
 El señor Projarchin (1846)
 La mujer ajena y el marido debajo de la cama (1848)

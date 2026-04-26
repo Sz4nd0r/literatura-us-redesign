@@ -10,7 +10,6 @@ tags:
 ---
 *Alberto Moravia*
 *(Roma, Italia, 1907 - Roma, 1990)*
-*# El Crimen Perfecto*
 *[Otros títulos en español: “Crimen prefecto”, “El delito perfecto”]*
 *(“Il delitto perfetto”)*
 *Racconti romani*

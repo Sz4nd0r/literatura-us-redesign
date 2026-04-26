@@ -8,7 +8,6 @@ tags:
   - cocina
   - ferre
 ---
-*# La cocina de la escritura*
 *Rosario Ferré (2001 - 1972)*
 *Quince ensayos literarios (México: Joaquín Mortiz, 1980, págs. 13-33) Si Aristóteles hubiera guisado, mucho más hubiera escrito. Sor Juana I DE CÓMO DEJARSE CAER DE LA SARTÉN AL FUEGO A lo largo del tiempo, las mujeres narradoras han escrito por múltiples razones: Emily Brontë escribió para demostrar la naturaleza revolucionaria de la pasión; Virginia Woolf para exorcizar su terror a la locura y a la muerte; Joan Didion escribe para descubrir lo que piensa y cómo piensa; Clarisse Lispector descubre en su escritura una razón para amar y ser amada. En mi caso, escribir es una voluntad a la vez constructiva y destructiva; una posibilidad de crecimiento y de cambio.*
 

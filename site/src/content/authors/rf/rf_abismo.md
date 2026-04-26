@@ -10,7 +10,6 @@ tags:
 ---
 *Richard Ford*
 *(Jackson, Mississippi, 1944-)*
-*# Abismo*
 *(“Abyss”)*
 *A Multitude of Sins (2002)*
 

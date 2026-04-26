@@ -10,7 +10,6 @@ tags:
 ---
 *Tobias Wolff*
 *(Birmingham, Alabama, 1945 –)*
-*# La Noche En Cuestión*
 *(1996)*
 *(“The Night in Question”)*
 *Originalmente publicado en la revista The New Yorker (22 de abril de 1996, Vol. 72, Issue 9, pág. 76);*

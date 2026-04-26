@@ -10,7 +10,6 @@ tags:
 ---
 *Richard Ford*
 *(Jackson, Mississippi, 1944-)*
-*# Comunista*
 *(“Communist”)*
 *Originalmente publicado en la revista Antaeus (otoño 1985);*
 

@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# Romance De La Ropa Antigua*
 *(“The Romance of Certain Old Clothes” (1868)*
 *Originalmente publicado en The Atlantic monthly, vol. 21 (February 1868)*
 *A Passionate Pilgrim; and Other Tales (1875)*

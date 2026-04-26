@@ -8,7 +8,6 @@ tags:
   - quieto
   - manuel
 ---
-*# Un espíritu inquieto*
 *Manuel Rojas*
 *Originalmente publicado en la revista Caras y caretas [Buenos Aires] Año XXVII, Núm. 1393 (11 de junio de 1925); Hombres del sur: cuentos (Santiago de Chile: Zig-Zag, 1926, 219 págs.), págs. 45-77. El hombre nacido de mujer, corto de días y harto de sinsabores; que sale como una flor y es cortado, y huye como la sombra y no permanece. Job. Aquella mañana Pablo González estrenaba un magnífico sobretodo azul. A las ocho de la mañana, después de colocárselo encima de su traje claro de días de fiesta, salió. Un día hermoso y azul, como su sobretodo, lo recibió en la calle.*
 

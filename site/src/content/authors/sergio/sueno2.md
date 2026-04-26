@@ -8,7 +8,6 @@ tags:
   - sueno2
   - sergio
 ---
-*# De las propiedades del sueño (II)*
 *Sergio Ramírez (n. 1942)*
 *De tropeles y tropelías (Managua, Nicaragua: Editorial Nueva Nicaragua, 1983); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) SUPREMA LEY por la que se regula el bien general de las personas, se premian sus acciones nobles y se castigan sus malos actos y hábitos, dictada en XIV parágrafos I. DE LA PROPIEDAD PRIVADA, SU CONSERVACIÓN, DEFENSA Y OTROS Art. 1.*
 

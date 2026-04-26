@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# El Crimen Del Profesor De Matemáticas*
 *(“O crime do professor de matemática”)*
 *Originalmente publicado, como ”O Crime”, en el suplemento Letras e Artes (25 de agosto de 1945);*
 *Laços de família (1960)*

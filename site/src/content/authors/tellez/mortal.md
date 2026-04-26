@@ -8,7 +8,6 @@ tags:
   - mortal
   - tellez
 ---
-*# Arcilla mortal*
 *Hernando Téllez (1908 - 1966)*
 *Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) “...ese vértigo de la juventud hacia la muerte”. Ana de Noailles Hemos vivido juntos 17 años. Nuestro hijo mayor cumplirá dentro de pocos días quince años. Para entonces estaremos solos, él, yo y los dos pequeños. Será una situación extraña y difícil de explicarles, aun cuando el mayor ha entendido algo, ha presentido vagamente los primeros síntomas de la ausencia. “¿Y papá no va a volver?”, me preguntó hoy, mientras yo trataba de vencer la obsesión del mismo recuerdo que empezaba a inquietarlo. “Sí, volverá”, le he dicho, poniendo en estas dos palabras un énfasis excesivo que me figuro debió parecerle extraordinario y, por lo mismo, sospechoso.*
 

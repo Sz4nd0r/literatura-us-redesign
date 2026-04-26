@@ -147,7 +147,6 @@ Los pájaros nocturnos picotean las primeras estrellas
 que centellean como mi alma cuando te amo.
 Galopa la noche en su yegua sombría
 desparramando espigas azules sobre el campo.
-# Viii
 Abeja blanca zumbas -ebria de miel-
 en mi alma
 y te tuerces en lentas espirales de humo.
@@ -253,7 +252,6 @@ Acogedora como un viejo camino.
 Te pueblan ecos y voces nostálgicas.
 Yo desperté y a veces emigran y huyen
 pájaros que dormían en tu alma.
-# ## Xiii
 He ido marcando con cruces de fuego
 el atlas blanco de tu cuerpo.
 Mi boca era una araña que cruzaba escondiéndose.
@@ -358,7 +356,6 @@ En la red de mi música estás presa, amor mío,
 y mis redes de música son anchas como el cielo.
 Mi alma nace a la orilla de tus ojos de luto.
 En tus ojos de luto comienza el país del sueño.
-# ## ## Xvii
 Pensando, enredando sombras en la
 profunda soledad.
 Tú también estás lejos, ah más lejos que nadie.
@@ -390,7 +387,6 @@ asalto de todas las olas!
 Rodaba, alegre, triste, interminable, mi alma.
 Pensando, enterrando lámparas en la profunda soledad.
 Quién eres tú, quién eres?
-# ## ## ## Xviii
 Aquí te amo.
 En los oscuros pinos se desenreda el viento.
 Fosforece la luna sobre las aguas errantes.

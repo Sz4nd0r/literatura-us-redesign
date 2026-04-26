@@ -10,7 +10,6 @@ tags:
 ---
 *Onelio Jorge Cardoso*
 *(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)*
-*# Caballo*
 *El hilo y la cuerda*
 *(La Habana: UNEAC, 1974, 90 pp.)*
 

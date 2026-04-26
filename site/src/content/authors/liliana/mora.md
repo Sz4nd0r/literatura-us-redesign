@@ -8,7 +8,6 @@ tags:
   - mora
   - liliana
 ---
-*# La Zarzamora*
 *Liliana Heker*
 
 Al principio no se inquietó; estaba habituado a estas intrusiones. No solía hablar mucho de ellas porque —buen traductor de literatura francesa, además de polemista filoso y de celebrante de algunos placeres refinados de la vida— era lo que se considera un hombre cerebral y había comprobado que el común de la gente suele resistirse a aceptar el menor desatino en personas de pensamiento riguroso. Como si la mezcla les provocara repulsión, o miedo. Él, en cambio, estaba convencido de que aun en individuos geniales debía verificarse cada tanto una escapadita del raciocinio, una frase disparatada que se cruza, algún estúpido poema escolar, un viejo eslogan de publicidad que sin razón aparente se filtra en el fluir de la conciencia y lo lleva a uno a divagar por caminos inusuales. En su caso, este tipo de irrupciones podía estar asociado a algún dato de la realidad inmediata —una palabra escuchada, algo recién sucedido— pero casi siempre venía de la nada.

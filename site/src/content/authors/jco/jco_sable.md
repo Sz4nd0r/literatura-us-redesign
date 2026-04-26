@@ -10,7 +10,6 @@ tags:
 ---
 *Joyce Carol Oates*
 *(Lockport, New York, 1938-)*
-*# Au Sable*
 *(“Au Sable”)*
 *Originalmente publicado en Harper’s (febrero 1999)*
 *Faithless: Tales of Transgression (2001)*

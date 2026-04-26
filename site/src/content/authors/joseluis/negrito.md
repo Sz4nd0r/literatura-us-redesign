@@ -8,7 +8,6 @@ tags:
   - negrito
   - joseluis
 ---
-*# En el fondo del caño hay un negrito*
 *José Luis*
 *González (1926 - 1997)*
 *En el fondo del caño hay un negrito En este lado (México: Los Presentes, 1954, 180 págs.); En este lado. Edición corregida (La Habana: Nuevo Mundo, 1961, 123 págs.) A René Depestre I La primera vez que el negrito Melodía vio al otro negrito en el fondo del caño fue en la mañana del tercero o cuarto día después de la mudanza, cuando llegó gateando hasta la única puerta de la nueva vivienda y se asomó para mirar hacia la quieta superficie del agua allá abajo.*

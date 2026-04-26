@@ -8,7 +8,6 @@ tags:
   - joseno
   - benedetti
 ---
-*# José nomás*
 *Mario Benedetti (1920 - 2009)*
 *Enseguida lo cierra para convencerse de que duerme aún. Tuvo una madrugada embarazosa, con alcohol, boogies, guarangos y sexo. Necesita reponerse. Necesita estar bien, completamente bien para esta noche. Pero su cuerpo de veintitrés años, redondeado, tibio, fatigado, se niega a obedecer. A las diez de la mañana, Isabel Ríos no se ha incorporado al día, vive porfiadamente en la atmósfera de ayer, oye aún las bromas indecentes de Juan Pedro, siente los manoseos del menor de los Fuentes —un niño prodigio, verdaderamente una ricura—, baila con todos, salta con todos, está en el torbellino como la mejor pieza de una máquina enloquecida, que no puede arrepentirse ni sabe detenerse.*
 

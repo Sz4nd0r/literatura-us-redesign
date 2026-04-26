@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Domingo Loco*
 *(“Crazy Sunday”)*
 *Originalmente publicado en The American Mercury, 27 (octubre de 1932);*
 *Taps at Reveille*

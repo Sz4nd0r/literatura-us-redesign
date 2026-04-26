@@ -12,7 +12,6 @@ tags:
 *Díaz Grullón*
 *(República Dominicana,*
 *1924-2001)*
-*# Edipo*
 *Tan pronto la voz del cura se*
 *extinguió y el silencio reinó de nuevo en el interior de la pequeña*
 *iglesia, los hombres se movieron hacia el ataúd y lo levantaron con*

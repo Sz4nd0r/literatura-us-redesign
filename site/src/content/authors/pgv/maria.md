@@ -8,7 +8,6 @@ tags:
   - maria
   - pgv
 ---
-*# María a las cuatro de la tarde*
 *Pedro Gómez Valderrama*
 
 La nave de los locos y otros relatos (Madrid: Alianza, 1984, 160 págs.); Cuentos completos (Madrid: Alfaguara, 1996, 404 págs.) Acaba de pasar por esa calle un ciclista que llevaba en la mano derecha una guitarra, lo cual demuestra que es un hombre pacífico. Iba rodando lentamente; al principio partía en dos la calzada, pero después se inclinó sobre la izquierda, porque apareció un automóvil oscuro, tal vez negro, a cierta velocidad, lo cual en este barrio y a las cuatro de la tarde es sorprendente. Me convencí más todavía de que se trataba de un ser pacífico, porque, además de llevar la guitarra en la mano, lo cual le hacía tener especial cuidado para conservar el equilibrio, al llegar a la esquina evitó felizmente el grupo de muchachos agresivos que después de las seis de la tarde crean extenso terror, rompen vidrios, pinchan neumáticos y persiguen a las criadas que van a hacer la compra vespertina. No le vi hacer ninguna de estas cosas; se limitaba a llevar la guitarra suspendida en alto para que no golpease contra la rueda trasera.

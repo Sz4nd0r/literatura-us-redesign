@@ -8,7 +8,6 @@ tags:
   - chicha
   - julio
 ---
-*# La botella de chicha*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La botella de chicha Cuentos de circunstancias (Lima: Editorial Nuevos Rumbos, 1958, 96 págs.) En una ocasión tuve necesidad de una pequeña suma de dinero y como me era imposible procurármela por las vías ordinarias, decidí hacer una pesquisa por la despensa de mi casa, con la esperanza de encontrar algún objeto vendible o pignorable. Luego de remover una serie de trastos viejos, divisé, acostada en un almohadón, como una criatura en su cuna, una vieja botella de chicha. Se trataba de una chicha que hacía más de quince años recibiéramos de una hacienda del norte y que mis padres guardaban celosamente para utilizarla en un importante suceso familiar. Mi padre me había dicho que la abriría cuando yo «me recibiera de bachiller». Mi madre, por otra parte, había hecho la misma promesa a mi hermana, para el día «que se casara».

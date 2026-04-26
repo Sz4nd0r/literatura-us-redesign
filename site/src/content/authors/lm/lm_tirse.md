@@ -10,7 +10,6 @@ tags:
 ---
 *Lorrie Moore*
 *(Glens Falls, NY, 1957 –)*
-*# Cómo Convertirse En Escritora*
 *(“How to Become a Writer”)*
 *Self-Help*
 *(Nueva York: Alfred A. Knopf, 1985, 163 págs.)*

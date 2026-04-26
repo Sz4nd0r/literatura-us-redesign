@@ -8,7 +8,6 @@ tags:
   - yk_grillo
   - yk
 ---
-# La langosta y el grillo
 
 **Yasunari Kawabata**
 

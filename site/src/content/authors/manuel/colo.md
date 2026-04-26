@@ -8,7 +8,6 @@ tags:
   - colo
   - manuel
 ---
-*# El colo colo*
 *Manuel Rojas*
 *Originalmente publicado en el periódico La Nación [Santiago de Chile] (19 de noviembre de 1926); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 71-90. Negra y fría era la noche en torno y encima del rancho de José María Pincheira, uno de los últimos del fundo Los Perales. Eran ya más de las nueve y hacía rato que el silencio, montado en su macho negro, dominaba los caminos que dormían vigilados por los esbeltos álamos y los copudos boldos.*
 

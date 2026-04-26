@@ -10,9 +10,7 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Boles*
 *(1897)*
-*# ## (“Болесь”)*
 *Originalmente publicado, con el título Письма*
 *(“La carta”),*
 *en la revista Нижегородский листок [La hoja de Nizhegorod]*

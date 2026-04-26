@@ -10,7 +10,6 @@ tags:
 ---
 *Carson McCullers*
 *(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
-*# ¿Quién Ha Visto El Viento?*
 *—Who Has Seen the Wind?*
 *Originalmente publicado en Mademoiselle (September 1956)*
 *Collected Stories of Carson McCullers (1987)*

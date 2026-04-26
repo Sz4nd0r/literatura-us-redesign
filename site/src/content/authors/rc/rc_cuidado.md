@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Cuidado*
 *(“Careful”)*
 *Originalmente publicado en The Paris Review (1983);*
 *Cathedral (1983);*

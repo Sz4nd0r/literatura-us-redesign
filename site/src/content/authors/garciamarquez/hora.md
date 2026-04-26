@@ -8,7 +8,6 @@ tags:
   - hora
   - garciamarquez
 ---
-*# La mala hora*
 *Gabriel*
 *García Márquez (n. 1947)*
 

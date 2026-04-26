@@ -81,7 +81,6 @@ Turbada, permaneció vacilante un rato antes de decidirse a hablar, con extremad
 —Sí. Durante quince días vino cada tarde y cada vez me compró un mosquetón.
 —Dígame, señorita Alicia: ¿no pensó usted que pudiera ser un ladrón de grandes almacenes, como tantos parece que hay?
 —Lo pensé. Y por lo tanto le observé muy bien. Incluso le pedí al inspector que no le perdiera de vista mientras yo le atendiese.
-# # # # —¿Y…?
 —¡No!
 —Dígame… ¿Dónde se encuentra su sección?
 —¡Ah, sí…! En el primer piso… justo encima de la sección de juguetes. La cosa me chocó ayer cuando leí el diario. Por eso pedí hablar con la Dirección.

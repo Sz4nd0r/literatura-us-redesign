@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Justo El Treintaiuno*
 *Originalmente publicado en Marcha (Montevideo), 1964*
 *Cuando toda la ciudad supo que*
 *había llegado por fin la medianoche yo estaba, solo y casi a oscuras,*

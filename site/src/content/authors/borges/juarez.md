@@ -8,9 +8,7 @@ tags:
   - juarez
   - borges
 ---
-*# Historia de Rosendo Juárez*
 *Jorge Luis Borges*
-*# Historia de Rosendo Juárez*
 *Jorge Luis Borges*
 
 El informe de Brodie, 1970) Serían las once de la noche, yo había entrado en el almacén, que ahora es un bar, en Bolívar y Venezuela. Desde un rincón el hombre me chistó. Algo de autoritario habría en él, porque le hice caso en seguida. Estaba sentado ante una de las mesitas; sentí de un modo inexplicable que hacía mucho tiempo que no se había movido de ahí, ante su copita vacía. No era ni bajo ni alto; parecía un artesano decente, quizá un antiguo hombre de campo. El bigote ralo era gris.

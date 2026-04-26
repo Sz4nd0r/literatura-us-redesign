@@ -8,7 +8,6 @@ tags:
   - mix
   - josee
 ---
-*# La niña de Mixcoac*
 *José Emilio Pacheco (n. 2004)*
 *La proyectada revista argenmex Scatamacchia. Narrativa Breve pidió para su primer número falsas narraciones autobiográficas en torno a aquellos tiempos. Contra el abuso actual de las “firmas” y de los “nombres”, todos los textos se enviaron sin decir quién los había escrito. Incluimos aquí una de esas narraciones y la correspondencia electrónica que el texto suscitó entre los editores de Scatamacchia. I. LA NIÑA DE MIXCOAC 1 Los sábados no voy a la escuela.*
 

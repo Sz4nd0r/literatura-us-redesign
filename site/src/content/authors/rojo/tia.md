@@ -12,7 +12,6 @@ tags:
 *Benítez Rojo*
 *(La Habana, 1931-*
 *Massachusetts, 2005)*
-*# Lafcadio Hearn, Mi Tía Gloria Y Lo Sobrenatural*
 *Originalmente publicado en la revista Encuentro de la Cultura Cubana*
 *(Núm. 23, invierno 2001/2002, pp. 5-8)*
 

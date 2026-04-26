@@ -8,7 +8,6 @@ tags:
   - rostro
   - mujica
 ---
-*# VII. La máscara sin rostro (1779)*
 *Manuel Mujica Lainez*
 
 Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) El coche de Doña Leonor Montalvo entró en Buenos Aires con gran estrépito. Adentro, derrumbada en los almohadones, la gruesa señora no volvía en sí. Catalina, la mulata, le hacía aire con un abanico. Sus guantes verdes se agitaban como saltamontes. De tanto en tanto, temerosa de que su ama se muriera, asomaba la cabeza a la ventanilla e insultaba al negro Clavel.

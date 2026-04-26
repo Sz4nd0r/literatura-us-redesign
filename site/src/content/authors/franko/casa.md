@@ -10,7 +10,6 @@ tags:
 ---
 *Frank O’Connor*
 *(County Cork, 1903 - Dublín, 1966)*
-*# El Hombre De La Casa (1949)*
 *(“The Man of the House”)*
 *Originalmente publicado en la revista New Yorker*
 *(25 de noviembre de 1949);*

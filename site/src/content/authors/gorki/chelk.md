@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Chelkash*
 *(1895)*
 *(“Челкаш”)*
 *Originalmente publicado en la revista Русское богатство [Riqueza rusa]*

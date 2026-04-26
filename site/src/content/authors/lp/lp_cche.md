@@ -17,7 +17,6 @@ tags:
 utiliza y elabora materiales de la novela Otra vida (1915);
 la novela Fragmento de una crónica de Marco Leccio (1919);
 y la redacción previa de “Berecche y la guerra” (1915)]
-# Berecche E La Guerra
 [Novelle per un anno, vol. XIV]
 (Milán: Mondadori, 1934)
 I
@@ -278,7 +277,6 @@ Fongi susurra, casi para sus adentros:
 —Muy noble… muy noble…
 Finalmente Berecche se levanta, ahogado, y abraza a su mujer; la estrecha entre sus brazos, inclina el rostro sobre su cabeza, y ambos ahora, abrazados, lloran fuerte, sacudidos por los sollozos. Carlotta abraza a Margherita y ellas también lloran fuerte. El buen Fongi, por su parte, busca el pañuelo en el bolsillo trasero de su largo redingote. Su grande y pacífica nariz se ha conmovido, al fin, y se la suena varias veces, fuerte, repitiendo, con un movimiento de la cabeza, de profunda convicción:
 —Muy noble… muy noble…
-# ## Viii
 En la oscuridad
 Por la noche, cuando el guardián de la villa ha apagado la luz de la escalera y el jardín se queda a oscuras, Berecche, circunspecto, adusto, con los hombros encogidos, abre el portón que aquel acaba de cerrar y lo llama:
 —¡Pst! ¡Pst!

@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Los Hermanos Bagnasco*
 *Ultimo viene il corvo (1949)*
 
 Me paso meses y meses fuera de casa, a veces años. Vuelvo de vez en cuando y mi casa está siempre en lo alto de la colina, con su revoque rojizo que de lejos la hace visible entre los olivos espesos como humo. Es una casa antigua, con arcadas que parecen puentes, en los muros símbolos masónicos que pusieron mis viejos para ahuyentar a los curas. En casa está mi hermano, que también se pasa la vida dando vueltas por el mundo, pero vuelve más a menudo que yo y, al regresar, me lo encuentro siempre. Acaba de llegar y no para hasta encontrar su chaqueta cazadora, el chaleco de fustán, los pantalones con fondillos de cuero, y elige la pipa que tira mejor y fuma.

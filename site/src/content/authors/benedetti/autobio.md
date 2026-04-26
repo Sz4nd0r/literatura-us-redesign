@@ -8,7 +8,6 @@ tags:
   - autobio
   - benedetti
 ---
-*# Autobiografía*
 *Mario Benedetti (1920 - 2009)*
 
 Despistes y franquezas, 1989) El editor milanés le había dicho que por ahora no le trajera más novelas. Una sabrosa autobiografía, eso sí. Convéncete, muchacho, empezó el boom de las autobiografías. Ése será el género del siglo XXI. Así que trépate al carro mientras puedas. Dante Falconi prometió que lo intentaría, aunque aclaró que su vida no era interesante ni aventurera ni escandalosa. Toda vida puede ser interesante o aventurera o escandalosa, dijo el editor milanés con una sonrisa plena de futuro, si el autor pone sabor cuando la cuenta.

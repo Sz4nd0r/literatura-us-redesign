@@ -12,7 +12,6 @@ tags:
 *Carpentier*
 *(La Habana, 1904-París,*
 *1980)*
-*# El Acoso*
 *(1956)*
 *I*
 

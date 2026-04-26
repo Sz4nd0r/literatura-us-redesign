@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Escribir Un Cuento*
 *Allá por la mitad de los*
 *sesenta empecé a notar los muchos problemas de concentración que me*
 *asaltaban ante las obras narrativas voluminosas. Durante un tiempo*

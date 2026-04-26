@@ -20,7 +20,6 @@ tags:
 *—λεως, ἢν δ’ἐγώ, ἔστω ὁ ἀνδριὰς καὶ ἤπιος*
 *οὕτως ἀνδρεῖος ὤν”.*
 
-# Λουκιανου Φιλοψευδης
 Bajaba la última ladera del Canigó y, aunque el sol ya se había puesto, distinguía en la llanura las casas del pueblo de Ille, hacia el que me dirigía.
 —¿Sabe usted, —pregunté al catalán que me servía de guía desde la víspera— sabe dónde vive el señor de Peyrehorade?
 —¡Que si lo sé! —exclamó— conozco su casa tan bien como la mía; y si no estuviese tan oscuro, se la enseñaría a usted. Es la mejor de Ille. El señor de Pierrehorade es rico; y casa a su hijo con una muchacha más rica aún que él.
@@ -92,7 +91,6 @@ La cabellera, levantada sobre la frente, parecía haber sido dorada en otros tie
 Aquella expresión de ironía infernal era quizás aumentada por el contraste de sus ojos incrustados de plata y muy brillantes con la pátina de un verde oscuro que el tiempo había dado a toda la estatua. Aquellos ojos brillantes producían cierta ilusión que recordaba la realidad, la vida. Me acordé de lo que me había dicho mi guía, que la estatua hacía bajar los ojos a los que la miraban. Casi era verdad, y no pude evitar un momento de cólera contra mí mismo al sentir cierto malestar delante de aquella figura de bronce.
 —Ahora que lo ha admirado todo con detalle, mi querido colega en antigüedades, —dijo mi anfitrión— abramos, si usted lo tiene a bien, una conferencia científica. ¿Qué dice usted de esta pequeña inscripción, en la que todavía no se ha fijado?
 Me enseñó en el pedestal estas palabras que leí:
-# ## Cave Amantem
 —Quid dicis, doctissime?“—me preguntó frotándose las manos—. ¡A ver si coincidimos en el sentido de este cave amantem!
 —Pues, hay dos sentidos, —contesté—. Se puede traducir: “Cuidado con el que te ama, no te fíes de los amantes.” Pero, en este sentido, no sé si cave amantem sería de buena latinidad. En vista de la expresión diabólica de la dama, creo más bien que el artista quiso poner en guardia al espectador contra esta terrible beldad. Yo traduciría pues: “¡Ten cuidado si ella te ama!”.
 —¡Hum! —dijo el señor de Peyrehorade— sí, es un sentido admirable; pero, usted perdone, prefiero la primera traducción, que desarrollaré sin embargo. ¿Usted conoce el amante de Venus?
@@ -102,8 +100,6 @@ No pude menos de sonreírme, hasta tal punto la explicación me pareció traída
 —El latín con su concisión es una lengua terrible, —dije a fin de evitar contradecir formalmente a mi arqueólogo, y retrocedí algunos pasos con el fin de contemplar mejor la estatua.
 —¡Un instante, colega!, —dijo el señor de Peyrehorade cogiéndome del brazo— aún no lo ha visto usted todo. Hay otra inscripción. Suba usted al pedestal y fíjese bien en el brazo derecho. Diciendo esto me ayudaba a subir.
 Me agarré sin grandes miramientos al cuello de la Venus, con la cual empezaba a familiarizarme. Hasta la miré un momento de una manera provocativa, y de cerca me pareció todavía más perversa, aunque también más bella. Luego vi que había, grabados en el brazo, algunos caracteres de letra cursiva antigua, a lo que me pareció. A fuerza de hacer funcionar mis gafas, deletreé lo siguiente, y mientras tanto el señor de Peyrehorade repetía cada palabra a medida que yo la pronunciaba, aprobando con el gesto y con la voz. Leí pues:
-# ## ## Veneri Tvrbvl...
-# ## ## ## Evtyches Myro
 ## ## ## ## IMPERIO FECIT. .
 Después de la palabra TVRBVL de la primera línea, me pareció que había algunas letras borradas. Pero TVRBVL era perfectamente legible.
 —¿Qué quiere decir? —me preguntó mi anfitrión, radiante y sonriendo con malicia, pues seguramente pensaba que no acertaría a descifrar con facilidad el TVRBVL.

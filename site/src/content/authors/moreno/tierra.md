@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Martínez Moreno*
 *(Santiago, Chile, 1924 - Santiago, Chile, 1996)*
-*# Tierra En La Boca*
 *(1974)*
 *(Buenos Aires: Losada, 1974, 296 págs)*
 *La víspera*

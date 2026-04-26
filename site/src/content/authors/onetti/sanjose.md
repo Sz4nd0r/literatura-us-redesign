@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# San José*
 *Sólo hay un texto mecanografiado en un folio suelto*
 *Cuentos completos, 2004*
 

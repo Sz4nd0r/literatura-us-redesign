@@ -12,7 +12,6 @@ tags:
 *Díaz Grullón*
 *(República Dominicana,*
 *1924-2001)*
-*# La Enemiga*
 *Recuerdo muy bien el día en que*
 *papá trajo la primera muñeca en una caja grande de cartón envuelta en*
 *papel de muchos colores y atada con una cinta roja, aunque yo estaba*

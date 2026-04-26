@@ -8,7 +8,6 @@ tags:
   - elase
   - augusto
 ---
-*# El aserradero*
 *Augusto Roa Bastos (1917 - 2005)*
 
 Con todo no dista más de media legua. Está en el mismo lugar donde comenzaron a aserrar los primeros rollizos, poco después de la Guerra Grande, cuando se subastaron las tierras del fisco dicen que para pagar las deudas a los vencedores de la Triple. Lo que resulta divertido porque es como si los deudos del muerto, a lo largo de diez generaciones, hubieran tenido que matarse trabajando para pagar al matador los gastos de la muerte y del entierro, justo un cuento para velorio; pero uno va y lo cuenta en un velorio y no se lo ríen ni a cañonazos porque a la gente no le importa nada de nada, y menos desde luego lo que ha pasado hace mucho tiempo. Así como tampoco le importa lo que ha pasado hace poco y lo que puede pasar. No hay memoria para el daño, como no hay cosa buena que pase, pues la gente no se acuerda de nada.

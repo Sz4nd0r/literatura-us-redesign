@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Tiernamente Adorables*
 *(“Dearly Beloved”)*
 *Originalmente publicado en Fitzgerald/Hemingway Annual*
 *(edición de C. E., Jr. Clark y Matthew J. Bruccoli)*

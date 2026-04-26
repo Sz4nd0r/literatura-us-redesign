@@ -27,7 +27,6 @@ Los paseos del Bosque de Bolonia aparecían blancos y duros, como en piedra de e
 Maigret, malhumorado, movía la cabeza como un oso estudiándolo todo; los edificios nuevos del bulevar Richard Wallace, cuyas puertas estaban cerradas aún; algunos obreros que venían de Pateaux en sus bicicletas; un tranvía con las luces encendidas; dos vecindonas que se acercaban con las manos moradas de frío…
 —¿Dispuestos? —preguntó.
 Había permitido que los periódicos del día anterior publicasen la información siguiente:
-# El Crimen De Bagatelle
 Esta vez la Policía no ha tardado en aclarar un asunto que parecía insuperable. Como se sabe, el lunes por la mañana un guarda del Bosque de Bolonia descubrió en uno de los paseos, a cien metros de la Puerta de Bagatelle, un cadáver que fue rápidamente identificado. Se trataba de Ernst Borms, el conocido médico vienes, domiciliado en Neuilly desde hace varios años. Borms vestía smocking y debió ser agredido en la noche del domingo al lunes mientras se dirigía a su casa en el bulevar Richard Wallace. Una bala, disparada a quemarropa por un revólver de pequeño calibre, le atravesó el corazón. Borms, que era hombre aún joven, agraciado y muy elegante, llevaba una vida bastante mundana.
 Apenas cuarenta y ocho horas después de cometido el crimen, la Policía ha efectuado una detención, y mañana por la mañana, entre siete y ocho, se procederá sobre el terreno a la reconstrucción del crimen.
 A partir de entonces iba a hablarse de aquel caso en todo el Quai des Orfèvres como del más característico, quizá, del estilo de Maigret. Pero cuando se le hablaba de él, Maigret volvía la cabeza de un modo raro y soltaba un gruñido.
@@ -146,7 +145,6 @@ El chico se esforzaba por llegar hasta allí antes que otros y reconocía a sus 
 —¡Pst!
 Los otros miraron al que lo llamó: ¡anda, ahí estaba uno que podía aún comprar el periódico! El perseguido se empinaba un poco para curiosear el diario…
 Maigret siseó también al pequeño vendedor, desplegó el diario y, aliviado, encontró en la primera página aquello que buscaba: la foto de una mujer hermosa y sonriente:
-# ## Una Desaparición Inquietante
 Se nos informa de la desaparición de una joven polaca, la señora Dora Strevzki, que desde hace cuatro días no ha vuelto a su domicilio en la calle de la Pompe, número 17, Passy.
 Se ha observado la extraña coincidencia de que el marido de la desaparecida, el señor Esteban Strevzki, desapareció también de su domicilio el día anterior, o sea el lunes. La portera, que ya ha dado cuenta a la Policía de todo ello, dice que…
 Al hombre sólo le faltaban cinco o seis metros para llegar a la sopa humeante cuando de pronto abandonó la cola, atravesó la calle, donde a poco lo atropella un ómnibus, y saltó a la acera para enfrentarse a Maigret cara a cara.

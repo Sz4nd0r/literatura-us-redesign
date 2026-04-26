@@ -8,7 +8,6 @@ tags:
   - mundo
   - oscar
 ---
-*# Esta mañana del mundo*
 *Óscar Collazos (1942 - 2015)*
 
 Ahora que estaba metido bajo la ducha no era el momento de ponerse a pensar en las condiciones que lo habían llevado a decirlo secamente, como si no le importase lo demás. Lo triste era que, al decirlo, daba la impresión de haberse acabado o anulado, por extrañas razones que hoy no quería recordar. Su inmovilidad y abulia, esa especie de abandono repentino, quedaban dentro de él, sin explicaciones. Entonces había levantado los hombros y dicho: “¡Y a mí qué!”.

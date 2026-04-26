@@ -8,7 +8,6 @@ tags:
   - axolotl
   - cortazar
 ---
-# Axolotl
 
 *Julio Cortázar*
 

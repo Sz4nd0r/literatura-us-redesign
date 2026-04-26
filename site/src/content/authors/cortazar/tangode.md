@@ -8,7 +8,6 @@ tags:
   - tangode
   - cortazar
 ---
-*# Tango de vuelta*
 *Julio Cortázar*
 
 Le hasard meurtrier se dresse au coin de la première rue. Au retour l’heure-couteau attend.MARCEL BÉLANGER, Nu et noir. Uno se va contando despacito las cosas, imaginándolas al principio a base de Flora o una puerta que se abre o un chico que grita, después esa necesidad barroca de la inteligencia que la lleva a rellenar cualquier hueco hasta completar su perfecta telaraña y pasar a algo nuevo.

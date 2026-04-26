@@ -11,7 +11,6 @@ tags:
 *Felisberto*
 *Hernández*
 *(Uruguay, 1902-1964)*
-*# La Casa Inundada*
 *## La casa inundada*
 *Montevideo: Alfa, 1962*
 *De esos días siempre recuerdo las*

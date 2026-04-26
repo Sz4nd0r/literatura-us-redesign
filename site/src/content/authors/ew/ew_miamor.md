@@ -10,7 +10,6 @@ tags:
 ---
 *Eudora Welty*
 *(Jackson, Mississippi, 1909-2001)*
-*# No Es Lugar Para Ti, Mi Amor*
 *(“No Place For You, My Love”)*
 *The Bride of the Innisfallen and Other Stories, 1955*
 

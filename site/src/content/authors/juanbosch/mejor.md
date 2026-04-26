@@ -8,7 +8,6 @@ tags:
   - mejor
   - juanbosch
 ---
-*# Lo mejor*
 *Juan Bosch (1909 - 2001)*
 *Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) Por la tierra seca y dorada de la enramada empezaban a entrar lenguas de agua. Tilo tenía los ojos entrecerrados y sentía sueño. A ratos el caballo movía una pata. Estaría también soñoliento. El otro metió mano en un bolsillo, sacó cachimbo y vejiga, llenó el primero y se dispuso a fumar. Antes dijo: —Yo voy a dar una chupadita, compadre.*
 

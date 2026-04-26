@@ -8,7 +8,6 @@ tags:
   - mujer
   - joseluis
 ---
-*# La mujer*
 *José Luis*
 *González (1926 - 1997)*
 *Cinco cuentos de sangre (San Juan, Puerto Rico: Imprenta Venezuela, 1945, 59 págs.); Veinte cuentos y Paisa (Río Piedras, Puerto Rico: Editorial Cultural, Inc., 1973, págs. 60-65) A Juan Bosch Ahora está, como de costumbre, sentada sobre una gran piedra redonda a la orilla del camino, los codos sobre las rodillas y la cara entre las manos. El camino es rojo, abierto en el barro vivo, y corre como una herida sobre las tetas verdes de las lomas. En lo más alto de una de ellas, donde el camino se acaba de repente, está la planta hidroeléctrica en construcción.*

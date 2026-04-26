@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# Nuestro Primer Cigarro*
 *(Cuentos de amor, de*
 *locura y de muerte, 1917)*
 *Ninguna época de mayor alegría que la que nos proporcionó a María y a mí,*

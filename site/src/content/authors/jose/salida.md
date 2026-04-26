@@ -8,7 +8,6 @@ tags:
   - salida
   - jose
 ---
-*# Callejon sin salida*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

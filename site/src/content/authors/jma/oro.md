@@ -8,7 +8,6 @@ tags:
   - oro
   - jma
 ---
-*# Orovilca*
 *José María Arguedas (1937 - 1917)*
 *Originalmente publicado en Letras Peruanas. Revista de Humanidades [Lima], Núm. 11, XII (1954), págs. 45 y 48-49; Diamantes y pedernales (Lima : J. Mejia Baca & P.L. Villanueva, 1954, 188 págs.); El forastero (Montevideo: Sandino, 1972, 89 págs.); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) El chaucato ve a la víbora y la denuncia; su lírica voz se descompone. Cuando descubre a la serpiente venenosa lanza un silbido, más de alarma que de espanto, y otros chaucatos vuelan agitadamente hacia el sitio del descubrimiento; se posan cerca, miran el suelo con simulado espanto y llaman, saltando, alborotando.*
 

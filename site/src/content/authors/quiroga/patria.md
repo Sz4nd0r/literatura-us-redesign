@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# La Patria*
 *(El desierto y otros cuentos, 1924)*
 *El discurso que el soldado herido dijo a los animales del*
 *monte que querían formar una patria puede ser transcripto en su totalidad, en*

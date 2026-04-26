@@ -10,7 +10,6 @@ tags:
 ---
 *Isak Dinesen*
 *(1885–1962)*
-*# El Buceador*
 *—The Diver*
 *Anecdotes of Destiny (1958)*
 *Mira Jama contó esta historia:*

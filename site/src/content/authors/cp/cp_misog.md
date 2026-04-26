@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Misoginia*
 *(“Misoginia”, 1936)*
 *Tutti i racconti (2002)*
 *I*

@@ -12,7 +12,6 @@ tags:
 *Padilla*
 *(1932–2000)*
 *Documentos*
-*# Declaración De La Uneac*
 *El día 28 de octubre de este año*
 *se reunieron en sesión conjunta el comité director de la Unión de*
 *Escritores y Artistas de Cuba (UNEAC) y los jurados extranjeros y*

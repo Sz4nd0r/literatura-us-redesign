@@ -10,7 +10,6 @@ tags:
 ---
 *Tobias Wolff*
 *(Birmingham, Alabama, 1945 –)*
-*# Una Bala En El Cerebro*
 *(1995)*
 *(“Bullet in the Brain”)*
 *Originalmente publicado en la revista The New Yorker*

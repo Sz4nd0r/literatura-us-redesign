@@ -11,7 +11,6 @@ tags:
 *Roberto Bolaño*
 *(Santiago,*
 *Chile, 1953 - Barcelona, 2003)*
-*# Llamadas Telefónicas*
 *(Llamadas telefónicas, 1997)*
 
 B está enamorado de X. Por supuesto, se trata de un amor desdichado. B, en una época de su vida, estuvo dispuesto a hacer todo por X, más o menos lo mismo que piensan y dicen todos los enamorados. X rompe con él. X rompe con él por teléfono. Al principio, por supuesto, B sufre, pero a la larga, como es usual, se repone. La vida, como dicen en las telenovelas, continúa. Pasan los años

@@ -10,7 +10,6 @@ tags:
 ---
 *Carlos Fuentes*
 *(Ciudad de Panamá, 1928 - México D.F., 2012)*
-*# Terra Nostra*
 *(1975)*
 *(Barcelona: Seix Barral, 1975, 783 pp.)*
 *(México, D.F.:*

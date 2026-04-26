@@ -11,8 +11,6 @@ tags:
 *Manuel*
 *Rueda*
 *(1921-1999)*
-*# Conocimiento*
-*# ## De Estatua*
 *## ## ELEGIA*
 *A Franklin Mieses Burgos*
 *“A la orilla del aire tú destruyes los pájaros”*
@@ -102,7 +100,6 @@ ni la obsesión de un color tuyo, náufrago en mis sueños.
 Presumo que eres un agujero lleno de espumas blancas.
 Adivino que eres un vacío en el vacío sin término de los olvidos.
 17 de noviembre de 1944.
-# ## ## Fragmento De Una Carta
 Llanes, quiero tu creación lenta
 del mundo que no se hizo de prisa.
 Tu conquista del pequeño mineral de la altura.
@@ -129,7 +126,6 @@ Quiero tu Dios conmigo
 partiendo en ese tren tuyo que cruzará mi almohada hacia otros límites
 porque cien coronas de sueño desde tu cuerpo ausente
 me señalan la ceniza callada y el corazón muerto.
-# ## ## ## [Otro] Fragmento De Una Carta
 (Valerio desde su silencio entona
 la canción de lo siempre moribundo
 pero que tiene ojos, así como la ausencia,

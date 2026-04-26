@@ -8,7 +8,6 @@ tags:
   - utej
   - jma
 ---
-*# Los comuneros de Utej-pampa*
 *José María Arguedas (1937 - 1917)*
 *Originalmente publicado en La Calle [Lima], año 1, n.º 11 (26 de mayo de 1934); Relatos completos [compilación de Jorge Lafforgue] (Buenos Aires: Editorial Losada, 1975, 237 págs.) En la cumbre del cerro Santa Bárbara el cura de San Juan mandó hacer un trono de tantarkichka para la Virgen Candelaria, patrona del pueblo. Don Inocencio, sacristán de la iglesia, dirigió el trabajo. El tantar es un arbusto espinoso con hojas pequeñas y verdes.*
 

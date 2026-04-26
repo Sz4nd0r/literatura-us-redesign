@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# De Qué Hablamos Cuando Hablamos De Amor*
 *(“What We Talk About When We Talk About Love”)*
 *Originalmente publicado en Antaeus (1981);*
 *What We Talk About When We Talk About Love (1981);*

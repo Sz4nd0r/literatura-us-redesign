@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# El Delator*
 *(1906)*
 *(“The Informer”)*
 *Originalmente publicado en Harper’s Magazine,*

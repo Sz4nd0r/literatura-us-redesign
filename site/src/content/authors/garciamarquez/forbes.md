@@ -8,7 +8,6 @@ tags:
   - forbes
   - garciamarquez
 ---
-*# El verano feliz de la señora Forbes*
 *Gabriel*
 *García Márquez (n. 1947)*
 

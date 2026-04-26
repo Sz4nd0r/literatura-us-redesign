@@ -8,7 +8,6 @@ tags:
   - viaje
   - manuel
 ---
-*# La compañera de viaje*
 *Manuel Rojas*
 *Originalmente publicado en el periódico La Nación [Santiago de Chile] (24 de abril de 1927); El delincuente (Santiago de Chile: Zig-Zag, 1948, 215 págs.), págs. 149-168. (A la memoria de D. ADOLFO CRENOVICH) —¡Eh, tú diplomático! Cuéntanos algo. Una aventura sentimental, diplomática, política, de cualquier orden que sea, pero cuéntanos algo. Rodolfo, el gringo Rodolfo, como le llamamos a causa de sus ojos azules y sus cabellos rojos, dijo: —En la vida de un hombre normal, como yo, suceden muy pocas cosas extraordinarias o dignas de contarse. —Ustedes me conocen y saben que, sentimentalmente, soy hombre poco romántico, soy casto; no por sistema, por temperamento. Me he enamorado sólo una vez en mi vida y la mujer de quien me enamoré es hoy mi mujer. “¿Qué aventura sentimental o de otro orden, capaz de interesar a un auditorio como el que forman ustedes, hombres apasionados, puede contar un hombre como yo, normal, poco romántico y casto por añadidura? —¡Eh, no te hagas el tonto, gringo! Tú puedes ser casto, pero es de suponer que no todas las mujeres que has conocido tendrían tu mismo temperamento. Así es que déjate de explicaciones y cuéntanos alguna cosa. —Bueno, les contaré; pero estoy seguro de que se van a reír de mí cuando termine. —Te prometemos que no. —Bien.*
 

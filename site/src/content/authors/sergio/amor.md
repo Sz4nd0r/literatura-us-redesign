@@ -8,7 +8,6 @@ tags:
   - amor
   - sergio
 ---
-*# Del amor a la justicia*
 *Sergio Ramírez (n. 1942)*
 
 Del amor a la justicia De tropeles y tropelías (San Salvador: Editorial Universitaria, 1972); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) S. E. fue abogado antes de asumir los más altos poderes de la nación. Se graduó en una oscura Facultad de Leyes de provincia y antes de obtener el título fue rábula, copiador de sentencias, amanuense, peleador de gallinas, secretario de juzgados penales, defensor de la Iglesia en litigios por fundos y aparcerías que se llevaban y discutían en estrados usando la lengua latina. Ya con el título en la mano, hundió en calamidades a gentes rústicas, arruinó a familias enteras, se apropió de heredades, desahució a cientos de colonos y precaristas, borró caminos medianeros, usurpó derechos de viudas, su fortuna la amasó a base de despojos e hipotecas y la cuantía de sus bienes podía medirse por la cantidad de pleitos judiciales que logró ganar con prevaricatos y sobornos.

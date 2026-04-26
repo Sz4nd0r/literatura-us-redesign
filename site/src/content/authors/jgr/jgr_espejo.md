@@ -10,7 +10,6 @@ tags:
 ---
 *João Guimarães Rosa*
 *(Minas Gerais, Brazil, 1908 - Rio de Janeiro, 1967)*
-*# El Espejo*
 *(“O espelho ”)*
 *Primeiras estórias*
 *(Río de Janeiro: Livraria José Olympio, 1962, 193 págs.)*

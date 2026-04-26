@@ -8,7 +8,6 @@ tags:
   - alguien
   - cortazar
 ---
-*# Alguien que anda por ahí*
 *Julio Cortázar*
 
 Se valieron de la lancha eléctrica, claro, capaz de resbalar silenciosa como una raya y perderse de nuevo en la distancia mientras Jiménez se quedaba un momento entre los matorrales esperando que se le habituaran los ojos, que cada sentido volviera a ajustarse al aire caliente y a los rumores de tierra adentro.

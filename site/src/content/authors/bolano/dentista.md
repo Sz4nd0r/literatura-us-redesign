@@ -11,7 +11,6 @@ tags:
 *Roberto Bolaño*
 *(Santiago,*
 *Chile, 1953 - Barcelona, 2003)*
-*# Dentista*
 *(Putas asesinas, 2001)*
 *No era Rimbaud, sólo era un niño indio.*
 

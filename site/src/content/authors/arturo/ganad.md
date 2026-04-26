@@ -8,7 +8,6 @@ tags:
   - ganad
   - arturo
 ---
-*# Los ganadores*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Los ganadores* (1980)*
 

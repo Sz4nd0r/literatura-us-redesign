@@ -13,7 +13,6 @@ tags:
 *(1935-1975)*
 *Un libro levemente odioso*
 *(1989)*
-*# Prohibido Para Mayores*
 *Vulvitas*
 *falitos*
 *salivitas*
@@ -29,7 +28,6 @@ papacito
 Y las muñecas se quedan para siempre solas
 y las pistolas del Llanero Solitario se pudren
 Hasta que se da cuenta una mamá
-# ## Sobre Un Suicidio
 Una bandera de pétalos de
 terciopelo
 más horripilante que la humildad;
@@ -41,12 +39,10 @@ tales eran las riquezas de la muchacha.
 Y una manera muy peculiar de comprender las sugerencias:
 le dijeron que se atara el cinturón, que no fumara
 y se lanzó hacia la calle, doce pisos abajo.
-# ## ## Juro Que Lo Oí Decir
 «Salvo en una sociedad
 completamente justa,
 lo mejor de la vida
 es ser jefe.»
-# ## ## ## Canción De Protesta
 A Silvio
 Cayó mortalmente herido de un
 machetazo en la guitarra

@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Una Vez, En Otoño*
 *(1895)*
 *(“Однажды осенью”)*
 *Originalmente publicado, con el subtítulo de Рассказ бывалого человека*

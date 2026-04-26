@@ -8,7 +8,6 @@ tags:
   - verdey
   - benedetti
 ---
-*# Verde y sin Paula*
 *Mario Benedetti (1920 - 2009)*
 *Verde y sin Paula (Geografías, 1984) Cuando se incorpora en la arena, dobla cuidadosamente la toalla, respira con fruición, camina hasta la orilla y se introduce lentamente en el mar, siente que no ha dejado nada a la improvisación. Allá arriba, sobre la almohada, en la habitación 512 del Hotel Cóndor, está el sobre con las cinco palabras en rojo: Para entregar a Paula Acosta. Lo recogerá la mucama cuando llegue, como siempre, a las doce. Le ha costado tres meses la decisión, pero a esta altura es irreversible.*
 

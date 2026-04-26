@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Señales*
 *(“Signals”)*
 *Originalmente publicado en December (1970)*
 *Will You Please Be Quiet, Please? (1976);*

@@ -11,12 +11,10 @@ tags:
 *Antonio*
 *Skármeta*
 *(Antofagasta, Chile, 1940 -)*
-*# Pescado*
 *Tiro libre*
 *(México: Siglo Veintiuno Editores, 1973, 206 págs.)*
 *Wednesday morning at five o’clock*
 *As the day begins.*
-*# ## The Beatles*
 
 Cuando la abuela tropezó en la cocina y la azucarera de loza se astilló en el piso y los pedacitos se repartieron por ahí, mi madre, que tostaba el pan del desayuno sobre el gas, apagó el fuego. Se puso las manos en las caderas y apretando la mandíbula, silbó:
 —¡Por Dios, mamá!

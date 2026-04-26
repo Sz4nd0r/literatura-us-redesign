@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Una Certeza*
 *(“Una certeza”, 1941)*
 *Originalmente publicado en Il Messaggero de Roma (19 de febrero de 1942)*
 *reproducido en Feria d’agosto (1946)*

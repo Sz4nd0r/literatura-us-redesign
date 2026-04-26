@@ -11,9 +11,7 @@ tags:
 *César*
 *Vallejo*
 *(Perú, 1892-Paris, 1938)*
-*# Los Heraldos Negros*
 *(1918)*
-*# ## Los Heraldos Negros*
 *Hay golpes en la vida, tan*
 *fuertes... Yo no sé.*
 *Golpes como del odio de Dios; como si ante ellos,*
@@ -33,8 +31,6 @@ cuando por sobre el hombro nos llama una palmada;
 vuelve los ojos locos, y todo lo vivido
 se empoza, como un charco de culpa, en la mirada.
 Hay golpes en la vida, tan fuertes ... Yo no sé!
-# ## ## Plafones Agiles
-# ## ## ## Deshojación Sagrada
 Luna! Corona de una testa inmensa,
 que te vas deshojando en sombras gualdas!
 Roja corona de un Jesús que piensa

@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# ¿Por Qué, Cariño?*
 *(“Why, Honey?”)*
 *Originalmente publicado en Sou’wester (1972)*
 *Will You Please Be Quiet, Please? (1976)*

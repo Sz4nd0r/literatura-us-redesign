@@ -10,7 +10,6 @@ tags:
 ---
 *Grace Paley*
 *(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
-*# Un Corto Trayecto*
 *(“Distance”)*
 *Originalmente publicado en The Atlantic (1967);*
 *reimpreso en Prize Stories of 1969: O Henry Awards (1969);*
@@ -221,7 +220,6 @@ era mayor (pero con lágrimas).
 —No —dice ella—. Su vida es asunto suyo.
 —Mi hijo es asunto mío. Sólo me queda uno y es asunto mío.
 —No —dice ella—. Su vida es asunto suyo.
-# ## —Mi Hijo Es Asunto Mío. Por Amor Y Por Deber.
 —Oh, no —dice ella. Con una voz dulce, porque soy la mayor, pero con mucha
 firmeza.
 (Me he fijado en eso. De pronto, te miran, y entonces se dan cuenta, los jóvenes,

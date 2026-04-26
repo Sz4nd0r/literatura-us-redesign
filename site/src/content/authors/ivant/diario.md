@@ -10,7 +10,6 @@ tags:
 ---
 *Iván S. Turguénev*
 *(Orel, Rusia, 1818 - Bougival, Francia, 1883)*
-*# Diario De Un Hombre Superfluo*
 *(1850)*
 *(“Дневник лишнего человека”)*
 *Originalmente publicado en la revista Отечественные записки [Notas Domésticas]*
@@ -238,7 +237,6 @@ NOTA DEL EDITOR: Bajo esa última línea aparece el perfil de una cabeza con un 
 Este manuscrito ha sido leído
 por Piotr Zudoteshin,
 que no ha aprobado su contenido
-# ## Mmmmm
 Excelentísimo señor
 Piotr Zudoteshin.
 Excelentísimo señor.

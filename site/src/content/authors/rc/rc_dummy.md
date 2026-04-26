@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Dummy*
 *[La tercera de las cosas que acabaron con mi padre]*
 *(“Dummy”)*
 *[También: “The Third Thing That Killed My Father Off”]*

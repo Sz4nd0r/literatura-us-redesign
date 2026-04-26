@@ -10,7 +10,6 @@ tags:
 ---
 *Isak Dinesen*
 *(1885–1962)*
-*# El Festín De Babette*
 *—Babette’s Feast*
 *Anecdotes of Destiny (1958)*
 *I. Dos damas de Berlevaag*

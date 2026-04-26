@@ -11,7 +11,6 @@ tags:
 *Emilio*
 *Díaz Valcárcel*
 *(Trujillo Alto, Puerto Rico, 1929 - San Juan, 2015)*
-*# La Muerte Obligatoria*
 *El asedio y otros cuentos*
 *(Ciudad de México: Arrecife Impresores, 1958, 138 págs.)*
 

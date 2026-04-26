@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Vuelven*
 *(1913)*
 *(“Едут...”)*
 *Originalmente publicado en el periódico Русское слово, Moscú (“La Palabra Rusa”),*

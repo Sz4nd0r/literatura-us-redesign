@@ -8,7 +8,6 @@ tags:
   - deseo
   - pgv
 ---
-*# Historia de un deseo*
 *Pedro Gómez Valderrama*
 
 Historia de un deseo El Retablo de Maese Pedro (Bogotá: Editorial Iqueima, 1967) Fragmento de la memoria de un enviado francés en Florencia, rendida en octubre de mil quinientos treinta y dos. Por aquellos días, Fra Filippo Lippi encontrábase aún en Florencia. La ciudad fue, en verdad, sorprendida por la moderación y recato absolutos de su vida. Su mismo protector, el magnánimo Carlos de Médicis, le llamó un día al Palacio, en el convencimiento de que el pintor hallábase tramando alguna extraña cosa.

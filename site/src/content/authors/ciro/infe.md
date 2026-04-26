@@ -8,9 +8,7 @@ tags:
   - infe
   - ciro
 ---
-*# Historia de una infidelidad*
 *Ciro Alegría*
-*# Historia de una infidelidad*
 *Ciro Alegría*
 
 Historia de una infidelidad Siete cuentos quirománticos [póstumo] (Lima: Ediciones Varona, 1978, 189 págs.) Hay muchas situaciones y maneras de ser infiel. Cristo lo sabía. No nos referiremos a su videncia de la última cena, donde anunció que sería negado tres veces, ni al momento ratificador en que Pedro, efectivamente, lo negó otras tantas. En el caso de la señora Lonigan, debemos recordar cómo Jesús desarmó a los que pretendían lapidar a la mujer adúltera.

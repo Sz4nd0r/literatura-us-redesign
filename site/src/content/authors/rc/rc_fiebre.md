@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Fiebre*
 *(“Fever”)*
 *Originalmente publicado en North American Review (1983);*
 *Cathedral (1983);*

@@ -10,7 +10,6 @@ tags:
 ---
 *Isaac Babel*
 *(Odesa, Ucrania, Imperio Ruso, 1894 - Prisión Butyrka, Moscow, 1940)*
-*# Mamá, Rimma Y Ala*
 *(“Мама, Римма и Алла”)*
 *[En 1933, Gorky recomendó este relato para su publicación*
 *en Год XVI [Año XVI], pero no se publicó.];*

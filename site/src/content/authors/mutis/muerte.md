@@ -8,7 +8,6 @@ tags:
   - muerte
   - mutis
 ---
-# La muerte del estratega
 **Álvaro Mutis**
 
 *Edición original: Diario de Lecumberri (Xalapa: [Ficción] Universidad Veracruzana, 1960, 122 págs.); La Mansión de Araucaíma y otros relatos (Barcelona: Seix Barral [Biblioteca Breve], 1978, 139 págs.)*

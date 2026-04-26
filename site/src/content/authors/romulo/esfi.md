@@ -8,7 +8,6 @@ tags:
   - esfi
   - romulo
 ---
-*# La esfinge*
 *Rómulo Gallegos (n. 1969)*
 *Originalmente publicado en La Revista (26 de setiembre de 1915); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) Arrellanado en la silla de extensión, cubierta la cabeza con un gorro primorosamente bordado en oro y los anchos pies metidos en pantuflas de lo mismo, viejo, pero todavía membrudo y fuerte, el rostro atravesado por un espantoso costurón, la derecha manca y lo que no se veía de su cuerpo todo surcado de cicatrices, gajes todos y trofeos de aquellos legendarios asaltos al machete que le habían dado tanta fama, el bravo guerrillero en reposo tenía la majestad de los volcanes apagados.*
 

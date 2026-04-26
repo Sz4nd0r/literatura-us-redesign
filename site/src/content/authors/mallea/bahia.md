@@ -35,8 +35,6 @@ An infant crying for the light:
 And with no language but a cry.
 LORD TENNYSSON, In Memoriam.
 Dedico este libro a los habitantes jóvenes —hombres y mujeres— de mi tierra que, viviendo en la zona subterránea donde se prepara toda fuente, llevan de su patria una idea de limpia grandeza, y a quienes alguna vez rebeló la indignidad de quienes la engañan y trafican.
-# Libro Primero
-# ## Los Jóvenes
 Usted entró en la florería y dejó sobre el mostrador de cristal su pequeño paraguas de seda negra y fue directamente hasta el invernáculo y preguntó con esa voz delicada y firme que parecía venir desde muy lejos:
 —¿No han llegado las begonias nuevas?
 Ésta era la milésima vez que yo la veía, pero la tercera del año. Usted, en realidad, no me había visto nunca sino vagamente, y al preguntar al vendedor sobre tal o cual planta —sin advertir al pronto que el hombre a quien abordaba me estaba atendiendo— lo hacía con un aire anónimo y ajeno, antes de levantar los ojos, mirarme y sonreír ante su propia descortesía con un “¡ah!...” como si viera salir de la niebla un rostro vagamente entrevisto en alguna otra parte. En su sonrisa había algo de secretamente duro, de destruido. Este año yo la había visto tres veces: la primera vestía usted un traje sastre negro con blusa negra y pequeño cuello blanco; la segunda vez —llovía— un impermeable incoloro, vítreo y transparente; la tercera, un traje parecido al de ahora, sencillo, sobrio, personalísimo.

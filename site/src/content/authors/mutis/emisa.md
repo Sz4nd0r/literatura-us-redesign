@@ -8,7 +8,6 @@ tags:
   - emisa
   - mutis
 ---
-*# Los emisarios*
 *Álvaro Mutis*
 *Emisores que tocan a tu puerta, tú mismo los llamaste y no lo sabes. AlMutamarIbn al Farsi Poeta sufí de Córdoba (1118-1196) Para Alistair Reid Razón del extraviado Vengo del norte, donde forjan el hierro, trabajan las rejas, hacen las cerraduras, los arados, las armas incansables, donde las grandes pieles de oso cubren paredes y lechos, donde la leche espera la señal de los astros, del norte donde toda voz es una orden, donde los trineos se detienen bajo el cielo sin sombra de tormenta.*
 

@@ -10,7 +10,6 @@ tags:
 ---
 *William Faulkner*
 *(New Albany, Mississippi, 1897 - Byhalia, Mississippi, 1962)*
-*# El Ruido Y La Furia*
 *(1929)*
 *(The Sound and the Fury)*
 *(Nueva York: Jonathan Cape & Harrison Smith, 1929, 401 págs.)*

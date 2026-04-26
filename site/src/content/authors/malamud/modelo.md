@@ -10,7 +10,6 @@ tags:
 ---
 *Bernard Malamud*
 *(26 de abril, 1914 – 18 de marzo, 1986)*
-*# La Modelo*
 *(1983)*
 *(“The Model”)*
 *Originalmente publicado en la revista The Atlantic (August 1983);*

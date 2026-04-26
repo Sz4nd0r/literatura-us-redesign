@@ -8,7 +8,6 @@ tags:
   - ilusion
   - sergio
 ---
-*# Ilusión perdida*
 *Sergio Ramírez (n. 1942)*
 *Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Rogelio y Antonina Las manos cruzadas bajo la nuca, Lisandro Ramírez se balanceaba plácidamente empujándose con la punta del botín, recostado en la hamaca de manila colgada en los pilares del corredor que daba al cerco de piñuelas de la calle ronda, mientras Migdalia Laguna, a su lado, se adornaba con flores de reseda la cabellera humedecida asomándose a un trozo de espejo, al tiempo que cantaba el vals Sortilegio que él le había compuesto cuando años atrás empezaron en la penumbra del coro de la iglesia parroquial sus amoríos clandestinos. El estuche del violín descansaba en el piso cerca de su botín, y se le antojó que debía acompañarla.*
 

@@ -8,7 +8,6 @@ tags:
   - cenizas
   - benedetti
 ---
-*# En cenizas derribado*
 *Mario Benedetti (1920 - 2009)*
 *En cenizas derribado (Geografías, 1984) o durmiendo en cenizas derribadoPABLO NERUDA Por tercera vez sueña con la mesa pulida y larga, y aquellos diez o doce rostros que lo enfrentan, unos interrogantes, otros agresivos y otros más con ojos indiferentes, tal vez vacíos. El sueño tiene rupturas, vaivenes, y a veces expresiones e imágenes aumentadas, como para que su memoria de soñador las fije y así pueda recuperarlas cuando despierte.*
 

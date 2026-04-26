@@ -10,7 +10,6 @@ tags:
 ---
 *Reinaldo Arenas*
 *(Aguas Claras, Cuba, 1943 - Nueva York, 1990)*
-*# A La Sombra De La Mata De Almendras*
 *(1968)*
 *Originalmente publicado en la revista*
 *Caravelle. Cahiers du monde hispanique et luso-brésilien*

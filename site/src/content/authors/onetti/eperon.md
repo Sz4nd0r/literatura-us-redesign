@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Eva Perón*
 *Cuentos completos, 2004 (Anexo: Cuentos inéditos y fragmentos)*
 *I*
 

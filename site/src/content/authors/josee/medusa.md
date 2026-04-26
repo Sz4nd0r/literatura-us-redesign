@@ -8,7 +8,6 @@ tags:
   - medusa
   - josee
 ---
-*# La sangre de Medusa*
 *José Emilio Pacheco (n. 2004)*
 
 La sangre de Medusa La sangre de Medusa (incluye “La noche del inmortal”) (México: Cuadernos del Unicornio, Núm. 18, 1958, 16 págs.); (México: Latitudes, 1978, reimpresión); La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) …la espada sin honor, perdido todo lo que gané, menos el gesto huraño. Gilberto Owen Cuando Perseo despierta sus primeras miradas nunca son para Andrómeda.

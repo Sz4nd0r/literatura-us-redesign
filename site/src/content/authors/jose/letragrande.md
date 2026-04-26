@@ -8,7 +8,6 @@ tags:
   - letragrande
   - jose
 ---
-*# Letra Grande*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

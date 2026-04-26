@@ -8,7 +8,6 @@ tags:
   - milagro
   - arturo
 ---
-*# El milagro*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Los ganadores* (1980)*
 *Le costaba trabajo despertar por las mañanas. Perdía la noción del tiempo, entre dormido y despierto, perdido en la cama, sin saber dónde estaba, mientras, de rato en rato, lo alcanzaba la voz de su madre llamándolo para el desayuno. Era como si estuviera y no estuviera allí. Como si a cada instante se escapara por el sueño a otras estancias y gentes que aparecían y desaparecían: A pie por un bosque desconocido, a caballo, o volando sin esfuerzo como los pájaros más altos.*

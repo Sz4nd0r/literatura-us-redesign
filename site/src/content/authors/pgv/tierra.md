@@ -8,7 +8,6 @@ tags:
   - tierra
   - pgv
 ---
-*# ¡Tierra...!*
 *Pedro Gómez Valderrama*
 
 Un marinero que el Diario llama Rodrigo de Triana, pero cuyo verdadero nombre parece haber sido Juan Rodríguez Bermejo, había visto tierra desde la proa de la Pinta... (Salvador de Madariaga. Vida de Colón, p.296) El hombre tendido en el jergón estrecho incorporó levemente la cabeza. Por la escotilla alcanzaba a divisar un poco de luz de luna. La nave apenas oscilaba blandamente como si estuviese apegada al muelle.

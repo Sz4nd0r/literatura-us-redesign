@@ -8,7 +8,6 @@ tags:
   - yk_yumiu
   - yk
 ---
-# Yumiura
 
 **Yasunari Kawabata**
 

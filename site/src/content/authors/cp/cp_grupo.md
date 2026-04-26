@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# El Grupo*
 *(“Il gruppo”, 1941)*
 *Originalmente publicado en Il Messagero de Roma (22 de noviembre de 1941)*
 *Tutti i racconti (2002)*

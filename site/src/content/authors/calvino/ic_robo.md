@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Robo En Una Pastelería*
 *Ultimo viene il corvo (1949)*
 
 El Trucha llegó al lugar convenido y los otros ya lo estaban esperando. Estaban los dos: Niñojesús y Uora-uora. Era tal el silencio que desde la calle se oían sonar los relojes de las casas: dos toques, había que darse prisa si no querían que los alcanzase la madrugada.

@@ -8,7 +8,6 @@ tags:
   - willa
 ---
 
-# Willa Cather
 
 ![Willa Cather](/assets/images/willa.jpg)
 

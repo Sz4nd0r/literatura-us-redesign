@@ -10,7 +10,6 @@ tags:
 ---
 *Dino Buzzati*
 *(Belluno, Italia, 1906 - Milán, 1972)*
-*# Dos Pesos, Dos Medidas*
 *(“Due pesi due misure”)*
 *Sessanta racconti*
 *(Milán: Arnoldo Mondadori Editore, 1958, 566 págs.)*

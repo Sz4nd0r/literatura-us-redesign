@@ -8,7 +8,6 @@ tags:
   - casos
   - josee
 ---
-*# Casos de la vida real*
 *José Emilio Pacheco (n. 2004)*
 *Casos de la vida real La sangre de Medusa y otros cuentos marginales (México, D.F.: Ediciones Era, 1990, 136 págs.) El asesinato de Lincoln El 14 de abril de 1865, en el teatro Ford de Washington, el presidente Lincoln asistía al estreno de una ficción política llamada The Murder of Abraham Lincoln. El escenario del teatro Ford representaba al teatro Ford con todo y plateas, palcos, foso de la orquesta y, desde luego, escenario donde se desarrollaba una ficción política llamada The Murder of Abraham Lincoln. A punto de terminar la obra el actor John Wilkes Booth, que hacía el papel de John Wilkes Booth, abrió la puerta del palco a la derecha del proscenio y miró a los actores que impersonaban al presidente, a la señora Lincoln, al mayor Rathbone y a su novia.*
 

@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# Morella*
 *(“Morella”, 1835)*
 *Originalmente publicado en Southern Literary Messenger (april 1835);*
 *incluía un poema de 16 versos, “Hymn”, cantado por Morella,*

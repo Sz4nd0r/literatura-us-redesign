@@ -8,7 +8,6 @@ tags:
   - debajo
   - tellez
 ---
-*# Debajo de las estrellas*
 *Hernando Téllez (1908 - 1966)*
 
 Debajo de las estrellas Cenizas para el viento y otras historias (Bogotá: Librería Mundial, 1950, 216 págs.) Se acercó lentamente. Como yo estaba tirado en el suelo, bajo el camión, ocupado en reparar el daño, no podía ver sino sus pies, sin medias, metidos entre un par de zapatillas de baño, y una parte de sus piernas, que la bata de delgada, casi transparente tela, descubría a cada paso. Solté la llave inglesa que tenía entre las manos y me puse a mirar, a mirar.

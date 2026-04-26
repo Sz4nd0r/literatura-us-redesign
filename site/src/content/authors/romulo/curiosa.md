@@ -8,7 +8,6 @@ tags:
   - curiosa
   - romulo
 ---
-*# Una aberración curiosa*
 *Rómulo Gallegos (n. 1969)*
 *Originalmente publicado en El Cojo Ilustrado (15 de octubre de 1910); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) Uno no sabría decir por qué está aquel pueblecito en aquel lugar, precisamente. Bien podría estar un poco más allá o más acá, en uno cualquiera de aquellos áridos rincones de tierra rojiza, donde no hay agua, ni sombra de arbolado, ni promesa de fertilidad. Y está allí como un refugio de sencillez y silencio, entre el cerro y la hacienda que le presta por igual: nombre, agua y sustento, aglomerado sobre un repecho, humilde, cordial y apacible con su iglesia demasiado grande, sin torre y con jardín a la entrada, su plazoleta de ordinario sola y su cementerio naturalmente cerrado siempre y lleno por dentro de paz, sol radiante y fronda que derrama sus gajos por encima de las paredes blancas. A primera vista no parece que allí se puede echar raíces; ser del pueblo es hacerle demasiado honor a aquel rincón poblado que para pertenecer a la ciudad no está tan cerca, ni tan lejos tampoco, para dejar de ser parte de ella.*
 

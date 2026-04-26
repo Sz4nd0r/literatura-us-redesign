@@ -52,5 +52,4 @@ En un instante nos pusimos de pie. Tomándolo por las solapas escruté su hermos
 —¿Pero no sabe entonces que Jack… el señor Raynor? No sabes que…
 —Me avergüenza decir, querida, que he venido directamente de Viena porque Jack me lo sugirió. Sí, Jack, esa persona indigna de confianza.
 Irene, uno y otro engañaron a esta amiga que tanto te quiere.
-# Mary Jane Dement
 P. S. Lo peor de todo es que no hay ningún misterio. Todo fue inventado por Jack Raynor para despertar mi curiosidad. James no es un thug. Me asegura solemnemente que en todos sus viajes no ha puesto jamás un pie en Sepoy.

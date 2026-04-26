@@ -8,7 +8,6 @@ tags:
   - apoyo
   - romulo
 ---
-*# El apoyo*
 *Rómulo Gallegos (n. 1969)*
 *Originalmente publicado en El Cojo Ilustrado (1 de octubre de 1911); Los Aventureros (Caracas: Imprenta Bolívar, 1913, 160 págs.); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.), págs. 47-66. I En las afueras de la ciudad, en el camposanto de los lazarinos, sobre un collado donde había una tumba solitaria entre cactus y abrojos, dominando el mudo paisaje crepuscular, los dos minoristas se detuvieron: —¿Con que nos deja Francisco! —¿Qué se hace Manuel! No hay remedio. Yo no sirvo para la vida militante; lo comprendo.*
 

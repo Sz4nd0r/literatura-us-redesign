@@ -8,7 +8,6 @@ tags:
   - tercera
   - garciamarquez
 ---
-*# La tercera resignación*
 *Gabriel*
 *García Márquez (n. 1947)*
 

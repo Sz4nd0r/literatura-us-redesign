@@ -8,7 +8,6 @@ tags:
   - todas
   - bioy
 ---
-*# Todas las mujeres son iguales*
 *Adolfo Bioy Casares (1914 - 1999)*
 
 Guirnalda con amores (Buenos Aires: Emecé, 1959, 201 págs.); Historias de amor (Buenos Aires: Emecé, 1972, 259 págs.) Últimamente el argentino salió a probar mejor suerte en el extranjero, lo que antes no era imaginable, y formó grupos o colonias por todo el mundo, al extremo de que si usted, en sus largos viajes, se halla un tanto perdido y nostálgico, deténgase a oír el rumor de la ciudad, sea ésta cual fuere, como quien escucha un caracol; no tardará en descubrir voces que le probarán cuánto se alargó en estos años la calle Corrientes (porque no es Rivadavia, sino Corrientes, con sus tapes de las catorce provincias, que hoy son no sé cuántas, y con su olor a grasa enfriada, de las pizzerías, la que alcanzó los puntos más remotos de Europa y de Norteamérica). En mi tiempo no era así.

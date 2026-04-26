@@ -11,7 +11,6 @@ tags:
 *José*
 *Martí*
 *(1853—1895)*
-*# La Futura Esclavitud*
 *(1884)*
 *Tendencia al socialismo de los*
 *gobiernos actuales. –La acción excesiva del Estado. –Habitaciones*

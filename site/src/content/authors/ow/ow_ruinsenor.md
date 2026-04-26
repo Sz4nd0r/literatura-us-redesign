@@ -12,7 +12,6 @@ tags:
 *Wilde*
 *(Irlanda, 1854 - Francia,*
 *1900)*
-*# El Ruinseñor Y La Rosa*
 *(“The Nightingale and the Rose”)*
 *The Happy Prince and Other Tales*
 *(Londres: David Nutt, 1888, 118 págs.)*

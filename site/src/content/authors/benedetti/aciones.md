@@ -8,7 +8,6 @@ tags:
   - aciones
   - benedetti
 ---
-*# Compensaciones*
 *Mario Benedetti (1920 - 2009)*
 
 Con y sin nostalgia, 1977) Pedro Luis le llevaba un año a Juan Tomás, pero eran tan exactamente iguales que todos los tomaban por mellizos. Además, como Pedro Luis se había atrasado un año en primaria debido a una escarlatina con complicaciones, a partir de ese momento habían hecho juntos el resto del colegio, todo el liceo y los dos años de Preparatorios [que fue de Arquitectura] así que la gente se había habituado a verlos por partida doble.

@@ -11,7 +11,6 @@ tags:
 *Roberto Bolaño*
 *(Santiago,*
 *Chile, 1953 - Barcelona, 2003)*
-*# Enrique Martín*
 *(Llamadas telefónicas, 1997)*
 *Para Enrique Vila-Matas*
 

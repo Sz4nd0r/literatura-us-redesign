@@ -10,7 +10,6 @@ tags:
 ---
 *Flannery O’Connor*
 *(Savannah, Georgia, 1925-1964)*
-*# Enoch Y El Gorila*
 *(“Enoch and the Gorilla” (1950)*
 
 (originalmente publicado en New World Writing, edited by Arabel Porter, vol. 1, April 1952;

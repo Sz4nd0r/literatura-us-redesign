@@ -12,7 +12,6 @@ tags:
 *Wilde*
 *(Irlanda, 1854 - Francia,*
 *1900)*
-*# El Gigante Egoísta*
 *(“The Selfish Giant”)*
 *The Happy Prince and Other Tales*
 *(Londres: David Nutt, 1888, 118 págs.)*
@@ -45,8 +44,6 @@ jardín propio —dijo el Gigante—; todo el mundo debe entender eso
 y no dejaré que nadie se meta a jugar aquí.
 Y de inmediato, alzó una pared
 muy alta, y en la puerta puso un cartel que decía:
-# ## Prohibida La Entrada
-# ## ## Bajo Pena De Ley
 Era un Gigante egoísta...
 Los pobres niños se quedaron sin
 tener donde jugar. Hicieron la prueba de ir a jugar en la carretera,

@@ -11,7 +11,6 @@ tags:
 *Onelio Jorge Cardoso*
 *(Calabazar de Sagua, Las Villas, 1914 - La Habana, 1986)*
 *Negrita (1982)*
-*# Negrita*
 *Prólogo de María Teresa Sánchez Arrieta*
 *Cubierta e ilustraciones de Bladimir González Linares*
 *(La Habana: Editorial Gente Nueva, 1984, 110 pp.)*

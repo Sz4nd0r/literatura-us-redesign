@@ -106,7 +106,6 @@ Robbie volvió hasta el armario, sacó el abrigo (esa mañana llevaba el bueno) 
 —Trataré de hacerlo —respondió ella.
 Salió del despacho tras él y se dirigió al suyo. Robbie se detuvo en mitad de la sala de recepción y, sin volverse, murmuró:
 —¿Liz?
-# —¿Sí?
 Él permaneció pensativo unos momentos y dijo:
 —Creo que tenía algo que decirte... En fin, no importa.
 —¿Nos vemos para almorzar?

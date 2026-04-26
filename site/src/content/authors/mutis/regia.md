@@ -8,7 +8,6 @@ tags:
   - regia
   - mutis
 ---
-*# Crónica regia y alabanza del reino*
 *Álvaro Mutis*
 
 Como un fruto tu reino Como un fruto tu reino, Señor. Convergen sus gajos, el zumo de sus mieles y la nervada autonomía de su idéntico dibujo hacia el centro donde rige un orden que te pertenece por gracia y designio del Dios de los ejércitos. Sólo a ti fue concedido el peso de tan vasta tarea, sólo en ti gravita la desolada gestión de un mundo que te nombra como el más cierto fiel de su destino. Como un fruto tu reino.

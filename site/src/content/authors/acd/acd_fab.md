@@ -84,7 +84,6 @@ Holmes estuvo cavilando unos minutos.
 Por la mañana me levanté a buena hora, pero algunas migas de pan tostado y dos cáscaras de huevo vacías me dijeron que mi compañero se había levantado todavía más temprano. Me encontré una nota garabateada encima de la mesa.
 Querido Watson:
 Hay uno o dos nexos entre los hechos que quisiera comprobar con el señor Josiah Amberley. Cuando lo haya realizado, podremos descartar o no el caso. Lo único que le pediría es que se encuentre disponible alrededor de las tres de la tarde, porque cabe la posibilidad de que pueda necesitarle.
-# # # # S. H.
 No supe nada de Holmes en todo el día, pero a la hora citada regresó a casa serio, inquieto y abstraído. En esas ocasiones, lo más inteligente era mantenerse al margen.
 —¿Ha venido ya Amberley?
 —No.

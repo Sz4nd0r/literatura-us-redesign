@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# Berenice*
 *(“Berenice”, 1835)*
 *Originalmente publicado en Southern Literary Messenger (marzo 1835);*
 *re-impreso en Southern Literary Messenger (enero 1836)*

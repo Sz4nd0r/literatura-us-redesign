@@ -14,8 +14,6 @@ tags:
 *Residencia en la tierra,*
 *2*
 *(1931-1935):*
-*# Parte V*
-*# ## Oda A Federico García Lorca*
 *Si pudiera llorar de miedo en una*
 *casa sola,*
 *si pudiera sacarme los ojos y comérmelos,*
@@ -145,8 +143,6 @@ las cosas que te puede ofrecer mi amistad
 de melancólico varón varonil.
 Ya sabes por ti mismo muchas cosas.
 Y otras irás sabiendo lentamente.
-# ## ## Alberto
-# ## ## ## Rojas Giménez Viene Volando
 Entre plumas que asustan, entre
 noches,
 entre magnolias, entre telegramas,

@@ -8,7 +8,6 @@ tags:
   - alma
   - pgv
 ---
-*# El jeroglífico del alma*
 *Pedro Gómez Valderrama*
 *La procesion de los ardientes (Bogotá: Miguel Arbeláez Sarmiento, 1973, 180 págs.) “Organigrama. (De “organización” y “grama”) m. Sinopsis o esquema de la organización de una entidad, de una empresa o de una tarea”. (Diccionario de la Real Academia Española, Suplemento, 19a. edición, 1970). ...Para ellos, el gallo era el jeroglífico del alma. Se quedaba a veces pensando, repitiendo automáticamente lo que en apariencia carecía de sentido, al menos para él, pero algo en las palabras juntas le obsesionaba, hacía surgir de sus sarcófagos doscientas momias triunfales, le parecía oír el sonido de los timbales por en medio de las arenas estériles, le daba la sed del Nilo de aguas verdosas y putrefactas, le pintaba el azul seco de los cielos de Nubia, le daba el resplandor de las noches envejecidas de los tiempos faraónicos, y encontraba entonces alguna razón en que el esquema de la victoria del alma fuese el animal matutino, el animal esplendoroso, rojo y negro violentos, que rompía el alba con su canto agresivo.*
 

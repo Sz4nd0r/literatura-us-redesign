@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# Metzengerstein*
 *(“Metzengerstein”, 1832)*
 *Originalmente publicado, anónimo,*
 *con el subtítulo de “A Tale in Imitation of the German”,*

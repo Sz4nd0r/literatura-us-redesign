@@ -11,8 +11,6 @@ tags:
 *T.S. Eliot*
 *(Missouri,*
 *USA, 1888-Londes, 1965)*
-*# El Libro De Gatos Prácticos*
-*# ## Del Viejo Possum*
 *(1939)*
 *EL*
 *## ## BAUTIZO DE LOS GATOS*
@@ -53,7 +51,6 @@ profundo singular inescrutable Nombre.
 (Traducción:
 Jaime García
 Terrés)
-# ## ## Ron Ton Estirón
 El Ron Ton
 Estirón es un gato curioso:
 Si le ofreces faisán prefiere codomiz.
@@ -109,7 +106,6 @@ que de nada sirva mi público palique.
 (Traducción:
 Jaime García
 Terrés)
-# ## ## ## Deuteronomio
 Mucho ha vivido
 el viejo, viejo Deuteronomio,
 Muchas vidas de gato en una larga historia

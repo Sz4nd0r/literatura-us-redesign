@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# La Calma*
 *(“The Calm”)*
 *Originalmente publicado en Iowa Review (1979);*
 *What We Talk About When We Talk About Love (1981);*

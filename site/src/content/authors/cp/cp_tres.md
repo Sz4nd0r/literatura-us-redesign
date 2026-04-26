@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Las Tres Muchachas*
 *(“Le tre ragazze”, 1937)*
 *Publicado póstumamente en Notte di festa (1956)*
 *Tutti i racconti (2002)*

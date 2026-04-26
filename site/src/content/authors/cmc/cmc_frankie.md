@@ -10,7 +10,6 @@ tags:
 ---
 *Carson McCullers*
 *(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
-*# Frankie Y La Boda*
 *(“The Member of the Wedding”)*
 *Originalmente publicado en a revista Harper’s Bazaar (enero 1946)*
 *The Member of the Wedding (1951)*

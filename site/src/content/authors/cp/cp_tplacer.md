@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Trabajar Es Un Placer*
 *(“Lavorare è un piacere”, 1946)*
 *Mecanografiado*
 *Tutti i racconti (2002)*

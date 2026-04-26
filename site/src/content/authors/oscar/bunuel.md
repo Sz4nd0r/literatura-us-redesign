@@ -8,7 +8,6 @@ tags:
   - bunuel
   - oscar
 ---
-*# No exactamente cómo una película de Buñuel*
 *Óscar Collazos (1942 - 2015)*
 
 No exactamente como una película de Buñuel Son de máquina (Bogotá: Editorial Testimonio, 1967, 80 págs.) Lo sientes llegar, pisa fuerte en la puerta para hacer más evidente su presencia. En la cocina, apurada, luchas con los trastos, el calor de la estufa hace hervir también tu cuerpo y sientes que el sudor se escurre por la espalda, por el cuello y las axilas. Lo oyes, afuera, y es mayor la prisa de tus manos en el oficio. Lo sientes.

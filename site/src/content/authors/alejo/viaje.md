@@ -299,7 +299,6 @@ vacilante de quien busca un objeto perdido. Tropezaba con la cama y
 Marcial despertaba sobresaltado, echando mano al rosario de cuentas
 sordas. Las mechas, en sus pocillos de aceite, daban luz triste a
 imágenes que recobraban su color primero.
-# Viii
 Los
 muebles crecían. Se hacía más difícil sostener los antebrazos sobre
 el borde de la mesa del comedor. Los armarios de cornisas labradas
@@ -476,7 +475,6 @@ de las cuadras, se derretían, engrosando un río de metal que galerías
 sin techo canalizaban hacia la tierra. Todo se metamorfoseaba,
 regresando a la condición primera. El barro, volvió al barro, dejando
 un yermo en lugar de la casa.
-# ## Xiii
 Cuando
 los obreros vinieron con el día para proseguir la demolición,
 encontraron el trabajo acabado. Alguien se había llevado la estatua de

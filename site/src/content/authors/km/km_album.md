@@ -50,7 +50,6 @@ necesitaba salir. Aunque se hubiera sentado ante su ventana, y se quedara hasta 
 composición, una pequeña “naturaleza muerta”: las cazuelas con sus tapas, colgadas tras la estufa de gas, el cazo de cobre, el jarro de la leche y la tetera en el estante; sobre la mesa, los libros y
 la lámpara con la pantalla de papel rizado. Un tapiz indio, con una franja de leopardos rojos, cubría la cama durante el día. Y en la pared, junto a la cama, al nivel de los ojos, cuando se estaba tendido
 en ella, tenía un letrerito impreso que decía:
-# Levántate Inmediatamente
 Cada día se parecía al otro: cuando la luz era buena, él se esclavizaba en su trabajo,
 luego cocinaba sus alimentos y lavaba los platos. Y por las tardes se iba al café, o se quedaba en casa, leyendo o haciendo las más complicadas listas de gastos, encabezadas con un
 —Qué podré hacer con esto” y terminadas con un “Juro no exceder esta suma el próximo mes. Firmado Ian French”.

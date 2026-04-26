@@ -8,7 +8,6 @@ tags:
   - seis
   - garciamarquez
 ---
-*# La mujer que llegaba a las seis*
 *Gabriel*
 *García Márquez (n. 1947)*
 *La puerta oscilante se abrió. A esa hora no había nadie en el restaurante de José. Acababan de dar las seis y el hombre sabia que sólo a las seis y media empezarían a llegar los parroquianos habituales. Tan conservadora y regular era su clientela, que no había acabado el reloj de dar la sexta campanada cuando una mujer entró, como todos los días a esa hora, y se sentó sin decir nada en la alta silla giratoria. Traía un cigarrillo sin encender, apretado entre los labios. —Hola reina —dijo José cuando la vio sentarse.*

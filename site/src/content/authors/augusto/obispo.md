@@ -8,7 +8,6 @@ tags:
   - obispo
   - augusto
 ---
-*# El viejo señor obispo*
 *Augusto Roa Bastos (1917 - 2005)*
 
 El trueno entre las hojas (Buenos Aires: Editorial Losada, 1953) La señorita Teresa, hermana del Obispo, tardó un poco más que otras veces en disponer la cena. Pero los infalibles huéspedes también se estaban retrasando. La mesa pucú ya estaba puesta como siempre esperándolos: seis platos de loza desportillada, a cada lado, sobre la madera gastada, desnuda de mantel, y junto a ellos una cuchara de alpaca, un vaso de barro cocido para el agua y una naranja. En la cabecera, que era el sitio de Monseñor, faltaba el vaso. Él nunca bebía en las comidas. Y apenas comía.

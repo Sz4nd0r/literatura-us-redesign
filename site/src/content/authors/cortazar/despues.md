@@ -8,9 +8,7 @@ tags:
   - despues
   - cortazar
 ---
-*# Después del almuerzo*
 *Julio Cortázar*
-*# Después del almuerzo*
 *Julio Cortázar*
 
 Final del juego, 1956) Después del almuerzo yo hubiera querido quedarme en mi cuarto leyendo, pero papá y mamá vinieron casi en seguida a decirme que esa tarde tenía que llevarlo de paseo. Lo primero que contesté fue que no, que lo llevara otro, que por favor me dejaran estudiar en mi cuarto. Iba a decirles otras cosas, explicarles por qué no me gustaba tener que salir con él, pero papá dio un paso adelante y se puso a mirarme en esa forma que no puedo resistir, me clava los ojos y yo siento que se me van entrando cada vez más hondo en la cara, hasta que estoy a punto de gritar y tengo que darme vuelta y contestar que sí, que claro, en seguida.

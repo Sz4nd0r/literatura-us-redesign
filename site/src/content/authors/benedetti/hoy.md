@@ -8,7 +8,6 @@ tags:
   - hoy
   - benedetti
 ---
-*# Poemas del hoyporhoy*
 *Mario Benedetti (1920 - 2009)*
 *Poemas del hoyporhoy (1958-1961) Hoy me gusta la vida mucho menos, pero siempre me gusta vivir... César Vallejo Ich bleibe dennoch. Es gibt immer Zuschaun. Rainer María Rilke LA CRISIS Viene la crisis ojo guardabajo un pan te costará como tres panes tres panes costarán como tres hijos y que barbaridad todos iremos a las nubes en busca de un profeta que nos hable de paz como quien lava. Viene la crisis ojo quizá te esté subiendo por la manga quizá la tengas ahora enroscada sin más en el pescuezo o esté votando con tu credencial o comprando tu fe con tu dinero. Oh cuánto cuánto costará el escrúpulo y la vergüenza buena la importada la que no encoge a la primera lluvia la vergüenza de nylon cienporciento. Oh cuánto cuánto costará el amor en la noche sin dólares ni luna con los perros afónicos y el sueño firmando los conformes con rocío. Oh cuánto cuánto costará la muerte ahora que no hay divisas ni perdón y no hay repuestos para la conciencia ni ganas de morir ni afán ni nada.*
 

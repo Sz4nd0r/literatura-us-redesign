@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Los Hijos Holgazanes*
 *Ultimo viene il corvo (1949)*
 
 Al alba mi hermano y yo dormimos con las caras hundidas en la almohada, y ya se oyen los zapatos claveteados de nuestro padre que ronda por las habitaciones. Nuestro padre hace mucho ruido cuando se levanta, quizás a propósito, y se las arregla para ir y venir por las escaleras con sus zapatos claveteados veinte veces, todas inútiles. Tal vez toda su vida es así, un despilfarro de fuerzas, un gran trabajo inútil, y tal vez lo hace para protestar contra nosotros dos, que tanto lo hacemos rabiar.

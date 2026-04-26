@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# Despertar*
 *(“Risveglio”, 1942)*
 *Originalmente publicado en Il Messaggero de Roma (10 de abril de 1942)*
 *y en Il Secolo XIX de Génova (17 de abril de 1942);*

@@ -8,7 +8,6 @@ tags:
   - tommy
   - willa
 ---
-# Tommy, la que no es sentimental
 
 **Willa Cather**
 

@@ -8,7 +8,6 @@ tags:
   - leon
   - manuel
 ---
-*# El león y el hombre*
 *Manuel Rojas*
 *Originalmente publicado en el periódico La Nación [Santiago de Chile] (6 de enero de 1929); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.), págs. 79-95. En lo más alto de una montaña y en un chiflón que un minero abrió al seguir una veta mineral que se agotó pronto, vivían el León viejo y su hijo. Para el primero habían terminado ya los días de la juventud, aquellos lejanos y alegres días en que sus patas, elásticas y firmes, recorrían los confusos senderos de los bosquecillos cordilleranos, deslizándose silenciosamente entre los quillayes y los boldos, como una inquietante mancha amarilla que en el otoño se confundía con el color del paisaje.*
 *Estaba ahora viejo y achacoso, respetable de vejez y achaques. Para el segundo, en cambio, empezaban aquellos alegres días. En sus tiempos de mocedad, aquel León viejo fue el terror de los caseríos y fundos comarcanos. Vivía entonces a su lado la compañera de sus días, una Leona de ancho pecho y pesadas patas, de piel nerviosa y brillante, ágil en el salto y veloz en la carrera. ¡Cuántas noches de aventuras con ella y cuántas de amor en la soledad de las montañas!*

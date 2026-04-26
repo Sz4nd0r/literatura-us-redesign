@@ -10,7 +10,6 @@ tags:
 ---
 *Clarice Lispector*
 *(Chechelnik, Ucrania, 1920 - Río de Janeiro, 1977)*
-*# El Muerto En El Mar De Urca*
 *(“O morto no mar da Urca”)*
 *Onde estivestes de noite (1974)*
 

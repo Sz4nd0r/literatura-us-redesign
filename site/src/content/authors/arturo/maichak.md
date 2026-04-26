@@ -8,7 +8,6 @@ tags:
   - maichak
   - arturo
 ---
-*# Maichak, el hombre del río*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Treinta hombres y sus sombras (Buenos Aires: Losada, 1949, 173 págs.) I. El hombre del río Fue hace mucho tiempo. Los indios camaracotos, que no cuentan por años, dicen que fue antes de que se formara el gran monte que les hace sombra en la sabana que llaman Auyantepúi. A nadie recuerdan de tiempos tan remotos si no es precisamente a él, a Maichak. Un indio como ellos que vivió cuando los hombres vivían mucho tiempo, dos, tres y cuatro veces más que ahora.*
 

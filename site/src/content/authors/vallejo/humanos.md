@@ -13,7 +13,6 @@ tags:
 *(Perú, 1892-Paris, 1938)*
 *Poemas humanos (1923-1938)*
 *(1938)*
-*# Altura Y Pelos*
 *¿Quién no tiene su vestido azul?*
 *¿Quién no almuerza y no toma el tranvía,*
 *con su cigarrillo contratado y su dolor de bolsillo?*
@@ -29,7 +28,6 @@ muriendo de costumbre y llorando de oído?
 ¿Quién al gato no dice gato gato?
 ¡Ay, yo que sólo he nacido solamente!
 ¡Ay, yo que sólo he nacido solamente!
-# ## Yuntas
 Completamente. Además, ¡vida!
 Completamente. Además, ¡muerte!
 Completamente. Además, ¡todo!
@@ -80,7 +78,6 @@ se ejecuta el cantar de los cantares!
 ¡De qué tronco, el florido carpintero!
 ¡De qué perfecta axila, el frágil remo!
 ¡De qué casco, ambos cascos delanteros!
-# ## ## Primavera Tuberosa
 Esta vez, arrastrando briosa sus
 pobrezas
 al sesgo de mi pompa delantera,
@@ -108,7 +105,6 @@ Flora de estilo, plena,
 citada en fangos de honor por rosas auditivas...
 Respingo, coz, patada sencilla,
 triquiñuela adorada... Cantan... Sudan...
-# ## ## ## Terremoto
 ¿Hablando de la leña, callo el
 fuego?
 ¿Barriendo el suelo, olvido el fósil?

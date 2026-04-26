@@ -11,7 +11,6 @@ tags:
 *Antonio*
 *Skármeta*
 *(Antofagasta, Chile, 1940 -)*
-*# Final Del Tango*
 *Desnudo en el tejado*
 *Premio de Casa de las Américas, 1968*
 *(Buenos Aires: Editorial Sudamericana, 1969, 139 págs.)*

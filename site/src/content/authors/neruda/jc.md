@@ -12,7 +12,6 @@ tags:
 *Neruda*
 *(1904–1973)*
 *![](/assets/images/neruda.jpg)*
-*# Neruda Entre Nosotros*
 *Por Julio Cortázar (1914-1984)*
 *Tan cercano como está en la vida y*
 *en la muerte, toda tentativa de fijarlo desde la escritura corre*

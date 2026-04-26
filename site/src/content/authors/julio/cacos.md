@@ -8,7 +8,6 @@ tags:
   - cacos
   - julio
 ---
-*# Cacos y canes*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La palabra del mudo) La palabra del mudo. Cuentos 1952-1993. Tomo III (Lima: Jaime Campodónico, 1994, 247 págs.) Santa Cruz tenía un sobrenombre: vecinos viejos lo llamaban Matagente. Esto era exagerado, pues los anales policiacos del barrio solo registraban un crimen, el de un chofer de taxi que descuartizó a una mujer y tiró sus restos por los acantilados. Mejor le hubiera caído el tilde de Robagente pues no hubo casa, al comienzo, que no fuera visitada por los cacos. La nuestra, entre otras, pues fue una de las primeras en edificarse, cuando el alumbrado público era incipiente y no había vigilancia policial. Ni sé cuántas veces nos robaron, cerca de diez en todo caso.

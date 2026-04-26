@@ -8,7 +8,6 @@ tags:
   - silvio
   - julio
 ---
-*# Silvio en El Rosedal*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La palabra del mudo) La palabra del mudo. Cuentos 1952-1977, tomo III. (Lima: Milla Batres Editorial, 1977, 220 págs.) El Rosedal era la hacienda más codiciada del valle de Tarma, no por su extensión, pues apenas llegaba a las quinientas hectáreas, sino por su cercanía al pueblo, su feracidad y su hermosura. Los ricos ganaderos tarmeños, que poseían enormes pastizales y sembríos de papas en la alta cordillera, habían soñado siempre con poseer ese pequeño mundo donde, aparte de un lugar de reposo y esparcimiento, podrían hacer un establo modelo, capaz de surtir de leche a todo el vecindario.

@@ -8,7 +8,6 @@ tags:
   - cuatro
   - pgv
 ---
-*# Noticia de los cuatro mensajeros*
 *Pedro Gómez Valderrama*
 
 Noticia de los cuatro mensajeros El Retablo de Maese Pedro (Bogotá: Editorial Iqueima, 1967) Aquí me tienes contra mi voluntad y contra la tuya. Pues nadie estima al portador de malas noticias. Sófocles (Antígona) I. PRIMER MENSAJERO El mensajero salió de N. muy temprano, como de costumbre, llevando en la alforja el pliego cerrado. Ya pasada el alba, con el primer sol remontó la colina. Su andadura no era alegre ni triste, ya que nada veía de qué alegrarse ni de qué lamentarse.

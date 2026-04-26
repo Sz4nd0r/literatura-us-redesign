@@ -8,11 +8,9 @@ tags:
   - elpadre
   - acs
 ---
-*# El Padre*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *La casa grande (Bogotá: Mito, 1962, 220 págs.)*
 *Para Alejandro Obregón*
-*# ## El Padre*
 
 El Padre está sentado en una silla rústica hecha de madera y de cuero templado y sin curtir. El Padre tiene sesenta años y es fuerte y duro. Cuando se ponga de pies el Padre será de baja estatura, las espaldas serán anchas, la nuca abultada, el pecho poderoso, la cintura delgada y las piernas ligeramente corvas de haber pasado gran parte de sus sesenta años sobre un caballo.
 

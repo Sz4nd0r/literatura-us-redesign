@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# La Niña Del Hotel*
 *(“The Hotel Child”)*
 *Originalmente publicado en The Saturday Evening Post, 203 (31 de enero de 1931);*
 *Bits of Paradise: 21 Uncollected Stories by F. Scott and Zelda Fitzgerald*

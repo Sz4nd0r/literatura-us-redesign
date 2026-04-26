@@ -14,7 +14,6 @@ tags:
 *(“Miss Harriet”)*
 *Originalmente publicado, como “Miss Hastings”, en el periódico Le Gaulois*
 *(9 de julio de 1883);*
-*# Miss Harriet*
 *(París: Victor-Havard Éditeur, 1884, 348 págs.)*
 *A la señora…*
 

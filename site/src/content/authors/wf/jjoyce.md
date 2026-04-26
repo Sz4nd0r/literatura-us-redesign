@@ -8,7 +8,6 @@ tags:
   - jjoyce
   - wf
 ---
-# James Joyce
 
 **James Joyce**
 

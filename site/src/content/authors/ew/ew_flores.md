@@ -10,7 +10,6 @@ tags:
 ---
 *Eudora Welty*
 *(Jackson, Mississippi, 1909-2001)*
-*# Flores Para Marjorie*
 *(“Flowers for Marjorie”)*
 *A Curtain of Green and Other Stories, 1941*
 

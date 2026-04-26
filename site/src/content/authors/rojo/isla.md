@@ -14,7 +14,6 @@ tags:
 *Massachusetts, 2005)*
 *La isla*
 *que se repite*
-*# Introducción*
 *En las últimas décadas hemos*
 *visto detallarse de manera cada vez más clara un número de naciones*
 *americanas con experiencias coloniales distintas, que hablan lenguas*
@@ -176,7 +175,6 @@ ruido, cuya complejidad atraviesan la cronología de las grandes
 contingencias de la historia universal, de los cambios magistrales del
 discurso económico, de los mayores choques de razas y culturas que ha
 visto la humanidad.
-# ## De La Máquina De Colón A La Máquina Azucarera
 Seamos realistas: el Atlántico es hoy
 el Atlántico (con todas sus ciudades portuarias) porque alguna vez fue
 producto de la cópula de Europa —ese insaciable toro solarcon las
@@ -391,7 +389,6 @@ dependiendo de las páginas de la historia, esa astuta cocinera que
 siempre nos da gato por liebre. Hablemos entonces del Caribe que se puede
 ver, tocar, oler, oír, gustar; el Caribe de los sentidos, de los
 sentimientos y los presentimientos.
-# ## ## Del Apocalipsis Al Caos
 Puedo aislar con pasmosa exactitud -al
 igual que el héroe novelesco de Sartre- el momento en que arribé a la
 edad de la razón. Fue una hermosísima tarde de octubre, hace años,
@@ -674,7 +671,6 @@ remoto que se reproduce y que porta el deseo de conjurar apocalipsis y
 violencia; algo oscuro que viene de la performance y que uno hace suyo de
 una manera muy especial; concretamente, al salvar uno el espacio que
 separa al observador cntemplativo del participante.
-# ## ## ## Del Ritmo Al Polirritmo
 La naturaleza es el flujo de una
 máquina feed-back incognoscible que la sociedad interrumpe constantemente
 con los más variados y ruidosos ritmos. Cada uno de estos ritmos es, a su

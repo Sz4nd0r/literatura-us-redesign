@@ -8,7 +8,6 @@ tags:
   - entes
   - pgv
 ---
-*# La procesión de los ardientes*
 *Pedro Gómez Valderrama*
 
 La procesion de los ardientes (Bogotá: Miguel Arbeláez Sarmiento, 1973, 180 págs.) “...y el cuerpo hecho cadáver, vuelva a la tierra de que fue formado”. (Testamento de D. José María Claro, Siglo XVIII). I La lluvia lo llenaba todo de una masa viscosa de humedad oscura, como en el principio del mundo. Bajo el mal refugio de los árboles, gruesos goterones le caían en la cara, le resbalaban por el cuello, se demoraban en su cabeza para deslizarse por la piel y entraparse en las ropas.

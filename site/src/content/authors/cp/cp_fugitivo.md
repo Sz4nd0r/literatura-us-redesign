@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# El Fugitivo*
 *([Il fuggiasco], 1944)*
 *Sólo hay un borrador sin título, fragmento*
 *Tutti i racconti (2002)*

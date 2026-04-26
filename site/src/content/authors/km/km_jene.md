@@ -14,7 +14,6 @@ tags:
 *Francia, 1923)*
 *Je ne parle pas français (1918)*
 *(“Je ne parle pas français”)*
-*# Je Ne Parle Pas Français*
 *(Hampstead: The Heron Press, 1919)*
 *Bliss and Other Stories*
 *(Londres: Constable & Company, 1920, 280 págs.)*

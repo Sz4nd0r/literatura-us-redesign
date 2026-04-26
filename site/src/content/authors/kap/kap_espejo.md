@@ -10,7 +10,6 @@ tags:
 ---
 *Katherine Anne Porter*
 *(Indian Creek, Texas, 1890 - Silver Spring, Maryland, 1980)*
-*# El Espejo Agrietado*
 *—The Cracked Looking-Glass*
 *Originalmente publicado en Scribner's Magazine, 91 (Mayo 1932), pp. 271-76, 313-20*
 *Flowering Judas and Other Stories (1935 edition)*

@@ -8,7 +8,6 @@ tags:
   - otros
   - julio
 ---
-*# Los otros*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 La palabra del mudo) La palabra del mudo. Cuentos 1952-1993. Tomo III (Lima: Jaime Campodónico, 1994, 247 págs.) Ese hombre gordo y medio calvo que toma una cerveza en la terraza del café Haití mientras lee un periódico y se hace lustrar los zapatos fue el invencible atleta de la clase que nos dejó siempre botados en la carrera de cien metros planos y esa señora ajada y tristona que sale de una tienda cargada de paquetes la guapa del colegio a quien todos nos declaramos alguna vez en vano.

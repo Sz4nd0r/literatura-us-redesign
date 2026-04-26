@@ -12,7 +12,6 @@ tags:
 *Benítez Rojo*
 *(La Habana, 1931-*
 *Massachusetts, 2005)*
-*# El Escudo De Hojas Secas*
 *## El escudo de hojas secas*
 *(La Habana: UNEAC, 1969)*
 
@@ -88,9 +87,6 @@ Cuando Miyares entró en la perrera con el plato, Lucky estaba inquieto, saltand
 Y el hombre había bebido con calma de su cantimplora y había caminado hasta la esquina y allí se había vuelto con los dedos en la frente, como hacen los boy-scouts.
 Al otro día, de acuerdo con los deseos de Isolina, Miyares se reunió con Ricardito y Benavides (bien: resumiendo): debía presentar su candidatura de representante por el Partido Liberal y para la campaña entregaría a Benavides un cheque de ochenta mil pesos; Ricardito, en cambio, viajaría de inmediato a España a buscar un título de marqués, para lo cual cincuenta mil dólares parecían suficientes y él, él que quisiera quedarse en La Habana y no perderse un juego de pelota, tenía que irse a la Florida con su hija y su mujer y media docena de criados, porque allá, como ha dicho Benavides, está invernando la flor de la sociedad cubana y es preciso que lo vean botar el dinero.
 Quizá por no haber viajado nunca, Ricardito se entusiasmó demasiado con los nuevos paisajes: a la semana recorría a todo trapo, en unión de una silenciosa húngara, ex campeona de florete, y un torero zurdo, conocido por Miguelón o el Diestro, los resortes turísticos de más fama localizando nobles empobrecidos. Finalmente, después de consultarse con un gitano frenólogo, que le diagnosticó una tendencia al tedio, optó por una vida de aventuras. Antes, sin embargo, adquirió un título apócrifo por nueve dólares, lo metió en un estuche de cuero con detalles toledanos y lo mandó por correo aéreo a la dirección de Miyares. También pasó el siguiente cable:
-# ## No 22/1389 Toledoesp 26/25 2 1900
-# ## ## Lt Jose Miyares
-# ## ## ## Calle 23 Numero 1409
 ## ## ## ## VEDADO HABANA CUBA
 ## ## ## ## ENVIO CORREO TITULO MARQUES DE PENASECA STOP FA-
 ## ## ## ## MILIA HISTORIA TURBULENTA EPOCA PEDRO EL CRUEL

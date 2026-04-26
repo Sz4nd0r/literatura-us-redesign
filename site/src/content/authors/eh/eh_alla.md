@@ -11,7 +11,6 @@ tags:
 *Ernest*
 *Hemingway*
 *(Oak Park, Ilinois, E.U, 1899 - ‎Ketchum, Idaho‎, E.U., 1961)*
-*# Allá En Michigan*
 *(“Up in Michigan”)*
 *Three Stories and Ten Poems*
 *(Dijon: Printed by Maurice Darantière, 1923, 60 págs.);*

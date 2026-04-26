@@ -10,7 +10,6 @@ tags:
 ---
 *Antón Chéjov*
 *(Ucrania, 1860 - Alemania, 1904)*
-*# La Hija De Albión*
 *(1883)*
 *(“Дочь Альбиона”)*
 *Originalmente publicado en la revista Fragmentos [Añicos], Núm. 33 (13 de agosto de 1883);*

@@ -10,7 +10,6 @@ tags:
 ---
 *Joseph Conrad*
 *(Berdyczów, entonces Polonia, actual Ucrania, 1857 - Bishopsbourne, Inglaterra, 1924)*
-*# El Corazón De Las Tinieblas*
 *(1899)*
 *(“Heart of Darkness”)*
 *Originalmente publicado, en tres partes, en Blackwood’s Magazine [Londres],*

@@ -8,7 +8,6 @@ tags:
   - mistico
   - romulo
 ---
-*# Un místico*
 *Rómulo Gallegos (n. 1969)*
 *Originalmente publicado en Actualidades (1 de junio de 1919); La rebelión y otros cuentos (Caracas: Librería y Editorial del Maestro, 1946, 293 págs.) I —¿Conque decididamente te quedas entre nosotros? —decía el padre Juan Solís a su amigo el doctor Eduardo Real, reanudando la amigable plática que sostuvieron durante el almuerzo con que obsequiara al médico, recién llegado al pueblo. —Sí. Hay aquí una buena cantidad de enfermos que prometen abundante clientela. —Desgraciadamente es así. Éste es un pueblo de enfermos. El nombre poético con que lo has designado le viene de perlas: Valle de los Delirios. ¡Y qué delirios, querido Eduardo, qué delirios! Ya irás viendo. —No podía ocurrírseme otro nombre mejor.*
 

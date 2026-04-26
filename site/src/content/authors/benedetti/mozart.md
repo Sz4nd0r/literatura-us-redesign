@@ -8,7 +8,6 @@ tags:
   - mozart
   - benedetti
 ---
-*# Escuchar a Mozart*
 *Mario Benedetti (1920 - 2009)*
 
 Con y sin nostalgia, 1977) Pensar, capitán Montes, que hubieras podido seguir durmiendo tu siesta. En realidad, estás cansado. Hay que reconocer que la faena de anoche fue dura, con esos doce presos que llegaron juntos, ya bastante maltrechos, y ustedes tuvieron que arruinarlos un poquito más. Eso siempre te deja un malestar, sobre todo cuando no se consigue que suelten nada, ni siquiera el número de zapatos o el talle de la camisa.

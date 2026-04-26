@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# El Castello*
 *(“Il Castello”, 1942)*
 *Inconcluso*
 *Tutti i racconti (2002)*

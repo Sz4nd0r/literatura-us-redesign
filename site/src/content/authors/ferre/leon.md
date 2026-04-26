@@ -8,7 +8,6 @@ tags:
   - leon
   - ferre
 ---
-*# Marina y el león*
 *Rosario Ferré (2001 - 1972)*
 *Marina y el león Papeles de Pandora (México: Editorial Joaquín Mortiz, 1976, 207 págs.), págs. 93-103 Fue para celebrar la llegada del reportero norteamericano, empeñado en escribir un artículo sobre los éxitos económicos de la familia, que Marina decidió dar una fiesta de disfraces. Se mandó hacer un precioso vestido de muñeca, con mitones de perlas y zapatillas de raso con grandes lazos blancos en las puntas. La metieron en una caja forrada de seda y envuelta en papel de celofán. A través de aquella superficie dura y viscosa a la vez, Marina vio pasar el mundo aquella noche como si estuviera recubierto por una capa de barniz, abrillantado en miles de pliegues que se estriaban en prismas al atravesarlos la luz. Es como si la estuviera soñando, se dijo. Mi vida toda es como la veo ahora, lejana y reluciente, exactamente como si la estuviera soñando.*
 

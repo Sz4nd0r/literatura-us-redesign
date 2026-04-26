@@ -17,7 +17,6 @@ tags:
 *Jules Supervielle.*
 
 De algunas frases y de un tono pertenecientes a un cuento suyo de hace veinticinco años, nacieron en el autor, tanto después, las partes de este libro de imaginación, autónomas pero a la vez dependientes de un fondo y una historia antagónicos de aquel relato: el fondo y la historia de un medio (una juventud y una familia) y a la vez de otros hechos y otros infortunios, pertenecientes los unos a la vida, los otros a la leyenda, y sujetos por nostálgica e inescapable fatalidad a la ley secreta de la declinación y transfiguración final de todo cuanto vive “en algo rico y extraño” [Into something rich and strange. Palabras del epitafio de Shelley en el cementerio romano de Cayo Cestio].
-# # # # E. M.
 Las historias de esta historia
 son contadas aquí por Adhemar, hijo de Ribas.
 Primera

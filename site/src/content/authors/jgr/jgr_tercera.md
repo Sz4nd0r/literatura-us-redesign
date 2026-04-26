@@ -10,7 +10,6 @@ tags:
 ---
 *João Guimarães Rosa*
 *(Minas Gerais, Brazil, 1908 — Rio de Janeiro, 1967)*
-*# La Tercera Margen Del Río*
 *(“A terceira margem do rio”)*
 *[Otro título en español: “La tercera orilla del río”]*
 *Primeiras estórias*

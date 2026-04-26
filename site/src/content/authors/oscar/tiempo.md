@@ -8,7 +8,6 @@ tags:
   - tiempo
   - oscar
 ---
-*# Invitada del tiempo*
 *Óscar Collazos (1942 - 2015)*
 *Invitada del tiempo Adiós Europa, adiós (Bogotá: Planeta Colombiana Editorial S.A. (Seix Barral], 2000, 130 págs.) A G.G.M. Y aunque lo jurara, ¿qué ganaría con ello? La abuela sabía que en los últimos tiempos se juraba por cualquier cosa, por las más nimias y ante las más atroces circunstancias. Pedirle que no jurara el nombre de Dios en vano era obligarlo a hacer lo que ella no deseaba. El niño, acudiendo a la acostumbrada teatralidad de sus ojos en blanco, diría que no había sido él, por Dios abuela, no he sido yo.*
 

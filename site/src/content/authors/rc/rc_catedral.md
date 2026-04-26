@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Catedral*
 *(“Cathedral”)*
 *Originalmente publicado en The Atlantic Monthly (septiembre 1981);*
 *Cathedral (1983);*

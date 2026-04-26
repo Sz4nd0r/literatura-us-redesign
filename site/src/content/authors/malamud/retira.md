@@ -10,7 +10,6 @@ tags:
 ---
 *Bernard Malamud*
 *(26 de abril, 1914 – 18 de marzo, 1986)*
-*# El Retirado*
 *(1973)*
 *(“In Retirement”)*
 *Originalmente publicado en la revista The Atlantic (marzo 1973);*

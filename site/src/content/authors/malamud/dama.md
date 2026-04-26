@@ -10,7 +10,6 @@ tags:
 ---
 *Bernard Malamud*
 *(26 de abril, 1914 – 18 de marzo, 1986)*
-*# Notas De Una Dama Durante Una Cena*
 *(1973)*
 *(“Notes from a Lady at a Dinner Party”)*
 *Originalmente publicado en la revista Harper's (febrero 1973);*

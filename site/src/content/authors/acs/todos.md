@@ -8,7 +8,6 @@ tags:
   - todos
   - acs
 ---
-*# Todos estábamos a la espera*
 *Álvaro Cepeda Samudio (Barranquilla, Colombia, 1926 - Nueva York, 1972)*
 *Todos estábamos a la espera (Con dibujos de Cecilia Porras) (Barranquilla: Editorial Arte, 1954, 70 págs.)*
 *También en: Todos estábamos a la espera (Barranquilla: Ediciones Librería Mundo, 1954)*

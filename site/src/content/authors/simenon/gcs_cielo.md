@@ -469,7 +469,6 @@ El señor Vauquelin-Radot agachó la cabeza.
 —Eso es todo lo que tenía que decirle, caballero. Como usted dijo ayer tan justamente, yo no estoy encargado de las investigaciones… Me he valido de la astucia para entrar en su casa, aparentando ser un chantajista, porque de lo contrario, como ayer mismo, se me hubiera echado a la calle.
 —¿Qué piensa usted hacer?
 —Nada. —Volverme a casa…
-# # # # —¿Y…?
 Vaciló. No sabía cómo formular la pregunta.
 —¿Si encuentra a su amigo el juez de instrucción?
 —Es a él a quien concierne el asunto, ¿no es cierto? Yo ni siquiera soy un testigo. En cuanto al cheque… Más adelante, cuando ya no se pensará más en ese asunto, que, según supongo, nadie aclarará, me pregunto si no sería de desear… que el cadáver de su hermano… He sabido que los Vauquelin-Radot poseen una tumba de familia en Versalles… Esos cincuenta mil francos…

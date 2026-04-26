@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988))*
-*# El Tren*
 *(“The Train”)*
 *Originalmente publicado en Antaeus (1983);*
 *Cathedral (1983);*

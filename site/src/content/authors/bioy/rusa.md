@@ -8,7 +8,6 @@ tags:
   - rusa
   - bioy
 ---
-*# Una muñeca rusa*
 *Adolfo Bioy Casares (1914 - 1999)*
 *Los males de mi columna me retuvieron en un largo encierro, interrumpido únicamente por visitas a consultorios, a institutos de radiografías y de análisis. Al cabo de un año recurrí a las termas, porque me acordé de Aix-les-Bains. Quiero decir, de su fama de rumbosas temporadas de la gente más frívola y elegante de Europa; y de aguas cuya virtud curativa se admitió desde tiempos anteriores a Julio César. Para que mi estado de ánimo cambiara y para que reaccionara mi organismo, creo que yo necesitaba, más aún que las aguas, la frivolidad.*
 *Volé a París, donde pasé poco menos de una semana; después un tren me llevó a Aix-les-Bains. Bajé en una estación chica y modesta, que me sugirió la reflexión: «Para buen gusto, los países del viejo continente. En nuestra América somos faroleros. Caben cuatro estaciones de Aix en la nueva de Mar del Plata». Confieso que al formular la última parte de esa reflexión, me invadió un grato orgullo patriótico. Al salir vi dos avenidas: una paralela a las vías, otra perpendicular.*

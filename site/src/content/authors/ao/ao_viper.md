@@ -8,7 +8,6 @@ tags:
   - ao_viper
   - ao
 ---
-# Nómadas y víbora
 
 **Amos Oz**
 

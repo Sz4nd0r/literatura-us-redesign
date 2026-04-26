@@ -31,7 +31,6 @@ Una colección de cuentos, Last Tales, que incluía siete historias que Blixen h
 En 1959, Blixen hizo su único viaje a los Estados Unidos. Fue un viaje que se extiendió de enero a abril.
 Después de regresar a Dinamarca, Blixen volvió a trabajar, terminando Shadows on the Grass (que consta de cuatro cuentos: “Shadows on the Grass”, “Faith is Revealed”, “The Great Gesture” y “Echoes from the Hills”), en 1960.
 Blixen murió el 7 de septiembre de 1962, en Rungstedlund, a la edad de 77 años, aparentemente de desnutrición.
-# Índice:
 Cuentos:
 Seven Gothic Tales (1934)
 La inundación

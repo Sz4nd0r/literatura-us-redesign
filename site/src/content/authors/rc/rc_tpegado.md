@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Distancia*
 *[Otro título en español: “Todo pegado a la ropa”]*
 *(“Distance”, “Everything Stuck to Him”)*
 *Originalmente publicado, como “Distance”, en Chariton Review (Fall 1975)*

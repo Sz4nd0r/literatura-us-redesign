@@ -36,13 +36,11 @@ Después de la publicación de Rabbit at Rest, Updike pasó el resto de los año
 En medio de esos experimentos, publicó una novela más convencional, In the Beauty of the Lilies (1996), una saga histórica que abarca varias generaciones y que explora temas de religión y cine en América. Es considerada la novela más exitosa de la última etapa de Updike.
 En 2003, Updike publicó The Early Stories, una gran colección de cuentos que abarca desde mediados de los cincuenta hasta mediados de los setenta. Más de 800 páginas, con más de cien historias, ganó el Premio PEN/Faulkner de ficción en 2004.
 John Updike murió de cáncer de pulmón en un hospicio en Danvers, Massachusetts, el 27 de enero de 2009, a la edad de 76 años.
-# Índice:
 Cuentos:
 The Same Door (1959):
 —El mañana y el mañana y el etcétera (1955)
 —Los caimanes (1958)
 Pigeon Feathers (1962):
-# # # ## —A&P (1961)
 The Music School (1966):
 —Hojas (1964)
 Museums and Women and Other Stories (1972):

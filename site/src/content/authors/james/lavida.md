@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# La Vida Privada*
 *(“The Private Life”, 1892)*
 *Originalmente publicado en The Atlantic Monthly, vol. 69, no. 414 (abril, 1892)*
 *The Private Life; The Wheel of Time; [etc.] (1893)*

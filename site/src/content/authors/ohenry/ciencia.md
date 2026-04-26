@@ -24,7 +24,6 @@ tags:
 —Si uno tiene suficiente capital para la propaganda, y ese ‘suficiente’ puede ser de tamaño como el extremo del tope de un vagón, siempre hay dinero en eso de las agencias matrimoniales. Nosotros poseíamos unos seis mil dólares y esperábamos doblarlos en un par de meses, que es el tiempo que uno puede sostener una empresa de esa clase sin ir a Nueva Jersey en la forma que te figuras.
 —Empezamos redactando un anuncio con el texto siguiente:
 Viuda encantadora, bella, amante del hogar, treinta y dos años de edad, con tres mil dólares en metálico y valiosas propiedades rurales, desea casarse. Preferiría hombre pobre, con carácter afectuoso, a otro con grandes medios, porque le consta que las verdaderas virtudes se encuentran a menudo en los más humildes planos de la vida. No rechazará hombres de edad o de apariencia corriente, siempre que sean fieles y sinceros y valgan para administrar propiedades e invertir dinero con sensatez. Diríjanse, con detalles, a
-# Solitaria
 Agencia Peters y Tucker, Cairo, Illinois.
 —Cuando terminamos aquella pieza literaria, dije a mi compañero:
 —Hasta ahora no veo en esto nada de pernicioso. Pero ¿dónde está la mujer?

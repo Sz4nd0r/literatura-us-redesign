@@ -8,9 +8,7 @@ tags:
   - deshoras
   - cortazar
 ---
-*# Deshoras*
 *Julio Cortázar*
-*# Deshoras*
 *Julio Cortázar*
 
 Ya no tenía ninguna razón especial para acordarme de todo eso, y aunque me gustaba escribir por temporadas y algunos amigos aprobaban mis versos o mis relatos, me ocurría preguntarme a veces si esos recuerdos de la infancia merecían ser escritos si no nacían de la ingenua tendencia a creer que las cosas habían sido más de veras cuando las ponía en palabras para fijarlas a mi manera, para tenerlas ahí como las corbatas en el armario o el cuerpo de Felisa por la noche, algo que no se podría vivir de nuevo pero que se hacía más presente como si en el mero recuerdo se abriera paso una tercera dimensión, una casi siempre amarga pero tan deseada contigüidad.

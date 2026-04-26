@@ -8,7 +8,6 @@ tags:
   - elsocio
   - juanbosch
 ---
-*# El Socio*
 *Juan Bosch (1909 - 2001)*
 *Originalmente publicado en la Revista Carteles (20 de octubre de 1940), págs. 22 y 27; Ocho cuentos (La Habana: Edición del autor, 1947, 132 págs.); Más cuentos escritos en el exilio (Santo Domingo, Librería Dominicana, Colección Pensamiento Dominicano, 1964, 285 págs.) Justamente a una misma hora, tres hombres que estaban a distancia pensaban igual cosa. En su rancho del Sabanal, Negro Manzueta maquinaba vengarse de don Anselmo y calculaba cómo hacerlo sin que el Socio se diera cuenta de lo que planeaba; en la cárcel del pueblo Dionisio Rojas cavilaba cómo matarlo, tan pronto saliera de allí, y de qué manera se las arreglaría para que el Socio no saliera en defensa de aquel odiado hombre; en su bohío de la Gina, sentado en un catre, el viejo Adán Matías apretaba el puño lleno de ira porque no hallaba el medio de matar a don Anselmo sin que el condenado Socio se enterara y pretendiera evitarlo.*
 

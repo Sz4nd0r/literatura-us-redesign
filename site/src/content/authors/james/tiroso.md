@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# El Mentiroso*
 *(“The Liar”, 1988)*
 *Originalmente publicado en Century Magazine (mayo-junio de 1888)*
 *Una vida en Londres y otros relatos (1889)*

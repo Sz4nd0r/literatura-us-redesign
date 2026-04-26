@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# Hop-Frog*
 *(“Hop-Frog”, 1849)*
 *Originalmente publicado, como “Hop-Frog; Or, the Eight Chained Ourangoutangs”,*
 *en el periódico The Flag of Our Union, Boston (17 de marzo de 1849)*

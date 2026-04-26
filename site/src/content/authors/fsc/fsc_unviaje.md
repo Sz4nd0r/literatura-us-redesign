@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Un Viaje Al Extranjero*
 *(“One Trip Abroad”)*
 *Originalmente publicado en The Saturday Evening Post, 203 (11 de octubre de 1930);*
 *Afternoon of an Author: A Selection of Uncollected Stories and Essays*

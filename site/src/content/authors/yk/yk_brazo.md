@@ -8,7 +8,6 @@ tags:
   - yk_brazo
   - yk
 ---
-# Un brazo
 
 **Yasunari Kawabata**
 

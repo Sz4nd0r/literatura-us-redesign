@@ -10,7 +10,6 @@ tags:
 ---
 *Lorrie Moore*
 *(Glens Falls, NY, 1957 –)*
-*# Como La Vida*
 *(1988)*
 *(“Like Life”)*
 *Like Life*

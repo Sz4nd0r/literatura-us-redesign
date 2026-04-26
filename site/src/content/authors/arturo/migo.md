@@ -8,7 +8,6 @@ tags:
   - migo
   - arturo
 ---
-*# El enemigo*
 *Arturo Uslar Pietri (1906 - 2001)*
 *El prójimo y otros cuentos* (1978)*
 *El sargento avanzaba por el camino de ronda, sobre la muralla que caía a pico en el mar. Cada vez que estallaba la ola en los estribos del muro, subía hasta él, con el sordo rumor de aquel golpear profundo, el penetrante vaho salitroso que parecía empañar el cristal puro de la mañana. La inmensidad del mar se extendía limpia y abierta hasta el horizonte, desde los cocales de la costa. Apenas se divisaban a un lado, en el abierto atracadero, dos goletas que mecían en el aire la bandera amarilla de los insurgentes, que era la misma que sobre el tope de la fortaleza se sacudía en la rápida brisa que del mar venía a golpear, como otra ola transparente, el alto muro de la montaña que se levantaba a espaldas del pueblo. El sargento era menudo y fuerte, el pelo lacio de indio le salía por entre un pañuelo de colores que tenía atado en la frente y a veces le caía, impulsado por sus bruscos movimientos de cabeza, sobre los ojos entrecerrados, quietos y penetrantes. A su lado arrastraba pendiente un sable, cuya contera tintineaba al resbalar sobre las piedras desiguales del camino de ronda. Un centinela, que avanzaba en sentido contrario, se cuadró ante él: —Mi sargento Tunapuy. No hay novedad.*

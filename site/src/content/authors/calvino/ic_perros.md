@@ -11,7 +11,6 @@ tags:
 *Italo*
 *Calvino*
 *(1923-1985)*
-*# Durmiendo Como Perros*
 *Ultimo viene il corvo (1949)*
 
 Cada vez que abría los ojos sentía encima toda aquella luz amarilla y ácida de las grandes lámparas de la taquilla. Y se los cubría levantando las solapas de la chaqueta, en busca de oscuridad y calor. Al echarse no había advertido lo heladas y duras que eran las losas de piedra del pavimento; ahora cuchillos de frío se le metían debajo del traje y por los agujeros de los zapatos, y la poca carne de los costados le dolía, apretada entre los huesos y la piedra.

@@ -10,7 +10,6 @@ tags:
 ---
 *Grace Paley*
 *(Bronx, Nueva York, 1922 - Thetford, Vermont, 2007)*
-*# Zagrowsky Cuenta*
 *(“Zagrowsky Tells”)*
 *Later the Same Day (1985)*
 *[Más tarde, el mismo día (1985)]*

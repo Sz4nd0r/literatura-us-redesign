@@ -26,7 +26,6 @@ Joyce se dispuso a terminar Ulysses en París, contento al descubrir que poco a 
 En París, Maria y Eugene Jolas cuidaron a Joyce durante sus largos años escribiendo
 Finnegans Wake. Si no fuera por el apoyo de los Jolas (junto con el constante apoyo financiero de Harriet Shaw Weaver), existe una buena posibilidad de que los libros de Joyce nunca se hayan terminado o publicado. En su revista literaria transition, los Jolases publicaron en serie varias secciones de Finnegans Wake, bajo el título Work in Progress.
 Joyce regresó a Zurich a finales de 1940, huyendo de la ocupación nazi de Francia. El 11 de enero de 1941, Joyce se sometió a cirugía en Zurich por una úlcera duodenal perforada. Cayó en coma al día siguiente. Se despertó a las 2 de la mañana del 13 de enero de 1941, y murió 15 minutos después, menos de un mes antes de cumplir 59 años.
-# Índice:
 Narrativa:
 Dublineses (1914)
 —Las hermanas

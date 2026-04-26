@@ -8,9 +8,7 @@ tags:
   - circe
   - cortazar
 ---
-*# Circe*
 *Julio Cortázar*
-*# Circe*
 *Julio Cortázar*
 
 And one kiss I had of her mouth, as I took the apple from her hand. But while I bit it, my brain whirled and my foot stumbled; and I felt my crashing fall through the tangled boughs beneath her feet, and saw the dead white faces that welcomed me in the pit. DANTE GABRIEL ROSSETTI, The Orchard-Pit. Porque ya no ha de importarle, pero esa vez le dolió la coincidencia de los chismes entrecortados, la cara servil de Madre Celeste contándole a tía Bebé la incrédula desazón en el gesto de su padre.

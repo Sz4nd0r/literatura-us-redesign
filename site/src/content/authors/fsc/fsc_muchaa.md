@@ -11,7 +11,6 @@ tags:
 *F. Scott Fitzgerald*
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Pongan Agua A Hervir, Mucha, Mucha*
 *(“‘Boil Some Water—Lots of It,’ ”)*
 *Originalmente publicado en Esquire, 13 (marzo de 1940);*
 *Afternoon of an Author: A Selection of Uncollected Stories and Essays*

@@ -8,7 +8,6 @@ tags:
   - shara
   - mutis
 ---
-*# Sharaya*
 *Álvaro Mutis*
 *Su cuerpo se había cubierto de una costra gris y su pelo colgaba en grasientas greñas por las que caminaban los insectos. Sus huesos, forrados por la piel, formaban ángulos oscuros e imposibles que daban a la inmóvil figura un aire pétreo y estatuario que en mucho contribuyera al olvido en que lo tenían las gentes del lugar. Sólo los viejos recordaban aún, entre la niebla de sus mocedades, la llegada del esbelto Santón, entonces con cierto aire mundano y dueño de una locuacidad en materias religiosas que fue perdiendo a medida que ganaba mayores y más vastos dominios en su tarea de meditación al pie del camino. A pesar del poco o ningún caso que le hacían ahora los habitantes de la aldea, y tal vez gracias a ello, Sharaya era un atento observador de la vida circundante y conocía como pocos las intrincadas y mezquinas historias que se tejían y borraban en el pueblo al paso de los años.*
 

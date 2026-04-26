@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# La Señorita Leona*
 *(Más allá y otros cuentos, 1935)*
 
 Una vez que el hombre, débil, desnudo y sin garras, hubo dominado a los demás animales por el esfuerzo de su inteligencia, llegó a temer por el destino de su especie.

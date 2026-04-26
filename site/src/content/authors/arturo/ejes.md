@@ -8,7 +8,6 @@ tags:
   - ejes
   - arturo
 ---
-*# Los herejes*
 *Arturo Uslar Pietri (1906 - 2001)*
 *Treinta hombres y sus sombras* (1949)*
 

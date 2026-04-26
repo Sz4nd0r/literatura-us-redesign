@@ -8,7 +8,6 @@ tags:
   - delica
   - liliana
 ---
-*# Delicadeza*
 *Liliana Heker*
 
 La muerte de Dios (Buenos Aires: Aguilar, Altea, Taurus, Alfaguara, 2011, 208 págs.) La señora Brun estaba terminando de arreglarse para ir a visitar a su amiga Silvina cuando advirtió que, por el surtidor del bidet, salía un poco de agua. Trató de cerrar bien las canillas pero no dio resultado. Las abrió a fondo para luego cerrarlas con el envión pero, por más que apretó, el chorro de agua caliente salía con tanta presión que casi llegaba al techo.

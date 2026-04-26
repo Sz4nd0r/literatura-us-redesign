@@ -10,7 +10,6 @@ tags:
 ---
 *F. Scott Fitzgerald*
 *(Saint Paul, Minnesota, 1896 – Hollywood, California, 1940)*
-*# Cabeza Y Hombros*
 *(“Head and Shoulders”)*
 
 (originalmente publicado en The Saturday Evening Post, 192 (21 de febrero de 1920);

@@ -8,7 +8,6 @@ tags:
   - bandido
   - manuel
 ---
-*# Bandidos en los caminos*
 *Manuel Rojas*
 *Originalmente publicado en el periódico El Mercurio [Santiago de Chile] (21 de agosto de 1927); Travesía. Novelas breves (Santiago de Chile: Nascimento, 1934, 191 págs.), págs. 5-17. Pancho el Largo y su antiguo camarada de aventuras, el Huaso Blanco Encalada, tenían que realizar aquella noche una pequeña y delicada diligencia. Separados, por azares del oficio, durante varios años, habíanse reunido en Santiago poco tiempo antes.*
 

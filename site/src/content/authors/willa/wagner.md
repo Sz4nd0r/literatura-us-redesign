@@ -8,7 +8,6 @@ tags:
   - wagner
   - willa
 ---
-# El concierto de Wagner
 
 **Willa Cather**
 

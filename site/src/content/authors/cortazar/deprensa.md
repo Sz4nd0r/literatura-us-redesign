@@ -8,7 +8,6 @@ tags:
   - deprensa
   - cortazar
 ---
-*# Recortes de prensa*
 *Julio Cortázar*
 
 Aunque no creo necesario decirlo, el primer recorte es real y el segundo imaginario. El escultor vive en la calle Riquet, lo que no me parece una idea acertada, pero en París no se puede elegir demasiado cuando se es argentino y escultor, dos maneras habituales de vivir difícilmente en esta ciudad. En realidad nos conocemos mal, desde pedazos de tiempo que abarcan ya veinte años; cuando me telefoneó para hablarme de un libro con reproducciones de sus trabajos más recientes y pedirme un texto que pudiera acompañarlas, le dije lo que siempre conviene decir en estos casos, o sea que él me mostraría sus esculturas y después veríamos, o más bien veríamos y después.

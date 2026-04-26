@@ -8,9 +8,7 @@ tags:
   - examen
   - borges
 ---
-*# Examen de la obra de Herbert Quain*
 *Jorge Luis Borges*
-*# Examen de la obra de Herbert Quain*
 *Jorge Luis Borges*
 
 Examen de la obra de Herbert Quain El jardín de senderos que se bifurcan (Buenos Aires: Editorial Sur, 1941, 124 págs.); Ficciones (Buenos Aires: Editorial Sur, 1944, 204 págs.) Herbert Quain ha muerto en Roscommon; he comprobado sin asombro que el Suplemento Literario del Times apenas le depara media columna de piedad necrológica, en la que no hay epíteto laudatorio que no esté corregido (o seriamente amonestado) por un adverbio. El Spectator, en su número pertinente, es sin duda menos lacónico y tal vez más cordial, pero equipara el primer libro de Quain The God of the Labyrinth a uno de Mrs.

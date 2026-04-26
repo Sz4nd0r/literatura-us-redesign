@@ -11,7 +11,6 @@ tags:
 *Henry*
 *James*
 *(1843-1916)*
-*# Sir Dominick Ferrand*
 *(“Sir Dominick Ferrand”, 1892)*
 *Originalmente publicado, como “Jersey Villas”, en Cosmopolitan Magazine,*
 *vol. 13 (julio, agosto 1892), pgs. 314–328, 433–449;*

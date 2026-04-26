@@ -8,7 +8,6 @@ tags:
   - medio
   - ferre
 ---
-*# Medio pollito*
 *Rosario Ferré (2001 - 1972)*
 
 El medio pollito El medio pollito Ilustrador: Enrique Martínez (Río Piedras: Huracán, 1977) ![El medio pollito](/assets/images/medio_1.jpg) Había una vez un niño que se encontró a una viejecita sentada a la orilla del camino. El niño se le acercó y le dijo: —Tengo mucha hambre y no tengo nada que comer. ¿Tienes un pedazo de pan para compartir conmigo? ![El medio pollito](/assets/images/medio_2.jpg) La viejecita le contestó: —Me encantaría ayudarte, pero soy tan pobre como tú. Lo Único que tengo en el mundo es este huevo que traigo en el bolsillo.

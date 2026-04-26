@@ -8,7 +8,6 @@ tags:
   - tres
   - borges
 ---
-*# Tres versiones de Judas*
 *Jorge Luis Borges*
 
 There seemed a certainity in degradation. T. E. Lawrence: Seven Pillars of Wisdom, ciii En el Asia Menor o en Alejandría, en el segundo siglo de nuestra fe, cuando Basílides publicaba que el cosmos era una temeraria o malvada improvisación de ángeles deficientes, Niels Runeberg hubiera dirigido, con singular pasión intelectual, uno de los coventículos gnósticos.

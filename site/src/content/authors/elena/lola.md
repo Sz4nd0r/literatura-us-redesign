@@ -11,7 +11,6 @@ tags:
 *Elena Garro*
 *(Puebla, México, 1916 - Cuernavaca, 1998)*
 *Andamos huyendo, Lola*
-*# Andamos Huyendo Lola*
 *(México, D.F.: Joaquín Mortiz, 1980, 264 págs.)*
 
 Aube y Karin se sintieron dichosas. Habían abandonado el establo de Connecticut en el que vivieron los dos últimos años y ahora terminaban de instalarse en un estudio de muros blancos y alfombras verdes. Un verde césped que les recordaba el campo en sus mejores días. Estaban en Nueva York y Karin seguiría los antiguos pasos de su madre y se convertiría en una hermosa modelo. La ciudad ofrecía todas las oportunidades, no importaban los drogados y las prostitutas. ¡Habían empezado con suerte! En el periódico leyeron el aviso: «Viva un mes gratis en el mejor barrio». ¡Y era verdad! El estudio estaba situado a unos pasos de Park Avenue y dentro de una antigua casa de tabique remodelada en estudios pequeños y acogedores. El dueño, el loco de Soffer, regalaba un mes de alquiler y a pesar de ello el pequeño edificio permanecía vacío, como si alguien le hubiera lanzado un maleficio.

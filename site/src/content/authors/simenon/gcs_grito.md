@@ -279,7 +279,6 @@ En un sobre color rosa el doctor escribió, con tinta violeta, la siguiente dire
 —Señorita Nicole
 Casa del Sr. Isidoro Borchain
 25, Av. de la República,
-# Nevers».
 Y en el sobre metió un papel blanco. En lugar de franquearlo con un sello corriente, se entretuvo en pegar cincuenta de un céntimo, lo cual daba a la carta un aspecto raro. Luego repitió la operación con otro sobre de color verde, pero esta vez la carta iba dirigida a la señora Borchain.
 —¡Ya veremos el resultado que da! —murmuró entre dientes.
 Todavía le quedaba mucho trabajo por delante y su cerebro funcionaba a la misma velocidad que sus pequeñas y nerviosas piernas. Si a estas horas el comisario jefe estaba ya al corriente del segundo descubrimiento del pantano de Bois-Bezard, el Doctorcito iba desarrollando su idea y todavía tenía que hacer una cosa antes de dar por terminada su jornada.

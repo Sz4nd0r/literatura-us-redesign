@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# Carpa Bonkoiémof*
 *(1905)*
 *(“Букоёмов, Карп Иванович”)*
 *Originalmente publicado en la colección “Сборнике товарищества ‘Знание’*

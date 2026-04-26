@@ -10,7 +10,6 @@ tags:
 ---
 *Eudora Welty*
 *(Jackson, Mississippi, 1909-2001)*
-*# Todo El Mundo Lo Sabe*
 *(“The Whole World Knows”)*
 *The Golden Apples, 1949*
 *I*

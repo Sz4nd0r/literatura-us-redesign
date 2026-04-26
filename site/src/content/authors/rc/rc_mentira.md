@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# La Mentira*
 *(“The Lie”)*
 *Furious Seasons (1977)*
 

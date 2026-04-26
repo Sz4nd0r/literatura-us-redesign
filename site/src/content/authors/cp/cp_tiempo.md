@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# El Tiempo*
 *(“Il tempo”, 1942)*
 *Originalmente publicado en Il Messaggero de Roma (26 de mayo de 1942)*
 *y en Il Secolo XIX de Génova (29 de mayo de 1942);*

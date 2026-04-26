@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Tanta Agua Tan Cerca De Casa*
 *(“So Much Water so Close to Home”)*
 *Originalmente publicado en Spectrum (1975);*
 *Furious Seasons and Other Stories (1977);*

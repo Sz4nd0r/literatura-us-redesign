@@ -11,7 +11,6 @@ tags:
 *Horacio*
 *Quiroga*
 *(1879-1937)*
-*# Los Pescadores De Vigas*
 *(Cuentos de amor, de*
 *locura y de muerte, 1917)*
 *El motivo fue cierto juego de comedor que míster Hall no*

@@ -10,7 +10,6 @@ tags:
 ---
 *Cesare Pavese*
 *(Santo Stefano Belbo, Cuneo, Italia, 1908 - Turín, Italia, 1950)*
-*# La Libertad*
 *(“La libertà”, 1941)*
 *Tutti i racconti (2002)*
 

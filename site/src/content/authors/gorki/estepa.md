@@ -10,7 +10,6 @@ tags:
 ---
 *Maksim Gorki*
 *(Nizhni Nóvgorod, Rusia, 1868 - Moscú, 1936)*
-*# En La Estepa*
 *(1897)*
 *(“В степи”)*
 *Originalmente publicado, con el subtítulo Рассказ босяка [“El cuento del vagabundo”],*

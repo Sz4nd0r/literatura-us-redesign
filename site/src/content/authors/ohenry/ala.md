@@ -234,4 +234,3 @@ el nombre de la planta de las praderas, el insistente recuerdo de sus capullos
 dorados había hecho que sus dedos operaran teclas extrañas.
 Entre el repollo colorado y los pimientos verdes
 rellenos figuraba el plato:
-# Queridísimo Walter, Con Rodajas De Huevo Duro.

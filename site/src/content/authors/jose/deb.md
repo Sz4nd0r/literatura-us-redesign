@@ -8,7 +8,6 @@ tags:
   - deb
   - jose
 ---
-*# Deborah en el recuerdo*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

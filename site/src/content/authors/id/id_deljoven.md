@@ -10,7 +10,6 @@ tags:
 ---
 *Isak Dinesen*
 *(1885–1962)*
-*# Cuento Del Joven Marinero*
 *—The Sailor Boy's Tale*
 *(Vinter-eventyr, 1942)*
 *Cuentos de invierno (1942)*

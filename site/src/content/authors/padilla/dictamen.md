@@ -12,8 +12,6 @@ tags:
 *Padilla*
 *(1932–2000)*
 *Documentos*
-*# Dictámen Del Jurado*
-*# ## Del Concurso De La Uneac 1968*
 *Los miembros del jurado del género*
 *Poesía que hemos actuado en el concurso UNEAC de 1968, acordamos*
 *unánimemente conceder el Premio «Julián del Casal» al libro intitulado*
@@ -57,8 +55,6 @@ la idea de la Revolución como la única solución posible para los
 problemas que obsesionan a su autor, que son los de la época que nos ha
 tocado vivir.
 J.
-# ## ## M. Cohen
-# ## ## ## César Calvo
 ## ## ## ## JOSÉ LEZAMA LIMA
 ## ## ## ## JOSÉ Z. TALLET
 ## ## ## ## MANUEL DÍAZ MARTÍNEZ

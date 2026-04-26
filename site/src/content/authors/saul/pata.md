@@ -10,7 +10,6 @@ tags:
 ---
 *Saul Bellow*
 *(Lachine, Canada, 1915 - Brookline, Massachusetts, 2005)*
-*# Él Siempre Metiendo La Pata*
 *[El hombre que hablaba demasiado]*
 *(“Him with His Foot in His Mouth”)*
 *Originalmente publicado en la revista The Atlantic Monthly (noviembre 1982, pp. 114-129)*

@@ -8,9 +8,7 @@ tags:
   - liliana
   - cortazar
 ---
-*# Liliana llorando*
 *Julio Cortázar*
-*# Liliana llorando*
 *Julio Cortázar*
 
 Menos mal que es Ramos y no otro médico, con él siempre hubo un pacto, yo sabía que llegado el momento me lo iba a decir o por lo menos me dejaría comprender sin decírmelo del todo. Le ha costado al pobre, quince años de amistad y noches de póquer y fines de semana en el campo, el problema de siempre; pero es así, a la hora de la verdad y entre hombres esto vale más que las mentiras de consultorio coloreadas como las pastillas o el líquido rosa que gota a gota me va entrando en las venas.

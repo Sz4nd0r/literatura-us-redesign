@@ -10,7 +10,6 @@ tags:
 ---
 *Elena Garro*
 *(Puebla, México, 1916 - Cuernavaca, 1998)*
-*# La Semana De Colores*
 *## La semana de colores*
 *(Xalapa: Universidad Veracruzana, Ficción, #58, 1964, 217 págs.)*
 

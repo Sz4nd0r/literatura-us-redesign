@@ -528,7 +528,6 @@ La fatiga cayó sobre las mujeres y los hombres se miraron inútiles. En el jard
 ¿Que estarían haciendo? La imagen de una dicha ajena los deja taciturnos. Quizá Francisco Rosas tenía razón. Quizá solo la cara sonriente de Julia ahuyentaba a los días de papel de periódico y en su lugar crecían los días de soles y de lagrimas. Inseguros se alejaron del balcón elegido para perderse por las calles oscuras, buscando sus zaguanes que los veían entrar y salir todos los días idénticos a sí mismos.
 En su viaje de regreso, Felipe Hurtado se detuvo frente a los balcones de la querida de Ixtepec. Luego atravesó la calle y se sentó en una de las bancas de la plaza desde donde dominaba la ventana del cuarto de Julia. Con la cabeza entre las manos y entregado a pensamientos infinitamente tristes, esperó a que amaneciera.
 En la mañana sus huéspedes lo miraron con extrañeza. Hubieran querido decirle que toda la noche habían esperado su vuelta temerosos de que algo malo le hubiera ocurrido, pero no se atrevieron. El se presentó manso y sumiso como un gato y sus amigos aceptaron su presencia con beneplácito.
-# Viii
 ¿Cuál fue la lengua que por primera vez pronuncio las palabras que habían de empeorar mi suerte? Han pasado ya muchos años y todavía no lo sé. Aun veo a Felipe Hurtado seguido por aquella frase como si un animal pequeño y peligroso lo persiguiera de día y de noche. «Vino por ella». En Ixtepec no había otra ella que Julia. «Vino por ella», decían las hijas de don Ramón cuando desde sus balcones veían la figura alta del forastero. Su padre le salió al paso, se mostró afectuoso y solícito y trató de llevarlo al terreno de las confidencias.
 —¿Piensa usted quedarse mucho tiempo con nosotros? —dijo el señor Martínez mientras escrutaba con avidez los ojos del forastero.
 —Todavía no lo se… Depende.
@@ -1022,7 +1021,6 @@ Ya tarde el general volvió a su cuarto, miró a Julia tendida en la cama, se ac
 Los amantes no le contestaron.
 —Aquí le dejo su tisanita, niña Julia. También al general dele un trago, le hará bien, parece muy cansado —agregó la vieja haciendo un guiño de complicidad.
 Julia guardó silencio. El general con la cara entre las manos no se ocupo ni de dar las buenas noches.
-# ## Xiii
 Desde aquí veo la casa de Gregoria y me parece que ella está llegando esa noche, abriendo su puerta y santiguándose antes de entrar. Adentro están sus botes, que fueron de petróleo, cubiertos de geranios y de tulipanes. En el jardín crecen las hierbas para olvidar, para quererse y para salvarse de la ira o de un enemigo. No se vaya a creer que Gregoria fuera bruja. No, ella no era como Nieves que llegó a darme mala fama. Desde muy lejos venían a verla, le traían pedazos de trajes, mechas de pelo y fotografías de los futuros embrujados. ¿Cuántos años hará desde el día en que la costeña Marta llegó a Ixtepec con Juan Urquizo? Hasta acá lo trajo para que Nieves le diera su bebedizo. Años fueron y vinieron. Marta murió en su tierra, nosotros lo supimos por Juan Urquizo que a pie, y con la cara de tonto que le puso Nieves, pasó por Ixtepec de ida para México. Desde entonces se presentó en mis calles dos veces por año: una cuando iba para México y otra cuando regresaba. Sus viajes tenían por objeto estar en la costa el día de la fecha de la muerte de Marta. Hada seis meses de ida y seis meses de vuelta, siempre a pie. Cuando lo veíamos de regreso sabíamos que había pasado un año justo.
 Así vivía tranquilo sin darse cuenta de su desgracia. Había sido comerciante, sus mulas iban cargadas de mercancía, y la gente, al verlo con los huaraches rotos, las ropas desgarradas, la piel renegrida por el sol y los ojos mas azules que nunca, le tenía compasión. Nadie conocía a su familia, porque Juan Urquizo era español. Al pasar por Ixtepec, don Joaquín lo recibía en su casa, ordenaba que le pusieran jabones y toallas en el baño de ladrillos rojos y le daba ropa limpia. Juan Urquizo aceptaba la caridad con beneplácito. Se quedaba una noche y un día en el pueblo y de madrugada emprendía la ruta hacia México o hacia la costa, según fuera de ida o de venida. Doña Matilde le suplicaba:
 —Mire, don Juan, repósese aquí unos días.
@@ -2110,7 +2108,6 @@ Pasó el día y nadie vino a la casa a dar una esperanza. Sucias y atemorizadas 
 En la oficina se encontraron a Cástulo.
 —¿Qué horas serán, señor? —preguntó la más valiente.
 —Yo digo que ya serán las dos bien corridas —respondió el criado de doña Matilde. Y las mujeres y el hombre siguieron esperando.
-# ## ## Viii
 —¡Les juro que yo no voy a la fiesta! —dijo sonriente el teniente coronel Cruz.
 Rafaela y Rosa, echadas en la cama, lo miraron rencorosas. Hasta ellas llegaban los cohetes de la fiesta de doña Carmen.
 ¿No me lo creen? ¡Mírenme a los ojos!
@@ -2519,7 +2516,6 @@ Las hermanas, arrodilladas, continuaron el rezo.
 —Está bien, me voy… —dijo Cruz acercándose a la puerta.
 Esperó unos instantes y al ver que sus amigas no cambiaban de actitud, dio un puñetazo en el muro.
 —¡Quieren verme batido en mi propia sangre pero no lo van a lograr! —Y salió dando un portazo.
-# ## ## ## Xiii
 Una raya naranja finísima se levantó del horizonte oscuro, las flores que se abren en la noche se cerraron y sus perfumes quedaron en el aire unos instantes antes de desaparecer. El jardín empezó a nacer azul de entre sus sombras moradas. Otra mañana pasaba inadvertida para los hombres que bebían café antes de ir a organizar más muertes. Cruz se acercó al grupo. Don Pepe le ofreció un café humeante. El teniente coronel aceptó la taza y miró a sus amigos mientras trataba de sonreír.
 —¿Qué pasa? —preguntó, señalando la puerta de la habitación de Rosas.
 —Están luchando por hallar sosiego —dijo Flores, taciturno.

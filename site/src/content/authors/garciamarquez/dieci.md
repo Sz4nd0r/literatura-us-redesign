@@ -8,7 +8,6 @@ tags:
   - dieci
   - garciamarquez
 ---
-*# Diecisiete ingleses envenenados*
 *Gabriel*
 *García Márquez (n. 1947)*
 

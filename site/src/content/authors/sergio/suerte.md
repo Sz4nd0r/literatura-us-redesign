@@ -8,7 +8,6 @@ tags:
   - suerte
   - sergio
 ---
-*# La suerte es como el viento*
 *Sergio Ramírez (n. 1942)*
 *La suerte es como el viento Clave de sol (México, D.F.: Cal y Arena, 1992, 125 págs.); Cuentos completos (México, D.F.: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) A Dora María Téllez La Raspadita fue como una tromba que entró en Ciudad Darío desordenando los vientos en las calles. Casi sentías que te levantaba la falda, te revolvía el pelo, soplaba en su tumulto y se te alborotaban en el alma unas ganas locas de comprarla empujándote a raspar y ganar mientras te cosquilleaba en el oído la cancioncita raspe y gane, raspe y gane, la suerte instantánea, raspe ya y no espere para mañana, si un símbolo aparece tres veces usted gana ese ansiado premio, un automóvil Daewoo Racer último modelo que te enseñaban a cada rato en la televisión, giraba frente a tus ojos y un coro cantaba un canto celestial, cuatro puertas, tocacintas estereofónico y radio FM, aire acondicionado, asientos reclinables y vidrios ahumados para que no te vieran si no querías que nadie te viera, un sueño inventado solo para usted, una delicia suprema las manos en el timón. ¿Quién en este mundo iba a pensar que el premio viniera a caer en Ciudad Darío, donde nunca cae nada, ni siquiera la lluvia? ¿Y que le tocara a las dos hermanas, que ni sabían manejar? Un carro de película, así como ese, jamás había entrado en Ciudad Darío.*
 

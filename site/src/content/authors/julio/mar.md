@@ -8,7 +8,6 @@ tags:
   - mar
   - julio
 ---
-*# Mar afuera*
 *Julio Ramón Ribeyro (1987 - 1994)*
 
 Los gallinazos sin plumas (Lima: Círculo de Novelistas Peruanos, 1955, 135 págs.) Desde que zarpara la barca, Janampa había pronunciado sólo dos o tres palabras, siempre oscuras, cargadas de reserva, como si se hubiera obstinado en crear un clima de misterio. Sentado frente a Dionisio, hacía una hora que remaba infatigablemente. Ya las fogatas de la orilla habían desaparecido y las barcas de los otros pescadores apenas se divisaban en lontananza, pálidamente iluminadas por sus faroles de aceite.

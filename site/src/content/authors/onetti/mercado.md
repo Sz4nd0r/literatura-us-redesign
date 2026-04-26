@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# El Mercado*
 *Originalmente publicado en Revista de Bellas Artes (México), 1982*
 
 Por exceso de festejos Martha se despertó en medio de la noche, trajinó y no quiso llorar como acostumbraba para conquistar los mimos de Helena. Trató de recuperar su sueño de felicidad y fracasó. Ahora sí lloró, pero con la cara dolida contra la almohada, tan sola y sin dicha en la noche negra.

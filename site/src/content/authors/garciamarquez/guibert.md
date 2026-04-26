@@ -8,7 +8,6 @@ tags:
   - guibert
   - garciamarquez
 ---
-*# Entrevista con Rita Guibert*
 *Gabriel*
 *García Márquez (n. 1947)*
 

@@ -8,7 +8,6 @@ tags:
   - peabody
   - benedetti
 ---
-*# Los Williams y los Peabody*
 *Mario Benedetti (1920 - 2009)*
 
 Williams y los Peabody (Despistes y franquezas, 1989) Por segundo año consecutivo, los Williams y los Peabody se encontraban en el agosto de Puerto Pollensa. Como tantos ingleses, franceses, escandinavos, se sentían atraídos por la relativa bonanza de ese balneario, más acogedor que otros puntos de la costa mallorquina. Tres años antes, los Peabody habían pasado su agosto en Arenal, pero tanto el bullicio nocturno como la muchedumbre que diariamente se arracimaba en la arena (a veces era difícil hallar un sitio para extender simplemente una toalla) les hizo huir despavoridos hacia algún otro punto de la isla. El Mediterráneo les encantaba, pero aspiraban a un poco de tranquilidad.

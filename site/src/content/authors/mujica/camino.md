@@ -8,7 +8,6 @@ tags:
   - camino
   - mujica
 ---
-*# VI. El camino desandado (1755)*
 *Manuel Mujica Lainez*
 *Historias de una quinta de San Isidro, 1583-1924” (Buenos Aires: Editorial Sudamericana, 1949, 317 págs.) Los cuatro escribientes del Marqués de Valdelirios admiraban al embajador. Copiábanle la elegancia de la casaca y de la chupa; el ademán con que tendía la caja de rapé; el arte con que pasaba las uñas pulidas sobre los encajes de la chorrera; la tos falsa; la afectación de los “¡o là là!” franceses, y sobre todo las frases, las frases burlonas de gran señor incrédulo para quien la religión es cosa femenina, cuento de viejas. Y el que más ahínco ponía en imitarle era Sebastián Valdés. A los veinte años, dábaselas de voltairiano sin haber leído a Voltaire; levantaba el lente con desenfado igual al de su amo, para mirar a las niñas en la Plaza Mayor, y escribía unas sátiras anónimas en las cuales quien peor parada salía era la gramática.*
 

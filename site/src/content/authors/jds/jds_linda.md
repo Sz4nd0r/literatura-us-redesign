@@ -10,7 +10,6 @@ tags:
 ---
 *J. D. Salinger*
 *(Nueva York, 1919 - Cornish, New Hampshire, 2010)*
-*# Linda Boquita Y Verdes Mis Ojos*
 *(“Pretty Mouth and Green My Eyes”)*
 *Nine Stories (1953)*
 

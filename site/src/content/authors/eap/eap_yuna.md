@@ -12,7 +12,6 @@ tags:
 *Allan Poe*
 *(Boston, 1809 -*
 *Baltimore, 1849)*
-*# El Coloquio De Monos Y Una*
 *(“The Colloquy of Monos and Una”, 1841)*
 *Originalmente publicado en Graham’s Magazine (agosto 1841);*
 *Tales*

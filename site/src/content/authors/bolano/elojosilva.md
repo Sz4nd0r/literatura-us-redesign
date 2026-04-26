@@ -11,7 +11,6 @@ tags:
 *Roberto Bolaño*
 *(Santiago,*
 *Chile, 1953 - Barcelona, 2003)*
-*# El Ojo Silva*
 *(Putas asesinas, 2001)*
 *Para Rodrigo Pinto y María y*
 *Andrés Braithwaite*

@@ -13,7 +13,6 @@ tags:
 *(William Sydney Porter)*
 *(North Carolina, 1862 -*
 *New York, 1910)*
-*# El Policía Y El Himno*
 *(1904)*
 *(“The Cop And The Anthem”)*
 *Originalmente publicado en The World (4 de diciembre de 1904);*

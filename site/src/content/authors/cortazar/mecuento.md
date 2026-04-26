@@ -8,7 +8,6 @@ tags:
   - mecuento
   - cortazar
 ---
-*# Historias que me cuento*
 *Julio Cortázar*
 
 Me cuento historias cuando duermo solo, cuando la cama parece más grande de lo que es y más fría, pero también me las cuento cuando Niágara está ahí y se duerme entre murmullos complacientes, casi como si también ella se estuviera contando una historia. Más de una vez quisiera despertarla para saber cómo es su historia (solamente murmura ya dormida y eso no es de ninguna manera una historia), pero Niágara vuelve siempre tan cansada del trabajo que no sería justo ni hermoso despertarla cuando acaba de dormirse y parece colmada, perdida en su caracolito perfumado y murmurante, de modo que la dejo dormir y me cuento historias, lo mismo que en los días en que ella tiene horario nocturno y yo duermo solo en esa bruscamente enorme cama.

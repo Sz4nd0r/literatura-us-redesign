@@ -8,7 +8,6 @@ tags:
   - caliban7
   - roberto
 ---
-*# El porvenir empezado*
 *Roberto Fernández*
 *Retamar*
 

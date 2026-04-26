@@ -73,7 +73,6 @@ Finalmente tomó asiento en una roca, descansó las manos sobre sus rodillas, co
 —Puede que haya pasado mucho tiempo en un hospital, que allí me curasen y que no lo recuerde ahora —se dijo en voz alta—. ¿Cómo puedo ser tan imbécil? La batalla fue en diciembre y estamos en verano —y se echó a reír—. Seguro que ese médico me tomó por un lunático… Pero se equivoca… Sólo soy un paciente que quizá se fugó del hospital.
 A poca distancia, una pradera en la que había un monolito de piedra llamó su atención. Con una intención no muy clara, se levantó despacio e igualmente despacio se dirigió hasta allí. En el mismo centro de aquella pradera había una pequeña plaza de piedra, que rodeaba al monolito.
 Se notaba el paso de los años; entre las piedras había musgo y líquenes, crecían la hierba y los matojos. Como respuesta a las ambiciones de los hombres, el tiempo, simplemente, se había dedicado a destruir lentamente la belleza primera del monumento. Había en el monolito una inscripción que captó de inmediato la atención de aquel hombre, más que nada porque lo que vio primero fue un nombre que le resultaba familiar. Y agitado de la cabeza a los pies, se aferró al monolito para no caerse y leyó:
-# A La Brigada Del General Hazen
 En memoria de los soldados
 que cayeron en combate
 en Stone’s River

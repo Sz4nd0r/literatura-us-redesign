@@ -8,7 +8,6 @@ tags:
   - llave
   - liliana
 ---
-*# La llave*
 *Liliana Heker*
 *Originalmente publicado en la revista El escarabajo de oro, Núm. 44 (enero/febrero de 1972), págs. 16-19; Las peras del mal (Buenos Aires: Editorial de Belgrano, 1982, 145 págs.) Ella entró en la casa (la puerta de calle estaba abierta, como siempre), encendió la luz y comenzó a subir las escaleras. Venía pensando que lo que necesitaba era dormir (ella iba a meterse en la cama e iba a dormir por lo menos quinientos años).*
 

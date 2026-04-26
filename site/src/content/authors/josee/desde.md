@@ -8,7 +8,6 @@ tags:
   - desde
   - josee
 ---
-*# Desde entonces*
 *José Emilio Pacheco (n. 2004)*
 *En resumidas cuentas A la orilla del agua La hormiguita que pasa por la orilla del agua parece decir adiós al inclinar sus antenas. Qué voy a hacer si pienso en ti al observarla, tan segura de su misión, tan hermosa, siempre a punto de ahogarse y siempre salvándose. Siempre diciendo adiós a quien no ha de volver a verla. Jean Cocteau se mira en el espejo En el principio no existían los años, sólo un continuo innumerable: la infancia. Más tarde subrayaron su impermanencia, fueron hierba del campo, olas, adioses. Y llegué a acumular setenta.*
 *Este rostro de vidrio ahora es mi cara en la luna del agrio espejo. Atrás, bajo su cara sombría, en su mar de tinieblas, entre el azogue, me esperan impacientes los otros muertos. En resumidas cuentas ¿En dónde está lo que pasó y qué se hizo de tanta gente? A medida que avanza el tiempo vamos haciendo más desconocidos. De los amores no quedó ni una señal en la arboleda. Y los amigos siempre se van. Son viajeros en los andenes.*

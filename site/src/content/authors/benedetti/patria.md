@@ -8,7 +8,6 @@ tags:
   - patria
   - benedetti
 ---
-*# Noción de patria*
 *Mario Benedetti (1920 - 2009)*
 *Yo no tengo ningún inconveniente En meterme en camisa de once varas... Nicanor Parra NOCIÓN DE PATRIA Cuando resido en este país que no sueña cuando vivo en esta ciudad sin párpados donde sin embargo mi mujer me entiende y ha quedado mi infancia y envejecen mis padres y llamo a mis amigos de vereda a vereda y puedo ver los árboles desde mi ventana olvidados y torpes a las tres de la tarde siento que algo me cerca y me oprime como si una sombra espesa y decisiva descendiera sobre mí y sobre nosotros para encubrir a ese alguien que siempre afloja el viejo detonador de la esperanza.*
 

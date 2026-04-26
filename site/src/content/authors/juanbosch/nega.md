@@ -8,7 +8,6 @@ tags:
   - nega
   - juanbosch
 ---
-*# La negación*
 *Juan Bosch (1909 - 2001)*
 
 Cuentos escritos antes del exilio (Santo Domingo: Editorial Alfa & Omega, 1974, 284 págs.) Viendo a José Dolores se recibe la impresión de que vivió caminando: hay en todo él como polvo de camino. Sus ojos parecen devolver paisajes. José Dolores habla y uno evoca a la abuela, cuando registraba baúles. —Este fue mi primer traje largo —dejaba oír la vieja. Y así él. Arrinconados por ahí, en su cerebro, tiene los recuerdos. Ahora se entretiene en cortar andullo; va sacando finísimas rajas que luego deshace entre las manos. —En mi tiempo no había carretera —dice—.

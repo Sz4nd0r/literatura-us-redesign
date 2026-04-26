@@ -8,7 +8,6 @@ tags:
   - en
   - romulo
 ---
-*# El análisis*
 *Rómulo Gallegos (n. 1969)*
 *Originalmente publicado en la revista El Cojo Ilustrado (15 de abril de 1914); La Doncella y el último patriota (México: Ediciones Montobar, 1957, 220 págs.) “Te aseguro que nada hay peor que tener dos conceptos sobre una misma cosa y créeme que envidio de todo corazón tu manera de apreciarlas desde el punto de vista único, personal y a veces candoroso en que te coloca tu ingenuidad de alma. Puede ser que tú sufras en la vida más de una decepción, porque juzgas los hombres y las cosas según el espontáneo impulso de tu naturaleza, sin sutilezas ni reservas de criterio; pero seguramente no conocerás el desasosiego de vacilar entre dos opiniones distintas y muchas veces opuestas, sin que dejen de ser ambas legítimas, como ahora me está sucediendo a mí. La intranquilidad de espíritu que no proporciona esta falta de noción única, equivale a la más mortificante decepción y en algunos casos llega a ser una verdadera y completa tortura moral, sobre todo cuando uno de estos conceptos corresponde a alguna necesidad sentimental nuestra y la satisface, él solo, plenamente.*
 

@@ -8,7 +8,6 @@ tags:
   - el
   - jose
 ---
-*# Él y ella al final de una tarde*
 *José Alcántara*
 *Almánzar (n. 1946)*
 

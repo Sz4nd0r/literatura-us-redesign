@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# El Fin Trágico De Alfredo Plumet*
 *Originalmente publicado en Marcha (Montevideo), 1939*
 *Un problema policial*
 

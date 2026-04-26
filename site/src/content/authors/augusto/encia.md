@@ -8,7 +8,6 @@ tags:
   - encia
   - augusto
 ---
-*# Moriencia*
 *Augusto Roa Bastos (1917 - 2005)*
 
 Al telegrafista de Manorá? ¡Ea!, cómo no, si hasta su ropa yo le hacía! Miente la vieja palabrera, dije entre mí acordándome que el telegrafista anduvo casi siempre en cueros por lo menos durante los últimos años de su vida, que fue cuando lo conocimos nosotros. —Alto, moreno lento, patas de pájaro. Siempre emponchado, en invierno y verano. De noche, cuando había luna, se encasquetaba un sombrerón y encima, para más seguridad, se cubría con una sombrilla de mujer.

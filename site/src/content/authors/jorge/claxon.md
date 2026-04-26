@@ -12,7 +12,6 @@ tags:
 *Ibargüengoitia*
 *(Guanajuato, México, 1928*
 *—Madrid, 1983)*
-*# El Claxon Y El Hombre*
 *¿hablando se entiende la gente?*
 *Estábamos en una reunión*
 *hablando de un ausente. Una señorita humanitaria le reclamó a un amigo*

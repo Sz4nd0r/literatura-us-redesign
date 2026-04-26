@@ -8,7 +8,6 @@ tags:
   - divino
   - sergio
 ---
-*# Del que atesora con el favor divino*
 *Sergio Ramírez (n. 1942)*
 
 Del que atesora con el favor divino De tropeles y tropelías (San Salvador: Editorial Universitaria, 1972); Cuentos completos (México: Alfaguara, 1996, 340 págs.); Cuentos completos (México, D.F.: Fondo de Cultura Económica, 1997, 340 págs.) Oh, hijo mío —decía S. E., ya en la ancianidad—, la decrepitud de mi mano me impide ya atesorar más de lo que tengo y que te lego por entero; mas debes tener muy en cuenta que no hay fortuna sin tesón ni riqueza que se haga sola.

@@ -10,7 +10,6 @@ tags:
 ---
 *Guy de Maupassant*
 *(Francia, 1850-1893)*
-*# Idilio*
 *(1884)*
 *(“Idylle”)*
 *Originalmente publicado en el periódico Gil Blas (12 febrero 1884)*

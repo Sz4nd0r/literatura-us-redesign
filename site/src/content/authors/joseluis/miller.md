@@ -8,7 +8,6 @@ tags:
   - miller
   - joseluis
 ---
-*# Mr. Miller*
 *José Luis*
 *González (1926 - 1997)*
 

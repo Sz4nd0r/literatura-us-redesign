@@ -10,7 +10,6 @@ tags:
 ---
 *Miguel Ángel Asturias*
 *(Ciudad de Guatemala, 1899 - Madrid, 1974)*
-*# Entrevista Con Rita Guibert*
 *7 voces*
 *(México: Organización Editorial Novaro, S.A., 1974)*
 *París, 6 al 10 de noviembre de 1970*

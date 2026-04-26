@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# Tres Rosas Amarillas*
 *(“Errand”)*
 *Originalmente publicado en The New Yorker (junio 1, 1987);*
 *Where I’m Calling From: New & Selected Stories (1988);*

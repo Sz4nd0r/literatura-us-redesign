@@ -40,7 +40,6 @@ mis razones de amor te entrego esta centuria:
 sonetos de madera que sólo se levantaron
 porque tú les diste la vida.
 Octubre de 1959.
-# Mañana
 I
 Matilde, nombre de planta o piedra
 o vino,
@@ -153,7 +152,6 @@ dolor, amor, la furia del vino encarcelado
 que desde su bodega sumergida subiera
 y otra vez en mi boca sentí un sabor de llama,
 de sangre y de claveles, de piedra y quemadura.
-# ## Viii
 Si no fuera porque tus ojos tienen
 color de luna,
 de día con arcilla, con trabajo, con fuego,
@@ -233,7 +231,6 @@ y el fuego genital transformado en delicia
 corre por los delgados caminos de la sangre
 hasta precipitarse como un clavel nocturno,
 hasta ser y no ser sino un rayo en la sombra.
-# ## ## Xiii
 La luz que de tus pies sube a tu
 cabellera,
 la turgencia que envuelve tu forma delicada,
@@ -297,7 +294,6 @@ de tanta luz ardiente como miel en la sombra
 tu corazón quemado por largos rayos rojos,
 y así recorro el fuego de tu forma besándote,
 pequeña y planetaria, paloma y geografía.
-# ## ## ## Xvii
 No te amo como si fueras rosa de
 sal, topacio
 o flecha de claveles que propagan el fuego:

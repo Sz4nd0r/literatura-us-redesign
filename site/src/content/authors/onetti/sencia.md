@@ -12,7 +12,6 @@ tags:
 *Carlos Onetti*
 *(Montevideo, 1909 - Madrid,*
 *1994)*
-*# Presencia*
 *Originalmente publicado en Cuadernos Hispanoamericanos (Madrid), 1978*
 *A Luis Rosales*
 
@@ -45,7 +44,6 @@ El otro se acarició la cara áspera y pidió:
 —Cinco duros. Ahora son cinco duros. Estuve pensando y es un compromiso que me puede salir más caro.
 —Cinco —dijo el hombre, y le alargó las monedas.
 Ahora tenía una máquina de escribir eléctrica, último modelo en los avisos de los diarios.
-# ## Informe 3/2/78-859:
 Luego de muchos intentos logré localizar e identificar a M. J. L., la cual parece llevar una existencia normal entre su casa, su trabajo y algunas amigas, cuyos nombres se me han escapado hasta la fecha, y, en mi opinión, este detalle, que agrego para mejor comprensión, carece de importancia. Viajando en un autobús 12 hasta Cristo Rey…
 Así, pagando mil pesetas diarias, tuve a María José fuera de la cárcel sanmariana; la pude ver recorriendo calles con amigas, bajar hasta la rambla —con niebla y sol marchito, con los botes de los pescadores, los más frágiles del club de remo—, no del todo feliz, porque no estaba conmigo preguntándose qué intrusión de la vida impedía que yo le escribiera o imaginando mi última carta de mesurado optimismo que hacía resbalar entre líneas la promesa del reencuentro.
 La veía ágil y burlona, rejuvenecida, casi niña por las mentiras tenaces que yo le había escrito. La veía libre, perfilada y veloz atravesando los paisajes que habíamos caminado, los descansos sombríos que buscábamos sin palabras para besarnos y palparnos. Y también la veía andar con sus piernas largas y las gotas de llovizna en la cara yendo, ignorante, hacia la esquina en que nos encontramos por primera vez.

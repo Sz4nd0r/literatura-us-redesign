@@ -8,7 +8,6 @@ tags:
   - muerte
   - ferre
 ---
-*# La extraña muerte del Capitancito Candelario*
 *Rosario Ferré (2001 - 1972)*
 
 Maldito amor y otros cuentos (México: Editorial Joaquín Mortiz, 1986, 206 págs.) El suceso ocurrió por los años en que la Metrópoli comenzó a lavarse de las manos la sangre del cordero manso de San Juan. La Metrópoli tenía la conciencia tranquila y en ningún momento intentó justificar su acción; en sus recientes reuniones, el congreso de la nación había propuesto en ambas cámaras y casi por unanimidad, la independencia para la isla de San Juan Bautista. De todas maneras, siempre habíamos querido ser independientes sin atrevemos a serlo, nos decían los representantes de la Metrópoli, y ahora por fin lo seríamos, ion la ayuda y el beneplácito de nuestro padrino mayor.

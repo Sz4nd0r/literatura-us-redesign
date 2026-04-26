@@ -10,7 +10,6 @@ tags:
 ---
 *Eudora Welty*
 *(Jackson, Mississippi, 1909-2001)*
-*# Primer Amor*
 *(“First Love”)*
 *The Wide Net and Other Stories, 1943*
 

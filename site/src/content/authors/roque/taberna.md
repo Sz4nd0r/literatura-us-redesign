@@ -15,7 +15,6 @@ tags:
 *(1969)*
 *Premio Casa de las*
 *Américas, 1969*
-*# America Latina*
 *El poeta cara a cara con la luna*
 *fuma su margarita emocionante*
 *bebe su dosis de palabras ajenas*
@@ -24,7 +23,6 @@ vuela con sus pinceles de rocío
 rasca su violincito pederasta.
 Hasta que se destroza los hocicos
 en el áspero muro de un cuartel.
-# ## 27 Años
 Es una cosa seria
 tener veintisiete años
 en realidad es una
@@ -33,12 +31,10 @@ en derredor se mueren los amigos
 de la infancia ahogada
 y empieza a dudar uno
 de su inmortalidad.
-# ## ## Miedo
 A Julio Cortázar
 Un ángel solitario en la punta del
 alfiler
 oye que alguien orina.
-# ## ## ## El Descanso Del Guerrero
 Los muertos están cada día más
 indóciles.
 Antes era fácil con ellos:

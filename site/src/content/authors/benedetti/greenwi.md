@@ -8,7 +8,6 @@ tags:
   - greenwi
   - benedetti
 ---
-*# Como Greenwich*
 *Mario Benedetti (1920 - 2009)*
 
 Usted no es mallorquín, ¿verdad? —dice la adolescente desde la mesa vecina. —¿Cómo? ¿Qué? —se sobresalta Quiñones y casi se atora con el jerez seco. —¿Lo asusté? —La muchacha no parecía burlona sino divertida. —Me tomó de sorpresa, lo reconozco. Aquí en Palma no me conoce nadie. Estoy de paso. —Así que no es mallorquín. Ni siquiera español. —Quememos etapas en la investigación: soy argentino. —Me parecía. —¿Por qué? —Quiñones se fija más detenidamente en la chiquilina, de pantalones oscuros y blusa blanca, poco formada aún pero con futuro. —No sé.

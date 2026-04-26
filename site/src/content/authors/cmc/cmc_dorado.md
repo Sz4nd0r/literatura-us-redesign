@@ -10,7 +10,6 @@ tags:
 ---
 *Carson McCullers*
 *(Columbus, Georgia, 1917 - Nyack, Nueva York, 1967)*
-*# Reflejos En Un Ojo Dorado*
 *(“Reflections in a Golden Eye”)*
 *Originalmente publicado en Harper's Bazaar (octubre y noviembre 1940)*
 *Reflections in a Golden Eye (1941)*

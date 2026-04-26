@@ -11,7 +11,6 @@ tags:
 *Raymond*
 *Carver*
 *(Clatskanie, Oregon, 1938 - Port Angeles, Washington, 1988)*
-*# ¿Qué Te Parece Esto?*
 *(“How About This?”)*
 *Originalmente publicado en Western Humanities Review (1970)*
 *Will You Please Be Quiet, Please? (1976)*

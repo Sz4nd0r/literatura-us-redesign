@@ -8,7 +8,6 @@ tags:
   - inocencia
   - benedetti
 ---
-*# Inocencia*
 *Mario Benedetti (1920 - 2009)*
 *Ya es bastante haber llegado a la cornisa y ver la calle, abajo, sin que se me vaya la cabeza. Hay un hombre remoto que fuma junto al farol y de tanto en tanto se quita el sombrero para rascarse la nuca. A veces escupe por el flanco del cigarrillo. Desde ahí puede vernos, a Jordán y a mí. Si esa maldita hembra llegase de una vez. Todavía nos falta alcanzar la ventana, pasar el corredor, salir a la terracita y encontrar la tapa.*
 

@@ -8,7 +8,6 @@ tags:
   - pongo
   - jma
 ---
-*# El sueño del Pongo*
 *José María Arguedas (1937 - 1917)*
 
 Escolar de la comunidad de Umutu, provincia de Quispicanchis, Cuzco. Don Santos vino a Lima seis veces; consiguió que lo recibieran los Ministros de Educación y dos Presidentes. Era monolingüe quechua. Cuando hizo su primer viaje a Lima tenía más de sesenta años de edad; llegaba a su pueblo cargando a la espalda parte del material escolar y las donaciones que conseguía. Murió hace dos años. Su majestuosa y tierna figura seguirá protegiendo desde la otra vida a su comunidad y acompañando a quienes tuvimos la suerte de ganar su afecto y recibir el ejemplo de su tenacidad y sabiduría. Un hombrecito se encaminó a la casa-hacienda de su patrón.

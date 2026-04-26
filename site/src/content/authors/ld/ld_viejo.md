@@ -8,7 +8,6 @@ tags:
   - ld_viejo
   - ld
 ---
-# El viejo diccionario
 
 *Lydia Davis*
 

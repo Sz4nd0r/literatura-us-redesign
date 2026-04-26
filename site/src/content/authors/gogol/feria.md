@@ -169,7 +169,6 @@ Esas palabras avergonzaron a nuestros valientes y les proporcionaron un poco de 
 —El judío estaba muerto de miedo; pero los cerdos, con unas patas tan largas como zancos, entraron por la ventana y en un instante lo reanimaron, azotándolo con un látigo trenzado, y le obligaron a bailar y a dar unos brincos más altos que este travesaño. El judío acabó poniéndose de rodillas y confesándolo todo… pero ya no era posible recuperar en poco tiempo la casaca. El señor había sido robado en el camino por un gitano que vendió la casaca a una ropavejera; la mujer volvió con la prenda a la feria de Soróchintsi, pero desde ese día nadie le compró nada. En un principio la ropavejera se sorprendió mucho, pero al cabo del tiempo terminó por comprender: seguramente la casaca roja tenía la culpa de todo. No en vano, nada más ponérsela sentía como si algo la oprimiera. Sin pensárselo dos veces, la arrojó al fuego, ¡pero la diabólica prenda no ardía! “¡Ay, éste es un regalo del diablo!”, se dijo. Poco después se las ingenió para ocultarla en el carro de un campesino que venía a vender aceite. El muy imbécil se alegró del hallazgo, pero a partir de entonces nadie le preguntó siquiera por el precio de su mercancía. “¡Ah, unas manos impuras han puesto en mi carro esta casaca!”, exclamó. Cogió un hacha y cortó la prenda en pedazos; pero de pronto éstos empezaron a juntarse y al poco tiempo la casaca quedó intacta. Después de santiguarse, el hombre volvió a coger el hacha, rompió la casaca en varios trozos, los dispersó por el lugar y se fue. Desde ese día, todos los años, durante la feria, el diablo, en forma de cerdo, recorre el paraje y, gruñendo, busca los pedazos de la casaca. Según se dice, ya sólo le queda por recomponer la manga izquierda. Desde entonces, las gentes hacen la señal de la cruz al pasar por ese lugar. Hace ya diez años que no se celebra allí la feria, pero el asesor ha tenido la desdichada idea de or…
 La segunda mitad de la palabra no llegó a salir de labios del narrador.
 En la ventana resonó un fuerte golpe; los cristales, tintineando, cayeron al suelo y en el marco apareció un horrible hocico de cerdo, que movía los ojos a un lado y a otro como preguntando: “¿Qué hacéis aquí, buenas gentes?”.
-# Viii
 … Con el rabo entre las piernas,
 como un perro, temblaba
 con todo su cuerpo, como Caín;
@@ -259,7 +258,6 @@ XII
 Cherevik, petrificado de alegría, se quedó mirando cómo Gritsko se alejaba.
 —¿Qué, Gritsko, hemos hecho mal nuestro trabajo? —dijo el espigado gitano al joven, que avanzaba a buen paso—. ¿Son míos ahora los bueyes?
 —¡Sí, sí! ¡Tuyos son!
-# ## Xiii
 No temas, madrecita, no temas.
 Cálzate tus botas rojas
 y pisotea
