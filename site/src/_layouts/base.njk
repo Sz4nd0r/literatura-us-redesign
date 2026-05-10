@@ -4,6 +4,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }} | Literatura.us 2.0</title>
+  
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="{{ title | default('Literatura.us 2.0') }}" />
+  <meta property="og:type" content="{% if layout == 'story' or layout == 'author' %}article{% else %}website{% endif %}" />
+  <meta property="og:url" content="https://literatura.us{{ page.url }}" />
+  <meta property="og:image" content="https://literatura.us{{ image | default('/assets/images/default-og.jpg') }}" />
+  <meta property="og:description" content="{{ description | default('Modernizando la biblioteca personal de Roberto Paredes.') }}" />
+  
+  <!-- Twitter Card Data -->
+  <meta name="twitter:card" content="summary_large_image" />
   <link rel="stylesheet" href="/assets/css/index.css">
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,8 +27,8 @@
       <nav>
         <ul id="navbar-menu" class="hidden sm:flex sm:space-x-6 flex-col sm:flex-row absolute sm:static top-full left-0 w-full sm:w-auto bg-[var(--paper-color)] sm:bg-transparent shadow-lg sm:shadow-none border-t border-[var(--border-color)] sm:border-0 mt-2 sm:mt-0 text-sm font-medium uppercase tracking-wider z-50">
           <li><a href="/" class="link_style block px-4 py-3 sm:p-0">Inicio</a></li>
-          <li><a href="#" class="link_style block px-4 py-3 sm:p-0">Quienes somos</a></li>
-          <li><a href="#" class="link_style block px-4 py-3 sm:p-0">Aviso legal</a></li>
+          <li><a href="/content/pages/somos.html" class="link_style block px-4 py-3 sm:p-0">Quienes somos</a></li>
+          <li><a href="/content/pages/aviso.html" class="link_style block px-4 py-3 sm:p-0">Aviso legal</a></li>
           {% block navbar %}{% endblock %}
         </ul>
       </nav>
@@ -40,11 +50,20 @@
   </main>
 
   <footer>
-    <a href="#" class="postick_style" style="max-width:240px;">
+    <a href="#" id="back_to_top" class="postick_style" style="max-width:140px;">
         <div class="line_style_bottom"></div>
-        <p class="text-lg font-serif font-bold text-zinc-950 ml-4">Vuelve arriba</p>
-        <span class="text-gray-300 mr-2">&uarr;</span>
+        <p class="text-lg font-serif font-bold text-zinc-950 ml-4">Sube</p>
     </a>
+    <script>
+      const backToTop = document.getElementById('back_to_top');
+      document.addEventListener('scroll', () => {
+        if (window.scrollY > 2000) {
+          backToTop.style.display = 'block';
+        } else {
+          backToTop.style.display = 'none';
+        }
+      });
+    </script>
     <p class="citation_style mt-4">&copy; 2026 Literatura.us 2.0 - Modernizando la <a class="link_style" href="https://literatura.us">biblioteca personal</a> de <a class="link_style" href="https://paredes.us">Roberto Paredes</a>.</p>
   </footer>
 

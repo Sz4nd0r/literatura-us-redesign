@@ -5,8 +5,16 @@
 {% endblock %}
 
 {% block content %}
+
+{% set authorName = tags[1] %}
+{% for author in collections.authors %}
+  {% if author.slug == tags[1] %}
+    {% set authorName = author.name %}
+  {% endif %}
+{% endfor %}
+
 <article>
-  <header data-pagefind-body class="px-4 py-2 flex justify-center">
+  <header data-pagefind-body data-pagefind-meta="author:{{ authorName }}" class="px-4 py-2 flex justify-center">
     <h1 class="title_style">{{ title }}</h1>
   </header>
   
@@ -14,6 +22,7 @@
     {{ content | safe }}
   </div>
 </article>
+
 {% endblock %}
 
 

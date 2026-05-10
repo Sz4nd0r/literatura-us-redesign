@@ -95,3 +95,22 @@ footer {
   letter-spacing: 0.1em;
   opacity: 0.5;
 }
+
+#quote_search_container {
+  flex-wrap: wrap-reverse;
+}
+
+#collectionist_quote {
+  min-width: 220px;
+}
+
+#back_to_top {
+  cursor: pointer;
+  display: none;
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 1000;
+  background-color: var(--paper-color);
+  opacity: 1;
+}

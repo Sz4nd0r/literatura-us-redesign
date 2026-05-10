@@ -3,26 +3,61 @@ layout: base.njk
 title: Literatura US
 ---
 <section id="biblioteca" class="w-full max-w-7xl mx-auto py-8 px-4 sm:px-6 min-h-screen">
-  <div class="mb-10 max-w-xl">
+  <div class="mb-10 max-w-xl ">
     <h1 class="title_style">Biblioteca Literatura US</h1>
-    <p class="quote_style">
-      "Esta página consistirá de una biblioteca personal: incluirá autores que creemos, como lectores, importantes. Se incluirán autores que muchos considerarán “menores” y se excluirán otros considerados “imprescindibles”. Toda antología es arbitraria e incompleta. Esta selección no es, entonces, una excepción."
-    </p>
-  </div>
-  
-  <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
-  <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
-  
-  <pagefind-modal-trigger></pagefind-modal-trigger>
-  <pagefind-modal></pagefind-modal>
+    <div id="quote_search_container" class="flex flex-row justify-between">
+      <p class="quote_style" id="collectionist_quote">
+        "Esta página consistirá de una biblioteca personal: incluirá autores que creemos, como lectores, importantes. Se incluirán autores que muchos considerarán “menores” y se excluirán otros considerados “imprescindibles”. Toda antología es arbitraria e incompleta. Esta selección no es, entonces, una excepción."
+      </p>
+      <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+      <script src="/pagefind/pagefind-ui.js"></script>
 
+      <button id="open-search" class="button_style bg-gray-900 text-white px-3 py-1">Buscar</button>
+
+      <dialog id="search-modal" class="p-6 rounded-lg shadow-xl w-full max-w-2xl backdrop:bg-black/50 overflow-y-auto max-h-[80vh] border-0 outline-none">
+        <div class="flex justify-end mb-4">
+          <button id="close-search" class="text-gray-500 hover:text-gray-700 text-3xl leading-none" aria-label="Cerrar">&times;</button>
+        </div>
+        <div id="search"></div>
+      </dialog>
+
+      <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            new PagefindUI({ 
+              element: "#search", 
+              showSubResults: false,
+            });
+            
+            const modal = document.getElementById('search-modal');
+            document.getElementById('open-search').addEventListener('click', () => modal.showModal());
+            document.getElementById('close-search').addEventListener('click', () => modal.close());
+            
+            // Close when clicking outside
+            modal.addEventListener('click', (e) => { 
+              if (e.target === modal) modal.close(); 
+            });
+        });
+      </script>
+    </div>
+  </div>
+  <form class="flex flex-row gap-4 my-4" onsubmit="search()">
+    <input type="text" id="search_input" class="input_style" placeholder="Buscar autor">
+    <fieldset class="flex flex-row justify-between gap-2">
+      <button type="button" id="clear" class="button_style">Limpiar</button>
+      <button type="submit"id="search_button" class="button_style">Buscar</button>
+    </fieldset>
+  </form>
   <div class="grid grid-cols-1 gap-2 sm:grid-cols-2 lg:grid-cols-3">
     {% for author in collections.authors %}
       <a href="content/authors/{{ author.slug }}/" class="postick_style author_link">
         <div class="line_style"></div>
-        <span class="author_name_text">{{ author.name }}</span>
+        <span class="author_name_text search-term">{{ author.name }}</span>
         <span class="text-gray-300 ml-auto group-hover:text-blue-600 transition-colors duration-300">&rarr;</span>
       </a>
     {% endfor %}
   </div>
 </section>
+
+{% block scripts %}
+<script src="/assets/js/search.js"></script>
+{% endblock %}

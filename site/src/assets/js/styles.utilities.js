@@ -188,3 +188,18 @@ document.querySelectorAll(".author_name_text").forEach((author_name_text) => {
         "text-gray-900",
     );
 });
+
+document.querySelectorAll(".input_style").forEach((input) => {
+    input.classList.add(
+        FONTS.ui,
+        "px-6",
+        "py-2",
+        "bg-[var(--paper-color)]",
+        "text-[var(--text-main)]",
+        "hover:opacity-90",
+        "transition-opacity",
+        "duration-200",
+        "font-medium",
+        "tracking-wide",
+    );
+});
