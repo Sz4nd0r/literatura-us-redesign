@@ -58,6 +58,8 @@ export default async function (eleventyConfig) {
         return [];
     });
 
+    pathPrefix: "/literatura-us-redesign/"
+
     // This tells 11ty to automatically prepend the pathPrefix to all absolute links in Markdown
     eleventyConfig.addGlobalData("eleventyComputed.permalink", function () {
         return (data) => {
