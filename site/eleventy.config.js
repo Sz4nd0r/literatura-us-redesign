@@ -5,7 +5,8 @@ import path from "path";
 
 export default async function (eleventyConfig) {
     // Copy static assets to the output folder
-    eleventyConfig.addPassthroughCopy("src/assets");
+    eleventyConfig.addPassthroughCopy("src/assets/images");
+    eleventyConfig.addPassthroughCopy("src/assets/js");
 
     // Register the Image Transform Plugin
     eleventyConfig.addPlugin(eleventyImageTransformPlugin, {

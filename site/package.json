@@ -5,15 +5,17 @@
     "description": "Modernized Literatura.us",
     "main": "index.js",
     "scripts": {
-        "build": "pnpm dlx @11ty/eleventy --incremental",
-        "start": "pnpm dlx @11ty/eleventy --serve --incremental",
-        "debug": "DEBUG=Eleventy* pnpm dlx @11ty/eleventy",
-        "index": "pnpm dlx pagefind --site _site"
+        "build": "tailwindcss -i ./src/input.css -o ./_site/css/index.css --minify && eleventy --pathprefix=/literatura-us-redesign/ && pnpm pagefind --site _site",
+        "start": "eleventy --serve --incremental",
+        "debug": "DEBUG=Eleventy* eleventy",
+        "index": "pagefind --site _site"
     },
     "dependencies": {
         "@11ty/eleventy": "^3.1.5",
         "@11ty/eleventy-img": "^6.0.4",
+        "@tailwindcss/cli": "^4.3.0",
         "js-yaml": "^4.1.1",
-        "pagefind": "^1.5.2"
+        "pagefind": "^1.5.2",
+        "tailwindcss": "^4.3.0"
     }
 }

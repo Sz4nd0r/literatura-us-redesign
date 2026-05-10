@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 :root {
   --paper-color: oklch(96% 0.01 85);
   --paper-dark: oklch(93% 0.015 85);

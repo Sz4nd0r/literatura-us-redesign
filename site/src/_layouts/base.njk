@@ -8,14 +8,13 @@
   <!-- Open Graph Meta Tags -->
   <meta property="og:title" content="{{ title | default('Literatura.us 2.0') }}" />
   <meta property="og:type" content="{% if layout == 'story' or layout == 'author' %}article{% else %}website{% endif %}" />
-  <meta property="og:url" content="https://literatura.us{{ page.url }}" />
-  <meta property="og:image" content="https://literatura.us{{ image | default('/assets/images/default-og.jpg') }}" />
+  <meta property="og:url" content="{{ 'page.url'| url }}" />
+  <meta property="og:image" content="{{ 'image'| url }}" />
   <meta property="og:description" content="{{ description | default('Modernizando la biblioteca personal de Roberto Paredes.') }}" />
   
   <!-- Twitter Card Data -->
   <meta name="twitter:card" content="summary_large_image" />
-  <link rel="stylesheet" href="/assets/css/index.css">
-  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="{{'/assets/css/index.css'| url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Merriweather:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@700;900&family=EB+Garamond:ital,wght@1,400&family=Work+Sans:wght@400;500&display=swap" rel="stylesheet">
@@ -26,9 +25,9 @@
       <div id="logo"><a href="/" class="text-2xl font-bold tracking-tight hover:text-gray-600 transition-colors">Literatura.us 2.0</a></div>
       <nav>
         <ul id="navbar-menu" class="hidden sm:flex sm:space-x-6 flex-col sm:flex-row absolute sm:static top-full left-0 w-full sm:w-auto bg-[var(--paper-color)] sm:bg-transparent shadow-lg sm:shadow-none border-t border-[var(--border-color)] sm:border-0 mt-2 sm:mt-0 text-sm font-medium uppercase tracking-wider z-50">
-          <li><a href="/" class="link_style block px-4 py-3 sm:p-0">Inicio</a></li>
-          <li><a href="/content/pages/somos.html" class="link_style block px-4 py-3 sm:p-0">Quienes somos</a></li>
-          <li><a href="/content/pages/aviso.html" class="link_style block px-4 py-3 sm:p-0">Aviso legal</a></li>
+          <li><a href="{{ '/' | url }}" class="link_style block px-4 py-3 sm:p-0">Inicio</a></li>
+          <li><a href="{{ '/content/pages/somos.html' | url }}" class="link_style block px-4 py-3 sm:p-0">Quienes somos</a></li>
+          <li><a href="{{ '/content/pages/aviso.html' | url }}" class="link_style block px-4 py-3 sm:p-0">Aviso legal</a></li>
           {% block navbar %}{% endblock %}
         </ul>
       </nav>
@@ -68,7 +67,7 @@
   </footer>
 
   {% block scripts %}{% endblock %}
-  <script src="/assets/js/styles.utilities.js"></script>
+  <script src="{{'/assets/js/styles.utilities.js' | url }}"></script>
   <script>
     // Collapsible navbar for mobile
     const toggleBtn = document.getElementById('navbar-toggle');

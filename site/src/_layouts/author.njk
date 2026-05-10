@@ -28,7 +28,7 @@
       <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
         {% for work in collections.works %}
           {% if work.tags[1] == slug or work.tags[1] == tags[1] %}
-            <a href="{{ work.url }}" class="card_style">
+            <a href="{{ 'work.url' | url }}" class="card_style">
               <span class="text-gray-800 font-medium search-term">{{ work.title }}</span>
               <span class="text-gray-300 ml-auto">&rarr;</span>
             </a>
@@ -40,5 +40,5 @@
 {% endblock %}
 
 {% block scripts %}
-<script src="/assets/js/search.js"></script>
+<script src="{{'/assets/js/search.js' | url }}"></script>
 {% endblock %}
