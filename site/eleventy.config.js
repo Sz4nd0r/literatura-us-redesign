@@ -15,6 +15,9 @@ export default async function (eleventyConfig) {
         formats: ["webp", "jpeg"],
         outputDir: "./_site/assets/images",
 
+        // Where the browser should look for them (CRITICAL)
+        urlPath: "/literatura-us-redesign/assets/images",
+
         // Default HTML attributes for transformed <img> tags
         defaultAttributes: {
             loading: "lazy",
@@ -56,6 +59,14 @@ export default async function (eleventyConfig) {
     });
 
     eleventyConfig.addGlobalData("permalink", "{{ page.filePathStem }}.html");
+
+    // This tells 11ty to automatically prepend the pathPrefix to all absolute links in Markdown
+    eleventyConfig.addGlobalData("eleventyComputed.permalink", function () {
+        return (data) => {
+            if (data.permalink) return data.permalink;
+            return data.page.filePathStem + ".html";
+        };
+    });
 
     return {
         dir: {
