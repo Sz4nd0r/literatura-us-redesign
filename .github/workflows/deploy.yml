@@ -32,12 +32,10 @@ jobs:
           cache-dependency-path: site/pnpm-lock.yaml
       - name: Install dependencies
         working-directory: ./site
-        run: pnpm install
-      - name: Build with Eleventy and Pagefind
+        run: pnpm install --frozen-lockfile
+      - name: Build Site (CSS + 11ty + Pagefind)
         working-directory: ./site
-        run: |
-          npm run build
-          npm run index
+        run: pnpm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
