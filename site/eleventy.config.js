@@ -4,21 +4,17 @@ import yaml from "js-yaml";
 import path from "path";
 
 export default async function (eleventyConfig) {
-    // Copy static assets to the output folder
-    eleventyConfig.addPassthroughCopy("src/assets/images");
-    eleventyConfig.addPassthroughCopy("src/assets/js");
+    const prefix = "/literatura-us-redesign"; // Store this in a variable for reuse
 
-    // Register the Image Transform Plugin
+    eleventyConfig.addPassthroughCopy("src/assets/js");
+    // Note: If Image plugin outputs to assets/images, 
+    // you don't need to passthrough copy the source folder.
+
     eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-        // Optional: Customize widths, formats, and quality
-        widths: [400, 800, 1200, null], // 'null' keeps original width
+        widths: [400, 800, 1200, null],
         formats: ["webp", "jpeg"],
         outputDir: "./_site/assets/images",
-
-        // Where the browser should look for them (CRITICAL)
-        urlPath: "/literatura-us-redesign/assets/images",
-
-        // Default HTML attributes for transformed <img> tags
+        urlPath: `${prefix}/assets/images`, // Use the prefix here
         defaultAttributes: {
             loading: "lazy",
             decoding: "async",
@@ -26,49 +22,36 @@ export default async function (eleventyConfig) {
         },
     });
 
-    // Add authors collection from YAML data
     eleventyConfig.addCollection("authors", function (collectionApi) {
         const dataPath = path.resolve("src/_data/authors.yaml");
         if (fs.existsSync(dataPath)) {
-            const fileContents = fs.readFileSync(dataPath, "utf8");
-            const authorsData = yaml.load(fileContents);
-            // Return as flat objects with a 'url' property to match template usage
+            const authorsData = yaml.load(fs.readFileSync(dataPath, "utf8"));
             return authorsData.map(author => ({
                 ...author,
-                url: `/content/authors/${author.slug}/`
+                // Prefix these manual URLs
+                url: `${prefix}/content/authors/${author.slug}/`
             }));
         }
         return [];
     });
 
-    // Add works collection from YAML data
     eleventyConfig.addCollection("works", function (collectionApi) {
         const dataPath = path.resolve("src/_data/works.yaml");
         if (fs.existsSync(dataPath)) {
-            const fileContents = fs.readFileSync(dataPath, "utf8");
-            const worksData = yaml.load(fileContents);
-
+            const worksData = yaml.load(fs.readFileSync(dataPath, "utf8"));
             if (!Array.isArray(worksData)) return [];
-
             return worksData.map(work => ({
                 ...work,
-                url: `/content/authors/${work.tags[1]}/${work.slug}/`
+                // Prefix these manual URLs
+                url: `${prefix}/content/authors/${work.tags[1]}/${work.slug}/`
             }));
         }
         return [];
     });
 
-    pathPrefix: "/literatura-us-redesign/"
-
-    // This tells 11ty to automatically prepend the pathPrefix to all absolute links in Markdown
-    eleventyConfig.addGlobalData("eleventyComputed.permalink", function () {
-        return (data) => {
-            if (data.permalink) return data.permalink;
-            return data.page.filePathStem + ".html";
-        };
-    });
-
     return {
+        // THIS IS WHERE PATHPREFIX LIVES
+        pathPrefix: "/literatura-us-redesign/",
         dir: {
             input: "src",
             output: "_site",
