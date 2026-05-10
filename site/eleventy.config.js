@@ -58,8 +58,6 @@ export default async function (eleventyConfig) {
         return [];
     });
 
-    eleventyConfig.addGlobalData("permalink", "{{ page.filePathStem }}.html");
-
     // This tells 11ty to automatically prepend the pathPrefix to all absolute links in Markdown
     eleventyConfig.addGlobalData("eleventyComputed.permalink", function () {
         return (data) => {
