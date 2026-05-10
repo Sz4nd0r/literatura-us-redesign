@@ -35,6 +35,10 @@ export default async function (eleventyConfig) {
         return [];
     });
 
+    //This prevents 11ty from outputing as index.html a file named the same as its folder, eg: cera/cera.md to cera/index.html
+    //This way preventing the conflict with the file that outputs from cera/index.md to cera/index.html
+    eleventyConfig.addGlobalData("permalink", "{{ page.filePathStem }}.html");
+
     eleventyConfig.addCollection("works", function (collectionApi) {
         const dataPath = path.resolve("src/_data/works.yaml");
         if (fs.existsSync(dataPath)) {
