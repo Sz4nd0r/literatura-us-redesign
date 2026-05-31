@@ -29,7 +29,7 @@ export default async function (eleventyConfig) {
             return authorsData.map(author => ({
                 ...author,
                 // Root-relative URLs, the | url filter will prepends pathPrefix
-                url: `/content/authors/${author.slug}/`
+                url: `/content/authors/${author.slug}/index.html`
             }));
         }
         return [];
@@ -47,7 +47,7 @@ export default async function (eleventyConfig) {
             return worksData.map(work => ({
                 ...work,
                 // Root-relative URLs, the | url filter will prepends pathPrefix
-                url: `/content/authors/${work.tags[1]}/${work.slug}/`
+                url: `/content/authors/${work.tags[1]}/${work.slug}.html`
             }));
         }
         return [];
