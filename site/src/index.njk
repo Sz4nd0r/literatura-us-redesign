@@ -49,7 +49,7 @@ title: Literatura US
   </form>
   <div class="grid grid-cols-1 gap-2 sm:grid-cols-2 lg:grid-cols-3">
     {% for author in collections.authors %}
-      <a href="{{  '/content/authors/' + author.slug | url }}" class="postick_style author_link">
+      <a href="{{ ('/content/authors/' + author.slug + '/') | url }}" class="postick_style author_link">
         <div class="line_style"></div>
         <span class="author_name_text search-term">{{ author.name }}</span>
         <span class="text-gray-300 ml-auto group-hover:text-blue-600 transition-colors duration-300">&rarr;</span>

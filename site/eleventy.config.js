@@ -28,8 +28,8 @@ export default async function (eleventyConfig) {
             const authorsData = yaml.load(fs.readFileSync(dataPath, "utf8"));
             return authorsData.map(author => ({
                 ...author,
-                // Prefix these manual URLs
-                url: `${prefix}/content/authors/${author.slug}/`
+                // Root-relative URLs, the | url filter will prepends pathPrefix
+                url: `/content/authors/${author.slug}/`
             }));
         }
         return [];
@@ -46,15 +46,14 @@ export default async function (eleventyConfig) {
             if (!Array.isArray(worksData)) return [];
             return worksData.map(work => ({
                 ...work,
-                // Prefix these manual URLs
-                url: `${prefix}/content/authors/${work.tags[1]}/${work.slug}/`
+                // Root-relative URLs, the | url filter will prepends pathPrefix
+                url: `/content/authors/${work.tags[1]}/${work.slug}/`
             }));
         }
         return [];
     });
 
     return {
-        // THIS IS WHERE PATHPREFIX LIVES
         pathPrefix: "/literatura-us-redesign/",
         dir: {
             input: "src",

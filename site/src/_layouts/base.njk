@@ -8,8 +8,8 @@
   <!-- Open Graph Meta Tags -->
   <meta property="og:title" content="{{ title | default('Literatura.us 2.0') }}" />
   <meta property="og:type" content="{% if layout == 'story' or layout == 'author' %}article{% else %}website{% endif %}" />
-  <meta property="og:url" content="{{ 'page.url'| url }}" />
-  <meta property="og:image" content="{{ 'image'| url }}" />
+  <meta property="og:url" content="{{ page.url | url }}" />
+  <meta property="og:image" content="{{ image | url }}" />
   <meta property="og:description" content="{{ description | default('Modernizando la biblioteca personal de Roberto Paredes.') }}" />
   
   <!-- Twitter Card Data -->
